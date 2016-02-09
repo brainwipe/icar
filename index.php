@@ -41,7 +41,7 @@
                     </div>
                     <div class="mdl-card__supporting-text">
                         <h4>Core Rules</h4>
-                        The core rules are all you need to play. Percentile skill trees, 20000 pages, contents and index.
+                        The core rules are all you need to play. Rules, background, equipment and GM section.
                     </div>
                     <div class="mdl-card__actions">
                         <a href="#" class="mdl-button">Download for free</a>
