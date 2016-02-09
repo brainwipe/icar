@@ -1,2 +1,4 @@
-# icar
-The website and tooling for Icar the Free Science Fiction RPG http://www.icar.co.uk
+# Icar Website
+This is the website for the free Science Fiction roleplaying game Icar. 
+
+Download Icar from http://www.icar.co.uk
