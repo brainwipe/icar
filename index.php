@@ -48,7 +48,7 @@
                     </div>
                 </div>
 
-                <div class=" mdl-card mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-shadow--4dp">
+                <div class="fleet-setting mdl-card mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-shadow--4dp">
                     <div class="mdl-card__media">
                     </div>
                     <div class="mdl-card__supporting-text">
@@ -60,12 +60,12 @@
                     </div>
                 </div>
 
-                <div class=" mdl-card mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-shadow--4dp">
+                <div class="equipment-index mdl-card mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-shadow--4dp">
                     <div class="mdl-card__media">
                     </div>
                     <div class="mdl-card__supporting-text">
                     	<h4>Equipment Index</h4>
-                        20 stunning player handouts of guns, cars, spacecraft and equipment.
+                        61 stunning player handouts of guns, cars, spacecraft, automatons, deck plans and equipment.
                     </div>
                     <div class="mdl-card__actions">
                         <a href="#" class="mdl-button">Download for free</a>

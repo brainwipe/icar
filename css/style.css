@@ -73,6 +73,16 @@ body {
 
 }
 
+.fleet-setting .mdl-card__media {
+  background-image:url('../img/fleet-setting.jpg');
+  min-height:349px;
+}
+
+.equipment-index .mdl-card__media {
+  background-image:url('../img/equipment-index.jpg');
+  min-height:349px;
+}
+
 .mdl-layout__content section {
 	max-width: 960px;
 }
