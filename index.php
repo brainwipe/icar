@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.1/material.indigo-amber.min.css" />
-    <script src="https://storage.googleapis.com/code.getmdl.io/1.1.1/material.min.js"></script>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.2/material.indigo-amber.min.css" />
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.1.2/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <title>Icar RPG - the free science fiction roleplaying game</title>
@@ -23,7 +23,7 @@
             </div>
         </header>
         <div class="mdl-layout__drawer">
-            <span class="mdl-layout-title">Icar</span>
+            <span class="mdl-layout-title">Menu</span>
             <nav class="mdl-navigation">
               <a class="mdl-navigation__link" href="">Download</a>
               <a class="mdl-navigation__link" href="">Blog</a>
