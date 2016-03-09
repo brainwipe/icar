@@ -33,11 +33,6 @@ body {
 	font-family: 'Helvetica', sans-serif;
 }
 
-.mdl-layout__drawer-button {
-	background:#000;
-	border-radius: 50%;
-}
-
 .mdl-card__media {
 	box-sizing: border-box;
     background-size: cover;
