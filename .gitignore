@@ -1,2 +1,5 @@
 # Files used to build the website, such as design PSDs
 [Rr]esources/
+
+# Dependency directories
+node_modules
