@@ -1,11 +1,10 @@
 import React from 'react';
-import Reflux from 'reflux';
 import ReactDOM from 'react-dom';
 import { Layout, Header, Content, Navigation,
     Icon, Grid, Cell, Drawer } from 'react-mdl';
 import Bionics from './bionics'
 
-export class Dashboard extends Reflux.Component {
+export class Dashboard extends React.Component {
     render() {
     return <Layout>
         <Header title="Title" scroll>

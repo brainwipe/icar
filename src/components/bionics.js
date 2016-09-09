@@ -1,8 +1,7 @@
 import React from 'react';
-import Reflux from 'reflux';
 import BionicsStore from '../stores/bionicsstore';
 
-export default class Bionics extends Reflux.Component {
+export default class Bionics extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {};
@@ -10,10 +9,10 @@ export default class Bionics extends Reflux.Component {
 	};
 
     render() {
-        return 
+        return (
             <pre>
-            this.state.bionicsstore
+            hi
             </pre>
-            
+            );
     }
 }
