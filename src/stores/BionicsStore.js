@@ -21,11 +21,11 @@ var BionicsStore = Reflux.createStore({
             cache: false,
             context: this,
             success: function(data) {
-                console.log('fetch complete');
-                this.bionicslist = data.items;
+                this.bionicslist = data.values;
                 this.trigger(this.bionicslist);
-                console.log(data);
             }
         });
     }
 });
+
+module.exports = BionicsStore;

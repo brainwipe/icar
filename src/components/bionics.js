@@ -1,18 +1,27 @@
-import React from 'react';
-import BionicsStore from '../stores/bionicsstore';
+var React = require('react');
+var Reflux = require('reflux');
+var BionicsStore = require('../stores/bionicsstore');
+var BionicsActions = require('../actions/bionicsactions');
 
-export default class Bionics extends React.Component {
-	constructor(props) {
-		super(props);
-		this.state = {};
-		this.store = BionicsStore;
-	};
+var Bionics = React.createClass({
+    mixins: [Reflux.connect(BionicsStore, 'bionicsstore')],
 
-    render() {
+    render: function() {
+        var rows = [];
+
+        if (this.state.bionicsstore)
+        {
+            this.state.bionicsstore.forEach(function(bionic) {
+                rows.push(bionic[0]);
+            });
+        }
+
         return (
             <pre>
-            hi
+              {rows}
             </pre>
-            );
+            ); 
     }
-}
+});
+
+module.exports = Bionics;

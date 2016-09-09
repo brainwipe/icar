@@ -7,7 +7,7 @@ import Bionics from './bionics'
 export class Dashboard extends React.Component {
     render() {
     return <Layout>
-        <Header title="Title" scroll>
+        <Header title="Icar" scroll>
             <Navigation>
                 <a href="">Link</a>
                 <a href="">Link</a>
@@ -15,7 +15,7 @@ export class Dashboard extends React.Component {
                 <a href="">Link</a>
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="Icar">
             <Navigation> 
                 <a href="">Link</a>
                 <a href="">Link</a>
