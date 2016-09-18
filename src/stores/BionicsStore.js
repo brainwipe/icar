@@ -21,10 +21,43 @@ var BionicsStore = Reflux.createStore({
             cache: false,
             context: this,
             success: function(data) {
-                this.bionicslist = data.values;
+                data.values.forEach(function(bionic) {
+                    this.bionicslist.push(this.mapBionic(bionic));
+                }, this);
                 this.trigger(this.bionicslist);
             }
         });
+    },
+
+    mapBionic: function(bionic) {
+        var mappedBionic = {
+            Name: bionic[0],
+            Manufacturer: bionic[1],
+            Cost: bionic[2],
+            Rarity: bionic[3],
+            BorgOrCyber: bionic[4],
+            Timing : {
+                Install: bionic[5],
+                Rehab: bionic[6],
+                Interval: bionic[7]
+            },
+            Machine: bionic[8],
+            Type: bionic[9],
+            Requires: bionic[10],
+            AugPoints: bionic[11],
+            Power: bionic[12],
+            AttributeChanges : {
+                Battle: bionic[13],
+                Meat: bionic[14],
+                Shift: bionic[15],
+                Soul: bionic[16],
+                Wit: bionic[17],
+                HitPoints: bionic[18],
+                Stun: bionic[19]
+            },
+            Notes: bionic[20]
+        };
+        return mappedBionic;
     }
 });
 
