@@ -23,8 +23,7 @@ export class Dashboard extends React.Component {
                 <a href="">Link</a>
             </Navigation>
         </Drawer>
-        <Content>
-            <div className="page-content" />
+        <Content style={{width: '80%', margin: 'auto'}}>
             <Bionics>
             </Bionics>
         </Content>
