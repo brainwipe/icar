@@ -2,7 +2,8 @@ var React = require('react');
 var Reflux = require('reflux');
 var BionicsStore = require('../stores/bionicsstore');
 var BionicsActions = require('../actions/bionicsactions');
-var BionicsSystem = require('./bionicssystem')
+var BionicsSystem = require('./bionicssystem');
+var BionicsSuit = require('./bionicssuit');
 import { Grid, Cell } from 'react-mdl';
 
 var Bionics = React.createClass({
@@ -19,8 +20,12 @@ var Bionics = React.createClass({
         }
 
         return (
-
 		 	<Grid className="demo-grid-1">
+				<Cell col={12}>
+					<BionicsSuit>
+		 			</BionicsSuit>
+		 		</Cell>
+		 			
 		        <Cell col={4}>
 					<BionicsSystem bionics={endobioreorg}>
 					</BionicsSystem>
@@ -30,7 +35,6 @@ var Bionics = React.createClass({
 		        <Cell col={4}>
 		        </Cell>
 	        </Grid>
-
         	
             ); 
     }

@@ -9,18 +9,12 @@ export class Dashboard extends React.Component {
     return <Layout>
         <Header title="Icar" scroll>
             <Navigation>
-                <a href="">Link</a>
-                <a href="">Link</a>
-                <a href="">Link</a>
-                <a href="">Link</a>
+                <a href="http:\/\/www.icar.co.uk">Home</a>
             </Navigation>
         </Header>
         <Drawer title="Icar">
             <Navigation> 
-                <a href="">Link</a>
-                <a href="">Link</a>
-                <a href="">Link</a>
-                <a href="">Link</a>
+                <a href="http:\/\/www.icar.co.uk">Home</a>
             </Navigation>
         </Drawer>
         <Content style={{width: '80%', margin: 'auto'}}>
