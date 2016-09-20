@@ -12,11 +12,11 @@ var Bionics = React.createClass({
     render: function() {
         var rows = [];
         var endobioreorg = [];
-
+        
         if (this.state.bionicsstore)
         {
             rows = this.state.bionicsstore;
-            endobioreorg = this.state.bionicsstore.filter(function(value) { return value.Type == "Endobioreorg" })
+            endobioreorg = this.state.bionicsstore.filter(function(value) { return value.Type == "Endobioreorg" });
         }
 
         return (

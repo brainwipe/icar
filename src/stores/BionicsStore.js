@@ -25,6 +25,10 @@ var BionicsStore = Reflux.createStore({
                     this.bionicslist.push(this.mapBionic(bionic));
                 }, this);
                 this.trigger(this.bionicslist);
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                console.log(xhr.status);
+                console.log(thrownError);
             }
         });
     },
@@ -33,7 +37,7 @@ var BionicsStore = Reflux.createStore({
         var mappedBionic = {
             Name: bionic[0],
             Manufacturer: bionic[1],
-            Cost: bionic[2],
+            Cost: bionic[2].replace(/,/g, ""),
             Rarity: bionic[3],
             BorgOrCyber: bionic[4],
             Timing : {
