@@ -1,5 +1,6 @@
+// TODO Update to ES6 and Redux
+
 var React = require('react');
-var SuitStore = require('../stores/suitstore');
 import { IconButton, Card, CardTitle, CardText, CardMenu, CardActions, DataTable, TableHeader } from 'react-mdl';
 
 var BionicsSuit = React.createClass({
@@ -9,11 +10,6 @@ var BionicsSuit = React.createClass({
 
     render: function() {
     	var suit = [];
-
-		if (this.state.suitstore)
-        {
-        	suit.push(this.state.suitstore);
-        }
 
     	return (
     		<Card shadow={0} style={{width:'100%'}}>

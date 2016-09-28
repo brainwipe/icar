@@ -1,4 +1,3 @@
-"use strict";
 import { combineReducers } from 'redux'
 import { FETCHALL, ADD_SYSTEM_TO_SUIT } from '../actions'
 
@@ -12,7 +11,7 @@ function bionics(state = {}, action) {
         case FETCHALL:
             return Object.assign({}, state, {
                 bionics: []
-                // set something in here
+                // TODO update the list of bionics
 
             })
         case ADD_SYSTEM_TO_SUIT:
@@ -29,4 +28,4 @@ const bionicsApp = combineReducers({
   bionics
 })
 
-export default bionicsApp;
+export default bionicsApp

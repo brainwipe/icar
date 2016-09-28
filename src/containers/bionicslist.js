@@ -3,14 +3,15 @@ import { addSystemToSuit } from '../actions'
 import BionicsSystem from '../components/bionicssystem'
 
 const mapStateToProps = (state, ownProps) => {
+  console.log(state);
   return {
-    bionics: state.bionics
+    bionics: []
   }
 }
 
 const mapDispatchToProps = (dispatch, ownProps) => {
   return {
-    onClick: () => {
+    onHandleChoose: () => {
       dispatch(addSystemToSuit(ownProps.index))
     }
   }

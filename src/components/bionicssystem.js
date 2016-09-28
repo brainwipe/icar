@@ -27,7 +27,7 @@ const BionicsSystem = ({ bionics, onHandleChoose }) => (
 )
 
 BionicsSystem.propTypes = {
-	todos: PropTypes.arrayOf(PropTypes.shape({
+	bionics: PropTypes.arrayOf(PropTypes.shape({
     id: PropTypes.number.isRequired,
     name: PropTypes.string.isRequired,
     type: PropTypes.string.isRequired
