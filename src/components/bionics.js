@@ -1,5 +1,4 @@
 var React = require('react');
-var Reflux = require('reflux');
 var BionicsStore = require('../stores/bionicsstore');
 var BionicsActions = require('../actions/bionicsactions');
 var BionicsSystem = require('./bionicssystem');
@@ -7,7 +6,6 @@ var BionicsSuit = require('./bionicssuit');
 import { Grid, Cell } from 'react-mdl';
 
 var Bionics = React.createClass({
-    mixins: [Reflux.connect(BionicsStore, 'bionicsstore')],
 
     render: function() {
         var rows = [];
