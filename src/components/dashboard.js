@@ -1,8 +1,13 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { render } from 'react-dom'
+import { createStore } from 'redux'
+import { Provider } from 'react-redux'
 import { Layout, Header, Content, Navigation,
-    Icon, Grid, Cell, Drawer } from 'react-mdl';
+    Icon, Grid, Cell, Drawer } from 'react-mdl'
 import Bionics from './bionics'
+import bionicsApp from '../reducers'
+
+let store = createStore(bionicsApp)
 
 export class Dashboard extends React.Component {
     render() {
@@ -25,4 +30,8 @@ export class Dashboard extends React.Component {
     }
 }
 
-ReactDOM.render(<Dashboard/>, document.getElementById('dashboard')); 
+render(
+    <Provider store={store}>
+        <dashboard/>
+    </Provider>
+    , document.getElementById('dashboard')); 

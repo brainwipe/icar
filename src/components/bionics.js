@@ -1,32 +1,20 @@
 var React = require('react');
-var BionicsStore = require('../stores/bionicsstore');
-var BionicsActions = require('../actions/bionicsactions');
-var BionicsSystem = require('./bionicssystem');
-var BionicsSuit = require('./bionicssuit');
+var BionicsList = require('../containers/bionicslist');
 import { Grid, Cell } from 'react-mdl';
 
 var Bionics = React.createClass({
 
     render: function() {
-        var rows = [];
-        var endobioreorg = [];
-        
-        if (this.state.bionicsstore)
-        {
-            rows = this.state.bionicsstore;
-            endobioreorg = this.state.bionicsstore.filter(function(value) { return value.Type == "Endobioreorg" });
-        }
 
         return (
 		 	<Grid className="demo-grid-1">
 				<Cell col={12}>
-					<BionicsSuit>
-		 			</BionicsSuit>
+					
 		 		</Cell>
 		 			
 		        <Cell col={4}>
-					<BionicsSystem bionics={endobioreorg}>
-					</BionicsSystem>
+					<BionicsList>
+					</BionicsList>
 		        </Cell>
 		        <Cell col={4}>
 		        </Cell>

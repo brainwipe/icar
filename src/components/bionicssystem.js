@@ -1,39 +1,38 @@
-var React = require('react');
-var BionicsActions = require('../actions/bionicsactions');
+import React, { PropTypes } from 'react';
 import { IconButton, Card, CardTitle, CardText, CardMenu, CardActions, DataTable, TableHeader } from 'react-mdl';
 
-var BionicsSystem = React.createClass({
+const BionicsSystem = ({ bionics, onHandleChoose }) => (
+	<Card shadow={0} style={{width:'100%'}}>
+	    <CardTitle>Endobioreorg</CardTitle>
+	    <CardText>
+	    	The Endobioreorg replaces the digestive system (Digestive, Lymphatic and Urinary).
+	    </CardText>
+	    <CardActions border>
+	        <DataTable
+        		selectable
+        		onSelectionChanged={onHandleChoose}
+    			rowKeyColumn="id"
+			    rows={bionics}
+			    style={{width:"100%"}}
+			>
+			    <TableHeader name="Name" tooltip="Name">Name</TableHeader>
+			    <TableHeader name="Type" tooltip="Type">Type</TableHeader>
+			    
+			</DataTable>
+	    </CardActions>
+	    <CardMenu style={{color: '#fff'}}>
+	        <IconButton name="share" />
+	    </CardMenu>
+	</Card>
+)
 
-	handleChoose: function(ids) {
-		BionicsActions.chooseSystem(ids);
-	},
+BionicsSystem.propTypes = {
+	todos: PropTypes.arrayOf(PropTypes.shape({
+    id: PropTypes.number.isRequired,
+    name: PropTypes.string.isRequired,
+    type: PropTypes.string.isRequired
+  }).isRequired).isRequired,
+  onHandleChoose: PropTypes.func.isRequired
+}
 
-    render: function() {
-    	return (
-    		<Card shadow={0} style={{width:'100%'}}>
-			    <CardTitle>Endobioreorg</CardTitle>
-			    <CardText>
-			    	The Endobioreorg replaces the digestive system (Digestive, Lymphatic and Urinary).
-			    </CardText>
-			    <CardActions border>
-			        <DataTable
-		        		selectable
-		        		onSelectionChanged={this.handleChoose}
-		    			rowKeyColumn="id"
-					    rows={this.props.bionics}
-					    style={{width:"100%"}}
-					>
-					    <TableHeader name="Name" tooltip="Name">Name</TableHeader>
-					    <TableHeader name="Type" tooltip="Type">Type</TableHeader>
-					    
-					</DataTable>
-			    </CardActions>
-			    <CardMenu style={{color: '#fff'}}>
-			        <IconButton name="share" />
-			    </CardMenu>
-			</Card>
-    	);
-    }
-});
-
-module.exports = BionicsSystem;
+export default BionicsSystem;

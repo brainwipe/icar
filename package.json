@@ -24,11 +24,13 @@
   },
   "homepage": "https://github.com/brainwipe/icar#readme",
   "dependencies": {
+    "jquery": "^1.7.2",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "react-mdl": "^1.6.1",
-    "reflux": "^0.4.1",
-    "jquery": "^1.7.2"
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "reflux": "^0.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.11.4",
