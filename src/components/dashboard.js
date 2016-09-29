@@ -5,6 +5,13 @@ import $ from 'jquery'
 
 class Dashboard extends React.Component
 {
+    constructor()
+    {
+        super();
+        this.bionicslist = [];
+        
+    }
+
     componentWillMount()
     {
         $.ajax({
@@ -15,7 +22,7 @@ class Dashboard extends React.Component
             contentType: "application/json;charset=utf-8",
             success: function(data) {
                 console.log(data);
-                var bionicslist = [];
+                
                 data.values.forEach(function(bionic) {
                     this.bionicslist.push(this.mapBionic(bionic));
                 }, this);
