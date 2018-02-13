@@ -6,6 +6,8 @@ import bionicsApp from './reducers'
 import { render } from 'react-dom'
 import DashboardData from './containers/dashboarddata'
 
+
+
 let store = createStore(bionicsApp)
 
 render(
@@ -14,4 +16,5 @@ render(
         </DashboardData>
     </Provider>, 
     document.getElementById('dashboard')
-    ) 
+    )
+    
