@@ -1,0 +1,51 @@
+Offensive Moves
+Name	Cost 	Stun	Notes
+Punch	1	Meat	
+Kick	2	2 x Meat	
+Head butt	1	2 x Meat	Must follow defensive move.
+Stamp	1	2 x Meat	Target must be prone
+Trip	1	None	Makes target prone
+Stand Up	One Off	None	Character stands up
+Break Free	One Off	None	Breaks the hold
+Hold	1	None	Target is held until attacker lets go or a successful break free
+
+Defensive Moves
+Name	Cost	Notes
+Block	1	Stop attacks with arm. Damaged if used against a weapon.
+Dodge	2	Completely avoids attack
+Disarm	1	Removes weapon from opponent.
+
+Blunt Weapon Table
+Move	Cost	Stun	Damage
+One Handed Smack	(Punch)	3 x Meat	Meat
+Parry	(Block)	None	None
+Two Handed Strike	3	4 x Meat	2 x Meat
+
+Small Blades Table
+Move	Cost	Stun	Damage
+Stab	(Punch)	3 x Meat	Meat
+Parry	(Block)	None	None
+Slash	3	3 x Meat	3 x Meat
+
+Large Blade Table
+Move	Cost	Stun	Damage
+Thrust	(Punch)	4 x Meat	2 x Meat
+Parry	(Block)	None	None
+Slash	3	4 x Meat	3 x Meat
+
+Fire fighting modifiers
+Modifier	%	Usage
+Target in Cover	-10	The target is obscured in part.
+Target or Character  moving	-10	A Character may fire while moving if moving at walk.
+Called Shot	-30	Player chooses body part to shoot at.
+Aimed Previous Turn	+20	Character spent last turn aiming at the target.
+Shot at target last turn	+10	Bonus for continually shooting at the same thing
+Character Stunned	- (100 - stun)	If stun is below 100, then take the difference.
+Shooting at more than one target	-20	If you shoot at more than one target in a turn, take off 20% for each target.
+
+Firefighting ranges
+Range	Distance (in Metres)
+Short	Up to 50m
+Medium	51-500m
+Long	501m+
+

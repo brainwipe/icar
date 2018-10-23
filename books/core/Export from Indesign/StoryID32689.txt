@@ -1,0 +1,32 @@
+Weapon stats at a glance (damage is full rate)
+Weapon	BF	Dam / T	S	M	L	XL
+Arms 2	25	150	30	10	-20	
+Arms 3 x 1	25	625	10	-10	-30	
+Arms 3 x 2	25	1250	-20	-40	-60	
+Arms 5	30	800	20	10	-10	
+Arms 6	40	1200	20	10	0	
+Astraripper 2E	55	8000	10	0	-30	
+Astraripper 2E BSV	70	3500	5	20	20	
+Astraripper 5	65	500	10	20	10	
+Astraripper 5B	65	500	10	20	10	
+Boomstick	30	1440	20	10	10	
+Brainspiller 2	25	75	-10	30	25	
+Brainspiller 5	50	300	-15	30	25	10
+Brainspiller 7	60	500	-15	30	25	10
+Brainspiller 7E NRG	100	100	-15	30	25	10
+ChainSAW 10	80	2500	-15	5	0	-5
+ChainSAW 2	20	10000	-10	5	0	
+ChainSAW 5	40	11250	-15	5	0	-5
+ChainSAW 7	65	8000	-15	5	0	-5
+Forge A	100	7000	20	20	20	
+Hand Cannon	50	900	-30	-50	-100	
+Havan 11	15	150	5	0	-20	
+Havoc 1b	50	900	30	20	20	
+Hell Hound 2	50	9000	0	-20	-30	
+Igniter	100	2000		20	30	20
+Korg 5	75	14000	-20	20	10	
+Nelson	10	60	10	5	0	
+Papex 7	75	18000	20	10	0	
+Photosythe	100	1500	20	20	10	
+Raqax 2E	40	150	20	10	5	
+

@@ -1,0 +1,6 @@
+Pick up three D10, one red, one yellow, one green.
+Roll them in front of you, cupping them so you can see them but the players cannot.
+If the nearest dice is green, the NPC is helpful.
+If the nearest dice is yellow, the NPC is indifferent.
+If the nearest dice is red, the NPC is actively unhelpful.
+

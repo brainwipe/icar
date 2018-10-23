@@ -1,0 +1,3 @@
+Damaged Droid MK 1
+Battle: 20, Meat: 30, Shift: 15, Soul: 0, Wit: 2
+Body: AR: 20. H: 1000, LA: 1500, T: 4000, RA: 1500, LL: 2000, RL: 1000

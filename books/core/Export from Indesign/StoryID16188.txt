@@ -1,0 +1,3 @@
+Weapon	BF	Dmg	R/T	Mag	Ammo
+Sniper Rifle	60	100	5	30	7.4P
+

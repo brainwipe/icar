@@ -1,0 +1,4 @@
+Weapon	BF	Dmg/T	R/T	Mag	Ammo	Ammo Onboard
+Pulse Laser	100	200	20	3000	20G	
+Pulse Laser	100	200	20	3000	20G	
+

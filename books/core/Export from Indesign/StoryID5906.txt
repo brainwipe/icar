@@ -1,0 +1,21 @@
+Galactic Division Key
+Droid Space
+1. Unite Verita (UV) The old home of the Imperium. Now Droid Space.
+2. Karolyn Droid Space.
+3. Hesperos Droid Space.
+4. Atlas Droid Space.
+5. Frobish Droid Space.
+6. Artemis Droid Space.
+7. Nyx Droid Space.
+8. Eos Droid Space.
+12. Typhon Droid Space.
+13. Rhea Droid Space.
+Human Space
+9. Dorian Human Space.
+10. Sayshell Human Space.
+11. Remmar Human Space.
+Unvisited Areas
+14. Galactic Core
+15. Hypnos Arm
+All other areas are considered Lone Systems.
+

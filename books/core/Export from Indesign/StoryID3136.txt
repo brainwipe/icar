@@ -1,0 +1,88 @@
+Contents
+2	Core Rules
+2		Number discs
+2		Character Creation
+4		Step 1: Concept
+5		Step 2: Deviant
+5		Step 3: Attributes
+6		Step 4: Skills
+11		Step 5: Character Information
+12		Step 6: Body, Armour and Stun
+13		Step 7: Close Combat Combos
+13		Step 8: Encumbrance
+13		Step 9: Roleplaying Points
+14		Step 10: Psychotheatrics
+15		Combat
+17		Close Combat
+21		Firefighting
+25		Dog Fighting
+28		Hacking
+29		Space Combat
+36	Background
+38		Droid Space
+39		Human Occupied Space
+42		The Sectors
+44		Clusters
+46		Colonies
+51		Time
+52		Money
+52		Space Stations
+55		Space Travel
+60		Gaia
+62		Automatons
+66		The Human Race
+68		Akarak Nation
+70		Corporations
+72		Syndicates
+78		Recreation
+80	Bionics
+81		Borgware
+82		Cyberware
+83		Incremental Bionics
+86		Bionics Installation Example
+89	Technology
+89		Legality and Feasibility
+91		Sensors
+92		Gaia Entities
+93		Soft Light Projectors
+94		Hard Light Projectors
+94		Automatons
+96		Weapons
+98		Unpowered Armour
+99		Personal Shield Generators
+100		Powered Armour
+101		Engineering
+103		Beamer Technology
+105	Scavenger Setting
+106		Scavenger Characters
+107		Special Skills
+107		Scavenger Operations
+109		Scavenger Equipment
+109		Anadar Cluster
+117	Gamesmaster Guide
+117		Mechanics
+118		Characters
+118		Background
+119		Creating your own Skeletons
+121		Running an Icar sandbox
+124		Scavenger Setting Revisited
+128		Anadar’s Systems
+131		Campaign Sandbox
+132		Scavenger Setting Plotlines
+134		Introductory Missions
+135		Mission One: The Ungodly Act 
+136		Mission Two: The Lethal Rings of Obyrworld
+138		Mission Three: Porcupine
+140	Appendix
+140		Academia Skill List
+143		Life Skill List
+146		Medical Skill List
+147		Technical Skill List
+150		Task Skill List
+151		Psychotheatrics List
+160		The Timeline
+161		 General Items Price List
+184		Skill Tree Cheat Sheet
+185	Index
+
+

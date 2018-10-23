@@ -1,0 +1,459 @@
+Index
+Symbols
+A
+Academia Skills  140
+Acrobatics, Skill  144
+Age, Character  12
+Akarak Art, Skill  144
+Akarak Nation  42, 68, 69, 75
+Akar Cluster  44
+Missionaries  69
+The Codex  69
+Akar Cluster  44
+Anadar Cluster  109
+Corisk  109
+Dess-Kay-Dar  110
+Essofin  109
+Kale  110
+Obyrworld  110
+Pri-Sot  110
+Rhot Orb  110
+Antiquities, Skill  140
+Architecture, Skill  141
+Ariane  70
+Armour  12
+Artificial Intelligence Power  63
+Ascension  55, 63, 65, 121, 161
+Astromechanics, Skill  142
+Aubury  70
+Automaton, Skill  148
+B
+Baleris Cluster  44
+Battle  6
+Beamer  103
+Biological, Skill  141
+Bionics  80
+Bionics Design, Skill  146
+Bionics Knowledge, Skills  146
+Bionics Systems, Skill  146
+Bioweave, Skill  146
+Blend, Skill  143
+Body  2, 12
+Borgware  81
+Botanical, Skill  141
+Building Combos  18
+Burntek  70
+Byrnosphere  70
+C
+Character  2
+Creation Steps
+1. Concept  4
+2. Deviant  5
+4. Skills  6
+5. Character Information  11
+6. Close Combat Combos  13
+7. Body and Armour  12
+8. Enbumbrance  13
+9. Roleplaying Points  13
+10. Psychotheatrics  14
+Overview  3
+Character Information  11
+Character Names  11
+Chemical, Skill  142
+Chrome  74
+Close Combat  17
+Akarak Art  144
+Battle statistic  6
+Defensive Moves  18, 182
+Hand vs Blade  21
+Hand Weapons  20
+Healing  16
+Improvisation  20
+Multiple Foes  21
+Offensive Moves  18, 182
+Rail Fighting  144
+Repair  16
+Resolving Movements  18
+Standing Up  18
+Street Fighting  144
+Taking Damage  18
+The Turn Sequence  22
+Turn Sequence  17
+Cluster Maps  56
+Clusters  44
+Creating your own Cluster Maps  119
+Reading Cluster Maps  56
+Colonies  46
+Colony Council  48
+Crofts  46
+Mesh  50
+Colony, Skill  147
+Combat
+Cinematographic  16
+Entering  15
+Turn Actions  15
+Combat Pilot, Skill  150
+Combos
+Building  18
+Rules  18
+Commodities, Skill  143
+Concept  4
+And Skeleton  5
+Concept Example  4
+Corisk  109
+Corporations  70
+Ariane  70
+Aubury  70
+Burntek  70
+Byrnosphere  70
+Endotek  70
+Forester  70
+Gaian  71
+Kanster  71
+Moss  72
+Napalm  72
+Poraq  72
+Void Rescue  72
+Zaxcann  72
+Council  75
+Counsel, Skill  145
+Criticals  7
+Crofts  46
+Crossed Arm  74
+Curve Surf Engine  58
+Cyber Razor Cut  82
+Cyberware  82
+D
+Dates  52
+Dead Space  56
+Defensive Moves  18, 182
+Description, Character  12
+Dess-Kay-Dar  110
+Deviant  2
+Diagnosis, Skill  146
+Dockets  89
+Dog Fighting
+Example  26
+Manoeuvre List  25
+Rounding and Resolution  25
+Turn Sequence  25
+Dogfight Manoeuvre List  25
+Dorian  37, 39, 42, 43, 44, 45, 55, 56, 60, 68, 79, 105, 119, 125, 161
+Droids  38, 43, 62, 66, 67, 160
+E
+Earth  45
+Ecopolitical, Skill  141
+Empathy, Skill  145
+Encumbrance  13
+Endobioreorg  83
+Endotek  70
+Energy Disruption  98
+Energy, Skill  149
+Entering Combat  15
+Entities  61, 92
+Epochs (Skill Trees)  9
+Essofin  109
+Events  122
+Evolution  66
+Expeditionary  89
+Explosives, Skill  142
+F
+Firearms  22
+Firefight Example  24
+Fire fighting  21
+Example  24
+Hit Modifiers  24
+The Turn Sequence  22
+Food Science, Skill  141
+Forgery, Skill  141
+Frame  84
+Freight Gateway  47
+Full page sheets  89
+G
+Gaian  71
+Gaia News  71
+Gaia, Skill  147
+Gamesmaster Guide  117
+General Flying  27
+Generators  53, 59, 82, 83, 84, 85, 86, 87, 90, 93, 99, 162
+Genetics, Skill  141
+Genus Four  67
+Genus Three  67
+Genus Two  66
+Graphics, Skill  140
+Grav Field Generator  103
+Grenades  97
+Gun Fu, Skill  150
+H
+Hacking  28, 62
+Hacking Entities  93
+Hacking, Skill  147
+Hand Weapons  20
+Hard Light Projectors  94
+Healing  16
+Heavy Firing, Skill  151
+Height, Character  11
+High Orbit  56
+High Velocity Grenades  98
+History, Skill  140
+Hit Modifiers  24
+Home Gateway  47
+House Granger  110
+Human Life Span  80
+Human Race  66
+Human Resources  115
+I
+Imperium  36, 37, 38, 39, 43, 45, 57, 60, 62, 65, 66, 67, 68, 69, 72, 73, 74, 75, 76, 77, 160
+Chambers  39
+The Imperial Crescent  44
+The Nexus  61
+Impersonation, Skill  141
+Improving Skills  9
+Improvisation  20
+Incremental Bionics  83
+In Fizz  78
+Instructor Courses (Skills)  8
+Interrogate, Skill  145
+Intimidate, Skill  146
+Iss Horn Barnarder  106, 125, 126, 136, 138, 139
+J
+Journalism, Skill  140
+Jumping Epochs  9
+K
+Kale  110
+Kanster  71
+L
+Language, Skill  9
+Law, Skill  140
+Life  10
+Light Firing, Skill  150
+Light Jump  58
+Lord E. Tacquent  110
+Lords and Ladies  36, 40, 41
+Lady Axa Erland  42
+Lady Berrinda  42
+Lady Jacqueline Crowell  42
+Lady Tess Cannar  42
+Lord James Walker  42
+Lord Stephen Lawrence  42
+Losing Control  27
+Low Orbit  56
+Low Velocity Grenades  97
+M
+Macroecology, Skill  142
+Macromechanics, Skill  142
+Madeline Stuo  105, 125, 180
+Meat  6
+Mechasys Extraction  107
+Mechasys, Skill  149
+Medical Basic, Skill  146
+Medical Scanner  91
+Medical skills  10, 146
+Mesh  50
+Meshrunners  50
+Meshrunners  50
+Mex  36, 45, 46, 47, 48, 53, 54, 55, 75, 78
+Mex Cities. See also Mex
+Money  52
+Moss  72
+Motor  84
+Multiple Foes  21
+N
+Naggachef Cluster  44
+Names, Character  11
+Nanobiogenetics  82
+Nanofactory  102
+Napalm  72
+Natural Biological Healing  16
+Nearground  48, 50
+Niopak Cluster  45
+Nios  75
+O
+Obyrworld  110
+Offensive Moves  18, 182
+Oration, Skill  140
+Organ Engine  84
+Overview  36
+Character Creation  2
+Ownership Dockets  89
+P
+Peers. See also Lords
+Personal Shield Generators  99
+Persuade, Skill  145
+Philosophy  66
+Physical, Skill  142
+Pick Pocket, Skill  145
+Pilot, Skill  150
+Pinnacle Trade Group  111
+Place of Birth, Character  12
+Planetball  78
+Plotlines  121
+Point to Point Light Jump  58
+Poraq  72
+Powered Armour  100
+Powered Armour (PA) Combat, Skill  150
+Powered Armour (PA) Use, Skill  150
+Pri-Sot  110
+Privacy  51
+Psychotheatrics  14
+Public Holidays  52
+Q
+R
+Rail Fighting  79
+Rail Fighting, Skill  144
+Raised Fist  76
+Ranges, Weapon  22
+Rayengine Technician  116
+Recreation  78
+Rehabilitation  80, 81, 82, 84
+Relationship Diagrams  122
+Repair  16
+Research, Skill  148
+Rhot Orb  110
+Roleplaying and Skills  7
+Roleplaying Points  13
+Rolling Initiative  17
+Romar Cluster  45
+Rounding and Resolution  25
+RP Uses  14
+S
+Sandbox  121
+Sayshell  37, 39, 40, 43, 44, 45, 46, 55, 56, 60, 110, 119, 125, 130, 132, 161
+Scale Wall, Skill  144
+Scam, Skill  143
+Scanning  51
+Scav Colony Technician  113
+Scavenger Characters  106
+Scavenger Equipment  109
+Scavenger Operations  107
+Scavenger Setting  105
+Scav Security  112
+Sector  55
+Sector Maps  55
+Sectors  36, 38, 42
+Seduce, Skill  145
+Self Taught Skills  8
+Sensorium  84
+Sensors  91
+Shakespeare Universal Tech Kit  102
+Shields  99
+Silent Shadow, Skill  145
+Silver Blade  77
+Skeleton  5
+Skeletons
+and Statistics  6
+Creating your own  119
+Human Resources  115
+Rayengine Technician  116
+Scav Colony Technician  113
+Scav Security  112
+Zero G Technician  114
+Skeleton Skills  8
+Skills  2, 6
+Academia  140
+and Bionics  8
+Difficulty Table  7
+Improving Skills  9
+Initial Values  8
+Life  10
+Medical skills  10, 146
+Procurement
+Instructor Courses  8
+Self Taught  8
+Skeleton  8
+Roleplaying and Skills  7
+Task Skills  150
+Technical skills  10
+Trees  9
+Using Skills  6
+Skill Trees  9
+Sleight of Hand, Skill  145
+Socioeconomics, Skill  141
+Soft Light Projectors  93
+Soul  6
+Space Craft, Skill  148
+Space Travel  55, 57, 60
+Costs  57
+Curve Surf Engine  58
+Light Jump  58
+Point to Point Light Jump  58
+Spaceflight Types  58
+Standing Up  18
+Starbus  57
+Star Civilisation  36, 41, 57, 74, 79
+Star Fleet  36, 38, 43, 44, 45, 57, 58, 62, 73, 79
+The Turus Cluster  45
+Star Scientifica  36, 40, 44, 67, 79
+Starting Skills  8
+Statistics  2
+Battle  6
+Meat  6
+Setting
+Other systems  6
+Random  5
+Soul  6
+Wit  6
+Stealth, Skill  145
+Street Deal, Skill  143
+Street Fighting, Skill  144
+Street Trading, Skill  143
+Streetwise, Skill  143
+Style, Skill  145
+Sun Children  74
+Surgery, Skill  146
+Syndicates  72
+Crossed Arm  74
+Nios  75
+Raised Fist  76
+Silver Blade  77
+Sun Children  74
+Technomages  73
+The Chrome  74
+The Machine  76
+Tortrac Heds  77
+System Space  56
+Systems Repair  16
+T
+Taking Damage  18
+Task skills  150
+Tech Kits  101
+Technical skills  10
+Technomages  73
+Tech Scanners  91
+Tef Cluster  45
+Temporary Energy Sink  97
+The Chrome  74
+The Codex  69
+The Imperial Crescent  44
+The Machine  76
+The Nexus  36, 61, 62
+Thespian, Skill  141
+The Turus Cluster  45
+Time  51
+Timelines  122
+Tortrac Heds  77
+Training Entities  92
+Turn Actions  15
+U
+Undergaia  62. See also Hacking
+Unpowered Armour  98
+Using Skills  6
+V
+Vehicle, Skill  148
+Vitero Cluster  45
+Void Rescue  72
+W
+Weapon Combos  21
+Weapon Ranges  22
+Weapons  96
+Weapon, Skill  149
+Weight. Character  11
+Wit  6
+X
+Y
+Years  52
+Z
+Zaxcann  72
+Zero G Operations  107
+Zero G Technician  114
+

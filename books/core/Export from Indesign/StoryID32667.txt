@@ -1,0 +1,40 @@
+What does full damage to what?
+Armour	AR / BF	Weapon
+EV Basic	10	Nelson
+Sports Impact	12	
+	15	Havan 11
+	20	
+Sports
+Hardened	25	Arms 2
+Arms 3
+Brainspiller 2
+EV Hardened
+Gryphon (Powered)	30	Arms 5
+Boomstick
+Sports Weave	38	
+
+	40	Arms 6
+ChainSAW 5
+Raqax 2E
+EV Engineer
+Pegasus (Powered)	45	
+EV Expeditionary	50	Brainspiller 5
+Handcanon
+Havoc 1B
+Hellhound 2
+Aubury Powered SS	55	Astraripper 2E
+Genie (Powered)	60	Brainspiller 7
+Enforcer Armour	65	Astraripper 5
+Astraripper 5B
+ChainSAW 7
+	70	Astraripper 2E BSV
+	75	Papex 7
+Korg 5
+	80	ChainSAW 10
+	100	Brainspiller 7E NRG
+Forge A
+Igniter
+Photoscythe
+Vendetta
+If Blast Factor (BF) is larger than Armour Rating (AR) then full damage is done. Otherwise, 1/10 (one tenth) of the damage is done. For each armour, any weapon further down the table does full damage. e.g. Enforcer Armour only takes full damage from Astraripper 2E BSV and those below it.
+

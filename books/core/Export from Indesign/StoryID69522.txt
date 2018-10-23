@@ -1,0 +1,10 @@
+	Hit Points
+H	
+LA	
+T	
+RA	
+LL	
+RL	
+AR	
+Stun	
+

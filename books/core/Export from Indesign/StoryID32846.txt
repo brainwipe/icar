@@ -1,0 +1,8 @@
+Location	HP	
+Head	500	
+Left Arm	400	
+Torso	1500	
+Right Arm	400	
+Left Leg	700	
+Right Lef	700	
+

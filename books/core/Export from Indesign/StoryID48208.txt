@@ -1,0 +1,1 @@
+Starting Cash = (D10 + D10) * 10

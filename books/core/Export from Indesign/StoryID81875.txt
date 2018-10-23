@@ -1,0 +1,31 @@
+Combo Moves
+Move	Difficulty	Stun	Damage	Skill	Skill Level	Notes
+Punch	0	Meat		Street Fighting	1	
+Kick	1	Meat x 2		Street Fighting	2	
+Headbutt	1	Meat	Meat	Street Fighting	2	
+Stamp	0	Meat		Street Fighting	1	Target must be prone, can follow a trip.
+Trip	1			Street Fighting	2	Makes target prone.
+Strike	1	Meat	Weapon*	Street Fighting	3	Must be using a melee weapon, damage depends on the weapon.
+Spinning kick	2	Meat x 2	Meat	Street Fighting 	3	
+Fire	1		Weapon	Gun Fu	1	You shoot someone with your gun. Roll to hit as in Fire Fighting.
+Puppet	1		Weapon	Gun Fu	2	If in close combat with someone holding a gun, you use it to shoot someone else. Roll to hit as in Fire Fighting.
+Dismantle	2			Gun Fu	3	If in close combat with someone holding a gun, you dismantle it.
+Reverse	2		Weapon	Gun Fu	4	If in close combat with someone holding a gun, you shoot them with it and continue your combo. No need to roll to hit.
+
+
+Swap Moves
+Move	Difficulty	Stun	Damage	Skill	Skill Level	Notes
+Hold	1			Street Fighting	1	Grabs the target, stops a combo but other characters get free hits, ends the combo. Meat skill check to release next turn.
+Hold reverse	2			Street Fighting 	4	If you're in a hold and win the turn then you can choose to put the opponent in a hold, treat like a hold. Ends the combo.
+Disarm	1			Street Fighting	2	Knock the opponent's weapon from their hand
+Spring onto feet	1			Street Fighting	3	You're no longer prone. Must be swapped out for the first move.
+Break free	1			Street Fighting	3	You're no longer held. Must be swapped out for the first move.
+Quick Draw	1			Gun Fu	1	Draw a gun.
+Rearm	2			Gun Fu	2	Take the opponent's weapon from them, stops this combo
+Reload	2			Gun Fu	3	Reload a rifle or 2 pistols - this can be used after a Puppet or Reverse
+Knock out	2	MAX!		Akarak Art	1	Only against unarmoured humans, opponent's Stun is now maxed
+Push Clear	1	Stun		Akarak Art	2	Pushes an opponent far enough away that they take 2 turns to get back into the combat
+Improvise	n/a			Akarak Art	3	You can swap out as many moves are you like.
+Undress	2			Akarak Art	4	The powered armour ejects its pilot, unpowered armour falls off.
+The Flow	n/a			Akarak Art	5	Can fight up to as many people as Shift attribute without modifier
+

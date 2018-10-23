@@ -1,0 +1,3 @@
+Weapon	BF	Dmg	R/T	Mag	Ammo
+Pistol	25	30	5	5	5.5P
+

@@ -1,0 +1,13 @@
+Powerplant: Several Poraq AD class generators (mostly scavenged)
+Grav Engine: Poraq AD120 engine with the casing and markings of a Poraq AD40.
+Light Jump engine: Poraq Golgotha Light Jump Engine (2)
+Armour: Mixture of titanium plate, polyceramic (which is not really an armour) and a range of scavenged armours.
+Weapon Systems: None
+Sensors: Atmospheric, Deep Space, Long Range
+AIP: 4, no avatar
+Tractor Beam: 2k range.
+Cargo: 50 000.
+Escape System: Missing / damaged.
+Cabins: 18
+Dimensions (L/W/H): 905/260/295
+

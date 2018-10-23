@@ -1,0 +1,13 @@
+Powerplant: 3 x Poraq 20K Generators.
+Grav Engine: Poraq 40K Grav Engine.
+Light Jump engine: Poraq Assyrian 50K (9)
+Armour: Titanium Sinite Plate.
+Weapon Systems: 2 banks of 20G Pulse Lasers.
+Sensors: Atmospheric, Long Range
+AIP: 4 with Avatar
+Tractor Beam: 4k range.
+Cargo: 6410.
+Escape System: 40 people.
+Cabins: 40
+Dimensions (L/W/H): 750/400/220
+Speed / Acceleration in Atmosphere: 800 / 80

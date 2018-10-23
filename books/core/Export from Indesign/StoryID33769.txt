@@ -1,0 +1,26 @@
+Vehicle Manouvres
+Name	Speed	DF	AT	Notes
+Random Side Slip	Any	0	-1	
+Sharp Turn	< 1/2 Max	-1	-2	
+Throttle Slam	Not Max	0	-1	Increase speed by acceleration
+Brake Hard	Not 0	-1	-2	Reduce speed by acceleration
+Loop	> 1/2 Max	-1	-2	-10% to attacker’s next shot
+Roll	Any	-1	-3	
+Air brake	> 1/2 Max	-4	-3	Attacker may not fire next turn
+Swoop	> 1/2 Max	-2	-3	Increase speed by acceleration. -10% to attacker’s shot
+Feint and Dive	< 1/2 Max	-2	-4	May only be performed by Grav Bikes. If attacker is not Grav Bike, then may not fire.
+Split ‘S’	< 1/2 Max	-3	-4	
+3 Axis Tumble	< 1/2 Max	-2	-5	Next move must be a random side slip
+Generator Power Dump	< /2 Max	-1	-4	Do 500 points of damage to vehicle
+Aero Dynamo	Any	-3	-6	Do 500 points of damage to vehicle
+Falrodding Manoeuvre	Any	*	*	Combat Pilot Skill only roll, biggest difference wins.
+Evasion	*	-2	0	Defender’s speed must be greater than attackers!
+
+Attacker / Defender / Advantage Resolution Table
+Attacker	Defender	Result
+Win	Lose	Remain the same
+Lose	Win	Got To Advantage
+Win	Evade	Remain the same
+Lose	Evade	Combat Ends
+
+

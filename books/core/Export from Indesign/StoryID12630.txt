@@ -1,0 +1,773 @@
+Appendix
+Academia Skill List
+Academia Skill Tree
+
+Language
+Wit Wit Soul. Wit > 2. Self Taught.
+Language is the Skill of good communication. Language covers both written and spoken Imperial. A Character with a high level of Language will find it easier to explain ideas or interpret other ideas. Language also covers ‘how convincing you sound’ and so should be used when the Character is trying to lie without being detected. This is different from the Skill Persuade, which is specifically about getting someone to do what you want. 
+Easy: Stalling for time by waffling on about nothing.
+Difficult: Trying to convince someone the opposite of something they have believed their whole life.
+Journalism
+Language. Self Taught.
+The ability to write factual or fictional reports convincingly, using appropriate sources. Includes Gaia presentation techniques and knowledge of the media business. Good reports can be sold to the Gaian News system.
+Easy: Creating a fully immersive Gaia simulation about a news item for Gaian News.
+Difficult: Creating a full immersive Gaia simulation through someone else’s eyes and creating a report in their style. A form of journalistic forgery.
+Law
+Wit Wit Soul. Wit > 5. Self Taught.
+The study of the principles and practices of Imperial law and local laws. This includes the grey area where these two laws meet.
+Easy: Avoiding arrest and incarceration by understanding what evidence is required for any given crime.
+Difficult: Present evidence in such a way that the manner in which the law will be applied is moved in favour of the Character.
+Oration
+Soul > 4. Language. Self Taught.
+Oration is the ability to speak in public, either in a prepared manner or by surprise. A good orator is someone who can captivate the audience while putting their point across. This Skill extends the abilities in the Language Skill to allow the Character to literally captivate anyone who is listening. Oration is normally used to bolster any other Skill where talking is important, such as using Persuade to get large groups of people to do what the Character wants.
+Easy: Rouse a rabble to encite violence towards the cause of their beliefs.
+Difficult: Stop a violent rabble by convincing them their beliefs are flawed.
+History
+Wit Wit Wit. Self Taught.
+The study of what has gone before. Used to help understand the actions of others. Includes the study of current affairs and comparison with history. Combined with Research, history can help give an insight into any given situation.
+Easy: Drawing connections between current events and actions of people. 
+Difficult: Drawing connections between past event and current events.
+Antiquities
+History. Instructor.
+The study of artifacts, antiques and the cultures that used them. This includes attaching value to objects and putting them into context. Antiques is used for setting a good price in a legal environment, unlike Street Deal, which deals with haggling a good price outside of the establishment.
+Easy: Able to date, find manufacturer, origin and price and piece from the past 50 000 years. 
+Difficult: Date, find manufacturer, origin and price for a piece from before the Aran wars or from an obscure manufacturer.
+Graphics
+Wit Soul Soul. Soul > 4. Self Taught.
+This Skill enables the Character to produce visually effective Gaia art and to copy and alter existing art. Also includes an appreciation and the detection of fakes. Gaia art is broadly anything that is in 3D, from attractive Gaia Entities through to items of hard light furniture.
+Easy: 3D Gaia art, Gaia environments, logos and symbol design. 
+Difficult: Forgery, 3D creation of believable people.
+Forgery
+Graphics. Instructor.
+Forgery is the art of copying or falsifying. This includes all forms of art, from sculpture and painting through to the Gaia based arts. Motion forgery (animation) is included in this Skill. For detection the browser most roll over the Forgery Skill rating. If the roll is 0-19 over, the browser is curious. If the roll is 20+ over then the browser is sure the object is fake. 
+Optional Rule: The GM rolls this Skill check in secret and declares that the Forgery is good. This way, the players do not know how good the forgery is and have to assume it is ok.
+Architecture
+Graphics and Colony Know (Tech Skill Tree). Instructor.
+The appreciation and design of buildings, how form follows function and the history behind how different styles evolved. Architecture also includes in depth knowledge of construction and the layout of buildings. A Character can obtain quite a lot of information about the building with a successful roll.
+Easy: Working out the structural points of a building.
+Difficult: Working out the layout of the inside from the design of the outside.
+Thespian
+Wit Soul Soul. Instructor.
+The ability to act a given part or understand a part through words. Actors play a big part in entertainment, although they do not write the words and need time to rehearse. Can do Impersonation without a modifier if the subject is very well known. This Skill is more useful to indicate a profession, rather than be used as a Skill that is rolled regularly.
+Impersonation
+Thespian. Self Taught.
+This is copying the actions, mannerisms and voice of a chosen subject. The Character must spend at least 5 hours studying the subject to do a good impersonation. After that, each extra hour adds 1%. For example, after 25 hours, a Character’s difference reduces by 20%, greatly improving the chance of a good match. With the addition of intelligent prosthetics, a person could fool anyone without DNA testing.
+Easy: Impersonate someone well known or a well known profession.
+Difficult: Impersonate someone so that it is Hard to stop using a Wit roll.
+Ecopolitical
+Wit Wit Wit. Self Taught.
+The study of Governments, Industries and how they interact. Including terminology, structures, positions of power, power bases, supply and demand, trade and diplomacy. The Character can analyse and predict from learnt case studies and watching current affairs. The Character is also able to understand political intrigue and can, to a certain extent predict future political climate.
+Easy: Given a small amount of colony information, the Character can work out who is the real power there.
+Difficult: Predicting the future political climate in the long term.
+Socioeconomics
+Ecopolitical. Instructor.
+The study of colonies and societies. This Skill allows the Character to understand the factors involved in running a system and an empire, the affects on population and the use of trade and technology to boost the wealth of a system.
+Easy: Given a small amount of information on a colony, can derive the main economical drivers behind it.
+Difficult: Long term prediction of the effects of small changes in the economy.
+Botanical
+Wit Wit Soul. Instructor.
+The study of plants and simple plant ecologies. The player has an in depth knowledge of horticulture and farming. Classification of plants can be done by sight but more information is required for a detailed analysis.
+Easy: Identification of crops, understanding of their strengths and weaknesses and prediction of how climate change might effect them.
+Difficult: Identification of the properties of new species given very little information.
+Food Science
+Botanical and Biological. Instructor.
+The study of food, and its effects. This Skill allows the Character to analyse creatures and plants (for the use of food) for their content. This also includes the analysis of diets and being able to tell how a particular diet might effect someone.
+Easy: Given a plant and some information, can tell whether it is edible or not.
+Difficult: Create a balanced diet for a group of mercenaries on an alien world.
+Biological
+Wit Wit Soul. Instructor.
+The study of organisms and their habitats. Also includes a minor knowledge of plants and animal behaviour. From the smallest cell to the largest beast, Biology covers it all.
+Easy: Analyse and predict the motivation of an unknown creature.
+Difficult: Tame a previously unknown creature.
+Genetics
+Biological and Botanical. Instructor.
+The study of DNA, Genetic Resolution and Energy Genetics. The Character will be able to study the DNA patterns (with the aid of Medical Equipment) and work out if there are any defects, viral problems or if two different patterns match in any way. Information on origin can also be gained. Also, genetic matches are understood, so the Character can tell relations.
+Easy: Analyse a DNA print for known defects.
+Difficult: Given a new genetic virus, calculate what the effects might be if passed on.
+Macroecology
+Biological and Botanical. Instructor.
+What makes planets tick? This is the answer. Everything that happens on a planet is covered by this. It includes Meteorology and Ecology, predictions can be made about future planetary states and weather changes (and the affects on the weather of the planet). This also covers the technology of Terraforming, the ability to alter a planet in such away that the atmosphere become breathable. Technicians who work in atmosphere generation plants use this skill all the time.
+Easy: Program and set up Atmosphere generation to produce a desired change in meteorology or ecology.
+Difficult: Forecasting for a change in a planet’s ecological or meteorological state.
+Physical
+Wit Wit Wit. Instructor.
+Physics and basic astronomy. This Skill is more of a spring board into more complicated and useful topics. This Skill holds all the concepts that many other scientific areas are based on. If any Character wishes to design and build anything radical at all, this Skill is a must. Includes all about the Medium concept and gives the Character a better understanding of how things work. 
+Macromechanics
+Physical. Instructor.
+Macromechanics is the study of how planets work, how their orbits are formed and what affects their parameters. Included is plate tectonics,  composition and geology, Terraforming, the concepts and the practices. Macromechanics includes a lot Geology, the study of rocks and so this Skill is used by anyone who would analyse a planet for possible desirable mineral deposits. In conjunction with Macroecology, this Skill is used by anyone who decides whether a planet is worth colonising or not.
+Easy: Decide whether a given astronomical feature contains minerals of any worth.
+Difficult: Calculate a method of blowing a planet up and making it look natural.
+Astromechanics
+Physical. Instructor.
+Astromech. Is the study of space, it’s features and pitfalls. This includes greater knowledge of the Medium concepts, space travel, orbits, star formation, astral formations (asteroid fields, nebulae) and the complexities of gravity. This is the core Skill for any new designs of faster-than-light engines the Character might want to build.
+Easy: Predict the effects of a previously unchartered feature in space.
+Difficult: Create the theory for a new form of Faster Than Light engine.
+Chemical
+Wit Wit Wit. Instructor.
+The study of chemicals and their reactions. Includes all ‘normal’, ‘partial’ and ‘flux’ materials. The Character can construct, analyse and understand the properties of any material. Also includes understanding of chemical energy patterns.
+Easy: Predict the effects of two chemicals together.
+Difficult: Creation of new chemicals for a specific and complex purpose.
+Explosives
+Chemical. Instructor.
+This is more an academic application than a science in itself. The Character can design and make any volatile substances to suit the use and will know the best ways in which to set them up. Defusing and the analysis of other explosives is Hard and there is a risk of premature detonation on failure.
+Easy: Create something explosive from household products.
+Difficult: Anything to do with energy explosives.
+Life Skill List
+Life Skill Tree
+
+Street Trading
+Wit Wit Soul. Self Taught.
+This is the technique of buying, moving and then selling goods for a profit. Trading gives the Character the knowledge to spot a good buy and to know where to get rid of it. Also includes knowledge of good and bad prices for commodities and a few trading runs in their home area as well.
+Easy: Spot an as yet unused trade route between two colonies.
+Difficult: Make profit from an artificially forged trade route.
+Commodities
+Trading. Instructor.
+This allows the Character to use GM based knowledge to spot what commodities are suitable where. This also gives a knowledge about limits and legalities of commodities and places where they are especially cheap (in good supply) or expensive (poor supply). If Ecopolitical (In Academia List) is also owned, then the player has an immediate 15% Skill bonus. This Skill is difficult to roleplay and should be used for information gathering purposes.
+Easy: Find out what commodity prices are going to be worth buying in the future.
+Difficult: Understand the commodity situation in the whole cluster and work out how to improve or ruin it.
+Street Deal
+Wit Wit Shift. Self Taught.
+This is the art of getting a bargain and being able to spot where you might get one. This Skill allows the player to barter more effectively and also to find and buy more obscure items that the owner may not wish to sell. A successful roll is not an automatic pass but an aid to the role playing that it accompanies.
+Street Deal is also used for finding the Black Market. This exists on every system. A pass with a difficulty of Hard is required to find the Black Market. More information can be found in the Equipment Index.
+Easy: Haggling down a price on a street corner.
+Hard: Find the Black Market on any given system.
+Difficult: Given an unknown item, work out how much you might get for it.
+Scam
+Street Deal, Streetwise and Language. Self Taught.
+This allows the player to pull a con trick or to make someone believe something that is not entirely true. The scam needs to be explained and rolled for before undertaken. Scams can range from planning and playing elaborate tricks to small deceptions. Most scams should involve money and must include some sort of benefit for a Skill increase. Inventiveness is key here!
+Easy: Extort money from an elderly person by selling them a service they do not need.
+Difficult: Obtain access to a spacecraft by pretending to be a star port official.
+Streetwise
+Wit Soul Soul. Self Taught.
+This provides the player with the ability to walk the streets of any city with a certain air of confidence and knowledge of their surroundings. The ability to find the base of power or know where to look. Includes spotting bad situations and understanding other people’s predicaments. To aid the use of the Skill it is recommended that the player builds up contacts to use as information sources. Successful Streetwise rolls should yield a new contact. The bigger the difference, the better the contact.
+Easy: In an unknown city, find a facility or person with very little information.
+Difficult: Predict the criminal activities given only commercial information.
+Blend
+Streetwise. Self Taught.
+This is the art of not being noticed. The Character knows how to act in certain places and understands all etiquette well enough to look inconspicuous. The higher the difference, the less suspicion is directed toward the Character.
+Easy: Escape notice of a police force when in a crowd if wearing similar clothes to the crowd.
+Difficult: Lose pursuers in a sparsely populated area when wearing conspicuous clothing.
+Street Fighting
+Battle Battle Shift. Self Taught.
+This is the ability to use the surrounding environment and other people to win a fight. Normally learnt by practice but can be taught. As the Skill percentage increases, new moves and abilities become available.
+10: Can have more than 3 moves in a Combo.
+20: Can put two or more ‘2’ point Combo moves in a row.
+30: Can use weapons. New Close Combat Combo Move: Floor Kicking (Offensive). If user is prone and they have a ‘kick’ move, they may use it as if they were standing.
+40: Can split attacks between enemies.
+50: New Close Combat Combo Move: Hold Reverse (Offensive). If in a hold, any attack can be changed into a Hold Reverse. Rather than breaking free, the situation is reversed and the user has the opponent in a Hold.
+60: Precision hitting: When using a close combat weapon, allows user to choose the location to hit for each successful attack.
+70: Rolling when prone. When prone (on the floor), attacks can be dodged with a successful Battle roll from the prone defender. This replaces any moves left in a combo and is not automatic.
+80: New Close Combat Combo Move: Rearm (Defensive. Cost: 1). Must follow a disarm. Only works for close combat weapons when the user is empty handed. The user takes the weapon from their opponent and may use next turn.
+90: New Close Combat Combo Moves: Spinning Punch and Spinning Kicks (Offensive). Like normal kicks, except they cannot be blocked. Punch and kicks are automatically counted as spinning.
+Rail Fighting
+Street Fighting. Instructor.
+Rail Fighting is a sport where two or more combatants fight either to unconsciousness or in some places death. It has spawned a fighting style of its own which is considered as being ‘dirty’. Like Street Fighting, as the percentage increases, new moves and abilities become available.
+30: Intimidating Style. Being able to fight like a rail fighter is intimidating. When rolling initiative, the opponent to the rail fighter must subtract the rail fighter’s Soul.
+40: Glancing Blocks. If blocking a weapon, no damage is taken (only stun).
+50: Improvise 1/3 of Battle, instead of 1/4.
+60: Springboard. Character does not need to roll Shift to stand up at the end of a turn.
+70: Floor fighting. Can still punch and kick while prone.
+80: Flying Start. If starting a fight, the first move in the combo becomes a ‘flying’ manoeuvre (e.g. Flying Kick instead of kick). This does double stun.
+85: Catch Punch. If the foe is punching and the Character is doing an offensive move and wins, the punch can be caught and the foe can be in a hold next turn (if need be).
+90: Pressure Points. If the foe is unarmoured, normal Punch and Kick manoeuvres do the same amount of damage as stun. The damage is applied to the Torso only. Used by a Character with Augmentation, this can be deadly.
+Akarak Art
+Acrobatics and Street Fighting. Instructor.
+The nearest to this is a marital Art, Akarak Art is a fighting style which combines power, speed and flair, not to mention bionics. This Skill allows a Character to have 6 moves in a combination, regardless of their Battle Attribute. A Character must be trained to perform this Skill and this training must be performed by an Akarak Elder. Having this Skill at 70 does not allow the owner to teach it. 
+30: 6 moves in a combo allowed.
+40: Sword Fast Draw. Draw sword and use it in the same turn.
+50: Dual Combos. If fighting 2 combatants, one combo can be assigned to each opponent. Different Combos can be performed simultaneously on different foes.
+60: During a fight, one move in the combo may be changed for another. Do this only once in a combo.
+70: New close combat move: Breath of Wind (Offensive). Is performed only in a combo as the first part of a improvisation. Character pushes foe away and onto the ground, doing them no damage but allowing the Character to either leave the fight or do damage next turn. Requires successful Battle roll. If fails, then the Character may continue to improvise.
+75: Malleable. May still attack when in a Hold but cannot break free while attacking.
+80: Five Foe Combo. May fight five separate people with 5 separate combos in one turn. Deal with each combo separately.
+85: Complex Improvise. May improvise up to 5 moves.
+90: Two Swords. May use two hardlight swords and deal twice as much damage to foes. Very rare. 
+Acrobatics
+Shift Shift Shift. Self Taught.
+This Skill allows the Character to perform acrobatic feats. At different levels of Skill percentage, the Character may perform different manoeuvres, as given below. In some cases, these manoeuvres allow the Character to survive peril that they would otherwise be injured from.
+20: Can perform forward rolls, flips and somersaults.
+30: Can perform a composite manoeuvre, made from many other flips, rolls, etc.
+40: Can move through The Mesh at normal speed.
+50: Can perform any acrobatic manoeuvre without rolling.
+60: Can fall 10m without injuring themselves.
+70: If being shot at while performing a chained manoeuvre, the firer’s shot becomes Taxing.
+80: Can fall from a moving vehicle doing 100mph at 5m altitude and survive.
+90: Character takes only half the stun from impact damage.
+Scale Wall
+Acrobatics. Self Taught.
+A Skill which encompasses all sorts of climbing, Scale Wall allows the Character to climb walls, even those with very little footholds at their Shift in metres per turn. A successful roll is required.
+Easy: Climb the outside of a Mex building.
+Difficult: Climb a glass surface.
+Stealth
+Wit Shift Shift. Self Taught.
+The ability to move around without being seen or heard. This also includes basic concealment. This is not a Blend Skill, the Character will not be seen at all instead of not being noticed. There are some situations where a Character cannot go completely unnoticed. This is normally in cases where an AI is connected to building sensors.
+Easy: Move through a building avoiding contact with people.
+Difficult: Move through a building avoiding contact with people, automatons or sensors.
+Silent Shadow
+Stealth. Self Taught.
+Originally an Akarakian art of following people without being noticed. The Character will have the concentration to watch for as long as required. A success will mean that the Character will follow the target without being noticed and a fail will mean either the target is lost, or in the worse case realises they are being followed.
+Easy: Follow a human who is not paranoid.
+Difficult: Follow a paranoid human or an augmented one with additional sensors.
+Sleight of Hand
+Wit Shift Shift. Self Taught.
+This is the ability to conceal an item or move the item around one’s body without any watchers being able to follow the object. The item must be no larger than that of the Character or the Character’s hand depending on the use.
+Easy: Palming an small object so that it is in hand but hidden from view.
+Difficult: Moving an object from hand to hand without anyone detecting it.
+Pick Pocket
+Sleight of Hand. Self Taught.
+Removing items from other people’s person without their knowledge. Anything from money cards to weapons can be removed. If an item is not removable, then the Skill will determine this and does not mean automatic failure.
+Easy: Picking pockets in a crowd.
+Difficult: Picking someone’s pocket while talking to them.
+Style
+Wit Soul Soul. Self Taught.
+The Character knows how to look good and impress. Although the Character may not be attractive, they can certainly seem so. Style includes everything from personal grooming to make-up. A pass would allow the Character to cut hair perfectly where a fail would make a complete hash of it.
+Easy: Picking an outfit on an unfamiliar planet that allows the wearer to fit in with the populace.
+Difficult: Impressing an unknown group of people of an known culture.
+Seduce
+Style and Empathy. Self Taught.
+The ability to make someone fall in love with you or just control their lust of you. Once en-raptured, can make them believe almost anything you like. They can be made to make mistakes or make decisions they would otherwise never had considered. Seduction can also lead to unwanted obsession and depression.
+Easy: Seducing someone who is quite pliant or desperate for attention.
+Difficult: Seducing somone from a vastly different culture who is really not interested in the Character.
+Empathy
+Wit Soul Soul. Self Taught.
+This is allows the Character to understand the feelings of others. Although this must be roleplayed, this Skill allows the GM to aid the players when a successful roll is made. The Character with Empathy may know whether a target is lying when everyone else sees the target’s demeanour as charming.
+Easy: Understanding a emotional Character’s feelings.
+Difficult: Detecting the feelings of a stoney faced person.
+Counsel
+Empathy. Instructor.
+The ability to discuss and suggest constructive criticism even where the Character is not an expert in the subject. Moral and ethical advice can also be offered, giving the counselled a different view on events. This must be roleplayed but can be strengthened with a successful roll.
+Easy: Helping someone deal with the death of a friend or team-mate.
+Difficult: Helping someone deal with the destruction of their planet, everyone on it they knew being dead.
+Persuade
+Wit Wit Soul. Self Taught.
+Debating and arguing. The Character can see the target’s point of view and undermine the argument. A successful roll will weaken the target’s ability to disagree and may also allow the GM to offer information to aid the argument.
+Easy: Persuading a bouncer to let the team into a club.
+Difficult: Persuading a Star Enforcer that what they were doing looked like a crime bust wasn’t really.
+Interrogate
+Persuade. Instructor.
+Interrogation is the act of forcing information from a target using physical and mental force to break the will power. This is more a knowledge Skill. A success will allow the GM to suggest a way of verbal or physical interrogation which the player will then have to role play. This Skill is more an aid for the less imaginative player. 
+Easy: Finding out someone’s name or home.
+Difficult: Finding out every dark secret about a person.
+Intimidate
+Persuade. Self Taught.
+Intimidation is the act of scaring someone so that the Character can gain an advantage. Intimidation is normally used for gaining information but is equally useful for forcing people to do as you want. This Skill is only rolled in support of roleplaying. If the player wishes to use any other items to support the Skill, the GM may add modifiers as necessary. For example, if the Character is holding a gun to the head of the victim, they a positive bonus should be added.
+Easy: Intimidate someone younger and smaller with a gun.
+Difficult: Human Character intimidates a full Borg.
+Medical Skill List
+Medical Basic
+Wit Wit Soul. Instructor.
+The Skill of preserving life. Basic includes the most useful field and household medical Skills. Dealing with bone breaks, bleeding, cuts, shock, unconsciousness and typical viruses are included. Instructors tend to come pretty cheap for this Skill.
+Easy: Treat a victim who has broken their legs after being pushed from a moving vehicles.
+Difficult: Dealing with internal bleeding or anything that might involve surgery.
+Bionics Knowledge
+Wit Wit Soul. Instructor.
+This allows the Character to know the principles behind all forms of Bionics. From neural links to actuators, the workings of the structure is included here. Also this contains the ability to spot well known types of augmentation.
+Easy: Work out the strengths and weaknesses of a augmented human on sight.
+Difficult: Diagnosis of the cause behind an augmentation’s failure.
+Diagnosis
+Wit > 5. Medical Basic. Instructor.
+Diagnosis is the art of figuring out what is wrong with the person and then administering the correct drugs to stabilize or remove the problem. Diagnosis allows the Character to make a quick decision on what to do. The Skill must be higher than 60% to be effective. This can be done through studying (Roleplaying Points or RP) or by using people as test subjects.
+Easy: Administering the correct drug for a well-known disease.
+Difficult: Administering a replacement drug when the Character does not have any of the facilities provided by a medical kit.
+Surgery
+Wit > 5. Diagnosis. Instructor.
+Surgery is a technical art of manually fixing people. Surgery includes how to make incisions, where to make them, what each piece looks like and how to close the wound. All surgery that is done is scarless if the surgery is done correctly. The use of the surgical tools is covered in great depth. The Skill must be higher than 60% to be effective. This can be raised by studying or by using test subjects (Roleplaying Points or RP).
+Bionics Systems
+Wit > 5. Surgery. Instructor.
+This is a study of the different systems that any bionic person would have. This Skill allows the diagnosis of problems and their solutions as well as the ability to upgrade old hardware (with the proper documentation). This also covers the mental effects due to Augmentation.
+Easy: Fixing a well known augmentation with a full range of medical and technical tools.
+Difficult: Fixing a rare augmentation without any of the proper equipment
+Bionics Design
+Bionics Systems. Instructor.
+This Skill allows the Character to design new bionic systems, either from scratch (Difficult) or by updating other system (Easy). If the player can not design the system solely, the GM can help. Use other bionic systems as a template for new ones.
+Bioweave
+Bionics Systems. Instructor.
+This Skill allows the Character to operate Bioweave machinery. Bioweave can grow new limbs or organs for people and is a very technical operation. The more that needs replacing, the more difficult it is to replace.
+Easy: Replace a leg or arm.
+Difficult: Replace both legs, both arms, liver, parts of the spine, intestines, eyes and face all in one go.
+Technical Skill List
+Technical Skill Tree
+
+Colony
+This is the tech Skill which covers the colonies which people live in. These include standard surface colonies (like the cities of the 20th Century), Subterranean and Subaquatic colonies. 
+Colony Know
+Wit Wit Wit.
+This covers the general layout of the colonies, what all the major parts of the colony are and how they interact. All colonies are created on the same principles and this Skill allows the player to understand and use these principles.
+Colony Systems
+Colony Know
+This is the in-depth knowledge of how the different systems work together. This includes the design and function of separate buildings and the components which make the buildings work.
+Colony Design
+Colony Systems.
+This allows the player to design buildings and their components. All manner of dwellings can be constructed and the knowledge of how to use the tools is known. 
+When to Use?
+When the players want to adjust their home base to suit their needs. (Design)
+When the players want to know where to shut the power off in the building. (Know)
+When there is something odd about a building and they need to know what the difference is. (Know)
+When a Meshrunner needs to get into the Mesh. (Know)
+When a Meshrunner, from inside the Mesh, needs to affect something outside. (Systems)
+Gaia
+Gaia (the net) runs the universe. Rayengines (Computers) are part of everyday life and without them, the human race would be back in the industrial age. Rayengines allow better communication and the ability to automate many tasks. This set of Skills allows the Character to use, program and build systems of their own whether for car or building.
+Gaia Know
+Wit Wit Wit.
+This is basic Rayengine use, how to use GAIA operating system to perform certain tasks. Although using entities (software) and being able to install new ones is contained here, the writing of new software is not. 
+Gaia Systems
+Gaia Know
+This Skill allows the repair and upgrade of Rayengine systems as well as programming. The user can now program in Gaia II (The universal programming language). However, the user can not build their own Rayengine (computer) systems from scratch. 
+Assembling from pre-made parts is possible but not the construction of the laser chips. This also contains information about the use of Rayengine systems in other Tech categories. For example, the Character would know what a vehicular Rayengine did and how it functioned and could repair it.
+Gaia Design
+This is the full design of Rayengines. From making the laser chips to connecting them, this Skill allows the user to make technical wizardry from the tools provided.
+When to Use?
+When the player tries to build a computer for a weapon. (Design)
+When the player needs to quickly obtain some information. (Know)
+When rigging a bomb into a person’s Gaia terminal. (Systems)
+When the player wishes to repair a damaged Rayengine. (Systems)
+Gaia Hacking
+Gaia Systems.
+This is a very special use of Rayengines when the players looks for a backdoor or tries to hack through the main entrance looking for information. The hacker moves through a network, gaining control of entities  and capturing data. Hacking is covered later in the combat section.
+Gaia Research
+Gaia Know.
+The ability to find reliable, concise and detailed information quickly. Although most people who can use Gaia can perform some sort of research by utilising information libraries and search entities, finding the right information when it is not immediately accessible is a honed Skill.
+Easy: Finding different information biases on public knowledge.
+Difficult: Finding references to obscure history or long forgotten technology.
+Aritificial Intelligence
+Gaia Systems and Automaton Systems *.
+This is the Skill that covers the design, creation and nurturing of Artificial Intelligences (AIs). This includes both AIs as disembodied intelligences in Gaia and fully embodied AIs as you would find in Automatons. This also includes the counselling of troubled intelligences and understand of how they might malfunction.
+* This Skill can be purchased without Automaton Systems but then the AI of Automatons will not be included. If Automaton Systems is gained at a later date, this Skill then automatically includes the new field.
+Easy: Create a new AI to perform searches on Gaia.
+Difficult: Counsel a ‘broken’ AI back into good health.
+Automaton
+Automatons (Autos) are the human-friendly robotic organisms in the Icar world and this set of Skills allows for their understand, repair, upgrade and design. Dealing with automatons is often a more human empathy task than with other machines because of their form. Low grade, industrial Automatons are quite simple in design but often intimidating in their size. Commercial and domestic Automatons are frighteningly close to their human creators.
+Auto Know
+Wit Wit Soul.
+This is knowledge of all Automaton types. The higher the Skills, the more is known about the different types. Easy tasks would involve analysing a given automaton for its intended use and identification of its creator. Difficult tasks would involve remembering the Attributes of and old model without reference.
+Auto Systems
+Auto Know
+System covers the repair of the overall mechanics of the Automaton. The sorts of systems include: locomotion (legs), sensors, nervous systems, reflexes, balance, energy and so on. This does not include any knowledge of the artificial intelligence of the Automaton but the basics of its programming and the physical systems.
+Auto Design
+Auto Systems
+Design covers the creation of new Automatons from scratch. Design also allows an appreciation of other people’s work. This Skill does not cover Automaton AI, that is given in the AI Skill. However, the Automaton can be set with some simple operations without using AI.
+When to Use?
+When they are trying to work out if an Automaton has Ascended (Know).
+When their Automaton needs repair (Systems).
+Vehicle
+This set of Skills covers all the things you need to know about Grav vehicles. Vehicles are anything that does not light jump.
+Vehicle Know
+Wit Wit Wit.
+This is the knowledge of what different vehicles there are and their Attributes. This is a bit like a ‘train spotter’ Skill. The Character would also know the basics of vehicle design. This only contains the knowledge about the vehicles, not the ability to operate them.
+Vehicle Systems
+Vehicle Know.
+This is the in depth knowledge of how different vehicles are made. Any repair or installation of new equipment is covered as is the use of any tool required for the job.
+Vehicle Design
+Vehicle Systems.
+This is used for the design of additional systems or design of new vehicles. Design also allows an appreciation of other people’s work.
+When to Use?
+When the team need to guess the top speed of a car they are chasing. (Know)
+When the team to make alterations to a car to get the most out of it. (Systems)
+When the team want to smuggle illegal ammunition. (Systems)
+When the Character has more money than sense and wants a very fast Grav Bike indeed. (Design)
+Spacecraft
+All vehicles that can Jump or venture into space. Any freighter, cruiser or hulk can be covered. Although many of the systems included on ships come under different subjects, their specific operation is known as a module on the ship.
+Spacecraft Know
+Wit Wit Wit.
+This is a knowledge Skill about how the craft works, it also includes what sort of craft there are and what their capabilities are likely to be.
+Spacecraft Systems
+Spacecraft Know
+This Skill allow repair and upgrade of systems on board ship. The systems are everything from air conditioning to shield systems. The interaction between these systems is also important. This also includes all the tools required to fix craft. Due to the complexity of spacecraft, this Skill requires twice as many RP to increase than normal.
+Spacecraft Design
+Spacecraft Systems
+This allows the Character to redesign existing parts of the ship or to design a completely new craft. Designs of new craft tend to be very laborious and often take much more time that the construction. Design also gives an appreciation of new design techniques 
+When to Use?
+When the team are assessing the chance of victory in a battle. (Know)
+When the team ship is heavily damaged and requires repair. (Systems)
+When the team ship requires weapons fitting. (Systems)
+When the team want a new ship and are willing to wait for an optimal design. (Design)
+Energy
+Energy is the study of raw energy and its applications. This Skill covers generators, Grav engines, Grav plates, shields, Jump Engines, Beaming and some insight into energy weapons.
+Energy Know
+Wit Wit Wit.
+This covers all the basic principles of energy systems and what each piece does. Basic ideas of what is good and bad and what systems work best. New technology is also covered but is Hard to understand.
+Energy Systems
+Energy Know.
+This covers the repair and the upgrade of all energy based systems. This also includes the tool required to do the job and knowledge of the analytical equipment required.
+Energy Design
+Energy Systems.
+This allows the Character to design new energy systems using the basic principles above. To create completely new energy systems, the difficulty is Hard.
+When to Use?
+When the team’s ship requires some shields bought. (Know)
+When the team’s ship needs the shields installed. (Systems)
+When the previous two have failed and they decide to design their own. (Design)
+Weapon
+This Skill allows the players to recognise, repair and build weapons . Weapons range from hand held pistols to large vehicle mounted weapons as the principles are all essentially identical. Energy weapons and projectile weapons are covered but only ideas about ammo are given.
+Weapon Know
+Wit Wit Wit.
+This is weapon spotting. Knowing the damage capabilities and operating ranges of a weapon is important. This also includes what sort of ammo the weapon can fire and the ability to draw similarities between known and unknown weapons to provide analysis
+Weapon Systems
+Weapon Know.
+This is the ability to repair and upgrade weapons. Upgrades tend to come as easy to fit modifications. Detailed knowledge of the weapon is known and given plans, a copy can be constructed from scratch.
+Weapon Design
+Weapon Design.
+This allows the players to design weapons. It should be noted that this is normally unnecessary as every weapon is catered for and the chance of making something more efficient than something on the market is very unlikely.
+When to Use?
+When a weapon is found and some information is required. (Know)
+When a weapon is damaged and it requires repair. (Systems)
+When the team are stuck somewhere that they can not get to any powerful weapons and need to design their own. (Design)
+Mechasys
+This covers all the Mechatronic systems that are not covered by any of the above subjects. This includes Exo-suits, Powered Armour, Environment suits and machinery. This also includes general mechanics, electronics and the interactions between them. It’s sort of a catch-all for all the other Skills. No self-respecting tech will be without this set of Skills.
+If the task required is a general eno-mechanical one, then this Skill will be sufficient, but if it is covered in the above sections then the cross-technology modifier must be added.
+Mechasys Know
+Wit Wit Wit.
+This covers all the basics of Mechatronic systems and how to construct them from scratch. This Skill also allows the analysis of other systems.
+Mechasys Systems
+Mechasys Know.
+This Skill allows the repair and upgrade of Mechatronic systems. A Character with this Skill can attempt the repair of anything with a modifier of Hard or higher. This includes the knowledge and use of the tools required.
+Mechasys Design
+Mechasys Systems.
+This allows a Character to design any Mechatronic system which is not already specified in another subject. The Character can attempt the repair of anything with a modifier of Hard of higher.
+When to Use?
+When the Character tries to guess the function of an unknown machine. (Know)
+When the Character is repairing a automated machine. (Systems)
+Task Skill List
+Task Skill Tree
+
+Pilot
+Wit Wit Shift. Self Taught.
+Pilot Skills allow a Character to drive, fly or ride any vehicles. Most everyday driving does not require a roll. If the pilot needs to deal with heavy weather or heavy traffic then the difficulty modifier is Hard. Each vehicle is classed approximately below, however, to operate all the functions of some vehicles, it may be necessary to have more than one Skill.
+Example: The Zyntek Eagle is a Grav car. So comes under the Pilot Grav Skill. If the pilot wishes to take it into space, which is one of its capabilities, then the pilot must also have Pilot Cruiser.
+Vehicle Classifications
+Bike. A vehicle that the rider straddles
+Grav. A small car or van.
+Heavy Grav. Heavier grav vehicles such as Haulers and Grav Fighters.
+Cruiser. Any space capable craft.
+Combat Pilot
+Pilot. Instructor.
+The combat pilot Skills (shortened to Combat in the table) are for use when the vehicle performs any combat-style manoeuvres (beyond day to day flying). The use of this Skill is fully covered in the vehicle combat section.
+Powered Armour (PA) Use
+Soul Shift Shift. Instructor.
+This Skill deals with the use of Powered Armour suits. A Character in a powered armour suit gets a -40% modifier against any kind of physical Skill (such as Street Fighting or Acrobatics) while wearing the armour. As the user gets better at using the armour, this modifier is reduced or removed. Light and Heavy firing are not affected by wearing powered armour. When using the armour normally, the user must roll under this Skill. A success will lead to the action that the player desired and a failure means that the action is not performed, with (normally humourous) consequences.
+10. Simple actions. Does not need to roll for walking, standing up and simple manual tasks.
+20. Intermediate Actions. Running, climbing jumping and so on are included.
+30: Can use Zero G Ops without modifier
+40: Can use Stealth without modifier
+50: Can use Sleight of Hand without modifier
+60: Can use Pick Pocket without modifier
+70: Can use Acrobatics without modifier
+80: Can use Scale Wall without modifier
+90: Can use Silent Shadow without modifier
+Powered Armour (PA) Combat
+PA Use and Street Fighting. Instructor.
+This Skill covers various types of combat while in PA. Not just close combat but other Skills such as “gun fu”. Light/Heavy firing does not get a modifier when the Character is in Powered Armour. Like with Powered Armour Use, the default modifier for using Powered Armour in combat is -40%.
+30: Can use Street Fighting without modifier.
+40: Extension of form. The PA user now uses the Meat of the suit to give stun damage.
+50: Blunt. The PA is now used as a blunt. The user may do the same amount of damage as stun.
+60: Can use Gun Fu without modifier.
+70: Can use Rail Fighting without modifier.
+80: Can use Akarak Art without modifier.
+90: Steady Hand. Using the innate ability for PA to remain still, Light and Heavy Firing get +10%.
+Light Firing
+Wit Shift Shift. Self Taught.
+This Skill is the Skill of marksmanship with small arms such as pistols and sub machine guns. The value of this Skill is added to the accuracy of the weapon when firing. See Firefighting on page 10.
+Gun Fu
+Light Firing, Street Fighting (Life Skill Chat). Instructor.
+Gun Fu is the name given to the art of fighting with pistols at close range. When fighting in close quarters, a well made pistol if used properly can be both firearm and blunt. This Skill straddles the boundary between close combat and fire fighting.
+30: Quick Draw. May draw and pistol and fire in same turn.
+40: New Close Combat Combo Move: Redirect Shot (Defence). If in close combat (point blank) with someone who is about to open fire, you can move the weapon so they shoot someone else. This should not be actually put into a combo, instead it automatically replaces a Block.
+50: New Close Combat Combo Move: Reversal (Defence. Cost: 2). Goes in a combo. Must follow a successful disarm. User of Reversal must not be holding a gun. Must end a combo. At the end of this combo the user is holding the weapon at the enemy at point blank.
+60: New Close Combat Combo Move: Fire Kick (Offence). May fire a held weapon instead of kick. Only once in a turn. Resolve hitting in the same way you would resolve a kick.
+70: Can fire 2 pistols at once. Must use this Skill for the firing.
+75: Can reload and fire a pistol in the same turn.
+78: New Close Combat Combo Move: Dodge Reload (Defence). While doing a dodge manoeuvre (in close combat), they may reload a single pistol.
+80: New Close Combat Combo Move: Dismantle (Defence). If in close combat with someone who is holding a gun (when you’re not). You can dismantle it. A Weapon Systems Roll is also required. Does not need to follow any move.
+85: Can reload 2 pistols in a turn.
+90: Perpetual Pistols: When using 2 pistols. While firing one, the other can be reloaded. 
+Heavy Firing
+Wit Shift Shift. Self Taught.
+This Skill is the Skill of marksmanship with power-arms such as missile launchers and chain weapons. The value of this Skill is added to the accuracy of the weapon when firing. See Firefighting on page 10.
+Psychotheatrics List
+1. Uncontrolled Psyonics
+Fiery = 5	
+You have fiery outbursts and can not explain why supernatural things happen to them. You cannot buy this Pyschotheatric off. The GM is in control of your Psyonics and will use them to your disadvantage as they see fit. See Evolution on page 59.
+2. Psychopath	
+Fiery = 5, Fearful = 5, Foolhardy = 5, Soul -2, Wit -2	
+You rejoice in killing. You fly off the handle often and with an extreme rage. Also, your personality is in flux: except for the three Deviant wheel assets (left), change the Deviant wheel by five points each time the Character is played. When you are put under a stressful situation, make a Soul check. If you pass, you remain in control. If you fail then you become unstable and begin lashing out. You tend not to do so with friends (other PCs) but will certainly attack those not familiar with you (NPCs).
+3. Drained	
+Choose three Attributes to become same value as lowest Attributes.
+You spend your time with people more intelligence, attractive and more socially accepted than you. You’re morose about it and make life difficult. You don’t see the point in life and will always find the pessimistic side to everything. There are times when you feel good and bright but it’s normally when other people are suffering and you are not. After all, there is nothing more delicious than other people’s misery.
+4. Pathetic	
+Courageous = 1, Meat = 2, Battle = 2, Shift = 2
+You’re a genetic throwback to a time when people were small, skinny, weak, slow and pathetic. It’s the hand you were dealt and it defines who you are. You’re going to have to work very hard to pull yourself out of the genetic hole you’ve landed in. You’ve been bullied all your life, or even worse, ignored.
+5. Bipolar Personality Disorder
+Create 2 Deviant Wheels.
+You have a split personality. Decide on what it is that makes you flip between the two forms of you. It should be something that is likely to occur once per session. Ensure that the two Deviant wheels are very different. They can have some similar features but it should be obvious which personality is being played. Close friends will know you’re Bipolar and will understand, others will find it more difficult to understand.
+6. Paranoid with good reason
+Soul -2, Wit -1.
+You are convinced someone is out to get you. That’s because they are. Not only are you paranoid about everyone you meet but you do actually have a past enemy. The GM decides what this enemy is from your past. You can only buy this off once you have dealt with the mystery enemy.
+7. Amnesiac	
+Wit -3
+Every so often (at the end of the session), your short term memory resets and you forget what’s just happened. Medium range memory (5 sessions ago) are quite easy to remember and long term memory is fine. The memories are there, you just can’t get at them.
+8. Bionics Rehab Rejection
+All Attributes - 2, Poor Borg suit
+You were borged by an amateur and you rejected the suit during insufficient Rehab. You are in a recovery suit - where you will remain for 6 months. During this time, all Attributes will be 2 less than your natural levels and you will develop a phobia (GM chooses).
+9. Unknown Past
+You have no memory before 2 days ago. You know who you are and you know what you can do but beyond that, it’s a mystery. The GM gets to decide on your past, but it will not be beneficial to you.
+10. Sociopath
+Soul - 3, Suspicious = 5
+You do not like socialising and hate large groups of people (require Soul check or you will freak out!). You are fine with those in your trusted circle of friends (the Characters in your team) but you are suspicious of anyone else you meet. Small talk is painful for youand you often find yourself bungling social situations that others would have no problem with.
+11. Hunted
+Change Deviant Wheel to reflect the associated paranoia.
+Someone is out to kill you. Flip a coin and call. If you call correctly, you can decide if you know you’re being hunted. If you call incorrectly, the GM decides. The killer may strike at any time during the campaign.
+12. Coward
+Soul - 3, Fearful = 5
+You will not put yourself into danger and you prefer to run than fight. This is different from passifism, which is a choice. If you are cornered in a terrifying predicament, you are more likely to freeze to the spot or run than to act safely or tactically.
+13. Slow To React
+Always lose the initiative. Shift -2.
+Everyone else is always first to get the joke, respond to a fight or play any game that involves being first to do something. Your reactions are slow and you can’t understand why.
+14. Feeble Minded
+Wit = 2
+You have real trouble understanding concepts and you know you’re not the brightest person there. The world just washes around you. You do not notice detail very well and have real difficulty understanding things other people take for granted. This Psychotheatric may not be bought off.
+15. Very Weak
+Meat -4, Battle -2
+You are physically underdeveloped and small in stature. It is going to take a lot of weights and fighting training to build you back up to normal.
+16. Criminal / Enforcer Parents
+You parents are either Criminals on the run or are Enforcers (whichever is worst for the setting, flip a coin if equally bad). Either way, you are not allowed to turn to your family for any assistance. You cannot buy this Psychotheatric off as much as you cannot change who your parents are.
+17. Technophobe
+-30% to all Tech Skill checks.
+You are terrified by machines and any kind of technology. When it comes to dealing with machinery (Cars, Bikes, Spacecraft, etc), take a -30% to the Skill. You might be very Skilled at something, you just lack the natural aptitude for dealing with it. The only way ofbuying the Skill off is to have 6 Skills on the Tech tree above 60% before buying it off.
+18. Bad Reputation
+D10 enemies
+People know you and it isn’t good. You’ve already lived a lot of life and most of it has been at the expense of others.You have D10 enemies, 2 of which are obsessive and will be actively looking for you. If you enter a bar in your local area then roll Soul to see if they recognise you. A pass and they do.
+19. Hallucinations
+Soul -2, Fearful = 4. 2 Hallucinations per session.
+You honestly believe the things you see. You also don’t sleep well. You’re not sure about the difference between dreams and reality. The Character must have two hallucinations per session. The player may specify hullucinations but if the idea jar is empty then the GM will specify for them. Hallucinations may be pleasant things but they may worry the team.
+20. Liar
+Honest = 1, Proud = 5
+You lie when discussing deeds or describing stories. You will embellish and then lie to support the embellishments. Far too proud to back down, you will only give up when evidence is shown to prove the contrary - at which point the original lie will be blamed on someone else.
+21. Low Pain Threshold
+Meat -2. Take twice as much stun.
+There’s something about you that just hurts more. It might be your way of life, diet or upbringing that has made you so susceptible to being knocked out. 
+22. Selfish
+Soul -1, Selfish = 5
+You won’t share anything, even with close friends. You like to hoard anything you can carry and will hide useful things in places others cannot find. If a situation looks like it can work out well for the team and you then that’s great but you won’t seek out those situations. Be careful to not let the rest of the team see the results of these Selfish tendancies, else you might be cast from the group.
+23. Headcase
+Serious = 1, Firery = 4, Foolhardy = 5	
+You are hooked on adrenaline and trouble. You love causing problems, getting into tight situations and being trouble to everything and everyone. If something looks simple, complicate it. If the situation looks safe, endanger everyone. 
+24. Average
+2 lowest and 2 highest Attributes become 3.
+You are painfully normal and average. This has the small bonus of often going un-noticed. You are plain looking, have lived a standard and outright boring life. You will have to invent a reason why you have managed to mix with such interesting people.
+25. Short Concentration Span
+Wit - 2, Serious = 2
+You are scatter brained and have trouble concentrating on many tasks. Especially boring ones. A task anything longer than 15 seconds. Every 4 combat rounds, make a Soul check. If you fail, then you lose 3 seconds while your mind is elsewhere.
+26. Clumsy
+Shift -2, Battle -2
+You don’t have much spatial awareness, you knock things over a lot and have little co-ordination.
+27. Narcoleptic
+You have no idea but you randomly fall asleep. Once asleep, you wake up after a short time and are wide awake instantly. It’s not triggered by stress, tiredness or alcohol. It lasts for D10 minutes and occurs twice every session.
+28. Bullied
+Humble = 4, Courageous =2, Battle=3
+You were always bullied and your Character is humbled by it. Without pride or self-confidence, you find it difficult to assert yourself.
+29. Babbling Fool
+Wit -1, Soul -2
+When in stressful situations, you sometimes start talking incessently. You can’t stop yourself. You might give away vital information. When under any stress, roll Soul and if you fail then you start babbling inanely.
+30. Short Fuse
+Firery = 5	
+You are easily made angry, anyone in disagreement with you or mocking you will feel your wrath. You do calm down just as quickly but for a short time, you are impossible to deal with. When something annoys you, roll Soul with a Hard difficulty to lose your temper. When the situation around you mellows, roll Soul again to regain control.
+31. Kleptomaniac
+You can not stop stealing things. They do not have to be of use, but if you think you can get away with lifting something, you will. You don’ like to sell the things on, you just like collecting them.
+32. Megalomaniac
+Wit -1, Soul -1
+You want to have power over people. you want to feel them beg at your knees. You want controlling influence over their lives. This is intoxicating. You will always want to push yourself into the lead and want to make decisions for th team as a whole. When they do not allow it, you will work to make it your goal to be in control.
+33. Vertigoic Agoraphobic
+Also know as Groundhog disease, it is a fear of being outside Spacecraft or Space Stations. Someone suffering from this will not like being on a planet’s surface without being surrounded by a spacecraft and would not want to do any zero-g space walking. This is a modern condition that affects many people. 
+34. Pig Ugly
+Soul -1
+You are unattractive in the extreme. There is no galactic subculture that would think you were attractive. Your looks are never back in fashion. Your face is lopsided and head mishapen. You are just really very ugly. People might feel sorry for you, some might be outright disgusted. You get -20% modifier on any Skill that involves human relations. You can buy this Psychotheatric off with cosmetic surgery.
+35. Bad Habits
+Soul -1
+You have two habits that other people might find annoying.When under stress, one of these habits should manifest itself.
+36. Itchy Trigger Finger
+Foolhardy = 4, Firery = 4, Wit -1
+You like shooting things. You are likely to be the first to open fire, even when it is not appropriate. You’re forever drawing and loading your gun and that often makes people edgy. Edgy people often make mistakes, which is why you need to open fire.
+37. Susceptible to Immersive Coma
+Soul -1
+Your mind does not differentiate between the real world and Gaia. Although you cannot be harmed in Gaia, there is a chance that when something truly incredible happens, your senses become overloaded and you pass out. Whenever the situation is looking intense, pass a Soul check to remain conscious. You are only unconscious for 5 minutes or until someone wakes you.
+38. Unforgiving
+Soul + 1, Merciless = 5, Vengeful=5
+You enjoy applying pain to people and seeing people go through horrors. You are the archetypal sadist who will hunt people down to apply your own particular brand of cruelty to them.
+39. Criminal Connections
+You have friends in the underworld. This can be both advantageous and disadvantageous. Pick up two good contacts you can rely on and 2 enemies that are looking for you. You do know who these people are and can avoid them if needed. When you need a new criminal contact, roll Streetwise on Hard. If you buy this Psychotheatric off, you lose both the contacts and the enemies.
+40. Nightmares
+Soul -1
+You don’t sleep well and get horrible nightmares. Often this might have repercussions on your behaviour when awake. Sometimes, you have nightmares that come true, they are only bad ones. The GM will tell you when a bad situation was a nightmare you had. Then roll Soul. On a pass, the GM can give you a hint to help you out. On a fail, you are frozen to the spot for as many turns as your Soul.
+41. Slow Learner	
+Wit - 1
+You need 2 RP to raise a Skill by 3%, rather than 1 RP. You may not justify any tenuous raises. To buy this Psychotheatric off, you must get two Skills to 90% (maximum).
+42. Borged
+Attributes (AR/HS): H: 5/100, LA: 5/100, RA: 5/100, T:5/200, LL:5/100, RL:5/100. Stun: 200. 
+You have been borged. The reason should not be a good one. You are clear of Rehab but your suit is rubbish. People treat you badly because of your lack of humanity.
+43. String of failed relationships
+Soul +1, Virtuous=2, Loving=4
+You love people just a little too much. So much, in fact, that you have had so many relationships in the past that you have a string of failed ones. You keep stumbling on different social groups that have heard of you for all the wrong reasons. If you buy this Psychotheatric off, you keep the failed relationships. You can’t change history!
+44. Chaos Lust
+Wit +1, Soul -1	
+Normality scares you. Order and conformity set your teeth on edge. Whenever the pace of life slows or you’re set into a situation where everyone is towing the party line, you’ll seek to liven things up. This could be as little as breaking a glass ‘accidentally’ at a dinner party to blowing up someone’s prized car. A failed Soul check will start the lust for chaos.
+45. Notorious 
+Although you are not directly wanted for something, people will know you for something you have done. It isn’t a good thing and some people will automatically be suspicious of you. You can only buy this Psychotheatric off when you become famous for something else.
+46. Unforgiving 
+Merciless =4, Vengeful = 5, Soul +1
+You hold grudges easily. If someone wrongs you in some way, then you will go out of your way to repay it! You have an encyclopaedic knowledge of everyone that you owe some kind of repayment. Vengence does not have to be physical, as long as the target’s life is made worse.
+47. Pessimist
+Soul - 1	
+You believe that the worst will always happen in any given situation. On one hand, you are always pleasantly surprised when things do go well but you will often push the team towards the safe route, even though that probably will not work.
+48. Adrenaline Junkie
+Soul +1, Wit -1, Foolhardy = 5
+Excitement makes you feel like you’re alive and nothing can replace it. You crave danger and although you can be paralised by fear just like anyone else, you love the rush that it gives you.
+49. Fidgety
+Shift +1, Soul -2
+You can’t sit still for long periods of time. If you are sitting in a single place for more than a few minutes, you will start rearranging things, walking about or repetitively fiddling with anything near you. Pass a Soul check to stop.
+50. Attractive
+Soul +1. +5% on face-to-face interpersonal Skill checks.
+Regardless of local fashions, people will find you classically attractive. The halo effect operates on anyone around you, regardless of their gender or sexual orientation. Receive +5% whenever dealing with people face to face, such as Street Deal or Persuade. You can only buy this Psychotheatric off if you have reconstructive surgery.
+51. Hopeless Romantic
+World = 2, Wit -1, Soul +2
+You are obssesed with a romanticised view of the galaxy. The Imperium are wise benefactors, corporations only work for the benefit of the human race and space travel is exciting and quick. You can only buy this Psychotheatric off after having experienced life for a while.
+52. Witty
+Wit + 2, Serious = 2
+You’re quick witted and the things you say, people find funny or interesting. People will often listen to what you have to say, even if your point is rubbish - you just put it in such a fantastic way. +20% to Language Skill if already owned or get it for free.
+53. Optimist
+Soul + 2, Foolhardy must be 3 or more
+You always see the good side of situations and try to make a positive move because of this. Sometimes this puts you and the team into danger 
+54. Fit 
+Shift +2, Meat +1
+You have always managed to keep in shape - eating healthily and working in Gaia simulations that keep you trim. If you get bionics, you automatically forfeit this Psychotheatric and have to roll for another immediately.
+55. Marksman
++10% to all Skills using firearms
+Whenever you hold a weapon, it becomes an extension of you. This makes you an excellent marksman and you find that shooting is second nature.
+56. Passionate
+Soul + 2, Wit + 1
+You get excited about things and believe very strongly in what you do. People find you supportive and good to have around.
+57. Fast Hands
+Shift +2, Any action involving your hands does not take a combat round
+You have lightning manual dexterity. You can move you hands and fingers around you quickly and accurately without thinking. Any action that requires your hands (such as reloading a gun) during combat can be done instantly at the start or end of a round.
+58. Patient
+Soul + 2, Calm = 4
+You don’t mind waiting, you believe that if you wait then you will be rewarded. You have a calming affect on others. Once each game session, you can call for calm and all the other Characters must make a Soul check. On a pass, they will calm down.
+59. Technically Minded	
++10% for starting tech Skills	
+You have a gift for technology. Any Skill which is tech related (from the tech tree) will begin with an extra 10% off.
+60. Natural Pilot
++10% for starting pilot and Combat Pilot Skills	
+You are instantly at home behind the controls of any vehicle, no matter how alien it is to you.
+61. Ferocious Fighter
+Firery = 4, Battle + 2, Any close combat related Skill starts with +10%
+A combination of mind and body acting together, you have always had something of a talent for fighting. Battle may not go above 10. 
+62. Heavily Built
+Meat = 10, Intimidate +10%, Height at human maximum
+You have always been a large person. You are tall, strong and right at the limits of humanity. Set your height and weight to be human maximum. You can only buy this Psychotheatric off with bionics.
+63. Quick Learner	
+Wit +1
+You have a talent for picking up new Skills without much problem. You do not need to work as hard to get as good as other people. Add 1% on top of any Skill raises, either from spending Roleplaying Points or by instantaneous GM raises.
+64. Hawk Eye
+Wit+1, Always pass Wit checks for noticing things.
+You have an attention to detail and are really good at spotting anything that might be out of place or seeing an important detail. 
+65. Immersion Jockey
++10% on any roll in Gaia
+You feel most at home when immersed in the virtual world of Gaia. Like everyone else, you feel the disconnect between the real world and Gaia but for you, it’s a strength and you feed on it.
+66. Natural Leader
+Soul + 3, Wit +1, Calm = 4	
+You find it easy to take responsibility and charge of events. People listen to you and you find that many will be happy that you have taken charge and are making decisions. You get the Language Skill at Soul * 8.
+67. Academic
++15% to all Academia Skills
+You have a flair for learning academically. Raise all Academia Skills by 15% automatically. This inludes new Academic Skills too.
+68. Determined
+Soul +2, Wit +1
+You have a tenacious attitude that means you find it easy to get things done. You are not phased by difficulties and will be a driving fource of any group.
+69. Good Reputation
++D10 contacts
+You have grown a good reputation through your deeds and from that, you have farmed a lot of close contacts. These contacts can be called upon. To buy off this Psychotheatric, all the contacts must either be estranged or dead.
+70. Thick Skinned	
+Triple Stun
+Whatever your natural stun is, triple it. You are really difficult to knock out. If Augmented then this Psychotheatric is removed and a new one must be rolled for immediately.
+71. Jack of All Trades
+Pick 6 Epoch 1 Skills, starting at 30 + 3D10
+You’ve managed to squeeze a lot of life into a very short time and it shows. You know about a lot of things. You will have to justify how you got to know all of these things and why you are so very Skillful. You cannot buy this Psychotheatric off.
+72. Energetic
+Shift + 2, Soul +2, Battle + 1
+You have always been incredibly energetic about everything. You seem to have and endless supply of energy. You spring out of bed in the morning and from that point on, you are awake and unstoppable until you lie down to sleep.
+73. Trustworthy Face
+Persuade = 80%, Soul check for lying.
+The shape of your face, the timbre of your voice, the gleam of your smile gives you the appearance of a trustworthy individual. So trustworthy, that you have the ability to weave utter lies in the face of insurmountable evidence. Not only does this make you excellent at Persuasion but whenever you are trying to get someone to believe an utter lie, perform a Soul check and on a pass, the lie is believed. It may not be believed for long, so make good use of it!
+74. Multi-talented	
+Wit = +2, 2 Skeleton Skills and Skill swapping.
+You have managed to pick up much more in life than others have. Take the Skills from two Skeletons. Each session, you may swap one existing Skill for another new Skill (at starting level) for free.
+75. Important Imperial Parents
+Your parents hold important positions within the Imperium. Choose a Star Industry (Star Fleet, Star Scientifica, Star Enforcers or Star Civilisation) and the GM will select an important position for them to hold. You will have access to information, money and power through your family - as long as you keep them happy and do no abuse it.
+76. Brick Shit House
+Meat = 10, Battle + 2, Soul +1
+You are a huge human! Above what most would think was the limit of human size. Your encumbrance is now twice your Meat (20). You also get Intimidation skill for free at 40%. Set your height and weight to human maximums.
+77. Stress Sink
+Soul + 2, Loving + 1
+You have a knack of dealing with stressful situations. Whenever things look bad, you manage to say the right things to calm people down. If you remain calm (by passing a Soul roll), everyone around you gains a Soul +2 for that round. Gain Empathy at Soul * 10.
+78. Rapid healing
+Heal three times as fast
+Since you were a child bruises and scrapes would fade far quicker than for your friends. You are an example of a fast regenerator, a rare gift that one in a million modern humans posses. You heal at 3 times the rate of everyone else - even when being healed with a Medic’s help. This Psychotheatric becomes less useful with bionics.
+79. Lucky
+You are a lucky person. If some ill is about to befall the Character, flip a coin and call. If you are correct then the bad event will not happen. Can be used only once per session.
+80. Wealthy
+You have a fund that will pay out 500 credits a day for the next 50 years. The player must build this wage into their background.
+81. Entrepreneur
++10% to any Skill roll involving bartering or dealing actions.
+You have a knack for making money from out of nowhere and as such find any negotiations involving money or resources easy.
+82. Quick Reactions
+Shift = 10
+You are very quick to react, as if you can feel the situation before it actually occurs. Also, you never loose an initiative in Close Combat or in Space Combat.
+83. Photographic Memory
+Your gift is one of precise and detailled recall from memory. The tiny details that others might miss all get stored in your memory and you have the ability to read them out. If you find that there was a piece of information you wish you had collected from a previous scene then you can retrieve this information with a successful Wit roll. 
+Unlike others, you can enquire about things that the GM was not questioned about. Details such as weapons carried, clothes worn, an accent, distinguishing mark, damage taken to a vehicle, number of spacecraft docked on a city are good examples.
+84. Multitasker
+Take two actions at the same time
+The Character can do more than one task at the same time. The tasks must be different and no modifier is required for the actions. For example, th Character can drive while using Gaia, or Drive while shooting but cannot shoot two different weapons at different people.
+85. Focused
+Pump Abilities each session. 2 points in pool
+You have the ability to focus your abilities at any points. During the game, you main pump up any Attribute or deviant by two. This lasts until the end of the session. At the start of the next session, you get to spend another 2 points.
+86. Fearless
+Soul = 10
+Whatever biological facet that makes people afraid, you simply do not posses it. Only roll for Soul checks that do not include fear.
+87. Mr. Fixit
+Character may roll more than once to fix something.
+You have a talent for fixing things. Just about anything that is broken, you can fix. Whereas most technical Characters get one roll to try and fix something, this Character can roll once per turn until it is complete. The Character must own the relevant Skill (for example, Spacecraft System for fixing Spacecraft).
+88. Halo Effect
+Soul +1, +10% to any Skill roll involving human interaction. +20 to Seduce Skill and free if not yet owned.
+You are beautiful. Your genes are very much the product of millions of years of fine tuning to what is now considered beautiful. As such, people react differently around you, you find that you are normally better off when dealing with humans than ever before.
+89. Spatially Aware
+Does not take detrimental firing modifiers
+Your Character can judge distances so well that you no longer have trouble shooting moving targets. It is only those modifiers that make hitting more difficult that are ignored. Those modifiers that are beneficial are still counted.
+90. Parent is Imperial Peer
+Soul + 2
+One of your parents is an Imperial Lord / Lady. They have a great amount of resources and contacts to call upon if required. You may very well want to keep this fact secret as it might be used against you.
+91. Genius
+Wit = 10. 2% on every Skill increase.
+Who can say what being a genius is? You can see things much quicker than anyone else and can pick up just about anything  much quicker than anyone else. Add 2% on top of any addition to a Skill advance either by Roleplaying Points or by instantaneous GM increase.
+92. Lightening Speed
+Shift = 10, Battle + 2, always wins the initiative
+You have incredible natural speed, almost bionic! You always win the initiative and also can not be caught by surprise by anyone in a fight.
+93. Expert Listener
+You are exceptional at hearing what people say and then understanding the hidden undertones. When talking to NPCs, if you feel that the Gamesmaster is not giving the full story, do a Soul check and on a pass, the Gamesmaster must give the subtext or state if there is a subtext or not. Sometimes NPCs do tell the truth! Can be used once a Session.
+94. Born Warrior
+Shift = 10, Battle = 10
+You are the best at hand to hand combat there is. You can have combos up to 7, improvise up to 4 and are not restrained by any problems such as no 2-combos in a row. Have Rail Fighting at 30%.
+95. Inspirational
+Soul = 10.
+You have a positive affect on the people around you to such a great degree that they perform better when you help out. Whenever you are engaged in a task with other people nearby, those characters get +1 to their Attribute checks and +10% to Skill checks.
+96. Overlord
+You have someone watching that will not allow you to come to any harm. You’re not sure they exist but will help you at times of need. The Gamesmaster will create an NPC they can use in times of need. It’s not something you can control.
+97. Last Action Hero
+There is something unreal about the cavalier way in which you lead your life. It’s not luck, instead you are surrounded by a sort of aura by which the universe itself is rooting for you.
+Once per session, during an action sequence (such as combat) you may say “I don’t think so” to the GM and whatever nasty thing was about to happen to you will not happen. This can only be used for you, not any other character. Examples include not taking any damage, the enemy running out of ammo at the worst possible time, losing the initiative and so on.
+98. I’ve Done This On Gaia
+Your Character has spent a lot of time in very accurate Gaia simulations and a lot of it has rubbed off. Not only have you picked up lots of parts of Skills but you are able to recall them on a whim when in tight situations. When you are faced with an action and do not have a Skill for it, make Soul and Wit checks, if both pass then you can perform the action just once. If presented with the same problem again, you have to roll again.
+99. That Bastard Everyone Hates to Love
+Battle = 10, Shift = 10, Meat = 10, Wit = 10, Soul = 3
+You’re exceptionally talented. Intelligent, attractive, strong, fast and good in a fight. You are the pinacle of human evolution. You are that which everyone aspires to be. The only caveat is that you may not raise your Attributes through RP, only with bionics. You can’t buy this Psychotheatric off.
+100. Genus 3	
+Psyonics
+You have psyonics and you can control them on a simple level. By practising you can improve your psyonics. You get to control what gets triggered but the GM will decide the outcome. See Evolution on page 59.
+

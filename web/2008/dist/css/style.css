@@ -1,0 +1,83 @@
+body::before {
+    background-size: cover;
+    background-attachment: fixed;
+    content: '';
+    will-change: transform;
+    z-index: -1;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    position: fixed;
+}
+
+@media (max-width: 512px)  and (-webkit-min-device-pixel-ratio: 1.5),
+       (max-width: 512px)  and (min-resolution: 1.5dppx),
+       (max-width: 1024px) and (-webkit-max-device-pixel-ratio: 1.5),
+       (max-width: 1024px) and (max-resolution: 1.5dppx) {
+  body::before {
+    background-image: url('../img/background-small.jpg');
+  }
+}
+
+@media (min-width: 513px)  and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5),
+       (min-width: 513px)  and (max-width: 1024px) and (min-resolution: 1.5dppx),
+       (min-width: 1025px) and (max-width: 2048px) and (-webkit-max-device-pixel-ratio: 4),
+       (min-width: 1025px) and (max-width: 2048px) and (max-resolution: 4dppx)  {
+  body::before {
+    background-image: url('../img/background-large7.jpg');
+  }
+}
+
+body {
+	font-family: 'Helvetica', sans-serif;
+}
+
+.mdl-card__media {
+	box-sizing: border-box;
+    background-size: cover;
+    padding: 24px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    cursor: pointer;
+}
+
+.mdl-card__media h3 {
+	margin:0;
+	color:white;
+}
+
+.core-rules .mdl-card__media {
+	background-image:url('../img/core-rules.jpg');
+	min-height:349px;
+
+}
+
+.fleet-setting .mdl-card__media {
+  background-image:url('../img/fleet-setting.jpg');
+  min-height:349px;
+}
+
+.equipment-index .mdl-card__media {
+  background-image:url('../img/equipment-index.jpg');
+  min-height:349px;
+}
+
+.mdl-layout__content section {
+	max-width: 960px;
+}

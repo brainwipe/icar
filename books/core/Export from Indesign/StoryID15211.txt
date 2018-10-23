@@ -1,0 +1,4 @@
+Weapon	BF	Dmg	R/T	Mag	Ammo
+Rifle	30	40	20	40	5.5P
+Grenade			3	3	LVG
+

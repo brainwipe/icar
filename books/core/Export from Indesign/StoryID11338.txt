@@ -1,0 +1,1 @@
+The Scavenger Setting Relationship Diagram at the start of play. Bold lines are allies, dotted are enemies. Arrowheads indicate direction of control.
