@@ -21,6 +21,11 @@ module.exports = {
         display: 'minimal-ui',
       },
     },
+    {
+      resolve: `@wapps/gatsby-plugin-material-ui`,
+      options: {
+      },
+    },
     'gatsby-plugin-react-helmet',
     `gatsby-transformer-remark`,
     'gatsby-plugin-offline',
