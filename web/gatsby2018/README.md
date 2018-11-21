@@ -1,97 +1,210 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
 
-Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need. 
+# Icar Gatsby Material Design Website 2018
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+## Running
+- Clone locally
+- Run `gatsby develop`
+- Surf to http://localhost:8000
 
-## 🚀 Quick start
+## To do
+Setup [disqus](https://disqus.com//)
 
-1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+# Material Starter Info below
 
-    ```sh
-    # create a new Gatsby site using the default starter
-    npx gatsby new my-default-starter
-    ```
+A blog starter with Material design in mind for [Gatsby](https://github.com/gatsbyjs/gatsby/).
 
-1.  **Start developing.**
+[Demo website.](https://vagr9k.github.io/gatsby-material-starter/)
 
-    Navigate into your new site’s directory and start it up.
+## GatsbyJS V2
 
-    ```sh
-    cd my-default-starter/
-    gatsby develop
-    ```
+This starter is based on GatsbyJS V2, which brings progressive web app features such as automatic code and data splitting (by route), prefetching, with service worker/offline-first support and PRPL pattern.
 
-1.  **Open the source code and start editing!**
+More information in the [announcement](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
-    Your site is now running at `http://localhost:8000`!
-    
-    *Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).*
-    
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-    
-## 🧐 What's inside?
+NOTE: You can access the v1 version of the starter via the [`v1` branch](https://github.com/Vagr9K/gatsby-material-starter/tree/v1).
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+## Features
 
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    ├── README.md
-    └── yarn.lock
+- Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
+- [React-MD](https://github.com/mlaursen/react-md) for Material design
+  - Integrated FontAwesome support
+  - Integrated Material Icons support
+- SASS/SCSS styling
+- [NetlifyCMS](https://www.netlifycms.org/docs/intro/) support for creating/editing posts via admin panel
+- Separate components for everything
+- High configurability:
+  - User information
+  - User social profiles
+  - Copyright information
+  - More!
+- Author segment
+  - Name
+  - Location
+  - Description
+  - Links
+  - Follow Me button
+- Posts in Markdown
+  - Code syntax highlighting
+  - Embedded YouTube videos
+  - Embedded Tweets
+- Tags
+  - Separate page for posts under each tag
+- Categories
+  - Separate page for posts under each category
+- Suggested posts segment
+- Disqus support
+  - Notifications about new disqus comments
+- Responsive design
+  - On mobile, Disqus is loaded only after expanding comments for better performance
+- Social features
+  - Twitter tweet button
+  - Facebook share/share count
+  - Reddit share/share count
+  - Google+ share button
+  - LinkedIn share button
+  - Telegram share button
+- SEO
+  - Sitemap generation
+  - robots.txt
+  - General description tags
+  - Schema.org JSONLD (Google Rich Snippets)
+  - OpenGraph Tags (Facebook/Google+/Pinterest)
+  - Twitter Tags (Twitter Cards)
+- RSS feeds
+- Loading progress for slow networks
+- Offline support
+- Web App Manifest support
+- Automatic image transformation and size optimization
+- Netlify deploy configuration
+- Google Analytics support
+- Development tools
+  - ESLint for linting
+  - Prettier for code style
+  - Remark-Lint for linting Markdown
+  - write-good for linting English prose
+  - gh-pages for deploying to GitHub pages
+  - CodeClimate configuration file and badge
 
-  1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.  
-  
-  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-  
-  3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
-  
-  4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
-  
-  5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
-  
-  6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
-  
-  7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
-  
-  8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
-  
-  9.  **`LICENSE`**: Gatsby is licensed under the MIT license.
-  
-  10.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
-  
-  11.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-  
-  12.  **`README.md`**: A text file containing useful reference information about your project.
-  
-  13.  **`yarn.lock`**: [Yarn](https://yarnpkg.com/) is a package manager alternative to npm. You can use either yarn or npm, though all of the Gatsby docs reference npm.  This file serves essentially the same purpose as `package-lock.json`, just for a different package management system.
+NOTE: Take a look at [gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) if you prefer building UI from scratch and/or only interested in fundamental features.
 
-## 🎓 Learning Gatsby
+You can also visit [my personal blog](https://vagr9k.me) if you want to see a fully implemented blog based on this starter.
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+![Article Screenshot](docs/screenshot-article.png)
+![Mobile Screenshot](docs/screenshot-mobile.png)
 
--   **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+Showcase of NetlifyCMS:
 
--   **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+![Netlify Admin Dashboard](docs/netlifyadmin-main.png)
+![Netlify Admin Post Editing](docs/netlifyadmin-edit.png)
 
-## 💫 Deploy
+## Getting Started
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed and updated) by running from your CLI:
+
+```sh
+gatsby new YourProjectName https://github.com/Vagr9K/gatsby-material-starter
+npm install # or yarn install
+npm run develop # or gatsby develop
+```
+
+Or you can fork the project, make your changes there and merge new features when needed.
+
+Alternatively:
+
+```sh
+git clone https://github.com/Vagr9K/gatsby-material-starter YourProjectName # Clone the project
+cd YourProjectname
+rm -rf .git # So you can have your own changes stored in VCS.
+npm install # or yarn install
+npm run develop # or gatsby develop
+```
+
+## Configuration
+
+Edit the export object in `data/SiteConfig`:
+
+```js
+module.exports = {
+  siteTitle: "Gatsby Material Starter", // Site title.
+  siteTitleShort: "GM Starter", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "GatsbyJS Material Starter", // Alternative site title for SEO.
+  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
+  pathPrefix: "/gatsby-material-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
+  siteDescription: "A GatsbyJS stater with Material design in mind.", // Website description used for RSS feeds/meta description tag.
+  siteRss: "/rss.xml", // Path to the RSS file.
+  siteFBAppID: "1825356251115265", // FB Application ID for using app insights
+  siteGATrackingID: "UA-47311644-4", // Tracking code ID for google analytics.
+  disqusShortname: "https-vagr9k-github-io-gatsby-material-starter", // Disqus shortname.
+  postDefaultCategoryID: "Tech", // Default category for posts.
+  dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
+  dateFormat: "DD/MM/YYYY", // Date format for display.
+  userName: "Material User", // Username to display in the author segment.
+  userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
+  userLocation: "North Pole, Earth", // User location to display in the author segment.
+  userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
+  userDescription:
+    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+  // Links to social profiles/projects you want to display in the author segment/navigation bar.
+  userLinks: [
+    {
+      label: "GitHub",
+      url: "https://github.com/Vagr9K/gatsby-material-starter",
+      iconClassName: "fa fa-github"
+    },
+    {
+      label: "Twitter",
+      url: "https://twitter.com/Vagr9K",
+      iconClassName: "fa fa-twitter"
+    },
+    {
+      label: "Email",
+      url: "mailto:vagr9k@gmail.com",
+      iconClassName: "fa fa-envelope"
+    }
+  ],
+  copyright: "Copyright © 2017. Material User" // Copyright string for the footer of the website and RSS feed.
+};
+```
+
+You can also optionally set `pathPrefix`:
+
+```js
+module.exports = {
+  // Note: it must *not* have a trailing slash.
+  pathPrefix: "/gatsby-material-starter" // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+};
+```
+
+NOTE: `user*`, `disqusShortname` and `copyright` are optional and won't render if omitted.
+
+WARNING: Make sure to edit `static/robots.txt` to include your domain for the sitemap!
+
+## NetlifyCMS
+
+First of all, make sure to edit `static/admin/config.yml` and add your [GitHub/GitLab/NetlifyId credentials](https://www.netlifycms.org/docs/authentication-backends/):
+
+```yml
+backend:
+  name: github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
+  branch: master # Branch to update
+  repo: vagr9k/gatsby-material-starter # Repo for pushing new commits. Make sure to replace with your repo!
+```
+
+You can visit `/admin/` after and will be greeted by a login dialog (depending on the auth provider you ave chosen above).
+
+For NetlifyCMS specific issues visit the [official documentation](https://www.netlifycms.org/docs/intro/).
+
+## Theming
+
+Edit `src/layout/theme.scss` to suit your needs.
+You can use [Material color palette](https://react-md.mlaursen.com/customization/colors) provided by React-MD.
+
+```css
+@import "~react-md/src/scss/react-md";
+$md-primary-color: $md-grey-400;
+$md-secondary-color: $md-red-800;
+$md-tertiary-color: $md-grey-300;
+```
