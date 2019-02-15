@@ -4,6 +4,8 @@ title: "Air grenades - where you should stop worrying about the science"
 date: "16/01/23"
 originalUrl: "https://icarrpg.blogspot.com/2016/01/air-grenades-where-you-should-stop.html"
 slug: "/blog/2016/01/air-grenades-where-you-should-stop"
+category: "v4"
+cover: ""
 tags:
     - technology
     - science

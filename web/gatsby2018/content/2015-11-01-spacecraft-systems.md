@@ -4,6 +4,8 @@ title: "Spacecraft systems"
 date: "15/11/01"
 originalUrl: "https://icarrpg.blogspot.com/2015/11/spacecraft-systems.html"
 slug: "/blog/2015/11/spacecraft-systems"
+category: "v4"
+cover: ""
 tags:
     - technology
     - spacecraft

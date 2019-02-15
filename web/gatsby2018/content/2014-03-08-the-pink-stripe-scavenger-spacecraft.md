@@ -4,6 +4,8 @@ title: "The Pink Stripe - scavenger spacecraft"
 date: "14/03/08"
 originalUrl: "https://icarrpg.blogspot.com/2014/03/the-pink-stripe-scavenger-spacecraft.html"
 slug: "/blog/2014/03/the-pink-stripe-scavenger-spacecraft"
+category: "v4"
+cover: ""
 tags:
     - jpeg
     - free

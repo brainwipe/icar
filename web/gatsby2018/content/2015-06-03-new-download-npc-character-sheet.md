@@ -4,6 +4,8 @@ title: "New Download: NPC Character sheet"
 date: "15/06/03"
 originalUrl: "https://icarrpg.blogspot.com/2015/06/new-download-npc-character-sheet.html"
 slug: "/blog/2015/06/new-download-npc-character-sheet"
+category: "v4"
+cover: ""
 tags:
     - free
     - resources

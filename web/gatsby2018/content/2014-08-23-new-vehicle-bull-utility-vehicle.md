@@ -4,6 +4,8 @@ title: "New vehicle: The Bull utility vehicle"
 date: "14/08/23"
 originalUrl: "https://icarrpg.blogspot.com/2014/08/new-vehicle-bull-utility-vehicle.html"
 slug: "/blog/2014/08/new-vehicle-bull-utility-vehicle"
+category: "v4"
+cover: ""
 tags:
     - image
     - jpeg

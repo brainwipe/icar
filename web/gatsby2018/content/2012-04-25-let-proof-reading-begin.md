@@ -4,6 +4,8 @@ title: "Let the proof reading begin!"
 date: "12/04/25"
 originalUrl: "https://icarrpg.blogspot.com/2012/04/let-proof-reading-begin.html"
 slug: "/blog/2012/04/let-proof-reading-begin"
+category: "v4"
+cover: ""
 tags:
     - lulu
     - layout

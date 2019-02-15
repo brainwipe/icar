@@ -4,6 +4,8 @@ title: "Why are there no alien races in the Icar universe?"
 date: "12/07/06"
 originalUrl: "https://icarrpg.blogspot.com/2012/07/why-are-there-no-alien-races-in-icar.html"
 slug: "/blog/2012/07/why-are-there-no-alien-races-in-icar"
+category: "v4"
+cover: ""
 tags:
     - aliens
     - design

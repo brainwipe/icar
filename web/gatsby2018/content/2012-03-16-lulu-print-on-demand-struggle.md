@@ -4,6 +4,8 @@ title: "The Lulu print on demand struggle"
 date: "12/03/16"
 originalUrl: "https://icarrpg.blogspot.com/2012/03/lulu-print-on-demand-struggle.html"
 slug: "/blog/2012/03/lulu-print-on-demand-struggle"
+category: "v4"
+cover: ""
 tags:
 ---
 For an RPG to be considered high quality, it needs to be properly proof read and edited. If you can afford a professional proof read through then it is worth its weight in gold as it will take your game to a high level of quality. It doesn't matter how flash your images are - if the grammar is poor, spelling rubbish and there are typos everywhere then people are going to assume your game is of poor quality. To convince someone to play your free RPG, you have to strive to make it as high quality as you can.  

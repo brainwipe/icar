@@ -4,6 +4,8 @@ title: "Droid Mk7 - a colonial factory turned destroyer"
 date: "15/01/15"
 originalUrl: "https://icarrpg.blogspot.com/2015/01/droid-mk7-colonial-factory-turned.html"
 slug: "/blog/2015/01/droid-mk7-colonial-factory-turned"
+category: "v4"
+cover: ""
 tags:
     - droid
     - image

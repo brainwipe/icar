@@ -4,6 +4,8 @@ title: "Information, privacy and the law in Icar"
 date: "13/11/12"
 originalUrl: "https://icarrpg.blogspot.com/2013/11/information-privacy-and-law-in-icar.html"
 slug: "/blog/2013/11/information-privacy-and-law-in-icar"
+category: "v4"
+cover: ""
 tags:
     - Imperium
     - sensor

@@ -4,6 +4,8 @@ title: "Version 5 - Space combat progress update"
 date: "18/02/23"
 originalUrl: "https://icarrpg.blogspot.com/2018/02/version-5-space-combat-progress-update.html"
 slug: "/blog/2018/02/version-5-space-combat-progress-update"
+category: "v4"
+cover: ""
 tags:
     - rules
     - update

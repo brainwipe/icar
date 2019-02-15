@@ -4,6 +4,8 @@ title: "New Website Live"
 date: "12/03/04"
 originalUrl: "https://icarrpg.blogspot.com/2012/03/new-website-live.html"
 slug: "/blog/2012/03/new-website-live"
+category: "v4"
+cover: ""
 tags:
 ---
 The new Icar website has gone live. It comes from a [long line of websites](http://www.icar.co.uk/archive/pagehistory.php) dating back to 1996. The aim of this new site is to simplify it and to make it easy for people to get at the downloads. Now that there are only two downloads (the core rules and equipment), that's done nicely with a slider on the main page.  

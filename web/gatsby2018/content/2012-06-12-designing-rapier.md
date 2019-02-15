@@ -4,6 +4,8 @@ title: "Designing the Rapier"
 date: "12/06/12"
 originalUrl: "https://icarrpg.blogspot.com/2012/06/designing-rapier.html"
 slug: "/blog/2012/06/designing-rapier"
+category: "v4"
+cover: ""
 tags:
     - image
     - design

@@ -4,6 +4,8 @@ title: "Going off-grid in Icar"
 date: "14/02/12"
 originalUrl: "https://icarrpg.blogspot.com/2014/02/going-off-grid-in-icar.html"
 slug: "/blog/2014/02/going-off-grid-in-icar"
+category: "v4"
+cover: ""
 tags:
     - Imperium
     - setting

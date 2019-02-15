@@ -4,6 +4,8 @@ title: "An example of the graphics going not-so-well"
 date: "14/12/29"
 originalUrl: "https://icarrpg.blogspot.com/2014/12/an-example-of-graphics-going-not-so-well.html"
 slug: "/blog/2014/12/an-example-of-graphics-going-not-so-well"
+category: "v4"
+cover: ""
 tags:
     - droid
     - design

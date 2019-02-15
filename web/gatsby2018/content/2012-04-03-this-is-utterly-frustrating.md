@@ -4,6 +4,8 @@ title: "The Lulu print on demand struggle continues"
 date: "12/04/03"
 originalUrl: "https://icarrpg.blogspot.com/2012/04/this-is-utterly-frustrating.html"
 slug: "/blog/2012/04/this-is-utterly-frustrating"
+category: "v4"
+cover: ""
 tags:
 ---
 This is utterly frustrating. [Lulu](http://www.icar.co.uk) have failed to print Icar again. Each time I lose a week waiting for them to try and print, fail, wait 3 days for feedback, then do an update to the PDF and so on. Months are rolling by and there is nothing I can do.  
