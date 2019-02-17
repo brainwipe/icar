@@ -1,7 +1,25 @@
 import React from "react"
+import { StaticQuery } from "gatsby";
+import "./layout.css"
+
 
 export default ({ children }) => (
-    <div>
-        {children}
-    </div>
+    <StaticQuery
+        query={graphql`
+        query {
+          site {
+            siteMetadata {
+              title
+            }
+          }
+        }
+      `}
+        render={data => (
+    
+            <div>
+                <h1>{data.site.siteMetadata.title}</h1>
+                {children}
+            </div>
+        )}
+    />
 )
