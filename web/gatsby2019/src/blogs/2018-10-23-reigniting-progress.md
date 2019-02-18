@@ -21,7 +21,7 @@ Time away from an activity can give you the opportunity to look at what you were
 
 ## Back to basics... sort of
 
-I read the core rules again, cover to cover. My wife's red pen along with my own notes. I scribbled some old designs and made notes in my notebooks. The game isn't very easy to read; layout and language could do with a lot of improvement. I wanted so desperately to be different from other books, that I stepped too far from what is effective.  <div class="separator" style="clear: both; text-align: center;">[![](https://imgur.com/pb6wSOh.jpg)](https://imgur.com/pb6wSOh.jpg)</div> I've decided to open source all of Icar - text, 3D models, pictures, everything. To do that will take a fair amount of effort but it's a goal with an end that I can see. I will get to fix things along the way - such as the Mex buildings and some of the vehicles I never really liked.  
+I read the core rules again, cover to cover. My wife's red pen along with my own notes. I scribbled some old designs and made notes in my notebooks. The game isn't very easy to read; layout and language could do with a lot of improvement. I wanted so desperately to be different from other books, that I stepped too far from what is effective. ![A tabletop with the old v4 rules print out, a scribble of new rules ideas and notebooks](./images/reignitingprogress.jpg) I've decided to open source all of Icar - text, 3D models, pictures, everything. To do that will take a fair amount of effort but it's a goal with an end that I can see. I will get to fix things along the way - such as the Mex buildings and some of the vehicles I never really liked.  
 
 ## Keep track of my progress!
 

@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "Icar Free TTRPG Website",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "The website for the Icar tabletop RPG",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "gatsby": "^2.1.4",
+    "gatsby-plugin-sharp": "^2.0.20",
+    "gatsby-remark-images": "^3.0.4",
     "gatsby-source-filesystem": "^2.0.20",
     "gatsby-transformer-remark": "^2.2.5",
     "react": "^16.8.2",
@@ -20,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/brainwipe/icar"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/brainwipe/icar/issues"
   }
 }

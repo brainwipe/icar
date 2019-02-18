@@ -15,7 +15,6 @@ export default ({ children }) => (
         }
       `}
         render={data => (
-    
             <div>
                 <h1>{data.site.siteMetadata.title}</h1>
                 {children}
