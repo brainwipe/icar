@@ -12,7 +12,9 @@ tags:
     - background
     - hacking
 ---
-<div class="separator" style="clear: both; text-align: center;">[![](https://imgur.com/BDnrx3K.png)](https://imgur.com/BDnrx3K.png)</div>Hacking is good fun. As virtual worlds bleed into and augment the real world, the amount of fun you can have increases. In Icar, reality and the virtual seep into each other seamlessly such that inventive hacking can cause chaos in the real world. There are limits to what can be hacked and in this post we explore why.  
+![A busy city street with text hovering over vehicles](https://imgur.com/BDnrx3K.png)
+
+Hacking is good fun. As virtual worlds bleed into and augment the real world, the amount of fun you can have increases. In Icar, reality and the virtual seep into each other seamlessly such that inventive hacking can cause chaos in the real world. There are limits to what can be hacked and in this post we explore why.  
 
 ## What is Gaia?
 
@@ -43,7 +45,12 @@ Critical systems are protected by being able to generate billions of Entities ve
 
 ## Hacking examples
 
-*   Change the Gaia representation of your car into an ambulance, other traffic will give you right of way. Convince a security systems that you are allowed into that secure room. Steal hidden documents. Delete security footage of you shooting that bad guy (for the common good). Change all the holographic adverts for a company to a dancing banana, this would appear in the real world too. Make a derelict colony look thriving by hacking the Gaia representation and filling it with fake entities.  
+* Change the Gaia representation of your car into an ambulance, other traffic will give you right of way. 
+* Convince a security systems that you are allowed into that secure room. 
+* Steal hidden documents. 
+* Delete security footage of you shooting that bad guy (for the common good). 
+* Change all the holographic adverts for a company to a dancing banana, this would appear in the real world too. 
+* Make a derelict colony look thriving by hacking the Gaia representation and filling it with fake entities.  
 
 ## Campaign Ideas
 

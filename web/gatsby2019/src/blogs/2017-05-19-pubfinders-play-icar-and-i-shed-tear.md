@@ -19,7 +19,9 @@ I've been struggling to keep motivation on Version 5. With kids in the house (Fe
 
 ## Pubfinders play Icar
 
-<iframe src="https://player.twitch.tv/?video=v143666790&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>[Watch live video from Pubfinders on www.twitch.tv](https://www.twitch.tv/pubfinders?tt_medium=live_embed&tt_content=text_link) I know that others have played. [DOC Argen](http://www.1km1kt.net/forum/viewforum.php?f=34&sid=46d3cbb54e006c33573afe50f1e8468d) on the forums is part of a group that plays and his feedback has always brought about a flurry of output. After Chris from Pubfinders kindly tweeted me:  
+<iframe src="https://player.twitch.tv/?video=v143666790&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+[Watch live video from Pubfinders on www.twitch.tv](https://www.twitch.tv/pubfinders?tt_medium=live_embed&tt_content=text_link) I know that others have played. [DOC Argen](http://www.1km1kt.net/forum/viewforum.php?f=34&sid=46d3cbb54e006c33573afe50f1e8468d) on the forums is part of a group that plays and his feedback has always brought about a flurry of output. After Chris from Pubfinders kindly tweeted me:  
 
 > Thanks to Rob Lang [@IcarRPG](https://twitter.com/IcarRPG) for the excellent F2P RPG system. We [@PubfindersPC](https://twitter.com/PubfindersPC) just did our first Icar live stream [https://t.co/8vDDUIrjx4](https://t.co/8vDDUIrjx4)
 > — AWinnerIsChris (@AWinnerIsChris) [May 15, 2017](https://twitter.com/AWinnerIsChris/status/864146215683993601)

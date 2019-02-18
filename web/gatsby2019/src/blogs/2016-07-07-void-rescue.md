@@ -13,7 +13,9 @@ tags:
     - skeleton
     - space
 ---
-![](https://2.bp.blogspot.com/-134v-T3Utc4/V37NkCgyOII/AAAAAAACIIs/xVIEeToalR8QedviKbmvXPvQB50v9t3xQCLcB/s1600/voidrescuelogo.jpg "The Void Rescue Logo - a planet with rings and an arrow through it and their motto - Safely Home")Void Rescue is the space rescue service. If your spacecraft has broken down, you can call Void Rescue to come and help. With over 1 million spacecraft across all Human Occupied Space, their yellow and black stripes are instantly recognisable and affectionately known as *Bees*. The crews are highly trained engineers, who can help find problems with your spacecraft. Most trade spacecraft have Void Rescue insurance cover and some colonies require it before awarding a trade contract.  
+![Void rescue logo, a yellow planet with a white arrow cut into it and black rings. Their motto "Safely Home" is below.](./images/voidrescuelogo.jpg)
+
+Void Rescue is the space rescue service. If your spacecraft has broken down, you can call Void Rescue to come and help. With over 1 million spacecraft across all Human Occupied Space, their yellow and black stripes are instantly recognisable and affectionately known as *Bees*. The crews are highly trained engineers, who can help find problems with your spacecraft. Most trade spacecraft have Void Rescue insurance cover and some colonies require it before awarding a trade contract.  
 
 ## Service Levels
 
@@ -25,7 +27,16 @@ Void Rescue do offer cover for Droid Space but they do not guarantee to get to y
 
 ## Pricing
 
-The more you pay up-front, the cheaper it will be overall.  <table> <thead><tr><td>Contract</td><td>Location</td><td>Price</td></tr></thead> <tbody>  <tr><td>5 years in advance</td><td>Human Occupied Space</td><td>500,000</td></tr>  <tr><td>1 year in advance</td><td>Human Occupied Space</td><td>200,000</td></tr>  <tr><td>Immediate pickup (no payment in advance)</td><td>Human Occupied Space</td><td>300,000</td></tr>  <tr><td>1 year in advance</td><td>Droid Space</td><td>1,300,000</td></tr>  <tr><td>Immediate pickup</td><td>Droid Space</td><td>2,000,000</td></tr> </tbody></table> 
+The more you pay up-front, the cheaper it will be overall. 
+
+|Contract|Location|Price|
+|--- |--- |--- |
+|5 years in advance|Human Occupied Space|500,000|
+|1 year in advance|Human Occupied Space|200,000|
+|Immediate pickup (no payment in advance)|Human Occupied Space|300,000|
+|1 year in advance|Droid Space|1,300,000|
+|Immediate pickup|Droid Space|2,000,000|
+
 
 ## Response times
 
@@ -33,7 +44,9 @@ In Human Occupied Space, a Void Rescue craft will be with you within 10 hours. I
 
 ## Temporary Equipment
 
-Not only does a Bee carry a large number of spares, they also carry specialised equipment for making your spacecraft (anything smaller than a hulk) go far enough to get to a star dock. Anything included in the diagram on the [Spacecraft Systems](http://icarrpg.blogspot.co.uk/2015/11/spacecraft-systems.html) blog post can be temporarily replaced.  ![](https://4.bp.blogspot.com/-YcRSSLb8euU/V37EvTdSACI/AAAAAAACIIY/Alv-MRx1lIEbwQn2PdxHnwgiNeVj1SX_wCLcB/s600/voidbee.jpg "The Void Bee, a simple stripey spacraft fill with helpful engineers.") 
+Not only does a Bee carry a large number of spares, they also carry specialised equipment for making your spacecraft (anything smaller than a hulk) go far enough to get to a star dock. Anything included in the diagram on the [Spacecraft Systems](../2015-11-01-spacecraft-systems) blog post can be temporarily replaced.  
+
+![The void bee is a yellow and black striped ship, largely utilitarian looking](./images/voidbee.jpg) 
 
 ## The Gaia show: The Hive
 
@@ -51,11 +64,20 @@ Void Rescue Engineers can make great engineers for you space based campaign. Sch
 
 ### Suggested Attributes
 
-*   Wit: 5 
+* Wit: 5 
 
 ### Skills
 
-*   Gaia Know  Pilot Heavy Grav Pilot Cruiser Zero-G Operations (5 x Shift) + 3D10 Spacecraft Know (6 x Wit) + 3D10 Spacecraft Systems (5 x Wit) + 2D10 Energy Know (3 x Wit) + 4D10 Energy Systems Wit + 2D10 Mechasys Know (5 x Wit) + 2D10 Mechasys Systems (3 x Wit) + D10 
+* Gaia Know  
+* Pilot Heavy Grav 
+* Pilot Cruiser 
+* Zero-G Operations (5 x Shift) + 3D10 
+* Spacecraft Know (6 x Wit) + 3D10 
+* Spacecraft Systems (5 x Wit) + 2D10 
+* Energy Know (3 x Wit) + 4D10 
+* Energy Systems Wit + 2D10 
+* Mechasys Know (5 x Wit) + 2D10 
+* Mechasys Systems (3 x Wit) + D10 
 
 ### Starting Equipment
 
