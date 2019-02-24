@@ -16,7 +16,7 @@ tags:
     - TAFAC
     - armour
 ---
-![Work in progress Fleet powered armour](./fleet-tafac-wip.jpg)
+![Work in progress Fleet powered armour](./images/fleet-tafac-wip.jpg)
 
 > Troopers are the foot soldiers of the Imperial Star Fleet. Popular culture like to think of a Fleet Trooper as an unthinking mechanical grunt and the media perpetuates this view. It hides the truth that Troopers are highly trained and *better educated* than the general public. While being an effective and tactical fighting force, they retain their humour, pride and humanity; the Fleet has long since recognised that removing a Trooper's humanity reduces their ability to innovate and think laterally to solve problems.
 
