@@ -12,7 +12,9 @@ tags:
     - image
     - design
 ---
-<div class="separator" style="clear: both; text-align: center;">[![](http://4.bp.blogspot.com/-c65HbVynelo/VJF52DdbNLI/AAAAAAAAQak/Lv2egH57Ya0/s1600/Droid%2BMk%2B3%2BEvolution%2Bfrom%2B1999%2Bto%2B2014.jpg)](http://4.bp.blogspot.com/-c65HbVynelo/VJF52DdbNLI/AAAAAAAAQak/Lv2egH57Ya0/s1600/Droid%2BMk%2B3%2BEvolution%2Bfrom%2B1999%2Bto%2B2014.jpg)</div>A problem with any mature homebrew system is that it doesn't necessarily mature at the same rate you do. I [started](http://www.icar.co.uk/archive/history.php) Icar when I was 14 years old: mutants, guns, killer robots, warrior monks, more guns were all prime features. As I grew up, so did the game, settling on its core mechanics in 1996. Since then, the largest change has been Space Combat (which got more complex then less complex) and Hacking (which got less complex).  
+![The evolution of the Droid Mark 3 in pictures, the early model had bigger guns and was simplified, the most recent is mean looking!](./images/droid-mk3-evolution-1999-to-2014.jpg)
+
+A problem with any mature homebrew system is that it doesn't necessarily mature at the same rate you do. I [started](http://www.icar.co.uk/archive/history.php) Icar when I was 14 years old: mutants, guns, killer robots, warrior monks, more guns were all prime features. As I grew up, so did the game, settling on its core mechanics in 1996. Since then, the largest change has been Space Combat (which got more complex then less complex) and Hacking (which got less complex).  
 
 I believe that if the ethos of the game's background is strong enough, you can swap out the mechanics without too much harm. DnD has done that successfully for years. You might not like the mechanics on any given iteration but the DnD ethos of background and core concepts remains familiar enough to be called DnD. I've even (semi-jokingly) suggested swapping out *all* the Icar mechanics for the lightweight [Shared Pool](http://www.thefreerpgblog.com/p/my-games.html); just to see if it was still fun to play.  
 
@@ -30,6 +32,6 @@ Icar began life on a Zenith 2Mhz PC, single colour (yellow Hercules monitor) wit
 
 While working on the Fleet Setting book ([check my progress on Trello](https://trello.com/b/46BJhlX1/icar-the-sci-fi-rpg)), I have been detailing the Droids and I'm up to the Mk 5 (the Droid pod). The Droid pod is a one-use spacecraft for delivering a clutch of Droids to a planet's surface. I wanted to start the model by clustering together a clutch of Mk3 Droids (my favourites) and building around them.  
 
-Then I started to see the errors in the model and began fixing them. I finished four hours later. To help you understand why I had to change it, I've put together an image that points out what I see when I look at a render. You might need to click through to the large image as the details can be subtle. Icar's rulebooks are all created at 600DPI and downsized to 300DPI for the PDF, you'll see them at 300DPI.  
+![Although simnilar looking, the September 2014 Droid Mk 3 has a number of strange rendered facets I could never get rid of](./images/droid-mk3-comparison.jpg)
 
-[![](http://3.bp.blogspot.com/-GmgNcvaJEiQ/VJF52kXhJPI/AAAAAAAAQao/H4EM-JSbULA/s600/Droid-Mk3-Errors-and-Comparison.jpg)](http://3.bp.blogspot.com/-GmgNcvaJEiQ/VJF52kXhJPI/AAAAAAAAQao/H4EM-JSbULA/s1600/Droid-Mk3-Errors-and-Comparison.jpg)
+Then I started to see the errors in the model and began fixing them. I finished four hours later. To help you understand why I had to change it, I've put together an image that points out what I see when I look at a render. You might need to click through to the large image as the details can be subtle. Icar's rulebooks are all created at 600DPI and downsized to 300DPI for the PDF, you'll see them at 300DPI.  

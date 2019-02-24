@@ -24,7 +24,7 @@ If I have something ready to start when I sit down then I am much more productiv
 
 ### Trello
 
-[![](http://3.bp.blogspot.com/-26CZjzXvfcU/VUfdHAv4dVI/AAAAAAABObQ/yGbiQMZ1fEY/s1600/trello-example.png "Trello - it's a list organisation app that I couldn't live without")](https://trello.com/b/46BJhlX1/icar-the-sci-fi-rpg-www-icar-co-uk)  
+![Trello - it's a list organisation app that I couldn't live without](./images/trello-2015-may.png)
 
 [Trello](https://trello.com/b/46BJhlX1/icar-the-sci-fi-rpg-www-icar-co-uk) is a way to organise everything. You arrange cards into lists, each card is a "thing to do". Cards can store lots of information such as lists, images, links, text and so much more. I arrange my lists by areas of Icar that I want to work on. The Fleet Setting, being the most important thing I have, so it gets its own list. Two of the lists are a bit special: **Done Since...** and **Just Ideas**. Done Since has all the cards that are complete since a certain date (in the title); It's important for me to see that because it's a track of progress. Just Ideas is where I put things I don't want to forget but don't want cluttering up my brain. Trello also has a mobile app; I use it to organise what I do in a given week. You might find useful for capturing ideas. I prefer my notebook for that...  
 
@@ -32,7 +32,7 @@ If I have something ready to start when I sit down then I am much more productiv
 
 I always carry a notebook (Moleskines). Touching pen to paper is an immediate pleasure and I find that I write far more notes and doodles with it. Yes, my smarthphone can do all of that but I find it much easier this way. My notebooks contain everything; lyrics, new words, equations, diagrams, Christmas lists, rule ideas, quotes, scribbles, cartoon and Icar ideas. Here's a snap of the notebook page for some experiments in the Fleet Setting front page:  
 
-![](http://2.bp.blogspot.com/-2UV2Fy9pv2c/VUfhNunNkzI/AAAAAAABObc/hTnw6vShdJ8/s1600/notebook-fleet-cover.jpg "How do I put Droids, Troopers, Stones and everything on a single image?")  
+![How do I put Droids, Troopers, Stones and everything on a single image?](./images/notebook-fleet-cover.jpg)  
 
 It's a lot less tidy looking in the flesh. At the end of a notebook (if I don't wash it), I go through an number the pages, and create and index. I don't think it's entirely necessary but I have found that useful. 
 
@@ -40,10 +40,11 @@ It's a lot less tidy looking in the flesh. At the end of a notebook (if I don't 
 
 I prefer a top-down strategy for sorting out my rulebooks. I write out all the topic headings, then sub headings and finally work on the content itself. If there is something I get stuck on, rather than spend time mulling it over, I'll either make an entry in Trello or put a bunch of "XXXXXXX" in there. I can then move on, knowing that I will search for "XXXXXXX" before I send the document out. For example, below is the entry in for the Trooper timeline chart:  
 
-<div style="margin:0 auto">![](http://3.bp.blogspot.com/-J4PwAkrECMs/VUfjSDzFa6I/AAAAAAABObo/v_FGFlWG-Es/s1600/trooper-timeline-as-XXXX.jpg "Trooper timeline appears as a bunch of XXXXXs in the rules")</div>  
+![Trooper timeline appears as a bunch of XXXXXs in the rules](./images/fleet-trooper-timeline-as-XXXX.jpg)
+
 That's been in there for about 2 years! Now I am going back through the rules, I add the graphic in:  
 
-<div style="margin:0 auto">![](http://1.bp.blogspot.com/-M71EREP4c4Y/VUfjtvq6RZI/AAAAAAABObw/fUyE6-5qnuQ/s1600/trooper-timeline.jpg "The Trooper timeline as an infographic")</div> 
+![The Trooper timeline as a vertical scale infographic](./images/fleet-trooper-timeline.jpg)
 
 ## What's next?
 

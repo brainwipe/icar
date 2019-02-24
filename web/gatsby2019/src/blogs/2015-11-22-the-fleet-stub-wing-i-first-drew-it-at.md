@@ -14,15 +14,15 @@ tags:
 ---
 Icar has grown up with [my friends and I](http://www.icar.co.uk/archive/history.php). A collective hallucination that has become more detailed (and complex) with each passing year. There are still strong echoes from the early days: infectious mutant-zombies, killer robots and [lots of big guns](http://www.rpgnow.com/product/133598/Icar-Equipment-Index). One thing that has morphed only slightly is the Fleet's Stub Wing. Here's my latest render showing it at full thrust (click for a biggy).  
 
-[![](http://3.bp.blogspot.com/-0-d0V1TIKr8/VlGUAJoa9yI/AAAAAAAB8Qk/OwhIc-CZEFs/s1600/Stub%2BWing%2BThrust.jpg)](http://3.bp.blogspot.com/-0-d0V1TIKr8/VlGUAJoa9yI/AAAAAAAB8Qk/OwhIc-CZEFs/s1600/Stub%2BWing%2BThrust.jpg) 
+![Stub wing fighter with its raw energy thrust](./images/stub-wing-thrust.jpg)
 
 ## From 1998 to 2015
 
 My first scribble was in pencil and paper around 1991 but I've since lost that folder with all my original drawings in. I did a 3D model in 1996 but that died on a hard-drive so the oldest incarnation I have of the Stub Wing is from 1998 - and I still have the 3D model for it! Here is old (left) and new (right) side by side.   
 
-[![](http://1.bp.blogspot.com/-Ee6Y-e2FHCg/VlGX_VuhRiI/AAAAAAAB8Qw/F84CZ8nybr8/s1600/sw%2Bold%2Band%2Bnew.jpg)](http://1.bp.blogspot.com/-Ee6Y-e2FHCg/VlGX_VuhRiI/AAAAAAAB8Qw/F84CZ8nybr8/s1600/sw%2Bold%2Band%2Bnew.jpg)  
+![Wireframe outlines of the old stub wing and new. The old one has a lot less detail.](./images/sw-old-and-new.jpg) 
 
-It's easy to see how far my 3D modelling has come, although it can be pretty painful sharing the old models. Here they are without the polygon lines. [![](http://2.bp.blogspot.com/-xZsWLwn-8QM/VlGZXdCJGhI/AAAAAAAB8Q8/7bycIWgSuaQ/s1600/sw%2Bold%2Band%2Bnew%2Bno%2Blines.jpg)](http://2.bp.blogspot.com/-xZsWLwn-8QM/VlGZXdCJGhI/AAAAAAAB8Q8/7bycIWgSuaQ/s1600/sw%2Bold%2Band%2Bnew%2Bno%2Blines.jpg)  
+It's easy to see how far my 3D modelling has come, although it can be pretty painful sharing the old models. Here they are without the polygon lines. ![The old and new stub wing, the old one looks blocky and simplified](./images/sw-old-and-new-no-lines)
 
 The spikes that stick out of the back are the energy thrust vectors. The idea was that all that thrust forced from the back would go in all directions, so you need an energy field to try and contain it. In turn, that energy field would need some strong emitters and that's where the spikes come from. In the original model, the spikes were fixed but in the new one I have them all rigged up so that they can move around.  
 

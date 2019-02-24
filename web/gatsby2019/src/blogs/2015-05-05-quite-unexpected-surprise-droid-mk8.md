@@ -15,7 +15,9 @@ I probably shouldn't be posting this so soon but I'm really excited! I've manage
 
 > The Mark 8 is the final word in colony cleaning. At 150m tall and 50m wide, the the Mark 8 is designed to peel apart even the most stubborn subsurface colonies and inject Droids from inside. The hardened shell closes to form a smooth pill and using energy fields and a billion microscopic claws, it can burrow into colony and Orbital alike. Some later variant Mark 8s have also been known to burrow into the shells of Orbs but this is exceptionally rare.
 
- I will do some more renders with it in a city so that you can gauge the size of it. Its width will allow it to scythe through Mex cities without much problem. I've rendered it in its "perfect" state, I imagine that as soon as they get anywhere near dirt, dust and gunfire the pristine outside would soon become marked.  <div class="separator" style="clear: both; text-align: center;">![](http://3.bp.blogspot.com/-QN22KFDdE5E/VUkx5SN5KoI/AAAAAAABOcg/Xdthx_Bhgl8/s1600/Mk8-preview.jpg "The pill shaped Mark 8 with a long thin line down its centre.")</div> 
+ I will do some more renders with it in a city so that you can gauge the size of it. Its width will allow it to scythe through Mex cities without much problem. I've rendered it in its "perfect" state, I imagine that as soon as they get anywhere near dirt, dust and gunfire the pristine outside would soon become marked.  
+ 
+ ![The pill shaped Mark 8 with a long thin line down its centre.](./images/droid-mk8-preview.jpg)
 
 ## The best bit
 

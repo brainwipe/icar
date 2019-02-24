@@ -13,7 +13,9 @@ tags:
     - pdf
     - download
 ---
-[![](http://4.bp.blogspot.com/-NJI8Ok_4F0g/VW9-k0BcYaI/AAAAAAABPqQ/8DVndiE9e8w/s1600/npcsheet.jpg "An empty sheet, PDF hosted on Google Drive")](https://drive.google.com/file/d/0B2ThEbOVGt78dkF1X2oyejIzRDA/view?usp=sharing)What is the bare minimum you need to know for an NPC? Well, it depends... it depends on how much time the characters are going to spend talking with the NPC. Sometimes a single sentence is enough, or a few adjectives. There's usually a name. There is a point where you need to start collecting more information about the NPC and that's where character cards and NPC sheets coming.  
+[![An empty sheet, PDF hosted on Google Drive](./images/sheet-npc.jpg)](https://drive.google.com/file/d/0B2ThEbOVGt78dkF1X2oyejIzRDA/view?usp=sharing)
+
+What is the bare minimum you need to know for an NPC? Well, it depends... it depends on how much time the characters are going to spend talking with the NPC. Sometimes a single sentence is enough, or a few adjectives. There's usually a name. There is a point where you need to start collecting more information about the NPC and that's where character cards and NPC sheets coming.  
 
 ## Character cards
 
@@ -23,7 +25,9 @@ A character card is a playing-card sized *player handout* with a picture of the 
 
 For NPCs that become a regular fixture, you need a little more. Consistency in their abilities, initiative order and skills is vital in making the character appear real. Now you could use the normal character sheets for this task but the amount of paper you'll be carrying around might get out of hand really quickly. Instead, I have created a cut-down version of the character sheet for use with the NPCs.  
 
-[![](http://2.bp.blogspot.com/-LUUN8x7bJuk/VW9-FCHyl-I/AAAAAAABPqI/3S3vmHcd8P4/s1600/hollybridgesnpc.jpg "Holly Bridges NPC character sheet with Key Skills, Attributes and only the Deviant that matters")](http://2.bp.blogspot.com/-LUUN8x7bJuk/VW9-FCHyl-I/AAAAAAABPqI/3S3vmHcd8P4/s1600/hollybridgesnpc.jpg)The strangest thing about the character sheet is the empty deviant wheel. Pick four pairs of deviant entries that you think best apply to the character and fill just those in. Check out the example that I am including the up-and-coming Fleet Setting, a Stone (dropship) pilot called Holly Bridges (don't worry, no spoilers there).  
+![Holly Bridges NPC character sheet with Key Skills, Attributes and only the Deviant that matters](./images/sheet-npc-hollybridges.jpg)
+
+The strangest thing about the character sheet is the empty deviant wheel. Pick four pairs of deviant entries that you think best apply to the character and fill just those in. Check out the example that I am including the up-and-coming Fleet Setting, a Stone (dropship) pilot called Holly Bridges (don't worry, no spoilers there).  
 
 ## Design note - YAGNI
 

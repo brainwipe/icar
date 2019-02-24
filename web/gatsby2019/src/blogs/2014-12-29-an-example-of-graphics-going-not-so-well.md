@@ -17,11 +17,14 @@ I want to show you how my art can go quite wrong. I'm currently working on the D
 
  So I started with 8 Droids Mk3s facing outwards. Even if a few are mashed in the landing, there's plenty there to ruin the day of a player team of Troopers. I began by arranging the Droids in a circle and then built the pod around them using lots of octagon sections and cloning in a circle. I stopped when I got this far:  
 
-<div class="separator" style="clear: both; text-align: center;">[![](http://3.bp.blogspot.com/-6NF2P1L57xw/VKHBjJLm7WI/AAAAAAAAQcU/pVE9AGVsnkE/s400/Droid%2Bpod%2B-%2Btoo%2BWH40k.jpg)](http://3.bp.blogspot.com/-6NF2P1L57xw/VKHBjJLm7WI/AAAAAAAAQcU/pVE9AGVsnkE/s1600/Droid%2Bpod%2B-%2Btoo%2BWH40k.jpg)</div>  
+![My first attempt at the mk6 had the angular octagon feel of a Warhammer 40K drop pod](./images/droid-mk6-fail.jpg)
+
 It had the right kind of feel to it but looked a little too much like this:  
 
-<div class="separator" style="clear: both; text-align: center;">[![](http://1.bp.blogspot.com/-ruRFD2o2ljk/VKHBzfbW63I/AAAAAAAAQcc/kXjOIsnAPLI/s400/Space%2BWolves%2BDrop%2Bpod%2Bclosed.jpg)  
- Image from the Space Warp blog](http://fromthewarp.blogspot.co.uk/2010/05/space-wolf-drop-pod-and-comic.html)</div>  
+![The Warhammer 40K drop pod](./images/wh40k-space-wolves-drop-pod.jpg)
+  
+ Image from the Space Warp blog](http://fromthewarp.blogspot.co.uk/2010/05/space-wolf-drop-pod-and-comic.html)
+
  Which is a Warhammer 40K [Space Marine Drop Pod](http://warhammer40k.wikia.com/wiki/Drop_Pod). I know I can't invent everything afresh but I think my model cuts a bit too close to the bone on this one.  
 
 ## Stop, salvage, start again

@@ -13,7 +13,9 @@ tags:
     - download
     - equipment index
 ---
-[![The Bull, a bullet shaped utility vehicle in yellow with black chevrons.](https://lh6.googleusercontent.com/-wWQdZqdxJbk/U_jlii6Kt1I/AAAAAAAAAL0/DsJp5DiAS0s/s400/Bull%2Band%2Bspacecrate.JPG)](http://rpg.drivethrustuff.com/product/133598/Icar-Equipment-Index)The Bull is a ubiquitous utility vehicle found across human occupied space. It attaches onto a huge variety of rear sections, making it extremely versatile. [Get it in the free, updated Equipment Index on DriveThruRPG](http://rpg.drivethrustuff.com/product/133598/Icar-Equipment-Index).  
+![The Bull, a bullet shaped utility vehicle in yellow with black chevrons.](./images/vehicle-bull.jpg)
+
+The Bull is a ubiquitous utility vehicle found across human occupied space. It attaches onto a huge variety of rear sections, making it extremely versatile. [Get it in the free, updated Equipment Index on DriveThruRPG](http://rpg.drivethrustuff.com/product/133598/Icar-Equipment-Index).  
 
 The size of the Bull is ideal for use within a Mex city; while not being too small to fit a powerful set of generators and a Grav engine. Orbit capability and a ubiquity means that it fills and important gap in the Icar universe that has been missing for a very long time. If your group are up to any dodgy shinanigans then you can't go far wrong with a Bull, they are everywhere and the vast majority are yellow with black stripes!   
 

@@ -24,7 +24,7 @@ I thought I could leave that on a back burner but my hand was called recently wh
 
 Spacecraft share many of the properties of other vehicles. They have an energy web for transferring power, provided by the main generators. They have artificial intelligence, Grav engines, Grav plates an so on. Most importantly, spacecraft include the means to travel between stars. This is the different between a Heavy Grav and a Spacecraft. If your Light Jump Engine is broken what you have is a Heavy Grav, not a spacecraft! Below is a diagram of all the main systems on a modern spacecraft (click for a larger image).  
 
-[![](http://3.bp.blogspot.com/-r51670AMdfw/VjaaepGciDI/AAAAAAAB7vY/NbHd9MoINww/s1600/spacecraftsystems.jpg)](http://3.bp.blogspot.com/-r51670AMdfw/VjaaepGciDI/AAAAAAAB7vY/NbHd9MoINww/s1600/spacecraftsystems.jpg)  
+![A diagram with all the technical pieces explained below linked by the single energy web](./images/spacecraftsystems.jpg)
 
 ### The Energy Web
 
