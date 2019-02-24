@@ -13,11 +13,13 @@ tags:
     - amour
     - TAFAC
 ---
-[![](http://1.bp.blogspot.com/-xgZVSIotCas/UPLKvprSnjI/AAAAAAAAKjU/yrnp8WDQXTU/s400/TAFAC.jpg)](http://1.bp.blogspot.com/-xgZVSIotCas/UPLKvprSnjI/AAAAAAAAKjU/yrnp8WDQXTU/s1600/TAFAC.jpg)I have been hammering our Icar today, thanks to me dear wife who has disappeared out with my son, Felix. Only with a quiet house and clear plan of what I wanted to achieve would anything get done. Nothing new has been released but by getting over some of these jobs-that-needed-to-be-done means that working on Icar in the evenings is more plain sailing. Here's what I've been up to...  
+![Fleet trooper power armour, a soft outer shell](./images/fleet-tafac.jpg)
+
+I have been hammering our Icar today, thanks to me dear wife who has disappeared out with my son, Felix. Only with a quiet house and clear plan of what I wanted to achieve would anything get done. Nothing new has been released but by getting over some of these jobs-that-needed-to-be-done means that working on Icar in the evenings is more plain sailing. Here's what I've been up to...  
 
 ## Created the Google+ Page
 
-It appears that there are many more roleplayers on Google+ than there are on Facebook, so I've been wanting to carve out a [Google+ page](https://plus.google.com/b/101167212141043946609/101167212141043946609) for a long time! I will be posting new images up onto the Plus group as well as Facebook.  
+It appears that there are many more roleplayers on Google+ than there are on Facebook, so I've been wanting to carve out a *Google+ page* for a long time! I will be posting new images up onto the Plus group as well as Facebook.  
 
 ## Moved Fleet Setting into InDesign
 
@@ -36,5 +38,4 @@ I have not been able to track downloads of Icar for about 8 years. I moved over 
 ## Added a description to the main web page
 
 It really needed a bit of text to say what Icar was all about. Not only to satisfy the tastes of the web crawlers but also to help those who have never been to the site before.  
-
 What would you like to see next from the Icar stable? Is there anything that is crying out to be done?

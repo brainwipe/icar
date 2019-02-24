@@ -47,8 +47,14 @@ No. But do I need to be completely ready before next Tuesday? Probably not!
 That running a campaign will give me a kick up the bum to stop playing Minecraft and do some creating. I work well with against aggressive deadline and manage to find time where previously there had been none.  
 
 What gets you fired up to create? Let me know in the comments.
+
 ## Comments
 
 Yeah man, GO!  
+Nothing gets progress flowing like an upcoming game!
 
-Nothing gets progress flowing like an upcoming game!by _Emmetthttps://www.blogger.com/profile/10181742401138402473noreply@blogger.com_ on 08 March 2013Thanks mate. I think there is a sizeable difference between having to create something for the sake of it and people relying on you to get it right. It's out gaming evening, it's got to be good!by _Rob Langhttps://www.blogger.com/profile/01377928640392467606noreply@blogger.com_ on 08 March 2013
+by _Emmett_ on 08 March 2013
+
+Thanks mate. I think there is a sizeable difference between having to create something for the sake of it and people relying on you to get it right. It's out gaming evening, it's got to be good!
+
+by _Rob Lang_ on 08 March 2013

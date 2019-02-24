@@ -19,6 +19,3 @@ I have set up a [Twitter account](http://www.twitter.com/icarrpg) for Icar. I wi
 ## New website in the works
 
 I have been working on a brand new website, which will arrive before version 4. Core to the new page will be a blog that will serve as a news feed. I will be creating Facebook and Google+ pages too so that I can become better integrated with fans.
-## Comments
-
-An example comment while I sort out the skinby _Rob Langhttps://www.blogger.com/profile/01377928640392467606noreply@blogger.com_ on 04 March 2012
