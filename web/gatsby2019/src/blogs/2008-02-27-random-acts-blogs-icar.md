@@ -6,9 +6,9 @@ slug: "/blog/2008/02/random-acts-blogs-icar"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
+    forum
+    support
+    web
     blogs
 ---
 [Aaron](http://mythadvocate.blogspot.com/2008/01/homebrew-icar.html), over on [Random Acts](http://mythadvocate.blogspot.com/2008/01/homebrew-icar.html). He gives a nice description of the setting (he rightly notes being the best thing about Icar) and includes some of the stock pictures. Go and check it out.
