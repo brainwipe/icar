@@ -1,11 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
+import TitleLogo from "../img/title-logo.svg"
+import IcarTitle from "../img/front-splash-text.svg"
 
 export default () => (
     <Layout>
         <div class="header">
             <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
-                <a class="pure-menu-heading" href=".">Icar</a>
+                <a href="#">
+                    <img class="icar-title-logo" src={TitleLogo} height="30px"/>
+                </a>
 
                 <ul class="pure-menu-list">
                     <li class="pure-menu-item pure-menu-selected"><a href="#a" class="pure-menu-link">Home</a></li>
@@ -17,7 +21,8 @@ export default () => (
 
         <div class="splash-container">
             <div class="splash">
-                <h1 class="splash-head">ICAR</h1>
+                <img src={IcarTitle} width="100%"/>
+
                 <p class="splash-subhead">
                 Icar is a free science fiction tabletop RPG where you zip between the stars, battle killer Droids and subvert a benevolent Imperium        </p>
                 <p>

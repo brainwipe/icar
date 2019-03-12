@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "gatsby": "^2.1.4",
-    "gatsby-plugin-react-helmet": "^3.0.7",
+    "gatsby-plugin-react-helmet": "^3.0.9",
     "gatsby-plugin-sharp": "^2.0.22",
     "gatsby-remark-images": "^3.0.5",
     "gatsby-source-filesystem": "^2.0.20",
