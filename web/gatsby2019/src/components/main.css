@@ -161,7 +161,7 @@ html, button, input, select, textarea,
 
 /* This is the subheading that appears on the blue section */
 .splash-subhead {
-    color: #000033;
+    color: #000000;
     /*letter-spacing: 0.05em;*/
     text-shadow: 0px -1px 0px rgba(255,255,255,.4); 
     font-weight:600;
@@ -205,7 +205,7 @@ html, button, input, select, textarea,
 
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
-    color: #1f8dd6;
+    color: #000033;
 }
     .content-subhead i {
         margin-right: 7px;
@@ -213,14 +213,15 @@ html, button, input, select, textarea,
 
 /* This is the class used for the dark-background areas. */
 .ribbon {
-    background: #2d3e50;
-    color: #aaa;
+    background: #000033;
+    color: #ddddfe;
 }
 
 /* This is the class used for the footer */
 .footer {
-    background: #111;
+    background: #000033;
     position: fixed;
+    color:#ddddfe;
     bottom: 0;
     width: 100%;
 }

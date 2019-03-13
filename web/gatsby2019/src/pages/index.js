@@ -2,89 +2,86 @@ import React from "react"
 import Layout from "../components/layout"
 import TitleLogo from "../img/title-logo.svg"
 import IcarTitle from "../img/front-splash-text.svg"
+import CoreRules from "../img/icar-core-rules.jpg"
+import PlayerHandouts from "../img/icar-equipment-index.jpg"
+import FleetSetting from "../img/icar-fleet-setting.jpg"
 
 export default () => (
     <Layout>
-        <div class="header">
-            <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <div className="header">
+            <div className="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
                 <a href="#">
-                    <img class="icar-title-logo" src={TitleLogo} height="30px"/>
+                    <img className="icar-title-logo" src={TitleLogo} height="30px"/>
                 </a>
 
-                <ul class="pure-menu-list">
-                    <li class="pure-menu-item pure-menu-selected"><a href="#a" class="pure-menu-link">Home</a></li>
-                    <li class="pure-menu-item"><a href="#downloads" class="pure-menu-link">Downloads</a></li>
-                    <li class="pure-menu-item"><a href="#c" class="pure-menu-link"></a></li>
+                <ul className="pure-menu-list">
+                    <li className="pure-menu-item pure-menu-selected"><a href="#a" className="pure-menu-link">Home</a></li>
+                    <li className="pure-menu-item"><a href="#downloads" className="pure-menu-link">Downloads</a></li>
+                    <li className="pure-menu-item"><a href="#c" className="pure-menu-link"></a></li>
                 </ul>
             </div>
         </div>
-
-        <div class="splash-container">
-            <div class="splash">
+ 
+        <div className="splash-container">
+            <div className="splash">
                 <img src={IcarTitle} width="100%"/>
 
-                <p class="splash-subhead">
+                <p className="splash-subhead">
                 Icar is a free science fiction tabletop RPG where you zip between the stars, battle killer Droids and subvert a benevolent Imperium        </p>
                 <p>
-                    <a href="#downloads" class="pure-button pure-button-primary">Download Now</a>
+                    <a href="#downloads" className="pure-button pure-button-primary">Download Now</a>
                 </p>
             </div>
         </div>
         
         <a name="downloads"></a>
-        <div class="content-wrapper">
-            
-            <div class="content">
-                <h2 class="content-head is-center">Downloads</h2>
-
-                <div class="pure-g">
-                    <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-
-                        <h3 class="content-subhead">
-                            <i class="fa fa-rocket"></i>
-                            Get Started Quickly
+        <div className="content-wrapper">
+            <div className="content">
+                <h2 className="content-head is-center">Downloads</h2>
+                <div className="pure-g">
+                    <div className="pure-u-1 pure-u-md-1-3 pure-u-lg-1-3 is-center l-box">
+                        <a href="https://www.drivethrurpg.com/product/133597/Icar">
+                            <img src={CoreRules} />
+                        </a>
+                        <h3 className="content-subhead">
+                            <a href="https://www.drivethrurpg.com/product/133597/Icar">Core Rules</a>
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            Everything you need to play; rules, background and setting. 96 pages. 
                         </p>
                     </div>
-                    <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                        <h3 class="content-subhead">
-                            <i class="fa fa-mobile"></i>
-                            Responsive Layouts
+                    <div className="pure-u-1 pure-u-md-1-3 pure-u-lg-1-3 is-center l-box">
+                        <a href="https://www.drivethrurpg.com/product/133598/Icar-Equipment-Index">
+                            <img src={PlayerHandouts} />
+                        </a>
+                        <h3 className="content-subhead">
+                            <a href="https://www.drivethrurpg.com/product/133598/Icar-Equipment-Index">Player Handouts</a>
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            Weapons, vehicles, spacecraft. All ready to print, fold and hand out. 
                         </p>
                     </div>
-                    <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                        <h3 class="content-subhead">
-                            <i class="fa fa-th-large"></i>
-                            Modular
+                    <div className="pure-u-1 pure-u-md-1-3 pure-u-lg-1-3 is-center l-box">
+                        <a href="https://www.drivethrurpg.com/product/171424/Icar-Fleet-Setting">
+                            <img src={FleetSetting} />
+                        </a>
+                        <h3 className="content-subhead">
+                            <a href="https://www.drivethrurpg.com/product/171424/Icar-Fleet-Setting">Fleet Setting</a>
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
-                        </p>
-                    </div>
-                    <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                        <h3 class="content-subhead">
-                            <i class="fa fa-check-square-o"></i>
-                            Plays Nice
-                        </h3>
-                        <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            A military sourcebook, battle robots in bionics and powered armour. 
                         </p>
                     </div>
                 </div>
             </div>
 
-            <div class="ribbon l-box-lrg pure-g">
-                <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-                    <img width="300" alt="File Icons" class="pure-img-responsive" src="img/common/file-icons.png" />
+            <div className="ribbon l-box-lrg pure-g">
+                <div className="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+                    <img width="300" alt="File Icons" className="pure-img-responsive" src="img/common/file-icons.png" />
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+                <div className="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-                    <h2 class="content-head content-head-ribbon">Laboris nisi ut aliquip.</h2>
+                    <h2 className="content-head content-head-ribbon">Laboris nisi ut aliquip.</h2>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -94,30 +91,30 @@ export default () => (
                 </div>
             </div>
 
-            <div class="content">
-                <h2 class="content-head is-center">Dolore magna aliqua. Uis aute irure.</h2>
+            <div className="content">
+                <h2 className="content-head is-center">Dolore magna aliqua. Uis aute irure.</h2>
 
-                <div class="pure-g">
-                    <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
-                        <form class="pure-form pure-form-stacked">
+                <div className="pure-g">
+                    <div className="l-box-lrg pure-u-1 pure-u-md-2-5">
+                        <form className="pure-form pure-form-stacked">
                             <fieldset>
 
-                                <label for="name">Your Name</label>
+                                <label htmlFor="name">Your Name</label>
                                 <input id="name" type="text" placeholder="Your Name" />
 
 
-                                <label for="email">Your Email</label>
+                                <label htmlFor="email">Your Email</label>
                                 <input id="email" type="email" placeholder="Your Email" />
 
-                                <label for="password">Your Password</label>
+                                <label htmlFor="password">Your Password</label>
                                 <input id="password" type="password" placeholder="Your Password" />
 
-                                <button type="submit" class="pure-button">Sign Up</button>
+                                <button type="submit" className="pure-button">Sign Up</button>
                             </fieldset>
                         </form>
                     </div>
 
-                    <div class="l-box-lrg pure-u-1 pure-u-md-3-5">
+                    <div className="l-box-lrg pure-u-1 pure-u-md-3-5">
                         <h4>Contact Us</h4>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -136,7 +133,7 @@ export default () => (
 
             </div>
 
-            <div class="footer l-box is-center">
+            <div className="footer l-box is-center">
                 View the source of this layout to learn more. Made with love by the YUI Team.
     </div>
 

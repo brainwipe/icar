@@ -3,6 +3,7 @@ import { StaticQuery, graphql } from "gatsby"
 import { Helmet } from "react-helmet"
 import "./pure-min.css"
 import "./main.css"
+import "./grids-responsive.min.css"
 
 export default ({ children }) => (
     <StaticQuery
