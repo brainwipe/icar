@@ -217,6 +217,14 @@ html, button, input, select, textarea,
     color: #ddddfe;
 }
 
+.ribbon a {
+    color:#d1af52;
+}
+
+.ribbon a:hover {
+    color:#eed389;
+}
+
 /* This is the class used for the footer */
 .footer {
     background: #000033;
