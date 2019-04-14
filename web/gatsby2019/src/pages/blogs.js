@@ -5,18 +5,17 @@ import Layout from "../components/layout"
 export default ({ data }) => {
     return (
         <Layout>
-          <div className="blog-wrapper">
-            <div className="content">
+          <div className="blog-wrapper pure-g">
+            <div className="content pure-u-1 pure-u-md-1-2">
             <h1>Blogs</h1>
             {data.allMarkdownRemark.edges.map(({ node }) => (
               <section key={node.frontmatter.slug}>
                 <header>
                   <h2><Link to={node.frontmatter.slug}>{node.frontmatter.title}</Link></h2>
                   <p>{node.frontmatter.date}</p>
-
-                </header>
+               </header>
                 <div>
-                  <p>{node.excerpt}</p>
+                  <p>{node.excerpt} <Link to={node.frontmatter.slug}>more...</Link></p>
                </div>
               </section>
               ))}
@@ -36,7 +35,7 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date
+            date(formatString: "Do MMMM YYYY")
             slug
           }
           excerpt(pruneLength:250)

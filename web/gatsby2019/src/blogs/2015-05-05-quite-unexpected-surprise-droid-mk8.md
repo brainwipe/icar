@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2015/05/quite-unexpected-surprise-droid-mk8"
 title: "Quite the unexpected surprise: Droid Mk8 complete!"
-date: "15/05/05"
+date: "2015-05-05"
 originalUrl: "https://icarrpg.blogspot.com/2015/05/quite-unexpected-surprise-droid-mk8.html"
 slug: "/blogs/2015/05/quite-unexpected-surprise-droid-mk8"
 category: "v4"

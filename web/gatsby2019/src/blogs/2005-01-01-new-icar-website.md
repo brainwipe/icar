@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/01/new-icar-website"
 title: "New Icar website"
-date: "05/01/01"
+date: "2005-01-01"
 slug: "/blogs/2005/01/new-icar-website"
 category: "web"
 cover: ""

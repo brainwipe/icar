@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2008/03/equipment-index-version-7-released"
 title: "Equipment Index Version 7 Released"
-date: "08/03/01"
+date: "2008-03-01"
 slug: "/blogs/2008/03/equipment-index-version-7-released"
 category: "v3"
 cover: ""

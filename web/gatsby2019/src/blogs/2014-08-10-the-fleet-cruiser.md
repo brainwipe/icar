@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2014/08/the-fleet-cruiser"
 title: "The Fleet Cruiser"
-date: "14/08/10"
+date: "2014-08-10"
 originalUrl: "https://icarrpg.blogspot.com/2014/08/the-fleet-cruiser.html"
 slug: "/blogs/2014/08/the-fleet-cruiser"
 category: "v4"

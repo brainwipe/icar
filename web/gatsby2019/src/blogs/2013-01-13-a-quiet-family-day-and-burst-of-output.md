@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2013/01/a-quiet-family-day-and-burst-of-output"
 title: "A quiet family day and a burst of output!"
-date: "13/01/13"
+date: "2013-01-13"
 originalUrl: "https://icarrpg.blogspot.com/2013/01/a-quiet-family-day-and-burst-of-output.html"
 slug: "/blogs/2013/01/a-quiet-family-day-and-burst-of-output"
 category: "v4"

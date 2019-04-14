@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2012/02/version-4-beta-released"
 title: "Version 4 Beta released"
-date: "12/02/20"
+date: "2012-02-20"
 originalUrl: "https://icarrpg.blogspot.com/2012/02/version-4-beta-released.html"
 slug: "/blogs/2012/02/version-4-beta-released"
 category: "v4"

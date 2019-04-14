@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/04/pbp-on-salroth"
 title: "Icar PBP to begin over in Salroth"
-date: "05/04/07"
+date: "2005-04-07"
 slug: "/blogs/2005/04/pbp-on-salroth"
 category: "web"
 cover: ""

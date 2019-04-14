@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2006/09/icar-out-there-in-the-net"
 title: "Icar is out there in the net"
-date: "06/09/20"
+date: "2006-09-20"
 slug: "/blogs/2006/09/icar-out-there-in-the-net"
 category: "web"
 cover: ""

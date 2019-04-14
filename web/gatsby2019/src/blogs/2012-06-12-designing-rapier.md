@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2012/06/designing-rapier"
 title: "Designing the Rapier"
-date: "12/06/12"
+date: "2012-06-12"
 originalUrl: "https://icarrpg.blogspot.com/2012/06/designing-rapier.html"
 slug: "/blogs/2012/06/designing-rapier"
 category: "v4"

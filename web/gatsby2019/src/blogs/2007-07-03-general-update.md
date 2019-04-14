@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2007/08/general-update"
 title: "General Update"
-date: "07/08/03"
+date: "2007-08-03"
 slug: "/blogs/2007/08/general-update"
 category: "v4"
 cover: ""

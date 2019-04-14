@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2015/06/work-in-progress-fleet-setting-front"
 title: "Work in progress - the Fleet Setting front page"
-date: "15/06/22"
+date: "2015-06-22"
 originalUrl: "https://icarrpg.blogspot.com/2015/06/work-in-progress-fleet-setting-front.html"
 slug: "/blogs/2015/06/work-in-progress-fleet-setting-front"
 category: "v4"

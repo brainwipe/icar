@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2010/04/version4-progress"
 title: "Version 4 Progress"
-date: "10/04/09"
+date: "2010-04-09"
 slug: "/blogs/2010/04/version4-progress"
 category: "v4"
 cover: ""

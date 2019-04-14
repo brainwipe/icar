@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2015/05/fleet-setting-progress-report-and-how-i"
 title: "Fleet Setting progress report and how I stay motivated"
-date: "15/05/04"
+date: "2015-05-04"
 originalUrl: "https://icarrpg.blogspot.com/2015/05/fleet-setting-progress-report-and-how-i.html"
 slug: "/blogs/2015/05/fleet-setting-progress-report-and-how-i"
 category: "v4"

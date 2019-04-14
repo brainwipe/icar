@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/10/wiki-online-growing"
 title: "Wiki Online and Growing"
-date: "05/10/11"
+date: "2005-10-11"
 slug: "/blogs/2005/10/wiki-online-growing"
 category: "web"
 cover: ""

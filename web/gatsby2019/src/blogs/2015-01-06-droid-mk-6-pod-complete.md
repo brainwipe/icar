@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2015/01/droid-mk-6-pod-complete"
 title: "Droid Mk 6 (the pod) complete"
-date: "15/01/06"
+date: "2015-01-06"
 originalUrl: "https://icarrpg.blogspot.com/2015/01/droid-mk-6-pod-complete.html"
 slug: "/blogs/2015/01/droid-mk-6-pod-complete"
 category: "v4"

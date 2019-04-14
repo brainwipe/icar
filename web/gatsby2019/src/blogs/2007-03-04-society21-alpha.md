@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2007/03/society21-alpha"
 title: "Society 2.1 Alpha"
-date: "07/03/04"
+date: "2007-03-04"
 slug: "/blogs/2007/03/society21-alpha"
 category: "v3"
 cover: ""

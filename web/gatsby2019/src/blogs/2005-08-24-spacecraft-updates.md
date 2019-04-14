@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/08/spacecraft-updates"
 title: "Spacecraft Updates"
-date: "05/08/24"
+date: "2005-08-24"
 slug: "/blogs/2005/08/spacecraft-updates"
 category: "v3"
 cover: ""

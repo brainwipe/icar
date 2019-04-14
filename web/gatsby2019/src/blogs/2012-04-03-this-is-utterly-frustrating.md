@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2012/04/this-is-utterly-frustrating"
 title: "The Lulu print on demand struggle continues"
-date: "12/04/03"
+date: "2012-04-03"
 originalUrl: "https://icarrpg.blogspot.com/2012/04/this-is-utterly-frustrating.html"
 slug: "/blogs/2012/04/this-is-utterly-frustrating"
 category: "v4"

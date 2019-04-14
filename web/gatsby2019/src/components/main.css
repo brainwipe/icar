@@ -12,6 +12,7 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
+    background-color: #000033;
 }
 
 h1,
@@ -78,6 +79,9 @@ label {
 }
 .home-menu {
     background: #000033;
+    -webkit-box-shadow: 0px 4px 0px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 4px 0px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 4px 0px 0px rgba(0,0,0,0.2);
 }
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
@@ -179,6 +183,7 @@ html, button, input, select, textarea,
 .content {
     padding: 1em 1em 3em;
     margin:0 auto;
+    background:#fff
 }
 
 .index-wrapper {
@@ -198,6 +203,18 @@ html, button, input, select, textarea,
     letter-spacing: 0.1em;
     margin: 2em 0 1em;
 }
+
+.content h2 a {
+    text-decoration: none;
+}
+
+.content a {
+    color:#ad8d5c;
+}
+.content a:hover {
+    color:#997948;
+}
+
 
 /* This is a modifier class used when the content-head is inside a ribbon */
 .content-head-ribbon {

@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2017/05/pubfinders-play-icar-and-i-shed-tear"
 title: "Pubfinders play Icar and I shed a tear"
-date: "17/05/19"
+date: "2017-05-19"
 originalUrl: "https://icarrpg.blogspot.com/2017/05/pubfinders-play-icar-and-i-shed-tear.html"
 slug: "/blogs/2017/05/pubfinders-play-icar-and-i-shed-tear"
 category: "v4"

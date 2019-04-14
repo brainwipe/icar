@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2016/01/fleet-setting-released"
 title: "Fleet Setting Released"
-date: "16/01/18"
+date: "2016-01-18"
 originalUrl: "https://icarrpg.blogspot.com/2016/01/fleet-setting-released.html"
 slug: "/blogs/2016/01/fleet-setting-released"
 category: "v4"

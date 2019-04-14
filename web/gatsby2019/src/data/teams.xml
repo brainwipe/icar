@@ -1,0 +1,1779 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="teams.xsl"?>
+<teams>
+
+  <team>
+     <name>LTTPOOSF</name>
+     <ImperialStandardTime>
+       <start>90500</start>
+       <end>?</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1990/11/01</start>
+       <end>1994/11/01</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Mill Hill School</location>
+     <RuleVersion>1.0</RuleVersion>
+     <information>
+       <ooc>The very first Icar group, using hurriedly pencil drawn equipment index and character sheets from a dot matrix printer. Most missions involved battling Genus 2 mutants in Munchkin-like bloodbaths. Very little intrigue and mystery, very large guns. The group ended after a prolongued arms race, typical of any fledgling roleplay group.
+       </ooc>
+       <ic>Let's Take The Piss Out Of Star Fleet (LTTPOOSF) was a trooper squad that was partly adopted by Star Sci. Taken from the Trooper Unit 201 just before they were due to start active service, these three borderline psychopaths conducted more missions for the fleet than any other team. They eventually left the fleet to persue more Star Sci related tasks and acted as trouble shooters for them. Star Sci lavished attention on them in turn, providing all manner of wacky gadgets from huge space craft to a moon that could light-jump.<br/>
+LTTPOOSF should be best remembered for being the ones who implanted the AI virus on the Droid computer in 91622. The only member of the team that can be sure to be dead is Baldrick IV, whose body is spread around several colonies.
+       </ic>
+     </information>
+     <characters>
+       <character>
+         <name>Fish</name>
+         <player>Simon Aubury</player>
+         <type>SF Trooper</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+         <speciality>Weapon</speciality>
+         <information/>
+         <living>Unknown</living>
+       </character>
+       <character>
+         <name>Georgina</name>
+         <player>James Walker</player>
+         <type>SF Trooper</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+         <speciality>Weapon</speciality>
+         <information/>
+         <living>Unknown</living>
+       </character>
+       <character>
+         <name>Baldrick IV</name>
+         <player>Gareth Jones</player>
+         <type>SF Trooper</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+         <speciality>Weapon</speciality>
+         <information>
+            <ic>Often rescued from the jaws of death, this character was famed for having his right arm blown off.
+            </ic>
+         </information>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+
+  <team>
+     <name>Anonymous</name>
+     <ImperialStandardTime>
+       <start>91000</start>
+       <end>?</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1992/10/01</start>
+       <end>1994</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Mill Hill School</location>
+     <RuleVersion>1</RuleVersion>
+     <information>
+        <ooc>Little is known of this team except that they were a mission based group around the time of the Droid war.
+        </ooc>
+        <ic>No further info.
+        </ic>
+     </information>
+     <characters>
+       <character>
+         <name>Miranda</name>
+         <player>Simon Aubury</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>3</genus>
+         <speciality>Explosives</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Nemesis</name>
+         <player>James Walker</player>
+         <type>SF Special Forces</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+         <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Alex Davis</name>
+         <player>Gareth Jones</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+         <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+
+  <team>
+     <name>WHACPSWO</name>
+     <ImperialStandardTime>
+       <start>91000</start>
+       <end>91000</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1992/10</start>
+       <end>1993</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>2</RuleVersion>
+     <information>
+        <ooc>Taking Icar to the local games club that Rob had visited since he was 12 was a big step. He enlisted a number of new players that demonstrated that the system was far from watertight and that the original three players had only managed through their presence during adaption. Violence was still the key here with mission-led evenings.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Dave Emerald</name>
+         <player>Daniel Richtman</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Vixen</name>
+         <player>Simon Aubury</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Dritzl Do Urdon</name>
+         <player>Dougal Lichtmann</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Gotrek Doom Dwarf</name>
+         <player>James Walker</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>Diana Baldrick</name>
+         <player>Gareth Jones</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>No Name</name>
+         <player>Mark Shotter</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+
+  <team>
+     <name>Dogs of War</name>
+     <ImperialStandardTime>
+       <start>92024</start>
+       <end>92024</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>Oct 1993</start>
+       <end>Early 1994</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>2</RuleVersion>
+     <information/>
+     <characters>
+       <character>
+         <name>No Name</name>
+         <player>Simon Aubury</player>
+         <type>SF Special Forces</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Explosives</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Yvonne Heelan</name>
+         <player>Adam Williamson</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Razor</name>
+         <player>Fernando Vaz</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Worcester</name>
+         <player>Tony Di Fede</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>No Name</name>
+         <player>Keywan</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Pilot</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>No Name</name>
+         <player>Gareth Jones</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+
+  <team>
+     <name>Flaming Fists</name>
+     <ImperialStandardTime>
+       <start>92024</start>
+       <end>92024</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1994</start>
+       <end>1994</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>2</RuleVersion>
+     <information>
+        <ooc>
+        	Most noted for their connections with Star Sci, in which they tested all sorts of equipment and set up a night club called Utopia on Nibes Nomis 4 (SAY). 
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Eddie Vedan / Fixit</name>
+         <player>Adam Williamson</player>
+         <type>SF Trooper</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Atomic</name>
+         <player>Karl O'Brien</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Chance</name>
+         <player>Simon Crocker</player>
+         <player>Phil Caller</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Baal</name>
+         <player>Simon Aubury</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Chaplain</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Gerg</name>
+         <player>Gideon Moss</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Chaplain</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Shiva</name>
+         <player>Eduado Queralto</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Genocide</name>
+     <ImperialStandardTime>
+       <start>92025</start>
+       <end>92025</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1995/1</start>
+       <end>1995</end>
+     </RealTime>
+     <gamesmaster>Phil Caller</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>2</RuleVersion>
+     <information>
+        <ooc>
+        	Phil was the first person other than Rob to GM Icar (Star Fleet as it was known then). They were also the first (and last) to be given Devastator armour as Special Forces. This team was played in tandem with The Reapers and the actions of the team often influenced each other.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Reg Lazarus</name>
+         <player>Lucas Christodulu</player>
+         <type>SF Special Forces</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Boomer</name>
+         <player>Adam Williamson</player>
+         <type>SF Special Forces</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Explosives</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>William Bonny / Solo</name>
+         <player>Simon Crocker</player>
+         <type>SF Special Forces</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Bitch</name>
+         <player>Ursula Robinson</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Spanners</name>
+         <player>Eduado Queralto</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+
+  <team>
+     <name>The Reapers</name>
+     <ImperialStandardTime>
+       <start>92025</start>
+       <end>92025</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1995/1</start>
+       <end>1995</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>2</RuleVersion>
+     <information>
+        <ooc>
+        	This team was run along side Genocide and the actions of the Reapers often had knock on effects on Genocide.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Tessa / Shiva</name>
+         <player>Simon Aubury</player>
+         <type>SF Special Forces</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Explosives</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Alkie Holic / Jimbo Tackleberry</name>
+         <player>James Waller</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Bill Frankland</name>
+         <player>Gideon Moss</player>
+         <type>SF Special Forces</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Riane Hope / No Hope</name>
+         <player>Gideon Moss</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Streetrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Dipso Keane</name>
+         <player>Nick</player>
+         <type>SF Special Forces</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Explosives</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Jammy Dodgers</name>
+     <ImperialStandardTime>
+       <start>92026</start>
+       <end>92026</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1996</start>
+       <end>1996</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading University Student Union, Games and Roleplay Society and 2 Radstock Road, Reading</location>
+     <RuleVersion>2</RuleVersion>
+     <information/>
+     <characters>
+       <character>
+         <name>Stem Francis Gizza / Oltar</name>
+         <player>Timothy Hastings</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Meshrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Robert Hill / Sharp</name>
+         <player>Christopher Challcombe</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Streetrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Sefan Kovacevic / Vic</name>
+         <player>Chrisopher Challacombe</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Streetrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Vincent Tanaka / Wolf</name>
+         <player>Lorenzo Pirisino</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Nick Fortesque</name>
+         <player>Steven Bryce</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Rook Bo'Dikai</name>
+         <player>Omar Salleh</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Meshrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>The Lollypoppers</name>
+     <ImperialStandardTime>
+       <start>92026</start>
+       <end>92026</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1996/10</start>
+       <end>1996</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading University Student Union, Games and Roleplay Society</location>
+     <RuleVersion>2</RuleVersion>
+     <information>
+        <ooc>A very short lived group, neither player really had the time to spend on playing so the few sessions were fractured and rare.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Vince Fernis / Flipside</name>
+         <player>Russell Henley</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Streetrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Nicholicium / Nick</name>
+         <player>Nick Guard</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>The Partnership</name>
+     <ImperialStandardTime>
+       <start>92026</start>
+       <end>92026</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1996/12</start>
+       <end>1997/05</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>2 Radstock Road, Reading</location>
+     <RuleVersion>2</RuleVersion>
+     <information/>
+     <characters>
+       <character>
+         <name>Earl Cupper</name>
+         <player>Timothy Hastings</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Meshrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Nick</name>
+         <player>Nick Guard</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Pilot</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Broman Kydian / Brom</name>
+         <player>Omar Salleh</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Davion De-La-Zouch / Vixen</name>
+         <player>Lorenzo Pirisino</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Streetrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Trooper 555, Recon 2</name>
+     <ImperialStandardTime>
+       <start>92027</start>
+       <end>92027</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1997/6</start>
+       <end>1997/9</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>2</RuleVersion>
+     <information/>
+     <characters>
+       <character>
+         <name>Helena Tomkin</name>
+         <player>Gideon Moss</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Tabatha Seviton / Cat</name>
+         <player>David Carter</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Recon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Christoper Alkin / Cross</name>
+         <player>Gareth Jones</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Recon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Reginold Compery / Tank</name>
+         <player>Simon Aubury</player>
+         <type>SF Trooper</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Recon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>TOWHHOYE</name>
+     <ImperialStandardTime>
+       <start>92027</start>
+       <end>92028/04/24</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1997/10</start>
+       <end>1998</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading University Student Union, Games and Roleplay Society</location>
+     <RuleVersion>2.5</RuleVersion>
+     <information>
+        <ooc>
+        	TOWHHOYE stands for That's Ok, We Haven't Heard Of You Either.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Blankety Blank</name>
+         <player>Gideon Moss</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Matt Handson</name>
+         <player>Andrew O'Byrne</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Martial Law</name>
+         <player>Simon Aubury</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Brad Korgol</name>
+         <player>Tamas Kormos</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Gregory Mesahvich</name>
+         <player>Omar Salleh</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+
+     </characters>
+  </team>
+  
+  <team>
+     <name>OLOLATWM</name>
+     <ImperialStandardTime>
+       <start>92028</start>
+       <end>92028</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1998/7</start>
+       <end>1998</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading University Student Union, Games and Roleplay Society</location>
+     <RuleVersion>2.5</RuleVersion>
+     <information>
+        <ooc>
+        	OLOLATWM stands for One Lunatic, One Leader And Two Welsh Men
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Marc Steveson</name>
+         <player>Gideon Moss</player>
+         <type>SE Investigator</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Peter Sutcliff</name>
+         <player>Simon Aubury</player>
+         <type>SE Investigator</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Obliviator</name>
+         <player>Gavin Evans</player>
+         <type>SE Investigator</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Carl</name>
+         <player>Gareth Jones</player>
+         <type>SE Investigator</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Brutal Deluxe</name>
+     <ImperialStandardTime>
+       <start>92028</start>
+       <end>92029</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1998/10</start>
+       <end>1999/07</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading University Student Union, Games and Roleplay Society</location>
+     <RuleVersion>2.5</RuleVersion>
+     <information>
+        <ooc>
+        	During this game the ruleset was being rewritten and tested by the team. Brutal Deluxe were the most International Team ever, Tamas is Hungarian, Damien is French, Chris was Austrian and Byrnie was from 'Up North'! Peter Sutcliff (Fish), managed to survive through from OLOLATWM. 
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Bliz Gerpal</name>
+         <player>Tamas Kormos</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Xarian Fetopale</name>
+         <player>Damien</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Peter Sutcliff</name>
+         <player>Simon Aubury</player>
+         <type>SE Investigator</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Johnathan Smile</name>
+         <player>Chris</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Len Yo-Lad-Wo</name>
+         <player>Andrew O'Byrne</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Pilot</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>FTIFAN</name>
+     <ImperialStandardTime>
+       <start>92028</start>
+       <end>92029</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1998/10</start>
+       <end>1999/7</end>
+     </RealTime>
+     <gamesmaster>Gideon Moss</gamesmaster>
+     <location></location>
+     <RuleVersion></RuleVersion>
+     <information>
+        <ooc>
+        	FTIFAN stands for 'Far Too Important For A Name'
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Binden Reyy</name>
+         <player>Andrew O'Byrne</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Sdrawde Pihilihp</name>
+         <player>Gareth Jones</player>
+         <type>SF Special Forces</type>
+         <humanity></humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Trebor Mint</name>
+         <player>Robert Gaines</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Gashair</name>
+     <ImperialStandardTime>
+       <start>92028</start>
+       <end>92028</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1998/10</start>
+       <end>1999/1</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Email</location>
+     <RuleVersion>3</RuleVersion>
+     <information>
+        <ooc>
+        	This group was used as a test for email gaming. It was not repeated.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Steve Thresh</name>
+         <player>James Neesom</player>
+         <type>SE Investigator</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>WSAWKWA</name>
+     <ImperialStandardTime>
+       <start>92029</start>
+       <end>92029</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1999/04</start>
+       <end>1999</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Finchley Games Club</location>
+     <RuleVersion>3.2</RuleVersion>
+     <information>
+        <ooc>
+        	WSAWKWA stands for We're Shit and we know we are
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Jeffery Dahmer</name>
+         <player>Simon Aubury</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Reg</name>
+         <player>Gideon Moss</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Kaos Warren</name>
+         <player>Ian Piddington / Gareth Jones / David Carter</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Roger</name>
+         <player>Piers Hartley</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>The Fear</name>
+     <ImperialStandardTime>
+       <start>92029</start>
+       <end>92029</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>1999/10</start>
+       <end>2002/08</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading Universit Student Union Games and Roleplay Society</location>
+     <RuleVersion>3.2</RuleVersion>
+     <information>
+        <ooc>
+        	The Fear ended after almost three years of play. The team had gone from nothing, to Interstellar vigilante superstars. Their home planet, Acerine Prime (Baeleris, Dorian) rocked to the sounds of their chain Weaponry and heavy armour. They had style and ethos but this was soon lost when an accident lead to the death of an undercover Star Enforcer, they were then chased off planet and the decline began. The team lost cohesion and direction, left to wander the wastes of the Fringe and Lone Systems.
+        </ooc>
+        <ic>
+        	They started as a group of school friends on a system that was not as comfortable as they first thought. After graduation, some of their friends became entangled in trouble and then started disappearing. From here, the group started doing Vigilante work.
+        </ic>
+     </information>
+     <characters>
+       <character>
+         <name>Lucas Newell</name>
+         <player>Peter Ganderton</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>3</genus>
+	 <speciality>Tech</speciality>
+         <information>
+			<ic>Inventor of skills like 'Bullet Time', this is by far the coolest character ever created.</ic>
+		</information>
+         <living>Alive</living>
+       </character>
+       <character>
+         <name>Gary Tarrone</name>
+         <player>Andrew O'Byrne</player>
+         <type>Mercenary</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+        <information>
+			<ic>Died by diving at a chain gun over the bonnet of a car.</ic>
+		</information>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Amber Gler / Lucy Fur</name>
+         <player>Simon Aubury</player>
+         <type>Mercenary</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information><ic>Amber Gler faked her own death to remove the numerous crimes and then faked her identity. She also worked at right angles to the rest of the team, faking her identity further to become most of their best contacts!</ic></information>
+         <living>Alive</living>
+       </character>
+       <character>
+         <name>Eric Serkesh</name>
+         <player>Tamas Kormos</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information><ic>Tamas made his name in this group for being able to see every single angle of any argument and arguing them all at the same time.</ic></information>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Keyth</name>
+         <player>Gideon Moss</player>
+         <type>Mercenary</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information><ic>Keyth gave his life by carrying a large bomb away from the main colony of Acerine Prime.</ic></information>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Ali Hannigan</name>
+         <player>Gideon Moss</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information><ic>Turned out to be te daughter of Imperial Peer Tess Cannar.</ic></information>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Yuri Mandala</name>
+         <player>Rob Gaines</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Ted E. Bear</name>
+         <player>Gideon Moss</player>
+         <type>Mercenary</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Tasmin Munst</name>
+         <player>Rob Gaines</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Pilot</speciality>
+         <information/>
+         <living>Alive</living>
+       </character>
+       <character>
+         <name>Black Jack</name>
+         <player>Gideon Moss</player>
+         <type>Mercenary</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information>Akarakian</information>
+         <living>Alive</living>
+       </character>
+       <character>
+         <name>Chris</name>
+         <player>Andrew O'Byrne</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Alive</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Quornn</name>
+     <ImperialStandardTime>
+       <start>92029</start>
+       <end>92029</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2000/10</start>
+       <end>2000</end>
+     </RealTime>
+     <gamesmaster>Pete Ganderton</gamesmaster>
+     <location>Tilehurst, Reading</location>
+     <RuleVersion>3.2</RuleVersion>
+     <information/>
+     <characters>
+       <character>
+         <name>Jacob Solo / Mayhem</name>
+         <player>Neville Fenn</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Alexander Kirk / Havoc</name>
+         <player>Dave Lewis</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Jo Sheraton</name>
+         <player>Sarah Betts</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Niges Voigt</name>
+         <player>Andrew Binks</player>
+         <type>SF Special Forces</type>
+         <humanity>Cyber</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Botchery Clipper</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>92032</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2002/10</start>
+       <end>2003/11</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Reading University Student Union Games and Roleplay Society</location>
+	 <setting>Deep Space Scavenger Setting</setting> 
+     <RuleVersion>3.3</RuleVersion>
+     <information>
+        <ooc>
+        	Playtest of the Scavenger Setting. They ended up killing Tacquent in a massive Ion explosion.
+        </ooc>
+     </information>
+     <characters>
+       <character>
+         <name>Morden (via Bank)</name>
+         <player>Simon Aubury</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+		 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Toby Larrone</name>
+         <player>Andrew O'Byrne</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Benson Phillips</name>
+         <player>Gideon Moss</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Human Resources</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Mike Wai</name>
+         <player>Rob Gaines</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Jim Beam</name>
+         <player>Steve Wyman</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Aemanon</name>
+         <player>Iain Pulley</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Tim</name>
+         <player>Tim Pelham</player>
+         <type>Scavenger</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Rabid Maggot</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>92032/4</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2004/1</start>
+       <end>2005/1</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Rob Gaines' Flat</location>
+     <RuleVersion>3.4</RuleVersion>
+	 <setting>Star Enforcer Setting</setting>	 
+     <information>
+	 <ooc>
+	 Thrown out of the Star Enforcers relatively early, this group then decided to go full tilt against the might of the Nios population on planet. The team detonated the colony when the two Genus 4 characters touched while being hugely charged with energy. The setting ended a little early, to say the least.
+	 </ooc>
+	 </information>
+     <characters>
+       <character>
+         <name>Mister Kipling</name>
+         <player>Steve Wyman</player>
+         <type>SE Colonial</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 	 <speciality>Criminologist</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Geoff Steel / Hedgehog</name>
+         <player>Simon Aubury</player>
+         <type>SE Colonial</type>
+		 <type>SE Investigator</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+		 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Harry Bow</name>
+         <player>Andrew O'Byrne</player>
+         <type>SE Colonial</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Medic</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Alex Cannar</name>
+         <player>Gideon Moss</player>
+         <type>SE Colonial</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>Nicholas Glass</name>
+         <player>Rob Gaines</player>
+         <type>SE Colonial</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Forensics</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>Mary Marples</name>
+         <player>Iain Pulley</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Criminologist</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Guy Hutchinson</name>
+         <player>Matt Wallace</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>Gavin Jaden</name>
+         <player>Andrew O'Byrne</player>
+         <type>Mercenary</type>
+         <humanity>Human</humanity>
+         <genus>4</genus>
+	 <speciality>Meshrunner</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Dekken</name>
+         <player>Iain Pulley</player>
+         <type>Expeditionary</type>
+         <humanity>Human</humanity>
+         <genus>4</genus>
+	 <speciality>Weapon</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Benedict Corporation</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>92032</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2005/1</start>
+       <end>2007/08</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Rob Gaines' Flat</location>
+     <RuleVersion>3.5</RuleVersion>
+ 	 <setting>Expeditionary</setting>	 
+     <information>
+		<ooc>
+      Playtest of the Expeditionary Setting. Working as troubleshooters across the light jump net into Typhon (Droid Space). Jack and Eight are both Akarakians, with Eight being more compassionate and Jack being hard-line. This leads to many interesting situations. Andy does well to lead them.
+		</ooc>
+	 </information>
+     <characters>
+       <character>
+         <name>Fidel</name>
+         <player>Iain Pulley</player>
+         <type>Expeditionary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+			 <speciality>Recon</speciality>
+			 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Andy Haddock</name>
+         <player>Matt Wallace</player>
+         <type>Expeditionary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+		 <speciality>Recon</speciality>
+	 	 <speciality>Artificer</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Jim</name>
+         <player>Andrew O'Byrne</player>
+         <type>Expeditionary</type>
+         <humanity>Cyber</humanity>
+         <genus>3</genus>
+		 <speciality>Weapon</speciality>
+	 	 <speciality>Tech</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+       <character>
+         <name>Jack Yashmak</name>
+         <player>Gideon Moss</player>
+         <type>Expeditionary</type>
+         <humanity>Borg</humanity>
+         <genus>1</genus>
+		 <speciality>Medic</speciality>
+		 <speciality>Tech</speciality>		 
+         <information>Akarakian</information>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>Jacob McVitie</name>
+         <player>Simon Aubury</player>
+         <type>Expeditionary</type>
+         <humanity>Human</humanity>
+         <genus>1</genus>
+		 <speciality>Tech</speciality>
+		 <speciality>Pilot</speciality>
+         <information/>
+         <living>Dead</living>
+       </character>
+     <character>
+         <name>Eight Trak</name>
+         <player>Rob Gaines</player>
+         <type>Expeditionary</type>
+         <humanity>Cyber</humanity>
+         <genus>3</genus>
+		 <speciality>Tech</speciality>
+		 <speciality>Weapon</speciality>
+         <information>Akarakian</information>
+         <living>Dead</living>
+       </character>
+     </characters>
+  </team>
+  
+  <team>
+     <name>Streetpunk Setting</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>Active</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2007/09</start>
+       <end>Active</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Iain Pulley's House</location>
+     <RuleVersion>3.4/3.5</RuleVersion>
+   <setting>Streetpunk</setting>   
+     <information>
+    <ooc>
+Another new campaign for my player group. This campaign introduced drugs and their affects on the characters. Super-low powered with lots of running away rather than facing off with bigger guns. Fish plays a super bitch while Byrn does an impression of Neil from the Young Ones to the delight of all. Iain's first character, Fidel, moved up out of the group by getting employed as a member of the council, attempting to change the politics from within.
+    </ooc>
+   </information>
+     <characters>
+    <character>
+      <name>Fidel de la Souza</name>
+      <player>Iain Pulley</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+        <speciality>Revolutionary</speciality>
+      <information/>
+      <living>Dead</living>
+    </character>
+    <character>
+      <name>Charlotte 'Charlie' Morton</name>
+      <player>Simon Aubury</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+        <speciality>Explosives</speciality>
+      <information/>
+      <living>Dead</living>
+       </character>
+    <character>
+      <name>Rat</name>
+      <player>Andrew O'Byrne</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+      <speciality>Meshrunner</speciality>
+      <information><ic>The first pacifist character in Icar, which worked surprisingly well.</ic></information>
+      <living>Alive</living>
+       </character>    
+      <character>
+      <name>Twitch</name>
+      <player>Matt Wallace</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+      <speciality>Explosives</speciality>
+      <information/>
+      <living>Dead</living>
+       </character>
+    <character>
+      <name>Billy 'Whizz' Cane</name>
+      <player>Iain Pulley</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+      <speciality>Weapon</speciality>
+      <information/>
+      <living>Dead</living>
+    </character>     
+      <character>
+      <name>Jethro</name>
+      <player>Rob Gaines</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+      <speciality>Vangog</speciality>
+      <information/>
+      <living>Dead</living>
+       </character>   
+        <character>
+      <name>Ghost</name>
+      <player>Gideon Moss</player>
+      <type>Streetpunk</type>
+      <humanity>Human</humanity>
+      <genus>1</genus>
+      <speciality>Tech</speciality>
+      <information/>
+      <living>Dead</living>
+    </character>   
+      </characters>
+  </team>
+ 
+ <team>
+     <name>Fleet Setting</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>92032</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2013/03</start>
+       <end>2013/11</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Will Goring's Flat</location>
+     <RuleVersion>4</RuleVersion>
+   <setting>Fleet</setting>  
+     <information>
+    <ooc>
+  A play test of the Fleet Setting, the players take on Recon Troopers from Unit 555 (again!) and head over the Light Jump Net to fight Droids, get separated from their spacecraft, get given a secret mission and told to return. They "won" but at great cost. It was a limited run campaign (was always designed as such) so that I could work out the difficult bits of the setting.
+    </ooc>
+   </information>
+     <characters>
+    <character>
+      <name></name>
+      <player></player>
+      <type></type>
+      <humanity></humanity>
+      <genus></genus>
+        <speciality></speciality>
+      <information/>
+      <living></living>
+    </character>
+    
+ 
+     </characters>
+  </team>
+
+<team>
+     <name>Imperial Investigation</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>92032</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2013/11</start>
+       <end>2015/04</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Will Goring's Flat</location>
+     <RuleVersion>4</RuleVersion>
+   <setting>Fleet</setting>  
+     <information>
+    <ooc>
+ 
+    </ooc>
+   </information>
+     <characters>
+    <character>
+      <name></name>
+      <player></player>
+      <type></type>
+      <humanity></humanity>
+      <genus></genus>
+        <speciality></speciality>
+      <information/>
+      <living></living>
+    </character>
+    
+ 
+     </characters>
+  </team>
+
+   <team>
+     <name>Deep Space</name>
+     <ImperialStandardTime>
+       <start>92032</start>
+       <end>Active</end>
+     </ImperialStandardTime>
+     <RealTime>
+       <start>2015/10</start>
+       <end>Active</end>
+     </RealTime>
+     <gamesmaster>Rob Lang</gamesmaster>
+     <location>Roll20</location>
+     <RuleVersion>4</RuleVersion>
+   <setting>Fleet</setting>  
+     <information>
+    <ooc>
+  
+    </ooc>
+   </information>
+     <characters>
+    <character>
+      <name></name>
+      <player></player>
+      <type></type>
+      <humanity></humanity>
+      <genus></genus>
+        <speciality></speciality>
+      <information/>
+      <living></living>
+    </character>
+    
+ 
+     </characters>
+  </team>
+  </teams>

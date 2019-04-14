@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2009/01/new-character-sheet-3"
 title: "New character sheet three"
-date: "09/01/27"
+date: "2009-01-27"
 slug: "/blogs/2009/01/new-character-sheet-3"
 category: "v4"
 cover: ""

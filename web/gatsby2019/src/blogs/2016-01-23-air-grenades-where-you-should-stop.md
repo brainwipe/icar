@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2016/01/air-grenades-where-you-should-stop"
 title: "Air grenades - where you should stop worrying about the science"
-date: "16/01/23"
+date: "2016-01-23"
 originalUrl: "https://icarrpg.blogspot.com/2016/01/air-grenades-where-you-should-stop.html"
 slug: "/blogs/2016/01/air-grenades-where-you-should-stop"
 category: "v4"

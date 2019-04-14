@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2018/10/reigniting-progress"
 title: "Reigniting progress"
-date: "18/10/23"
+date: "2018-10-23"
 originalUrl: "https://icarrpg.blogspot.com/2018/10/reigniting-progress.html"
 slug: "/blogs/2018/10/reigniting-progress"
 category: "v4"

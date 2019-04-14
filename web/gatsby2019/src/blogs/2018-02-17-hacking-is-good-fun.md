@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2018/02/hacking-is-good-fun"
 title: "What can - and can't - be hacked in Icar"
-date: "18/02/17"
+date: "2018-02-17"
 originalUrl: "https://icarrpg.blogspot.com/2018/02/hacking-is-good-fun.html"
 slug: "/blogs/2018/02/hacking-is-good-fun"
 category: "v4"

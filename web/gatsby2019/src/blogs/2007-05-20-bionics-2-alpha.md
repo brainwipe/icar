@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2007/05/bionics-2-alpha"
 title: "Bionics 2 Alpha"
-date: "07/05/20"
+date: "2007-05-20"
 slug: "/blogs/2007/05/bionics-2-alpha"
 category: "v3"
 cover: ""

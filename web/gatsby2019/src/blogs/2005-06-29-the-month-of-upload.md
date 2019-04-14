@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/06/the-month-of-upload"
 title: "The Month of Upload"
-date: "05/06/29"
+date: "2005-06-29"
 slug: "/blogs/2005/06/the-month-of-upload"
 category: "v3"
 cover: ""

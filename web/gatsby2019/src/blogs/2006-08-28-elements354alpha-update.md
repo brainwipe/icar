@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2006/08/elements354alpha-update"
 title: "Elements 3.55 Released"
-date: "06/08/28"
+date: "2006-08-28"
 slug: "/blogs/2006/08/elements354alpha-update"
 category: "v3"
 cover: ""

@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2012/04/let-proof-reading-begin"
 title: "Let the proof reading begin!"
-date: "12/04/25"
+date: "2012-04-25"
 originalUrl: "https://icarrpg.blogspot.com/2012/04/let-proof-reading-begin.html"
 slug: "/blogs/2012/04/let-proof-reading-begin"
 category: "v4"

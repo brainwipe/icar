@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="players.xsl"?>
+<players>
+
+  <player>
+     <name>Simon Aubury</name>
+     <nickname>Fish</nickname>    
+     <playerteams>
+       <playerteam>LTTPOOSF</playerteam>
+       <playerteam>Anonymous</playerteam>
+       <playerteam>WHACPSWO</playerteam>
+       <playerteam>Dogs of War</playerteam>
+       <playerteam>Flaming Fists</playerteam>
+       <playerteam>The Reapers</playerteam>
+       <playerteam>Trooper 555 (Recon 2)</playerteam>
+       <playerteam>TOWHHOYE</playerteam>
+       <playerteam>OLOLATWM</playerteam>
+       <playerteam>Brutal Deluxe</playerteam>
+       <playerteam>WSAWKWE</playerteam>
+       <playerteam>The Fear</playerteam>
+       <playerteam>Botchery Clipper</playerteam>
+       <playerteam>Rabid Maggot</playerteam>
+	   <playerteam>Benedict Corporation</playerteam>
+	   <playerteam>Streetpunk Setting</playerteam>
+     <playerteam>Fleet Setting</playerteam>
+     <playerteam>Imperial Investigation</playerteam>
+     <playerteam>Deep Space Setting</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>James Walker</name>
+     <nickname>George</nickname>
+     <playerteams>
+       <playerteam>LTTPOOSF</playerteam>
+       <playerteam>Anonymous</playerteam>
+       <playerteam>WHACPSWO</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Gareth Jones</name>
+     <nickname>Baldrick</nickname>
+     <playerteams>
+       <playerteam>LTTPOOSF</playerteam>
+       <playerteam>Anonymous</playerteam>
+       <playerteam>WHACPSWO</playerteam>
+       <playerteam>Dogs of War</playerteam>
+       <playerteam>The Reapers</playerteam>
+       <playerteam>Trooper 555 (Recon 2)</playerteam>
+       <playerteam>OLOLATWM</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Daniel Richtmann</name>
+     <nickname>Big Nose</nickname>
+     <playerteams>
+       <playerteam>WHACPSWO</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Dougal Lichtmann</name>
+     <nickname>Doog</nickname>
+     <playerteams>
+       <playerteam>WHACPSWO</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Mark Shotter</name>
+     <nickname>Gob</nickname>
+     <playerteams>
+       <playerteam>WHACPSWO</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Adam Williamson</name>
+     <nickname>Lurch / Bent Giant</nickname>
+     <playerteams>
+       <playerteam>Dogs of War</playerteam>
+       <playerteam>Flaming Fists</playerteam>
+       <playerteam>Genocide</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Fernando Vaz</name>
+     <nickname>Fernandy Andy Pandy...</nickname>
+     <playerteams>
+       <playerteam>Dogs of War</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Tony Di Fede</name>
+     <nickname>TIT</nickname>
+     <playerteams>
+       <playerteam>Dogs of War</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Keywan</name>
+     <nickname>Wankey</nickname>
+     <playerteams>
+       <playerteam>Dogs of War</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Karl O'Brien</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Flaming Fists</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Simon Crocker</name>
+     <nickname>Psy</nickname>
+     <playerteams>
+       <playerteam>Flaming Fists</playerteam>
+       <playerteam>Genocide</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Phil Caller</name>
+     <nickname>Evil Phil</nickname>
+     <playerteams>
+       <playerteam>Flaming Fists</playerteam>
+     </playerteams>
+     <gamesmaster>
+       <playerteam>Genocide</playerteam>
+     </gamesmaster>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Gideon Moss</name>
+     <nickname>Dwain</nickname>
+     <playerteams>
+       <playerteam>Flaming Fists</playerteam>
+       <playerteam>The Reapers</playerteam>
+       <playerteam>Trooper 555 (Recon 2)</playerteam>
+       <playerteam>TOWHHOYE</playerteam>
+       <playerteam>OLOLATWM</playerteam>
+       <playerteam>WSAWKWA</playerteam>
+       <playerteam>The Fear</playerteam>
+       <playerteam>Botchery Clipper</playerteam>
+       <playerteam>Rabid Maggot</playerteam>
+	   <playerteam>Benedict Corporation</playerteam>	   
+	   <playerteam>Streetpunk Setting</playerteam>
+     <playerteam>Fleet Setting</playerteam>
+     <playerteam>Imperial Investigation</playerteam>
+     <playerteam>Deep Space Setting</playerteam>
+     </playerteams>
+     <gamesmaster>
+       <playerteam>FTIFAN</playerteam>
+     </gamesmaster>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Eduado Queralto</name>
+     <nickname>Ed</nickname>
+     <playerteams>
+       <playerteam>Flaming Fists</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>James Waller</name>
+     <nickname>Wally</nickname>
+     <playerteams>
+       <playerteam>The Reapers</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Lucas Christodulu</name>
+     <nickname>Lookas</nickname>
+     <playerteams>
+       <playerteam>Genocide</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>David Carter</name>
+     <nickname>HK</nickname>
+     <playerteams>
+       <playerteam>The Reapers</playerteam>
+       <playerteam>Trooper 555 (Recon 2)</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Timothy Hastings</name>
+     <nickname>Dr. Sneeky Peek</nickname>
+     <playerteams>
+       <playerteam>Jammy Dodgers</playerteam>
+       <playerteam>The Partnership</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Christopher Challacombe</name>
+     <nickname>Merlin</nickname>
+     <playerteams>
+       <playerteam>Jammy Dodgers</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Lorenzo Pirisino</name>
+     <nickname>Lox</nickname>
+     <playerteams>
+       <playerteam>Jammy Dodgers</playerteam>
+       <playerteam>The Partnership</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Steve Bryce</name>
+     <nickname>Wrong</nickname>
+     <playerteams>
+       <playerteam>Jammy Dodgers</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Omar Salleh</name>
+     <nickname>Omar the Omarian</nickname>
+     <playerteams>
+       <playerteam>Jammy Dodgers</playerteam>
+       <playerteam>TOWHHOYE</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Russell Henley</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Lollypoppers</playerteam>
+       <playerteam>The Partnership</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Andrew O'Byrne</name>
+     <nickname>Byrnie</nickname>
+     <playerteams>
+       <playerteam>TOWHHOYE</playerteam>
+       <playerteam>Brutal Deluxe</playerteam>
+       <playerteam>FTIFAN</playerteam>
+       <playerteam>The Fear</playerteam>
+       <playerteam>Botchery Clipper</playerteam>
+       <playerteam>Rabid Maggot</playerteam>
+  	   <playerteam>Benedict Corporation</playerteam>	
+  	   <playerteam>Streetpunk Setting</playerteam>
+       <playerteam>Fleet Setting</playerteam>
+       <playerteam>Imperial Investigation</playerteam> 
+       <playerteam>Deep Space Setting</playerteam>  
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Tamas Kormos</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>TOWHHOYE</playerteam>
+       <playerteam>Brutal Deluxe</playerteam>
+       <playerteam>The Fear</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+
+  <player>
+     <name>Gavin Evans</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>OLOLATWM</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Damien</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Brutal Deluxe</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Chris</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Brutal Deluxe</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Rob Gaines</name>
+     <nickname>Lucky</nickname>
+     <playerteams>
+       <playerteam>FTIFAN</playerteam>
+       <playerteam>The Fear</playerteam>
+       <playerteam>Botchery Clipper</playerteam>
+       <playerteam>Rabid Maggot</playerteam>
+	   <playerteam>Benedict Corporation</playerteam>	   
+	   <playerteam>Streetpunk Setting</playerteam>	   
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>James Neesom</name>
+     <nickname>Baron</nickname>
+     <playerteams>
+       <playerteam>Gashair</playerteam>
+       <playerteam>Deep Space Setting</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Ian Piddington</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>WSAWKWA</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Piers Hartly</name>
+     <nickname>Chewy</nickname>
+     <playerteams>
+       <playerteam>WSAWKWA</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Peter Ganderton</name>
+     <nickname>NVP / RG1P / FP</nickname>
+     <playerteams>
+       <playerteam>The Fear</playerteam>
+     </playerteams>
+     <gamesmaster>
+       <playerteam>Quornn</playerteam>
+     </gamesmaster>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Neville Fenn</name>
+     <nickname>Nev</nickname>
+     <playerteams>
+       <playerteam>Quornn</playerteam>    
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Dave Lewis</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Quornn</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Sarah Betts</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Quornn</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Andrew Binks</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Quornn</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Tim Pelham</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Botchery Clipper</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Steve Wyman</name>
+     <nickname>Fuck Knuckle</nickname>
+     <playerteams>
+       <playerteam>Botchery Clipper</playerteam>
+       <playerteam>Rabid Maggot</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+
+  <player>
+     <name>Iain Pulley</name>
+     <nickname>None</nickname>
+     <playerteams>
+       <playerteam>Botchery Clipper</playerteam>
+       <playerteam>Rabid Maggot</playerteam>
+	   <playerteam>Benedict Corporation</playerteam>
+	   <playerteam>Streetpunk Setting</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+  
+  <player>
+     <name>Matt Wallace</name>
+     <nickname>Wallace</nickname>
+     <playerteams>
+       <playerteam>Rabid Maggot</playerteam>
+  	   <playerteam>Benedict Corporation</playerteam>
+  	   <playerteam>Streetpunk Setting</playerteam>
+       <playerteam>Deep Space Setting</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+  
+  <player>
+     <name>Chris Simpson</name>
+     <nickname>Nibbler</nickname>
+     <playerteams>
+	   <playerteam>Benedict Corporation</playerteam>	   
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Will Goring</name>
+     <nickname>Aggro</nickname>
+     <playerteams>
+       <playerteam>Fleet Setting</playerteam>
+       <playerteam>Imperial Investigation</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Mark Buckley</name>
+     <nickname></nickname>
+     <playerteams>
+       <playerteam>Fleet Setting</playerteam>
+       <playerteam>Imperial Investigation</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+  <player>
+     <name>Jen Bottom</name>
+     <nickname></nickname>
+     <playerteams>
+       <playerteam>Fleet Setting</playerteam>
+       <playerteam>Imperial Investigation</playerteam>
+       <playerteam>Deep Space Setting</playerteam>
+     </playerteams>
+     <locations>
+       <location uri="document(locations.xml)/doc/locations/***"/>
+     </locations>
+  </player>
+
+
+</players>

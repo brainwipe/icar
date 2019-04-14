@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/06/a-plethora"
 title: "A Plethora"
-date: "05/06/15"
+date: "2005-06-15"
 slug: "/blogs/2005/06/a-plethora"
 category: "v3"
 cover: ""

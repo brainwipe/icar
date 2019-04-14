@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2011/02/equiment-index-v4-complete"
 title: "Equipment Index Version 4 Complete"
-date: "11/02/26"
+date: "2011-02-26"
 slug: "/blogs/2011/02/equiment-index-v4-complete"
 category: "v4"
 cover: ""

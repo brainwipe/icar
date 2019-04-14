@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2005/05/elememts-alpha1"
 title: "Elements 3.5 Alpha Released"
-date: "05/05/16"
+date: "2005-05-16"
 slug: "/blogs/2005/05/elememts-alpha1"
 category: "v3"
 cover: ""

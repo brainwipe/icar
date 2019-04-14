@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2006/01/lots-of-small-updates"
 title: "Lots of small updates"
-date: "06/01/14"
+date: "2006-01-14"
 slug: "/blogs/2006/01/lots-of-small-updates"
 category: "web"
 cover: ""

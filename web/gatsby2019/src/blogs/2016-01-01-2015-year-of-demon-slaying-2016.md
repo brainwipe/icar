@@ -1,7 +1,7 @@
 ---
 path: "/blogs/2016/01/2015-year-of-demon-slaying-2016"
 title: "2015: The Year of Demon Slaying. 2016: Finishing"
-date: "16/01/01"
+date: "2016-01-01"
 originalUrl: "https://icarrpg.blogspot.com/2016/01/2015-year-of-demon-slaying-2016.html"
 slug: "/blogs/2016/01/2015-year-of-demon-slaying-2016"
 category: "v4"
