@@ -6,11 +6,11 @@ slug: "/blogs/2007/01/society2-alpha"
 category: "v3"
 cover: ""
 tags:
-    wip
-    book
-    society
-    alpha
-    background
+    - wip
+    - book
+    - society
+    - alpha
+    - background
 ---
 
 It's been a long time coming but the Society Alpha is now here. No doubt there is stuff I've missed out of it (all the graphics, for a start) but I think I've covered the major parts of the game world in this one. It does need a few people to read through it and let me know what I might have missed (for experienced Icarers) or not explained well (everyone else). I'm not particularly interested in places where it says 'see picture' and there isn't one because I am re-rendered all of those. If you find any typos, pRob Langlems or things missing, please do [contact me](mailto:roblang@icar.co.uk).

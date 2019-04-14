@@ -6,9 +6,9 @@ slug: "/blogs/2006/08/equipment-index-single-zip"
 category: "v3"
 cover: ""
 tags:
-    v3
-    equipment
-    download
+    - v3
+    - equipment
+    - download
 ---
 You don't have me to thank for this. You have Dwain, Byrn, Fish, Pete and all the other Icar players for nagging me for the past few years to create a single zip file of all the weapon items in one place. It's about time I did it. 
 

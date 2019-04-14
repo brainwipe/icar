@@ -6,8 +6,8 @@ slug: "/blogs/2005/08/forum-problem"
 category: "web"
 cover: ""
 tags:
-    community
-    web
+    - community
+    - web
 ---
 Some of you might be having problems accessing the forums. This problems should not persist for long, so please keep checking back.
 

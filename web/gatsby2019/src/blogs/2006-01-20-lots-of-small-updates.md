@@ -6,10 +6,10 @@ slug: "/blogs/2006/01/lots-of-small-updates"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
-    blogs
+    - forum
+    - support
+    - web
+    - blogs
 ---
 A batch of updates for the New Year. All of them little, so if you're using the old versions of things don't worry too much about downloading the new versions, the changes are quite minor. If you're good with a crayon, you can always scribble on the sheet's you've printed. If you're worried about that not being 'Icar' enough, then don't worry! 
 

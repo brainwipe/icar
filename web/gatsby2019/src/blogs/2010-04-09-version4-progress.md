@@ -6,11 +6,11 @@ slug: "/blogs/2010/04/version4-progress"
 category: "v4"
 cover: ""
 tags:
-    v4
-    core
-    alpha
-    book
-    wip
+    - v4
+    - core
+    - alpha
+    - book
+    - wip
 ---
 
 ![A freighter hovers over a croft far while hoppers zip crates back and forth](./images/books-v4-croft-example.jpg)

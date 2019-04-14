@@ -6,12 +6,12 @@ slug: "/blogs/2008/03/equipment-index-version-7-released"
 category: "v3"
 cover: ""
 tags:
-    v3
-    equipment
-    weapons
-    spacecraft
-    book
-    released
+    - v3
+    - equipment
+    - weapons
+    - spacecraft
+    - book
+    - released
 ---
 ![Equipment index version 7 released today](./images/books-v3-equipmentindex.gif)
 

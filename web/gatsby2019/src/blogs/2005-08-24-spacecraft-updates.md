@@ -6,9 +6,9 @@ slug: "/blogs/2005/08/spacecraft-updates"
 category: "v3"
 cover: ""
 tags:
-    v3
-    equipment
-    spacecraft
+    - v3
+    - equipment
+    - spacecraft
 ---
 
 I have finally got around to updating the information on the space craft. Before, it was difficult to get a sense of scale of the craft. Now each space craft has the following two items:

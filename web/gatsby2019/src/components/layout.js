@@ -22,7 +22,8 @@ export default ({ children }) => (
                 <Helmet>
                   <title>{data.site.siteMetadata.title}</title>  
                   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"></link>
+                  <meta name="description" content="Icar is a free science fiction tabletop roleplaying game. Zip between the stars, battle killer Droids and subvert a benevolent Imperium. Download the PDF for free now."/>
+                  <html lang="en" />
                 </Helmet>
                 <Menu/>      
                 {children}

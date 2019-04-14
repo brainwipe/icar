@@ -6,10 +6,10 @@ slug: "/blogs/2005/10/wiki-online-growing"
 category: "web"
 cover: ""
 tags:
-    web
-    wiki
-    support
-    community
+    - web
+    - wiki
+    - support
+    - community
 ---
 
 > 2019 update - sadly, the wiki was hacked just 6 months later and was lost.

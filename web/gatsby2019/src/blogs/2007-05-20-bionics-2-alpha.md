@@ -6,10 +6,10 @@ slug: "/blogs/2007/05/bionics-2-alpha"
 category: "v3"
 cover: ""
 tags:
-    wip
-    book
-    bionics
-    alpha
+    - wip
+    - book
+    - bionics
+    - alpha
 ---
 
 You can't breath in without me starting another Icar book and not finishing it properly. Here's another example, the Bionics 2 Alpha has just been finished. This book is really rough and ready, missing the many images it's going to need and definitely needs a good read through from those closest to the book.

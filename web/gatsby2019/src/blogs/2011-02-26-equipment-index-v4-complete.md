@@ -6,12 +6,12 @@ slug: "/blogs/2011/02/equiment-index-v4-complete"
 category: "v4"
 cover: ""
 tags:
-    v4
-    equipment
-    weapons
-    spacecraft
-    book
-    release
+    - v4
+    - equipment
+    - weapons
+    - spacecraft
+    - book
+    - release
 ---
 
 Something of a milestone has just been hit! All the re-renders for the new Equipment Index have been complete. You can download it from [Google Docs](https://docs.google.com/viewer?a=v;pid=explorer;chrome=true;srcid=0B2ThEbOVGt78YzQ4MjQ1NGEtNDdmYS00MDQwLWJkMWMtYTM3M2ExMmFhYTFi;hl=en). 

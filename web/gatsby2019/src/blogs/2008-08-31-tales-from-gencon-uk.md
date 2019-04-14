@@ -6,9 +6,9 @@ slug: "/blogs/2008/10/tales-from-gencon-uk"
 category: "conventions"
 cover: ""
 tags:
-    community,
-    support,
-    convention
+    - community
+    - support
+    - convention
 ---
 I had a wonderful time at [GenCon UK 2008](http://www.consupport.com/index.asp), played loads of games and made some great new friends. This is a brief report of what went on, what I learnt and what I'm going to do about it.
 

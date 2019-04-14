@@ -6,10 +6,10 @@ slug: "/blogs/2011/11/icar-core-4-alpha"
 category: "v4"
 cover: ""
 tags:
-    v4
-    alpha
-    rules
-    update
+    - v4
+    - alpha
+    - rules
+    - update
 ---
 ![A snapshot of the version 4 core rules equipment index](./images/books-v4-equipmentindex-alpha.jpg)
 

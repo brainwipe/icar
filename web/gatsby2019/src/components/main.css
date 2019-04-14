@@ -73,11 +73,8 @@ label {
  */
 
 .home-menu {
+    font-size:16px;
     padding: 0.5em;
-    text-align: center;
-    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
-}
-.home-menu {
     background: #000033;
     -webkit-box-shadow: 0px 4px 0px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 4px 0px 0px rgba(0,0,0,0.2);
@@ -108,6 +105,10 @@ label {
     background: none;
     border: none;
     color: #AECFE5;
+}
+
+.home-menu ul.pure-menu-list {
+    float:right;
 }
 
 .icar-title-logo {
@@ -189,7 +190,7 @@ html, button, input, select, textarea,
 .index-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 87%;
+    top: 75%;
     width: 100%;
     min-height: 12%;
     z-index: 2;
@@ -209,10 +210,10 @@ html, button, input, select, textarea,
 }
 
 .content a {
-    color:#ad8d5c;
+    color:#997948;
 }
 .content a:hover {
-    color:#997948;
+    color:#88632c;
 }
 
 
@@ -256,6 +257,11 @@ html, button, input, select, textarea,
     margin:3.4em 0 0 0;
 }
 
+.pure-button-primary, .pure-button-selected, a.pure-button-primary, a.pure-button-selected {
+    background-color:#000033;
+    color:#eed389;
+}
+
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
  * On tablets and other medium-sized devices, we want to customize some
@@ -273,9 +279,6 @@ html, button, input, select, textarea,
     .home-menu {
         text-align: left;
     }
-        .home-menu ul {
-            float: right;
-        }
 
     /* We increase the height of the splash-container */
 /*    .splash-container {

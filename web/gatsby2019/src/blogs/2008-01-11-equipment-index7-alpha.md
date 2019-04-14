@@ -6,11 +6,11 @@ slug: "/blogs/2008/01/equipment-index7-alpha"
 category: "v3"
 cover: ""
 tags:
-    v3
-    equipment
-    book
-    alpha
-    wip
+    - v3
+    - equipment
+    - book
+    - alpha
+    - wip
 ---
 
 ![The front cover of the version 7 equipment index](./images/books-v3-equipmentindex.gif)

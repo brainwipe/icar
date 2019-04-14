@@ -6,11 +6,11 @@ slug: "/blogs/2009/10/version4-progress-update"
 category: "v4"
 cover: ""
 tags:
-    v4
-    core
-    alpha
-    book
-    wip
+    - v4
+    - core
+    - alpha
+    - book
+    - wip
 ---
 
 Version 4 is cutting along at a pace. It's grown, shrank and grown again. I have dumped the Hacking and Space Combat rules (hated them), replaced hacking with a series of action that can be performed in and out of combat with Skill rolls and a new Space Combat system. The look of the book is slightly changing, I will be using a full border image a little like I did for [Cloudship Atlantis](http://www.scribd.com/doc/16861411/Cloudship-Atlantis) The background section (formerly Society book) is expanding at a huge rate too. I am taking a lot of the detail I generated from my last campaign about societies drop outs and including them too. The Scavenger Setting has been fleshed out and I'm including a series of example adventures. The book is going to be massive.

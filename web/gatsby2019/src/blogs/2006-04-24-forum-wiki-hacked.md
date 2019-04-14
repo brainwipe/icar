@@ -6,10 +6,10 @@ slug: "/blogs/2006/04/forum-wiki-hacked"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
-    blogs
+    - forum
+    - support
+    - web
+    - blogs
 ---
 Unfortunately, those hacking people got into the wiki and forum and hacked it, deleting all the tables. How? I don't know. probably due to some poor coding or incorrectly setup administration. I am not, as you might understand, particularly happy about this. Thank god the tables for Chom Isis 3 are left. 
 		

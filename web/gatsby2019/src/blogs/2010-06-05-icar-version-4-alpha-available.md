@@ -6,12 +6,12 @@ slug: "/blogs/2010/06/version4-alpha-available"
 category: "v4"
 cover: ""
 tags:
-    v4
-    core
-    weapons
-    alpha
-    book
-    wip
+    - v4
+    - core
+    - weapons
+    - alpha
+    - book
+    - wip
 ---
                
 ## SHODDY WARNING!

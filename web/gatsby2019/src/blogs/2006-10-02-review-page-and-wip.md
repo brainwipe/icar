@@ -6,10 +6,10 @@ slug: "/blogs/2006/10/review-page-and-wip"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
-    blogs
+    - forum
+    - support
+    - web
+    - blogs
 ---
 
 Thanks to Golgotha, I have put up a Reviews page, with just the one review at the moment. It's a little long in the tooth, being of Version 3.4 but it's quite nice to see that I've sorted out some of the pRob Langlems he outlined. Now onto Society. If you have a comment or a full blown review and you would recommend Icar enough to have it listed here, please do [contact me](mailto:roblang@icar.co.uk) and I'll add your review.

@@ -6,10 +6,10 @@ slug: "/blogs/2005/12/toon-download-spilling-brains"
 category: "v3"
 cover: ""
 tags:
-    v3
-    equipment
-    toon
-    burntek
+    - v3
+    - equipment
+    - toon
+    - burntek
 ---
 
 Some little updates have been happening recently. You'll have noticed that the Download section has now been split into different sections. The page before was getting a little large and so difficult to load. It needs a bit more tuning but should work for now. I know it takes a little browsing to get through all the technology but I do think that this is the best answer for the moment.

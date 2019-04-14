@@ -30,5 +30,19 @@ module.exports = {
                 ],
             },
         },
+        {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+                name: "Icar - The Free Sci Fi Tabletop RPG",
+                short_name: "Icar - Free TTRPG",
+                start_url: "/",
+                background_color: "#000033",
+                theme_color: "#ffffff",
+                // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
+                // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
+                display: "standalone",
+                icon: "src/img/icon.jpg", // This path is relative to the root of the site.
+        }
+      },
     ]
 }

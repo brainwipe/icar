@@ -6,11 +6,11 @@ slug: "/blogs/2009/01/new-character-sheet-1"
 category: "v4"
 cover: ""
 tags:
-    v4
-    core
-    alpha
-    book
-    wip
+    - v4
+    - core
+    - alpha
+    - book
+    - wip
 ---
 
 Writing [The Free RPG Blog](https://www.thefreerpgblog.com) has been a very valuable experience for me. Not only have I felt like I am not alone in my internet philanthropy and that every other amateur designer wants cash for their games but I can now see what is good and bad about free games. There are mistakes I don't want to repeat.

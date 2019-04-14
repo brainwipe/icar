@@ -6,11 +6,11 @@ slug: "/blogs/2007/03/society21-alpha"
 category: "v3"
 cover: ""
 tags:
-    wip
-    book
-    society
-    alpha
-    background
+    - wip
+    - book
+    - society
+    - alpha
+    - background
 ---
 
 It's another shocking Icar update. Unfortunately, the frequency is not quite as high as I'd like but I'll blame that on the government / Battlefield 2142 and the University of Reading.

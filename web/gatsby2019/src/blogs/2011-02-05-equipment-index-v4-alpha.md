@@ -6,13 +6,13 @@ slug: "/blogs/2011/02/equiment-index-v4-alpha"
 category: "v4"
 cover: ""
 tags:
-    v4
-    equipment
-    weapons
-    spacecraft
-    book
-    alpha
-    wip
+    - v4
+    - equipment
+    - weapons
+    - spacecraft
+    - book
+    - alpha
+    - wip
 ---
 
 Hammering away at the Equipment Index has been a long slow slog - and it's not over. However, I feel that I have completed enough of the images to make it worth a look. This Equipment Index is designed for use with version 4 of the rules. [Download it from Google](https://docs.google.com/viewer?a=v;pid=explorer;chrome=true;srcid=0B2ThEbOVGt78YzQ4MjQ1NGEtNDdmYS00MDQwLWJkMWMtYTM3M2ExMmFhYTFi;hl=en). Thank you to Byrn for donating some models and weapon ideas to the book.

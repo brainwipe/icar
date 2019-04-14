@@ -6,10 +6,10 @@ slug: "/blogs/2006/09/elements355-released"
 category: "v3"
 cover: ""
 tags:
-    v3,
-    core
-    book
-    released
+    - v3
+    - core
+    - book
+    - released
 ---
 
 Finally some big news here. The Elements (core rules) is now complete with all of its images. No longer in 'Alpha', it's complete. I have replaced the old rulebook with the new one. It's now complete and ready to use. It's a bit achievement and I'm rather proud of it.

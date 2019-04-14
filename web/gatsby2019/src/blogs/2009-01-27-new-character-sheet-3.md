@@ -6,11 +6,11 @@ slug: "/blogs/2009/01/new-character-sheet-3"
 category: "v4"
 cover: ""
 tags:
-    v4
-    core
-    alpha
-    book
-    wip
+    - v4
+    - core
+    - alpha
+    - book
+    - wip
 ---
 
 ![The v4 body and armour character sheet, a person in outline with stat discs around the edges](./images/books-v4-charactersheet3.jpg)

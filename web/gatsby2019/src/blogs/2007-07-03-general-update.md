@@ -6,8 +6,8 @@ slug: "/blogs/2007/08/general-update"
 category: "v4"
 cover: ""
 tags:
-    wip
-    book
+    - wip
+    - book
 ---
 General Update, although a superior officer of Major Update, isn't quite as fun packed. Just to let you know what's been going on and what progress there is.
 

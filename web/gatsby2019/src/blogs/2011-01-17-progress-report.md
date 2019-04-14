@@ -6,11 +6,11 @@ slug: "/blogs/2011/01/progress-report"
 category: "v4"
 cover: ""
 tags:
-    v4
-    equipment
-    weapons
-    alpha
-    wip
+    - v4
+    - equipment
+    - weapons
+    - alpha
+    - wip
 ---
 
 I've been hammering away at the new version of the equipment index (to go with version 4 of the core rules) for months now. I have made a [big list of things I need to do](http://www.1km1kt.net/forum/viewtopic.php?f=34;t=2283) before I release version 4 and the items are slowly getting done. I am currently working my way through remaking some of the old 3D models. Some were lost in a big hard-drive mess up a few years ago and some are just too old and rough to fit in. Here is the new Hellhound. 

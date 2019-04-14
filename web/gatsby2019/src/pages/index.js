@@ -10,12 +10,9 @@ export default () => (
     <Layout>
         <div className="splash-container">
             <div className="splash">
-                <img src={IcarTitle} width="100%"/>
+                <img src={IcarTitle} width="100%" alt="Icar - the free Sci Fi tabletop rpg"/>
                 <p className="splash-subhead">
                 Icar is a free science fiction tabletop RPG where you zip between the stars, battle killer Droids and subvert a benevolent Imperium        </p>
-                <p>
-                    <a href="#downloads" className="pure-button pure-button-primary">Download Now</a>
-                </p>
             </div>
         </div>
         
@@ -25,8 +22,8 @@ export default () => (
                 <h2 className="content-head is-center">Downloads</h2>
                 <div>
                     <div className="pure-u-1 pure-u-md-1-3 is-center l-box">
-                        <a href="https://www.drivethrurpg.com/product/133597/Icar">
-                            <img src={CoreRules} />
+                        <a name="download-corerules" href="https://www.drivethrurpg.com/product/133597/Icar">
+                            <img src={CoreRules} alt="Core rules - all you need to play" />
                         </a>
                         <h3 className="content-subhead">
                             <a href="https://www.drivethrurpg.com/product/133597/Icar" rel="external" rev="download/version4">Core Rules</a>
@@ -36,8 +33,8 @@ export default () => (
                         </p>
                     </div>
                     <div className="pure-u-1 pure-u-md-1-3 is-center l-box">
-                        <a href="https://www.drivethrurpg.com/product/133598/Icar-Equipment-Index">
-                            <img src={PlayerHandouts} />
+                        <a name="download-equipmentindex" href="https://www.drivethrurpg.com/product/133598/Icar-Equipment-Index">
+                            <img src={PlayerHandouts} alt="Equipment Index - player handouts representing weapons, vehicles, spacecraft etc" />
                         </a>
                         <h3 className="content-subhead">
                             <a href="https://www.drivethrurpg.com/product/133598/Icar-Equipment-Index">Player Handouts</a>
@@ -47,8 +44,8 @@ export default () => (
                         </p>
                     </div>
                     <div className="pure-u-1 pure-u-md-1-3 is-center l-box">
-                        <a href="https://www.drivethrurpg.com/product/171424/Icar-Fleet-Setting">
-                            <img src={FleetSetting} />
+                        <a name="download-fleetsetting" href="https://www.drivethrurpg.com/product/171424/Icar-Fleet-Setting">
+                            <img src={FleetSetting} alt="Fleet Setting - a dropship delivers troopers to the middle of a battle" />
                         </a>
                         <h3 className="content-subhead">
                             <a href="https://www.drivethrurpg.com/product/171424/Icar-Fleet-Setting">Fleet Setting</a>

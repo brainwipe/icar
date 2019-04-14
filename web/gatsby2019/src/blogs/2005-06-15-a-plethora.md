@@ -6,8 +6,8 @@ slug: "/blogs/2005/06/a-plethora"
 category: "v3"
 cover: ""
 tags:
-    v3
-    update
+    - v3
+    - update
 ---
 > "Yes, El Guapo. You have a plethora." - _The Three Amigos_
 

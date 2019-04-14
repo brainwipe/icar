@@ -6,10 +6,10 @@ slug: "/blogs/2006/08/google-group"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
-    blogs
+    - forum
+    - support
+    - web
+    - blogs
 ---
 
 > 2019 update - the group is still there but isn't used

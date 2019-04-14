@@ -6,11 +6,11 @@ slug: "/blogs/2008/08/new-character-sheet-1"
 category: "v3"
 cover: ""
 tags:
-    v3
-    core
-    alpha
-    book
-    wip
+    - v3
+    - core
+    - alpha
+    - book
+    - wip
 ---
 ![Character sheet version 1, a mass of discs and spikes](./images/books-v4-charactersheet1.jpg)
 

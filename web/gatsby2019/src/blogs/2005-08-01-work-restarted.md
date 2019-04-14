@@ -6,7 +6,7 @@ slug: "/blogs/2005/08/work-restarted"
 category: "v3"
 cover: ""
 tags:
-    v3
+    - v3
 ---
 My Uncle's website is mostly complete and new memory arrived for the laptop just before last week (when I was on holiday) so I have now restarted work on the Element's graphics. I am currently doing a number of really useful objects such as Mex Lifts, Grav Pads and a few technical diagrams (for grav engines etc). These will be definitely worth doing for the technical index but are pre-empted in the Elements. I am also bringing together a load of resources into the next Society book, which has its text but is in need of updating.
 

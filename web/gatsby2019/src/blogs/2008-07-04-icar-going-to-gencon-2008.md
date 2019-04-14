@@ -6,9 +6,9 @@ slug: "/blogs/2008/07/icar-going-to-gencon-2008"
 category: "conventions"
 cover: ""
 tags:
-    community,
-    support,
-    convention
+    - community
+    - support
+    - convention
 ---
 ![Lethal Rings of Obyrworld - Thurs 28th August 2008 and Friday 29th August 2008 at 2pm only at GenCon UK" title="Lethal rings of Obyrworld - Thurs 28th August 2008 and Friday 29th August 2008 at 2pm only at GenCon UK](./images/genconuk2008.jpg)
 

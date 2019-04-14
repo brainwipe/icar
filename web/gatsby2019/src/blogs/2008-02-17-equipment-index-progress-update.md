@@ -6,11 +6,11 @@ slug: "/blogs/2008/02/equipment-index-progress-update"
 category: "v3"
 cover: ""
 tags:
-    v3
-    equipment
-    book
-    alpha
-    wip
+    - v3
+    - equipment
+    - book
+    - alpha
+    - wip
 ---
 ![Tech kit items](./images/shakespearteaser.gif)
 		

@@ -6,8 +6,8 @@ slug: "/blogs/2005/05/icar-in-italian"
 category: "v3"
 cover: ""
 tags:
-    v3
-    update
+    - v3
+    - update
 ---
 No-one would have ever predicted that Icar would be translated into Italian. But it has. *Paulo Longoni* has spent an incredible amount of time translating Icar into Italian!
 

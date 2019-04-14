@@ -7,6 +7,8 @@ slug: "/blogs/2012/04/this-is-utterly-frustrating"
 category: "v4"
 cover: ""
 tags:
+    - v4
+    - print
 ---
 This is utterly frustrating. [Lulu](http://www.icar.co.uk) have failed to print Icar again. Each time I lose a week waiting for them to try and print, fail, wait 3 days for feedback, then do an update to the PDF and so on. Months are rolling by and there is nothing I can do.  
 

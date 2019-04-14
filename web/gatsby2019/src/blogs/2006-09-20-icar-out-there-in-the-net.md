@@ -6,10 +6,10 @@ slug: "/blogs/2006/09/icar-out-there-in-the-net"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
-    blogs
+    - forum
+    - support
+    - web
+    - blogs
 ---
 
 Any game designer will tell you that getting their game noticed is really difficult. There are some wonderful games out there that are given little truck. So, it's nice to get some recognition.

@@ -6,10 +6,10 @@ slug: "/blogs/2007/04/new-rss-feed"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    web,
-    blogs
+    - forum
+    - support
+    - web
+    - blogs
 ---
 
 > 2019 update - this story is a little out of date! Kept here for posterity.

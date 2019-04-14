@@ -7,6 +7,10 @@ slug: "/blogs/2012/02/version-4-beta-released"
 category: "v4"
 cover: ""
 tags:
+    - v4
+    - beta
+    - rules
+    - update
 ---
 I've been throwing huge amounts of spare time into the up and coming release of Icar version 4. I've just completed the beta version that you can find on [Google Docs](https://docs.google.com/open?id=0B2ThEbOVGt78NTI0NTY5YWUtZjVjNi00Nzc0LWJkMmYtNWZhMjZjZTU0ZWMx).  
 

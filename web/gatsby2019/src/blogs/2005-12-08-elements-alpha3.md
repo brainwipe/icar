@@ -6,10 +6,10 @@ slug: "/blogs/2005/12/elements-alpha3"
 category: "v3"
 cover: ""
 tags:
-    v3
-    core
-    wip
-    alpha
+    - v3
+    - core
+    - wip
+    - alpha
 ---
 
 Having added a lot of graphics to the Alpha, I thought it was time to update the one on the website. As you can see, I'm trying to keep the quality of the graphics to a high standard. If there are any of the images that you think lower the tone of the overall document, then please let me know on the forums. As there hasn't been an update since May, I thought it best to show that I am working on it still and there is progress, albeit in my spare time and slow! Much of the new artwork (see bottom of left hand bar) and equipment (that pops up in the new files box on the right) was created such that I could have new graphics for the rules so if you see new pictures popping up, then they're probably for the ruleset.

@@ -6,10 +6,10 @@ slug: "/blogs/2008/10/icar-and-blogs"
 category: "web"
 cover: ""
 tags:
-    web,
-    support,
-    forum,
-    blog
+    - web
+    - support
+    - forum
+    - blog
 ---
 
 I have been reading and downloading other Free RPGs for quite a long time now and it occurred to me that there was no blog for reviewing and commenting on these free RPGs. So I have created [The Free RPG Blog](https://www.thefreerpgblog.com). A place to collect and highlight all the philanthropic goodness out there. Please do check it out and give comments where need be.

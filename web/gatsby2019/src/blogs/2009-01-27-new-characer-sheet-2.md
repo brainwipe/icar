@@ -6,11 +6,11 @@ slug: "/blogs/2009/01/new-character-sheet-2"
 category: "v4"
 cover: ""
 tags:
-    v4
-    core
-    alpha
-    book
-    wip
+    - v4
+    - core
+    - alpha
+    - book
+    - wip
 ---
 The previous character sheet two (the one with the skills and equipment) was knocked up in Photoshop in an afternoon and I was never really happy with it. I liked the layout, skills on one side and equipment on the other. It fitted its purpose but it was not nearly as pleasant as the front character sheet. It didn't really fit - neither did the body/armour sheet (that's next). I lived with it because there were more pressing issues.
 

@@ -6,8 +6,8 @@ slug: "/blogs/2005/05/elements-alpha2"
 category: "v3"
 cover: ""
 tags:
-    v3
-    update
+    - v3
+    - update
 ---
 For those who like to read and read and read, the (download.xml)next version of the Alpha] is now out. I think the only thing that it is really missing is the graphics now and that's going to take a while. If you're really interested in playing 3.5, then this book should do you. Please have a good read through and see if there is anything big that's missing. There will always be small changes but it's the big omissions I want to get in before I start typesetting with the graphics.
 

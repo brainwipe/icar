@@ -6,10 +6,10 @@ slug: "/blogs/2009/10/forum-moved-to-1km1kt"
 category: "web"
 cover: ""
 tags:
-    forum,
-    support,
-    1km1kt,
-    web
+    - forum
+    - support
+    - 1km1kt
+    - web
 ---
 ![The 1km1kt logo](http://www.1km1kt.net/images/1km1kt.jpg)
 

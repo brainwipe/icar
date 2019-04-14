@@ -6,8 +6,8 @@ slug: "/blogs/2005/03/pbp-on-salroth"
 category: "v3"
 cover: ""
 tags:
-    v3
-    core
+    - v3
+    - core
 ---
 Now the new website is done, all the other things that have been put on hold can now begin in earnest. The big things coming up are:
 

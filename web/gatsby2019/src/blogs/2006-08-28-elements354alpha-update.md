@@ -6,11 +6,11 @@ slug: "/blogs/2006/08/elements354alpha-update"
 category: "v3"
 cover: ""
 tags:
-    v3
-    core
-    book
-    alpha
-    wip
+    - v3
+    - core
+    - book
+    - alpha
+    - wip
 ---
 My recent spurt of graphical output has stemmed from a holiday that didn't quite happen. Got loads of graphics done for the Elements, though. So that's good. At this rate, I'll probably finish it before I'm dead. So, the Elements 3.5 Alpha has been updated with some graphics and a couple of typos.
 

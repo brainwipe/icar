@@ -6,7 +6,7 @@ slug: "/blogs/2005/06/the-month-of-upload"
 category: "v3"
 cover: ""
 tags:
-    v3
+    - v3
 ---
 June has definitely been the month of uploading things to the site. You'll have noticed brand new equipments items going into the (download.xml)downloads] section every couple of days. While this has been going on, work on the Elements has come to a halt. The main reason for this is that I do most of the Icar stuff on a laptop which only has 256MB of ram in it. To run the new versions of my DTP software, I need 500MB. It's only 60 quid to upgrade it up I really don't have the money at the moment - real life things need paying for. I am still rendering images for it and creating scenes, I just do not have a new document to show for it.
 
