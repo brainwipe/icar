@@ -1,8 +1,8 @@
 ---
-path: "/blog/2009/01/new-character-sheet-3"
+path: "/blogs/2009/01/new-character-sheet-3"
 title: "New character sheet three"
 date: "09/01/27"
-slug: "/blog/2009/01/new-character-sheet-3"
+slug: "/blogs/2009/01/new-character-sheet-3"
 category: "v4"
 cover: ""
 tags:

@@ -1,8 +1,8 @@
 ---
-path: "/blog/2006/04/forum-wiki-hacked"
+path: "/blogs/2006/04/forum-wiki-hacked"
 title: "Forum and Wiki Hacked"
 date: "06/04/24"
-slug: "/blog/2006/04/forum-wiki-hacked"
+slug: "/blogs/2006/04/forum-wiki-hacked"
 category: "web"
 cover: ""
 tags:

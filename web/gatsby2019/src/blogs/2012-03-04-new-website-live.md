@@ -1,9 +1,9 @@
 ---
-path: "/blog/2012/03/new-website-live"
+path: "/blogs/2012/03/new-website-live"
 title: "New Website Live"
 date: "12/03/04"
 originalUrl: "https://icarrpg.blogspot.com/2012/03/new-website-live.html"
-slug: "/blog/2012/03/new-website-live"
+slug: "/blogs/2012/03/new-website-live"
 category: "v4"
 cover: ""
 tags:

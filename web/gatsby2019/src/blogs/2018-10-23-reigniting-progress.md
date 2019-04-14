@@ -1,9 +1,9 @@
 ---
-path: "/blog/2018/10/reigniting-progress"
+path: "/blogs/2018/10/reigniting-progress"
 title: "Reigniting progress"
 date: "18/10/23"
 originalUrl: "https://icarrpg.blogspot.com/2018/10/reigniting-progress.html"
-slug: "/blog/2018/10/reigniting-progress"
+slug: "/blogs/2018/10/reigniting-progress"
 category: "v4"
 cover: ""
 tags:
@@ -17,7 +17,7 @@ Progress has crawled along since I decided to work on version 5. Partly due to f
 
 Time away from an activity can give you the opportunity to look at what you were doing afresh. To get back into the hobby, I can recommend taking stock of what you have, questioning all previous decisions, working out what was fun, working out what was best and then making a series of small goals.  Here's what I decided:  
 
-*   I like playing face to face. Roll20 was cool and better than nothing but I need face-to-face.  I like communicating. Getting back onto 1km1kt and Twitter is a start. I see G+ is going the way of the dodo. I like creating. 
+> I like playing face to face. Roll20 was cool and better than nothing but I need face-to-face.  I like communicating. Getting back onto 1km1kt and Twitter is a start. I see G+ is going the way of the dodo. I like creating. 
 
 ## Back to basics... sort of
 
@@ -25,4 +25,9 @@ I read the core rules again, cover to cover. My wife's red pen along with my own
 
 ## Keep track of my progress!
 
-*   Micro-musings on [Twitter @icarrpg](https://twitter.com/icarrpg)Chatting on [1KM1KT](http://www.1km1kt.net/forum/viewtopic.php?f=34&t=9061&p=32501#p32501) forums Blogging here (for now, but I'm moving it) Updates through to [Facebook](https://www.facebook.com/icarrpg)Task list on [Trello](https://trello.com/b/46BJhlX1/icar-the-sci-fi-rpg-wwwicarcouk)Open source content as I go on [](https://github.com/brainwipe/icar) By keeping this all out in the open, I hope to stay motivated!
+* Micro-musings on [Twitter @icarrpg](https://twitter.com/icarrpg)
+* Chatting on [1KM1KT](http://www.1km1kt.net/forum/viewtopic.php?f=34&t=9061&p=32501#p32501) forums 
+* Blogging here (for now, but I'm moving it) 
+* Updates through to [Facebook](https://www.facebook.com/icarrpg)
+* Task list on [Trello](https://trello.com/b/46BJhlX1/icar-the-sci-fi-rpg-wwwicarcouk)
+* Open source content as I go on [](https://github.com/brainwipe/icar) By keeping this all out in the open, I hope to stay motivated!

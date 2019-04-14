@@ -1,8 +1,8 @@
 ---
-path: "/blog/2009/10/version4-progress-update"
+path: "/blogs/2009/10/version4-progress-update"
 title: "Version 4 progress update"
 date: "09/10/11"
-slug: "/blog/2009/10/version4-progress-update"
+slug: "/blogs/2009/10/version4-progress-update"
 category: "v4"
 cover: ""
 tags:

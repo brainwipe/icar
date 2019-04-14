@@ -1,8 +1,8 @@
 ---
-path: "/blog/2008/08/new-character-sheet-1"
+path: "/blogs/2008/08/new-character-sheet-1"
 title: "New character sheet one"
 date: "08/08/17"
-slug: "/blog/2008/08/new-character-sheet-1"
+slug: "/blogs/2008/08/new-character-sheet-1"
 category: "v3"
 cover: ""
 tags:

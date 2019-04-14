@@ -1,8 +1,8 @@
 ---
-path: "/blog/2007/04/site-now-in-php"
+path: "/blogs/2007/04/site-now-in-php"
 title: "Subtle but important change - site now in PHP"
 date: "07/04/20"
-slug: "/blog/2007/04/site-now-in-php"
+slug: "/blogs/2007/04/site-now-in-php"
 category: "web"
 cover: ""
 tags:

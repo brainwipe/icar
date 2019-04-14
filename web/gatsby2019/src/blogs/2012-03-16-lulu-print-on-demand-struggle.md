@@ -1,9 +1,9 @@
 ---
-path: "/blog/2012/03/lulu-print-on-demand-struggle"
+path: "/blogs/2012/03/lulu-print-on-demand-struggle"
 title: "The Lulu print on demand struggle"
 date: "12/03/16"
 originalUrl: "https://icarrpg.blogspot.com/2012/03/lulu-print-on-demand-struggle.html"
-slug: "/blog/2012/03/lulu-print-on-demand-struggle"
+slug: "/blogs/2012/03/lulu-print-on-demand-struggle"
 category: "v4"
 cover: ""
 tags:

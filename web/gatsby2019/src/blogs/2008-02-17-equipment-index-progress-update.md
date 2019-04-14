@@ -1,8 +1,8 @@
 ---
-path: "/blog/2008/02/equipment-index-progress-update"
+path: "/blogs/2008/02/equipment-index-progress-update"
 title: "Equipment Index Version Progress Update"
 date: "08/02/17"
-slug: "/blog/2008/02/equipment-index-progress-update"
+slug: "/blogs/2008/02/equipment-index-progress-update"
 category: "v3"
 cover: ""
 tags:

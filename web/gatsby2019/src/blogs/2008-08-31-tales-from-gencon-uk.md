@@ -1,8 +1,8 @@
 ---
-path: "/blog/2008/08/tales-from-gencon-uk"
+path: "/blogs/2008/08/tales-from-gencon-uk"
 title: "Tales from Gencon UK"
 date: "08/08/31"
-slug: "/blog/2008/10/tales-from-gencon-uk"
+slug: "/blogs/2008/10/tales-from-gencon-uk"
 category: "conventions"
 cover: ""
 tags:

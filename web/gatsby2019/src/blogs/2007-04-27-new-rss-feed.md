@@ -1,8 +1,8 @@
 ---
-path: "/blog/2007/04/new-rss-feed"
+path: "/blogs/2007/04/new-rss-feed"
 title: "New RSS Feed"
 date: "07/04/27"
-slug: "/blog/2007/04/new-rss-feed"
+slug: "/blogs/2007/04/new-rss-feed"
 category: "web"
 cover: ""
 tags:

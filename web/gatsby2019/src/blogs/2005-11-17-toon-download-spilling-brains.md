@@ -1,8 +1,8 @@
 ---
-path: "/blog/2005/12/toon-download-spilling-brains"
+path: "/blogs/2005/12/toon-download-spilling-brains"
 title: "Toon, Download and Spilling Brains"
 date: "05/11/17"
-slug: "/blog/2005/12/toon-download-spilling-brains"
+slug: "/blogs/2005/12/toon-download-spilling-brains"
 category: "v3"
 cover: ""
 tags:

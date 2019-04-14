@@ -1,8 +1,8 @@
 ---
-path: "/blog/2005/06/a-plethora"
+path: "/blogs/2005/06/a-plethora"
 title: "A Plethora"
 date: "05/06/15"
-slug: "/blog/2005/06/a-plethora"
+slug: "/blogs/2005/06/a-plethora"
 category: "v3"
 cover: ""
 tags:

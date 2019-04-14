@@ -1,9 +1,9 @@
 ---
-path: "/blog/2015/08/text-first-new-way-to-fill-in-campaign"
+path: "/blogs/2015/08/text-first-new-way-to-fill-in-campaign"
 title: "Text first: a new way to fill in campaign detail"
 date: "15/08/17"
 originalUrl: "https://icarrpg.blogspot.com/2015/08/text-first-new-way-to-fill-in-campaign.html"
-slug: "/blog/2015/08/text-first-new-way-to-fill-in-campaign"
+slug: "/blogs/2015/08/text-first-new-way-to-fill-in-campaign"
 category: "v4"
 cover: ""
 tags:

@@ -1,8 +1,8 @@
 ---
-path: "/blog/2006/01/lots-of-small-updates"
+path: "/blogs/2006/01/lots-of-small-updates"
 title: "Lots of small updates"
 date: "06/01/14"
-slug: "/blog/2006/01/lots-of-small-updates"
+slug: "/blogs/2006/01/lots-of-small-updates"
 category: "web"
 cover: ""
 tags:

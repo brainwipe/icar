@@ -1,9 +1,9 @@
 ---
-path: "/blog/2014/12/never-leave-well-enough-alone"
+path: "/blogs/2014/12/never-leave-well-enough-alone"
 title: "Never leave well enough alone"
 date: "14/12/17"
 originalUrl: "https://icarrpg.blogspot.com/2014/12/never-leave-well-enough-alone.html"
-slug: "/blog/2014/12/never-leave-well-enough-alone"
+slug: "/blogs/2014/12/never-leave-well-enough-alone"
 category: "v4"
 cover: ""
 tags:

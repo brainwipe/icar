@@ -1,8 +1,8 @@
 ---
-path: "/blog/2008/02/random-acts-blogs-icar"
+path: "/blogs/2008/02/random-acts-blogs-icar"
 title: "Random Acts blogs Icar"
 date: "09/02/27"
-slug: "/blog/2008/02/random-acts-blogs-icar"
+slug: "/blogs/2008/02/random-acts-blogs-icar"
 category: "web"
 cover: ""
 tags:

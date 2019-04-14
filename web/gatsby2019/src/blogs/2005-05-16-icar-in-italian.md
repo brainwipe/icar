@@ -1,8 +1,8 @@
 ---
-path: "/blog/2005/05/icar-in-italian"
+path: "/blogs/2005/05/icar-in-italian"
 title: "Icar in Italian"
 date: "05/05/16"
-slug: "/blog/2005/05/icar-in-italian"
+slug: "/blogs/2005/05/icar-in-italian"
 category: "v3"
 cover: ""
 tags:

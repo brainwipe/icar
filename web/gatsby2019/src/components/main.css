@@ -96,7 +96,7 @@ label {
     color: white;
 }
 
-.home-menu a {
+.home-menu a, .pure-menu-selected .pure-menu-link, .pure-menu-selected .pure-menu-link:visited { 
     color: #6FBEF3;
 }
 .home-menu li a:hover,
@@ -174,7 +174,14 @@ html, button, input, select, textarea,
  * -- CONTENT STYLES --
  * This represents the content area (everything below the blue section)
  */
-.content-wrapper {
+
+/* We want to give the content area some more padding */
+.content {
+    padding: 1em 1em 3em;
+    margin:0 auto;
+}
+
+.index-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
     top: 87%;
@@ -182,12 +189,6 @@ html, button, input, select, textarea,
     min-height: 12%;
     z-index: 2;
     background: white;
-
-}
-
-/* We want to give the content area some more padding */
-.content {
-    padding: 1em 1em 3em;
 }
 
 /* This is the class used for the main content headers (<h2>) */
@@ -232,6 +233,10 @@ html, button, input, select, textarea,
     color:#ddddfe;
     bottom: 0;
     width: 100%;
+}
+
+.blog-wrapper {
+    margin:3.4em 0 0 0;
 }
 
 /*

@@ -1,8 +1,8 @@
 ---
-path: "/blog/2010/06/version4-alpha-available"
+path: "/blogs/2010/06/version4-alpha-available"
 title: "Icar Version 4 Alpha Available for Download"
 date: "10/06/05"
-slug: "/blog/2010/06/version4-alpha-available"
+slug: "/blogs/2010/06/version4-alpha-available"
 category: "v4"
 cover: ""
 tags:

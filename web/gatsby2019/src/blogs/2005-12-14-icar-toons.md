@@ -1,8 +1,8 @@
 ---
-path: "/blog/2005/12/icar-toons"
+path: "/blogs/2005/12/icar-toons"
 title: "Icar Toons"
 date: "05/12/14"
-slug: "/blog/2005/12/icar-toons"
+slug: "/blogs/2005/12/icar-toons"
 category: "web"
 cover: ""
 tags:

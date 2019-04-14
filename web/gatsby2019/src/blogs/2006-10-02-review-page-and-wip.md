@@ -1,8 +1,8 @@
 ---
-path: "/blog/2006/10/review-page-and-wip"
+path: "/blogs/2006/10/review-page-and-wip"
 title: "Review Page now online and Works in Progress"
 date: "06/10/02"
-slug: "/blog/2006/10/review-page-and-wip"
+slug: "/blogs/2006/10/review-page-and-wip"
 category: "web"
 cover: ""
 tags:

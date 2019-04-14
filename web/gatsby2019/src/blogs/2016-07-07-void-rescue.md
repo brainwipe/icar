@@ -1,9 +1,9 @@
 ---
-path: "/blog/2016/07/void-rescue"
+path: "/blogs/2016/07/void-rescue"
 title: "Void Rescue"
 date: "16/07/07"
 originalUrl: "https://icarrpg.blogspot.com/2016/07/void-rescue.html"
-slug: "/blog/2016/07/void-rescue"
+slug: "/blogs/2016/07/void-rescue"
 category: "v4"
 cover: ""
 tags:

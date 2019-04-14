@@ -1,8 +1,8 @@
 ---
-path: "/blog/2006/08/google-group"
+path: "/blogs/2006/08/google-group"
 title: "Google Group"
 date: "06/07/17"
-slug: "/blog/2006/08/google-group"
+slug: "/blogs/2006/08/google-group"
 category: "web"
 cover: ""
 tags:

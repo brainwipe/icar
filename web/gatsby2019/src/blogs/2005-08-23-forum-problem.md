@@ -1,8 +1,8 @@
 ---
-path: "/blog/2005/08/forum-problem"
+path: "/blogs/2005/08/forum-problem"
 title: "Spacecraft Updates"
 date: "05/08/23"
-slug: "/blog/2005/08/forum-problem"
+slug: "/blogs/2005/08/forum-problem"
 category: "web"
 cover: ""
 tags:

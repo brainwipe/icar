@@ -33,7 +33,7 @@ exports.createPages = ({ graphql, actions }) => {
     `
   ).then(result => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        console.log("creating " + node.fields.slug);
+        console.log("also " + node.fields.slug);
         createPage({
             path: node.fields.slug,
             component: path.resolve(`./src/templates/blog.js`),

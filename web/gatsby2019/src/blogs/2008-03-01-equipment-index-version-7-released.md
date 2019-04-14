@@ -1,8 +1,8 @@
 ---
-path: "/blog/2008/03/equipment-index-version-7-released"
+path: "/blogs/2008/03/equipment-index-version-7-released"
 title: "Equipment Index Version 7 Released"
 date: "08/03/01"
-slug: "/blog/2008/03/equipment-index-version-7-released"
+slug: "/blogs/2008/03/equipment-index-version-7-released"
 category: "v3"
 cover: ""
 tags:

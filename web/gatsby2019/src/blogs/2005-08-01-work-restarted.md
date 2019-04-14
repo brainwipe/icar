@@ -1,8 +1,8 @@
 ---
-path: "/blog/2005/08/work-restarted"
+path: "/blogs/2005/08/work-restarted"
 title: "Work Restarted"
 date: "05/08/01"
-slug: "/blog/2005/08/work-restarted"
+slug: "/blogs/2005/08/work-restarted"
 category: "v3"
 cover: ""
 tags:

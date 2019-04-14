@@ -1,9 +1,9 @@
 ---
-path: "/blog/2015/11/the-fleet-stub-wing-i-first-drew-it-at"
+path: "/blogs/2015/11/the-fleet-stub-wing-i-first-drew-it-at"
 title: "The Fleet Stub Wing, I first drew it at 14 and I don't have the heart to change it"
 date: "15/11/22"
 originalUrl: "https://icarrpg.blogspot.com/2015/11/the-fleet-stub-wing-i-first-drew-it-at.html"
-slug: "/blog/2015/11/the-fleet-stub-wing-i-first-drew-it-at"
+slug: "/blogs/2015/11/the-fleet-stub-wing-i-first-drew-it-at"
 category: "v4"
 cover: ""
 tags:

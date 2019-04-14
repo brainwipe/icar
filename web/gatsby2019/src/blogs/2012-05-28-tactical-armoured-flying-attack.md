@@ -1,9 +1,9 @@
 ---
-path: "/blog/2012/05/tactical-armoured-flying-attack"
+path: "/blogs/2012/05/tactical-armoured-flying-attack"
 title: "Tactical Armoured Flying Attack Conveyance - TAFAC"
 date: "12/05/28"
 originalUrl: "https://icarrpg.blogspot.com/2012/05/tactical-armoured-flying-attack.html"
-slug: "/blog/2012/05/tactical-armoured-flying-attack"
+slug: "/blogs/2012/05/tactical-armoured-flying-attack"
 category: "v4"
 cover: ""
 tags:

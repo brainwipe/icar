@@ -1,8 +1,8 @@
 ---
-path: "/blog/2011/01/progress-report"
+path: "/blogs/2011/01/progress-report"
 title: "January 2011 Progress Report"
 date: "11/01/17"
-slug: "/blog/2011/01/progress-report"
+slug: "/blogs/2011/01/progress-report"
 category: "v4"
 cover: ""
 tags:

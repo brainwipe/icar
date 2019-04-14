@@ -1,9 +1,9 @@
 ---
-path: "/blog/2013/03/nothing-quite-like-campaign-to-get-me"
+path: "/blogs/2013/03/nothing-quite-like-campaign-to-get-me"
 title: "Nothing quite like a campaign to get me fired up"
 date: "13/03/08"
 originalUrl: "https://icarrpg.blogspot.com/2013/03/nothing-quite-like-campaign-to-get-me.html"
-slug: "/blog/2013/03/nothing-quite-like-campaign-to-get-me"
+slug: "/blogs/2013/03/nothing-quite-like-campaign-to-get-me"
 category: "v4"
 cover: ""
 tags:
