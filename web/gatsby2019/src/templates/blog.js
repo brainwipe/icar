@@ -7,7 +7,7 @@ export default ({data}) => {
   return (
     <Layout>
       <div className="blog-wrapper pure-g">
-        <article className="content pure-u-1 pure-u-md-1-2">
+        <article className="content pure-u-1 pure-u-sm-3-4 pure-u-md-1-2">
           <h1>{post.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
         </article>

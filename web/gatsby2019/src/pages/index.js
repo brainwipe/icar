@@ -5,6 +5,7 @@ import CoreRules from "../img/icar-core-rules.jpg"
 import PlayerHandouts from "../img/icar-equipment-index.jpg"
 import FleetSetting from "../img/icar-fleet-setting.jpg"
 import RulesPages from "../img/icar-core-pages.png"
+import { Link } from "gatsby"
 
 export default () => (
     <Layout>
@@ -71,7 +72,7 @@ export default () => (
                         <br/>
                         Icar is a space opera, more light hearted than hard science fiction. It is set in a distant future where a benevolent Imperium protect the human race, which is battling race of killer robots it created!<br/>
                         <br/>
-                        Up to date news can be found on THE BLOG XXXXX, questions, feedback and chat can be found on <a href="http://www.1km1kt.net/forum/viewforum.php?f=34">the forum</a>.<br/>
+                        Up to date news can be found on <Link to="blogs">the blog</Link>, questions, feedback and chat can be found on <a href="http://www.1km1kt.net/forum/viewforum.php?f=34">the forum</a>.<br/>
                     </p>
                 </div>
             </div>
