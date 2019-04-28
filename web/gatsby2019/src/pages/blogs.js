@@ -11,11 +11,11 @@ export default ({ data }) => {
             {data.allMarkdownRemark.edges.map(({ node }) => (
               <section key={node.frontmatter.slug}>
                 <header>
-                  <h2><Link to={node.frontmatter.slug}>{node.frontmatter.title}</Link></h2>
+                  <h2><Link to={`/${node.frontmatter.slug}`}>{node.frontmatter.title}</Link></h2>
                   <p>{node.frontmatter.date}</p>
                </header>
                 <div>
-                  <p>{node.excerpt} <Link to={node.frontmatter.slug}>more...</Link></p>
+                  <p>{node.excerpt} <Link to={`/${node.frontmatter.slug}`}>more...</Link></p>
                </div>
               </section>
               ))}

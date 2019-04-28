@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2014/03/the-pink-stripe-scavenger-spacecraft"
+path: "blogs/2014/03/the-pink-stripe-scavenger-spacecraft"
 title: "The Pink Stripe - scavenger spacecraft"
 date: "2014-03-08"
 originalUrl: "https://icarrpg.blogspot.com/2014/03/the-pink-stripe-scavenger-spacecraft.html"
-slug: "/blogs/2014/03/the-pink-stripe-scavenger-spacecraft"
+slug: "blogs/2014/03/the-pink-stripe-scavenger-spacecraft"
 category: "v4"
 cover: ""
 tags:

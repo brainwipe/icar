@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2009/10/forum-moved-to-1km1kt"
+path: "blogs/2009/10/forum-moved-to-1km1kt"
 title: "Icar Forum has moved to 1KM1KT"
 date: "2009-10-11"
-slug: "/blogs/2009/10/forum-moved-to-1km1kt"
+slug: "blogs/2009/10/forum-moved-to-1km1kt"
 category: "web"
 cover: ""
 tags:

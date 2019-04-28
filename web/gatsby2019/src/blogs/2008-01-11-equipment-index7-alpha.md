@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2008/01/equipment-index7-alpha"
+path: "blogs/2008/01/equipment-index7-alpha"
 title: "Equipment Index 7 Alpha Released"
 date: "2008-01-11"
-slug: "/blogs/2008/01/equipment-index7-alpha"
+slug: "blogs/2008/01/equipment-index7-alpha"
 category: "v3"
 cover: ""
 tags:

@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2015/06/new-download-npc-character-sheet"
+path: "blogs/2015/06/new-download-npc-character-sheet"
 title: "New Download: NPC Character sheet"
 date: "2015-06-03"
 originalUrl: "https://icarrpg.blogspot.com/2015/06/new-download-npc-character-sheet.html"
-slug: "/blogs/2015/06/new-download-npc-character-sheet"
+slug: "blogs/2015/06/new-download-npc-character-sheet"
 category: "v4"
 cover: ""
 tags:

@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2018/04/race-and-gender-in-icar"
+path: "blogs/2018/04/race-and-gender-in-icar"
 title: "Race and gender in Icar"
 date: "2018-04-03"
 originalUrl: "https://icarrpg.blogspot.com/2018/04/race-and-gender-in-icar.html"
-slug: "/blogs/2018/04/race-and-gender-in-icar"
+slug: "blogs/2018/04/race-and-gender-in-icar"
 category: "v4"
 cover: ""
 tags:

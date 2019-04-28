@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2014/12/an-example-of-graphics-going-not-so-well"
+path: "blogs/2014/12/an-example-of-graphics-going-not-so-well"
 title: "An example of the graphics going not-so-well"
 date: "2014-12-29"
 originalUrl: "https://icarrpg.blogspot.com/2014/12/an-example-of-graphics-going-not-so-well.html"
-slug: "/blogs/2014/12/an-example-of-graphics-going-not-so-well"
+slug: "blogs/2014/12/an-example-of-graphics-going-not-so-well"
 category: "v4"
 cover: ""
 tags:

@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2007/08/general-update"
+path: "blogs/2007/08/general-update"
 title: "General Update"
 date: "2007-08-03"
-slug: "/blogs/2007/08/general-update"
+slug: "blogs/2007/08/general-update"
 category: "v4"
 cover: ""
 tags:

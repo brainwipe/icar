@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2006/09/elements355-released"
+path: "blogs/2006/09/elements355-released"
 title: "Elements 3.55 Released"
 date: "2006-09-11"
-slug: "/blogs/2006/09/elements355-released"
+slug: "blogs/2006/09/elements355-released"
 category: "v3"
 cover: ""
 tags:

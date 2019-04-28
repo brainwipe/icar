@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2005/05/elements-alpha2"
+path: "blogs/2005/05/elements-alpha2"
 title: "Elements Alpha 2"
 date: "2005-05-31"
-slug: "/blogs/2005/05/elements-alpha2"
+slug: "blogs/2005/05/elements-alpha2"
 category: "v3"
 cover: ""
 tags:

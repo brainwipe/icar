@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2007/12/featured-on-all-games-considered"
+path: "blogs/2007/12/featured-on-all-games-considered"
 title: "Featured on All Games Considered"
 date: "2007-12-21"
-slug: "/blogs/2007/12/featured-on-all-games-considered"
+slug: "blogs/2007/12/featured-on-all-games-considered"
 category: "web"
 cover: ""
 tags:

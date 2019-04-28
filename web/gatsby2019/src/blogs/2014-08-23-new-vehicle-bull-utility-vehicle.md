@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2014/08/new-vehicle-bull-utility-vehicle"
+path: "blogs/2014/08/new-vehicle-bull-utility-vehicle"
 title: "New vehicle: The Bull utility vehicle"
 date: "2014-08-23"
 originalUrl: "https://icarrpg.blogspot.com/2014/08/new-vehicle-bull-utility-vehicle.html"
-slug: "/blogs/2014/08/new-vehicle-bull-utility-vehicle"
+slug: "blogs/2014/08/new-vehicle-bull-utility-vehicle"
 category: "v4"
 cover: ""
 tags:

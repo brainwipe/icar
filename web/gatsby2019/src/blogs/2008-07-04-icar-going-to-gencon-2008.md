@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2008/07/icar-going-to-gencon-2008"
+path: "blogs/2008/07/icar-going-to-gencon-2008"
 title: "Icar is going to GenCon UK 2008"
 date: "2008-07-04"
-slug: "/blogs/2008/07/icar-going-to-gencon-2008"
+slug: "blogs/2008/07/icar-going-to-gencon-2008"
 category: "conventions"
 cover: ""
 tags:

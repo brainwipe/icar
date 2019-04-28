@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2008/10/icar-and-blogs"
+path: "blogs/2008/10/icar-and-blogs"
 title: "Icar and Blogs"
 date: "2008-10-04"
-slug: "/blogs/2008/10/icar-and-blogs"
+slug: "blogs/2008/10/icar-and-blogs"
 category: "web"
 cover: ""
 tags:

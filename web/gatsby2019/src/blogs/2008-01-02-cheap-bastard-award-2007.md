@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2008/01/cheap-bastard-award-2007"
+path: "blogs/2008/01/cheap-bastard-award-2007"
 title: "All Games Considered: Cheap Bastard Award of 2007"
 date: "2008-01-02"
-slug: "/blogs/2008/01/cheap-bastard-award-2007"
+slug: "blogs/2008/01/cheap-bastard-award-2007"
 category: "web"
 cover: ""
 tags:

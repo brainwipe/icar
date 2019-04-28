@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2006/08/equipment-index-single-zip"
+path: "blogs/2006/08/equipment-index-single-zip"
 title: "Equipment Index in a Single Zip"
 date: "2006-08-28"
-slug: "/blogs/2006/08/equipment-index-single-zip"
+slug: "blogs/2006/08/equipment-index-single-zip"
 category: "v3"
 cover: ""
 tags:

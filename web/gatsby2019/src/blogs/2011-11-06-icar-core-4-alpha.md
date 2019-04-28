@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2011/11/06/icar-core-4-alpha"
+path: "blogs/2011/11/06/icar-core-4-alpha"
 title: "New release of Icar core rules version 4 alpha"
 date: "2011-11-06"
-slug: "/blogs/2011/11/icar-core-4-alpha"
+slug: "blogs/2011/11/icar-core-4-alpha"
 category: "v4"
 cover: ""
 tags:

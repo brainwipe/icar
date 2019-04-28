@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2012/09/introducing-rapier"
+path: "blogs/2012/09/introducing-rapier"
 title: "Introducing the Rapier"
 date: "2012-09-01"
 originalUrl: "https://icarrpg.blogspot.com/2012/09/introducing-rapier.html"
-slug: "/blogs/2012/09/introducing-rapier"
+slug: "blogs/2012/09/introducing-rapier"
 category: "v4"
 cover: ""
 tags:

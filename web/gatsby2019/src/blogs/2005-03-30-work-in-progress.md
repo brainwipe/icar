@@ -1,8 +1,8 @@
 ---
-path: "/blogs/2005/03/work-in-progress"
+path: "blogs/2005/03/work-in-progress"
 title: "Work in Progress"
 date: "2005-03-30"
-slug: "/blogs/2005/03/pbp-on-salroth"
+slug: "blogs/2005/03/pbp-on-salroth"
 category: "v3"
 cover: ""
 tags:

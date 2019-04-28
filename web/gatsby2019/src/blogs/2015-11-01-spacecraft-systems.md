@@ -1,9 +1,9 @@
 ---
-path: "/blogs/2015/11/spacecraft-systems"
+path: "blogs/2015/11/spacecraft-systems"
 title: "Spacecraft systems"
 date: "2015-11-01"
 originalUrl: "https://icarrpg.blogspot.com/2015/11/spacecraft-systems.html"
-slug: "/blogs/2015/11/spacecraft-systems"
+slug: "blogs/2015/11/spacecraft-systems"
 category: "v4"
 cover: ""
 tags:
