@@ -17,8 +17,7 @@ export default () => (
             </div>
         </div>
         
-        <a name="downloads"></a>
-        <div className="index-wrapper pure-g">
+        <div id="download" className="index-wrapper pure-g">
             <div className="content content pure-u-1 pure-u-lg-2">
                 <h2 className="content-head is-center">Downloads</h2>
                 <div>
