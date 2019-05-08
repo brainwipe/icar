@@ -1,0 +1,1782 @@
+[
+   {
+      "name": "LTTPOOSF",
+      "imperialStandardTime": {
+         "start": "90500",
+         "end": "?"
+      },
+      "realTime": {
+         "start": "1990/11/01",
+         "end": "1994/11/01"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Mill Hill School",
+      "ruleVersion": "1.0",
+      "information": {
+         "ooc": "The very first Icar group, using hurriedly pencil drawn equipment index and character sheets from a dot matrix printer. Most missions involved battling Genus 2 mutants in Munchkin-like bloodbaths. Very little intrigue and mystery, very large guns. The group ended after a prolongued arms race, typical of any fledgling roleplay group.",
+         "ic": {
+            "#text": [
+               "Let's Take The Piss Out Of Star Fleet (LTTPOOSF) was a trooper squad that was partly adopted by Star Sci. Taken from the Trooper Unit 201 just before they were due to start active service, these three borderline psychopaths conducted more missions for the fleet than any other team. They eventually left the fleet to persue more Star Sci related tasks and acted as trouble shooters for them. Star Sci lavished attention on them in turn, providing all manner of wacky gadgets from huge space craft to a moon that could light-jump.",
+               "LTTPOOSF should be best remembered for being the ones who implanted the AI virus on the Droid computer in 91622. The only member of the team that can be sure to be dead is Baldrick IV, whose body is spread around several colonies."
+            ],
+            "br": []
+         }
+      },
+      "characters": [
+         {
+            "name": "Fish",
+            "player": "Simon Aubury",
+            "type": "SF Trooper",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Unknown"
+         },
+         {
+            "name": "Georgina",
+            "player": "James Walker",
+            "type": "SF Trooper",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Unknown"
+         },
+         {
+            "name": "Baldrick IV",
+            "player": "Gareth Jones",
+            "type": "SF Trooper",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": {
+               "ic": "Often rescued from the jaws of death, this character was famed for having his right arm blown off."
+            },
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Anonymous",
+      "imperialStandardTime": {
+         "start": "91000",
+         "end": "?"
+      },
+      "realTime": {
+         "start": "1992/10/01",
+         "end": "1994"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Mill Hill School",
+      "ruleVersion": "1",
+      "information": {
+         "ooc": "Little is known of this team except that they were a mission based group around the time of the Droid war.",
+         "ic": "No further info."
+      },
+      "characters": [
+         {
+            "name": "Miranda",
+            "player": "Simon Aubury",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "3",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Nemesis",
+            "player": "James Walker",
+            "type": "SF Special Forces",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Alex Davis",
+            "player": "Gareth Jones",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "WHACPSWO",
+      "imperialStandardTime": {
+         "start": "91000",
+         "end": "91000"
+      },
+      "realTime": {
+         "start": "1992/10",
+         "end": "1993"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Finchley Games Club",
+      "ruleVersion": "2",
+      "information": {
+         "ooc": "Taking Icar to the local games club that Rob had visited since he was 12 was a big step. He enlisted a number of new players that demonstrated that the system was far from watertight and that the original three players had only managed through their presence during adaption. Violence was still the key here with mission-led evenings."
+      },
+      "characters": [
+         {
+            "name": "Dave Emerald",
+            "player": "Daniel Richtman",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Vixen",
+            "player": "Simon Aubury",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Dritzl Do Urdon",
+            "player": "Dougal Lichtmann",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Gotrek Doom Dwarf",
+            "player": "James Walker",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Diana Baldrick",
+            "player": "Gareth Jones",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "No Name",
+            "player": "Mark Shotter",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Dogs of War",
+      "imperialStandardTime": {
+         "start": "92024",
+         "end": "92024"
+      },
+      "realTime": {
+         "start": "Oct 1993",
+         "end": "Early 1994"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Finchley Games Club",
+      "ruleVersion": "2",
+      "information": [],
+      "characters": [
+         {
+            "name": "No Name",
+            "player": "Simon Aubury",
+            "type": "SF Special Forces",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Yvonne Heelan",
+            "player": "Adam Williamson",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Razor",
+            "player": "Fernando Vaz",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Worcester",
+            "player": "Tony Di Fede",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "No Name",
+            "player": "Keywan",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Pilot",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "No Name",
+            "player": "Gareth Jones",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Flaming Fists",
+      "imperialStandardTime": {
+         "start": "92024",
+         "end": "92024"
+      },
+      "realTime": {
+         "start": "1994",
+         "end": "1994"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Finchley Games Club",
+      "ruleVersion": "2",
+      "information": {
+         "ooc": "Most noted for their connections with Star Sci, in which they tested all sorts of equipment and set up a night club called Utopia on Nibes Nomis 4 (SAY)."
+      },
+      "characters": [
+         {
+            "name": "Eddie Vedan / Fixit",
+            "player": "Adam Williamson",
+            "type": "SF Trooper",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Atomic",
+            "player": "Karl O'Brien",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Chance",
+            "player": [
+               "Simon Crocker",
+               "Phil Caller"
+            ],
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Baal",
+            "player": "Simon Aubury",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Chaplain",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Gerg",
+            "player": "Gideon Moss",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Chaplain",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Shiva",
+            "player": "Eduado Queralto",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Genocide",
+      "imperialStandardTime": {
+         "start": "92025",
+         "end": "92025"
+      },
+      "realTime": {
+         "start": "1995/1",
+         "end": "1995"
+      },
+      "gamesmaster": "Phil Caller",
+      "location": "Finchley Games Club",
+      "ruleVersion": "2",
+      "information": {
+         "ooc": "Phil was the first person other than Rob to GM Icar (Star Fleet as it was known then). They were also the first (and last) to be given Devastator armour as Special Forces. This team was played in tandem with The Reapers and the actions of the team often influenced each other."
+      },
+      "characters": [
+         {
+            "name": "Reg Lazarus",
+            "player": "Lucas Christodulu",
+            "type": "SF Special Forces",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Boomer",
+            "player": "Adam Williamson",
+            "type": "SF Special Forces",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "William Bonny / Solo",
+            "player": "Simon Crocker",
+            "type": "SF Special Forces",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Bitch",
+            "player": "Ursula Robinson",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Spanners",
+            "player": "Eduado Queralto",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "The Reapers",
+      "imperialStandardTime": {
+         "start": "92025",
+         "end": "92025"
+      },
+      "realTime": {
+         "start": "1995/1",
+         "end": "1995"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Finchley Games Club",
+      "ruleVersion": "2",
+      "information": {
+         "ooc": "This team was run along side Genocide and the actions of the Reapers often had knock on effects on Genocide."
+      },
+      "characters": [
+         {
+            "name": "Tessa / Shiva",
+            "player": "Simon Aubury",
+            "type": "SF Special Forces",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Alkie Holic / Jimbo Tackleberry",
+            "player": "James Waller",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Bill Frankland",
+            "player": "Gideon Moss",
+            "type": "SF Special Forces",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Riane Hope / No Hope",
+            "player": "Gideon Moss",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Streetrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Dipso Keane",
+            "player": "Nick",
+            "type": "SF Special Forces",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Jammy Dodgers",
+      "imperialStandardTime": {
+         "start": "92026",
+         "end": "92026"
+      },
+      "realTime": {
+         "start": "1996",
+         "end": "1996"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading University Student Union, Games and Roleplay Society and 2 Radstock Road, Reading",
+      "ruleVersion": "2",
+      "information": [],
+      "characters": [
+         {
+            "name": "Stem Francis Gizza / Oltar",
+            "player": "Timothy Hastings",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Meshrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Robert Hill / Sharp",
+            "player": "Christopher Challcombe",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Streetrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Sefan Kovacevic / Vic",
+            "player": "Chrisopher Challacombe",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Streetrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Vincent Tanaka / Wolf",
+            "player": "Lorenzo Pirisino",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Nick Fortesque",
+            "player": "Steven Bryce",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Rook Bo'Dikai",
+            "player": "Omar Salleh",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Meshrunner",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "The Lollypoppers",
+      "imperialStandardTime": {
+         "start": "92026",
+         "end": "92026"
+      },
+      "realTime": {
+         "start": "1996/10",
+         "end": "1996"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading University Student Union, Games and Roleplay Society",
+      "ruleVersion": "2",
+      "information": {
+         "ooc": "A very short lived group, neither player really had the time to spend on playing so the few sessions were fractured and rare."
+      },
+      "characters": [
+         {
+            "name": "Vince Fernis / Flipside",
+            "player": "Russell Henley",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Streetrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Nicholicium / Nick",
+            "player": "Nick Guard",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "The Partnership",
+      "imperialStandardTime": {
+         "start": "92026",
+         "end": "92026"
+      },
+      "realTime": {
+         "start": "1996/12",
+         "end": "1997/05"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "2 Radstock Road, Reading",
+      "ruleVersion": "2",
+      "information": [],
+      "characters": [
+         {
+            "name": "Earl Cupper",
+            "player": "Timothy Hastings",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Meshrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Nick",
+            "player": "Nick Guard",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Pilot",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Broman Kydian / Brom",
+            "player": "Omar Salleh",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Davion De-La-Zouch / Vixen",
+            "player": "Lorenzo Pirisino",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Streetrunner",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Trooper 555, Recon 2",
+      "imperialStandardTime": {
+         "start": "92027",
+         "end": "92027"
+      },
+      "realTime": {
+         "start": "1997/6",
+         "end": "1997/9"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Finchley Games Club",
+      "ruleVersion": "2",
+      "information": [],
+      "characters": [
+         {
+            "name": "Helena Tomkin",
+            "player": "Gideon Moss",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Tabatha Seviton / Cat",
+            "player": "David Carter",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Recon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Christoper Alkin / Cross",
+            "player": "Gareth Jones",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Recon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Reginold Compery / Tank",
+            "player": "Simon Aubury",
+            "type": "SF Trooper",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Recon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "TOWHHOYE",
+      "imperialStandardTime": {
+         "start": "92027",
+         "end": "92028/04/24"
+      },
+      "realTime": {
+         "start": "1997/10",
+         "end": "1998"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading University Student Union, Games and Roleplay Society",
+      "ruleVersion": "2.5",
+      "information": {
+         "ooc": "TOWHHOYE stands for That's Ok, We Haven't Heard Of You Either."
+      },
+      "characters": [
+         {
+            "name": "Blankety Blank",
+            "player": "Gideon Moss",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Matt Handson",
+            "player": "Andrew O'Byrne",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Martial Law",
+            "player": "Simon Aubury",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Brad Korgol",
+            "player": "Tamas Kormos",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Gregory Mesahvich",
+            "player": "Omar Salleh",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "OLOLATWM",
+      "imperialStandardTime": {
+         "start": "92028",
+         "end": "92028"
+      },
+      "realTime": {
+         "start": "1998/7",
+         "end": "1998"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading University Student Union, Games and Roleplay Society",
+      "ruleVersion": "2.5",
+      "information": {
+         "ooc": "OLOLATWM stands for One Lunatic, One Leader And Two Welsh Men"
+      },
+      "characters": [
+         {
+            "name": "Marc Steveson",
+            "player": "Gideon Moss",
+            "type": "SE Investigator",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Peter Sutcliff",
+            "player": "Simon Aubury",
+            "type": "SE Investigator",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Obliviator",
+            "player": "Gavin Evans",
+            "type": "SE Investigator",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Carl",
+            "player": "Gareth Jones",
+            "type": "SE Investigator",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Brutal Deluxe",
+      "imperialStandardTime": {
+         "start": "92028",
+         "end": "92029"
+      },
+      "realTime": {
+         "start": "1998/10",
+         "end": "1999/07"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading University Student Union, Games and Roleplay Society",
+      "ruleVersion": "2.5",
+      "information": {
+         "ooc": "During this game the ruleset was being rewritten and tested by the team. Brutal Deluxe were the most International Team ever, Tamas is Hungarian, Damien is French, Chris was Austrian and Byrnie was from 'Up North'! Peter Sutcliff (Fish), managed to survive through from OLOLATWM."
+      },
+      "characters": [
+         {
+            "name": "Bliz Gerpal",
+            "player": "Tamas Kormos",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Xarian Fetopale",
+            "player": "Damien",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Peter Sutcliff",
+            "player": "Simon Aubury",
+            "type": "SE Investigator",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Johnathan Smile",
+            "player": "Chris",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Len Yo-Lad-Wo",
+            "player": "Andrew O'Byrne",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Pilot",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "FTIFAN",
+      "imperialStandardTime": {
+         "start": "92028",
+         "end": "92029"
+      },
+      "realTime": {
+         "start": "1998/10",
+         "end": "1999/7"
+      },
+      "gamesmaster": "Gideon Moss",
+      "location": [],
+      "ruleVersion": [],
+      "information": {
+         "ooc": "FTIFAN stands for 'Far Too Important For A Name'"
+      },
+      "characters": [
+         {
+            "name": "Binden Reyy",
+            "player": "Andrew O'Byrne",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Sdrawde Pihilihp",
+            "player": "Gareth Jones",
+            "type": "SF Special Forces",
+            "humanity": [],
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Trebor Mint",
+            "player": "Robert Gaines",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Gashair",
+      "imperialStandardTime": {
+         "start": "92028",
+         "end": "92028"
+      },
+      "realTime": {
+         "start": "1998/10",
+         "end": "1999/1"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Email",
+      "ruleVersion": "3",
+      "information": {
+         "ooc": "This group was used as a test for email gaming. It was not repeated."
+      },
+      "characters": {
+         "character": {
+            "name": "Steve Thresh",
+            "player": "James Neesom",
+            "type": "SE Investigator",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      }
+   },
+   {
+      "name": "WSAWKWA",
+      "imperialStandardTime": {
+         "start": "92029",
+         "end": "92029"
+      },
+      "realTime": {
+         "start": "1999/04",
+         "end": "1999"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Finchley Games Club",
+      "ruleVersion": "3.2",
+      "information": {
+         "ooc": "WSAWKWA stands for We're Shit and we know we are"
+      },
+      "characters": [
+         {
+            "name": "Jeffery Dahmer",
+            "player": "Simon Aubury",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Reg",
+            "player": "Gideon Moss",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Kaos Warren",
+            "player": "Ian Piddington / Gareth Jones / David Carter",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Roger",
+            "player": "Piers Hartley",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "The Fear",
+      "imperialStandardTime": {
+         "start": "92029",
+         "end": "92029"
+      },
+      "realTime": {
+         "start": "1999/10",
+         "end": "2002/08"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading Universit Student Union Games and Roleplay Society",
+      "ruleVersion": "3.2",
+      "information": {
+         "ooc": "The Fear ended after almost three years of play. The team had gone from nothing, to Interstellar vigilante superstars. Their home planet, Acerine Prime (Baeleris, Dorian) rocked to the sounds of their chain Weaponry and heavy armour. They had style and ethos but this was soon lost when an accident lead to the death of an undercover Star Enforcer, they were then chased off planet and the decline began. The team lost cohesion and direction, left to wander the wastes of the Fringe and Lone Systems.",
+         "ic": "They started as a group of school friends on a system that was not as comfortable as they first thought. After graduation, some of their friends became entangled in trouble and then started disappearing. From here, the group started doing Vigilante work."
+      },
+      "characters": [
+         {
+            "name": "Lucas Newell",
+            "player": "Peter Ganderton",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "3",
+            "speciality": "Tech",
+            "information": {
+               "ic": "Inventor of skills like 'Bullet Time', this is by far the coolest character ever created."
+            },
+            "living": "Alive"
+         },
+         {
+            "name": "Gary Tarrone",
+            "player": "Andrew O'Byrne",
+            "type": "Mercenary",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": {
+               "ic": "Died by diving at a chain gun over the bonnet of a car."
+            },
+            "living": "Dead"
+         },
+         {
+            "name": "Amber Gler / Lucy Fur",
+            "player": "Simon Aubury",
+            "type": "Mercenary",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": {
+               "ic": "Amber Gler faked her own death to remove the numerous crimes and then faked her identity. She also worked at right angles to the rest of the team, faking her identity further to become most of their best contacts!"
+            },
+            "living": "Alive"
+         },
+         {
+            "name": "Eric Serkesh",
+            "player": "Tamas Kormos",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": {
+               "ic": "Tamas made his name in this group for being able to see every single angle of any argument and arguing them all at the same time."
+            },
+            "living": "Dead"
+         },
+         {
+            "name": "Keyth",
+            "player": "Gideon Moss",
+            "type": "Mercenary",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": {
+               "ic": "Keyth gave his life by carrying a large bomb away from the main colony of Acerine Prime."
+            },
+            "living": "Dead"
+         },
+         {
+            "name": "Ali Hannigan",
+            "player": "Gideon Moss",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": {
+               "ic": "Turned out to be te daughter of Imperial Peer Tess Cannar."
+            },
+            "living": "Dead"
+         },
+         {
+            "name": "Yuri Mandala",
+            "player": "Rob Gaines",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Ted E. Bear",
+            "player": "Gideon Moss",
+            "type": "Mercenary",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Tasmin Munst",
+            "player": "Rob Gaines",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Pilot",
+            "information": [],
+            "living": "Alive"
+         },
+         {
+            "name": "Black Jack",
+            "player": "Gideon Moss",
+            "type": "Mercenary",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": "Akarakian",
+            "living": "Alive"
+         },
+         {
+            "name": "Chris",
+            "player": "Andrew O'Byrne",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Alive"
+         }
+      ]
+   },
+   {
+      "name": "Quornn",
+      "imperialStandardTime": {
+         "start": "92029",
+         "end": "92029"
+      },
+      "realTime": {
+         "start": "2000/10",
+         "end": "2000"
+      },
+      "gamesmaster": "Pete Ganderton",
+      "location": "Tilehurst, Reading",
+      "ruleVersion": "3.2",
+      "information": [],
+      "characters": [
+         {
+            "name": "Jacob Solo / Mayhem",
+            "player": "Neville Fenn",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Alexander Kirk / Havoc",
+            "player": "Dave Lewis",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Jo Sheraton",
+            "player": "Sarah Betts",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Niges Voigt",
+            "player": "Andrew Binks",
+            "type": "SF Special Forces",
+            "humanity": "Cyber",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Botchery Clipper",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "92032"
+      },
+      "realTime": {
+         "start": "2002/10",
+         "end": "2003/11"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Reading University Student Union Games and Roleplay Society",
+      "setting": "Deep Space Scavenger Setting",
+      "ruleVersion": "3.3",
+      "information": {
+         "ooc": "Playtest of the Scavenger Setting. They ended up killing Tacquent in a massive Ion explosion."
+      },
+      "characters": [
+         {
+            "name": "Morden (via Bank)",
+            "player": "Simon Aubury",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Toby Larrone",
+            "player": "Andrew O'Byrne",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Benson Phillips",
+            "player": "Gideon Moss",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Human Resources",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Mike Wai",
+            "player": "Rob Gaines",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Jim Beam",
+            "player": "Steve Wyman",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Aemanon",
+            "player": "Iain Pulley",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Tim",
+            "player": "Tim Pelham",
+            "type": "Scavenger",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Rabid Maggot",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "92032/4"
+      },
+      "realTime": {
+         "start": "2004/1",
+         "end": "2005/1"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Rob Gaines' Flat",
+      "ruleVersion": "3.4",
+      "setting": "Star Enforcer Setting",
+      "information": {
+         "ooc": "Thrown out of the Star Enforcers relatively early, this group then decided to go full tilt against the might of the Nios population on planet. The team detonated the colony when the two Genus 4 characters touched while being hugely charged with energy. The setting ended a little early, to say the least."
+      },
+      "characters": [
+         {
+            "name": "Mister Kipling",
+            "player": "Steve Wyman",
+            "type": "SE Colonial",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Criminologist",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Geoff Steel / Hedgehog",
+            "player": "Simon Aubury",
+            "type": [
+               "SE Colonial",
+               "SE Investigator"
+            ],
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Harry Bow",
+            "player": "Andrew O'Byrne",
+            "type": "SE Colonial",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Medic",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Alex Cannar",
+            "player": "Gideon Moss",
+            "type": "SE Colonial",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Nicholas Glass",
+            "player": "Rob Gaines",
+            "type": "SE Colonial",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Forensics",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Mary Marples",
+            "player": "Iain Pulley",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Criminologist",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Guy Hutchinson",
+            "player": "Matt Wallace",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Gavin Jaden",
+            "player": "Andrew O'Byrne",
+            "type": "Mercenary",
+            "humanity": "Human",
+            "genus": "4",
+            "speciality": "Meshrunner",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Dekken",
+            "player": "Iain Pulley",
+            "type": "Expeditionary",
+            "humanity": "Human",
+            "genus": "4",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Benedict Corporation",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "92032"
+      },
+      "realTime": {
+         "start": "2005/1",
+         "end": "2007/08"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Rob Gaines' Flat",
+      "ruleVersion": "3.5",
+      "setting": "Expeditionary",
+      "information": {
+         "ooc": "Playtest of the Expeditionary Setting. Working as troubleshooters across the light jump net into Typhon (Droid Space). Jack and Eight are both Akarakians, with Eight being more compassionate and Jack being hard-line. This leads to many interesting situations. Andy does well to lead them."
+      },
+      "characters": [
+         {
+            "name": "Fidel",
+            "player": "Iain Pulley",
+            "type": "Expeditionary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": [
+               "Recon",
+               "Tech"
+            ],
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Andy Haddock",
+            "player": "Matt Wallace",
+            "type": "Expeditionary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": [
+               "Recon",
+               "Artificer"
+            ],
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Jim",
+            "player": "Andrew O'Byrne",
+            "type": "Expeditionary",
+            "humanity": "Cyber",
+            "genus": "3",
+            "speciality": [
+               "Weapon",
+               "Tech"
+            ],
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Jack Yashmak",
+            "player": "Gideon Moss",
+            "type": "Expeditionary",
+            "humanity": "Borg",
+            "genus": "1",
+            "speciality": [
+               "Medic",
+               "Tech"
+            ],
+            "information": "Akarakian",
+            "living": "Dead"
+         },
+         {
+            "name": "Jacob McVitie",
+            "player": "Simon Aubury",
+            "type": "Expeditionary",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": [
+               "Tech",
+               "Pilot"
+            ],
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Eight Trak",
+            "player": "Rob Gaines",
+            "type": "Expeditionary",
+            "humanity": "Cyber",
+            "genus": "3",
+            "speciality": [
+               "Tech",
+               "Weapon"
+            ],
+            "information": "Akarakian",
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Streetpunk Setting",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "Active"
+      },
+      "realTime": {
+         "start": "2007/09",
+         "end": "Active"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Iain Pulley's House",
+      "ruleVersion": "3.4/3.5",
+      "setting": "Streetpunk",
+      "information": {
+         "ooc": "Another new campaign for my player group. This campaign introduced drugs and their affects on the characters. Super-low powered with lots of running away rather than facing off with bigger guns. Fish plays a super bitch while Byrn does an impression of Neil from the Young Ones to the delight of all. Iain's first character, Fidel, moved up out of the group by getting employed as a member of the council, attempting to change the politics from within."
+      },
+      "characters": [
+         {
+            "name": "Fidel de la Souza",
+            "player": "Iain Pulley",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Revolutionary",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Charlotte 'Charlie' Morton",
+            "player": "Simon Aubury",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Rat",
+            "player": "Andrew O'Byrne",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Meshrunner",
+            "information": {
+               "ic": "The first pacifist character in Icar, which worked surprisingly well."
+            },
+            "living": "Alive"
+         },
+         {
+            "name": "Twitch",
+            "player": "Matt Wallace",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Explosives",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Billy 'Whizz' Cane",
+            "player": "Iain Pulley",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Weapon",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Jethro",
+            "player": "Rob Gaines",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Vangog",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Ghost",
+            "player": "Gideon Moss",
+            "type": "Streetpunk",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Tech",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   },
+   {
+      "name": "Fleet Setting",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "92032"
+      },
+      "realTime": {
+         "start": "2013/03",
+         "end": "2013/11"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Will Goring's Flat",
+      "ruleVersion": "4",
+      "setting": "Fleet",
+      "information": {
+         "ooc": "A play test of the Fleet Setting, the players take on Recon Troopers from Unit 555 (again!) and head over the Light Jump Net to fight Droids, get separated from their spacecraft, get given a secret mission and told to return. They \"won\" but at great cost. It was a limited run campaign (was always designed as such) so that I could work out the difficult bits of the setting."
+      },
+      "characters": {
+         "character": {
+            "name": [],
+            "player": [],
+            "type": [],
+            "humanity": [],
+            "genus": [],
+            "speciality": [],
+            "information": [],
+            "living": []
+         }
+      }
+   },
+   {
+      "name": "Imperial Investigation",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "92032"
+      },
+      "realTime": {
+         "start": "2013/11",
+         "end": "2015/04"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Will Goring's Flat",
+      "ruleVersion": "4",
+      "setting": "Fleet",
+      "information": {
+         "ooc": []
+      },
+      "characters": {
+         "character": {
+            "name": [],
+            "player": [],
+            "type": [],
+            "humanity": [],
+            "genus": [],
+            "speciality": [],
+            "information": [],
+            "living": []
+         }
+      }
+   },
+   {
+      "name": "Deep Space",
+      "imperialStandardTime": {
+         "start": "92032",
+         "end": "Active"
+      },
+      "realTime": {
+         "start": "2015/10",
+         "end": "2016/10"
+      },
+      "gamesmaster": "Rob Lang",
+      "location": "Roll20",
+      "ruleVersion": "4",
+      "setting": "Deep Space",
+      "information": {
+         "ooc": []
+      },
+      "characters": [
+         {
+            "name": "Sam",
+            "player": "Andrew O'Byrne",
+            "type": "Pilot",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Pilot",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Magnus",
+            "player": "James Neesom",
+            "type": "Engineer",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Pilot",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Wilberforce IV",
+            "player": "Matt Wallace",
+            "type": "Operations",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "Engineering",
+            "information": "My character is from a high tech, cramped Mining Orbital out in an asteroid belt in Remmar.  Originally from a large family, an failure of a poorly-maintained bulkhead took  most of his immediate family from him at a relatively early age, and fuelled his  obsession with ensuring the health and safety of his remaining family members and others on the orbital.   \n\nHe spent his teens learning how things worked round the Orbital - figuring out the dynamic puzzle  that kept it functioning and ensuring that risks were minimised.   \nUnfortunately, with no experience, he was never going to make it into the corporate-dominated  ranks of the Orbital bureaucracy - and simmering thoughts of rebellion were starting  to stir until he saw the ad to join the Cerulean Marble...",
+            "living": "Dead"
+         },
+         {
+            "name": "Dexter",
+            "player": "Simon Aubury",
+            "type": "Science Officer",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "\"Medical Science\" and xenobiology",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Elektra",
+            "player": "Jennifer Bottom",
+            "type": "Security",
+            "humanity": "Cyborg",
+            "genus": "4",
+            "speciality": "Killing things",
+            "information": [],
+            "living": "Dead"
+         },
+         {
+            "name": "Burt Bakarak",
+            "player": "Gideon Moss",
+            "type": "Medic",
+            "humanity": "Human",
+            "genus": "1",
+            "speciality": "The Doctor",
+            "information": [],
+            "living": "Dead"
+         }
+      ]
+   }
+]

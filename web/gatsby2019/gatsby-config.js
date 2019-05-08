@@ -13,7 +13,7 @@ module.exports = {
           },
         },
         `gatsby-plugin-slug`,
-        `gatsby-transformer-remark`,
+        `gatsby-transformer-json`,
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-sharp`,
         {
