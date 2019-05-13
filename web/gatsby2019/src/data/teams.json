@@ -14,15 +14,9 @@
       "ruleVersion": "1.0",
       "information": {
          "ooc": "The very first Icar group, using hurriedly pencil drawn equipment index and character sheets from a dot matrix printer. Most missions involved battling Genus 2 mutants in Munchkin-like bloodbaths. Very little intrigue and mystery, very large guns. The group ended after a prolongued arms race, typical of any fledgling roleplay group.",
-         "ic": {
-            "#text": [
-               "Let's Take The Piss Out Of Star Fleet (LTTPOOSF) was a trooper squad that was partly adopted by Star Sci. Taken from the Trooper Unit 201 just before they were due to start active service, these three borderline psychopaths conducted more missions for the fleet than any other team. They eventually left the fleet to persue more Star Sci related tasks and acted as trouble shooters for them. Star Sci lavished attention on them in turn, providing all manner of wacky gadgets from huge space craft to a moon that could light-jump.",
-               "LTTPOOSF should be best remembered for being the ones who implanted the AI virus on the Droid computer in 91622. The only member of the team that can be sure to be dead is Baldrick IV, whose body is spread around several colonies."
-            ],
-            "br": []
-         }
+         "ic": "Let's Take The Piss Out Of Star Fleet (LTTPOOSF) was a trooper squad that was partly adopted by Star Sci. Taken from the Trooper Unit 201 just before they were due to start active service, these three borderline psychopaths conducted more missions for the fleet than any other team. They eventually left the fleet to persue more Star Sci related tasks and acted as trouble shooters for them. Star Sci lavished attention on them in turn, providing all manner of wacky gadgets from huge space craft to a moon that could light-jump. LTTPOOSF should be best remembered for being the ones who implanted the AI virus on the Droid computer in 91622. The only member of the team that can be sure to be dead is Baldrick IV, whose body is spread around several colonies."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Fish",
             "player": "Simon Aubury",
@@ -30,7 +24,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Unknown"
          },
          {
@@ -40,7 +34,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Unknown"
          },
          {
@@ -50,9 +44,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": {
-               "ic": "Often rescued from the jaws of death, this character was famed for having his right arm blown off."
-            },
+            "information": "Often rescued from the jaws of death, this character was famed for having his right arm blown off.",
             "living": "Dead"
          }
       ]
@@ -71,10 +63,9 @@
       "location": "Mill Hill School",
       "ruleVersion": "1",
       "information": {
-         "ooc": "Little is known of this team except that they were a mission based group around the time of the Droid war.",
-         "ic": "No further info."
+         "ooc": "Little is known of this team except that they were a mission based group around the time of the Droid war."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Miranda",
             "player": "Simon Aubury",
@@ -82,7 +73,7 @@
             "humanity": "Cyber",
             "genus": "3",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -92,7 +83,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -102,7 +93,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -123,7 +114,7 @@
       "information": {
          "ooc": "Taking Icar to the local games club that Rob had visited since he was 12 was a big step. He enlisted a number of new players that demonstrated that the system was far from watertight and that the original three players had only managed through their presence during adaption. Violence was still the key here with mission-led evenings."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Dave Emerald",
             "player": "Daniel Richtman",
@@ -131,7 +122,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -141,7 +132,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -151,7 +142,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -161,7 +152,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -171,7 +162,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -181,7 +172,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -199,8 +190,8 @@
       "gamesmaster": "Rob Lang",
       "location": "Finchley Games Club",
       "ruleVersion": "2",
-      "information": [],
-      "characters": [
+      "information": {},
+      "playerCharacters": [
          {
             "name": "No Name",
             "player": "Simon Aubury",
@@ -208,7 +199,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -218,7 +209,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -228,7 +219,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -238,7 +229,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -248,7 +239,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Pilot",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -258,7 +249,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -279,7 +270,7 @@
       "information": {
          "ooc": "Most noted for their connections with Star Sci, in which they tested all sorts of equipment and set up a night club called Utopia on Nibes Nomis 4 (SAY)."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Eddie Vedan / Fixit",
             "player": "Adam Williamson",
@@ -287,7 +278,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -297,20 +288,17 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
             "name": "Chance",
-            "player": [
-               "Simon Crocker",
-               "Phil Caller"
-            ],
+            "player": "Simon Crocker and then Phil Caller",
             "type": "SF Trooper",
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -320,7 +308,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Chaplain",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -330,7 +318,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Chaplain",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -340,7 +328,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -361,7 +349,7 @@
       "information": {
          "ooc": "Phil was the first person other than Rob to GM Icar (Star Fleet as it was known then). They were also the first (and last) to be given Devastator armour as Special Forces. This team was played in tandem with The Reapers and the actions of the team often influenced each other."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Reg Lazarus",
             "player": "Lucas Christodulu",
@@ -369,7 +357,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -379,7 +367,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -389,7 +377,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -399,7 +387,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -409,7 +397,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -430,7 +418,7 @@
       "information": {
          "ooc": "This team was run along side Genocide and the actions of the Reapers often had knock on effects on Genocide."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Tessa / Shiva",
             "player": "Simon Aubury",
@@ -438,7 +426,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -448,7 +436,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -458,7 +446,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -468,7 +456,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Streetrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -478,7 +466,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -496,8 +484,8 @@
       "gamesmaster": "Rob Lang",
       "location": "Reading University Student Union, Games and Roleplay Society and 2 Radstock Road, Reading",
       "ruleVersion": "2",
-      "information": [],
-      "characters": [
+      "information": {},
+      "playerCharacters": [
          {
             "name": "Stem Francis Gizza / Oltar",
             "player": "Timothy Hastings",
@@ -505,7 +493,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Meshrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -515,7 +503,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Streetrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -525,7 +513,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Streetrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -535,7 +523,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -545,7 +533,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -555,7 +543,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Meshrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -576,7 +564,7 @@
       "information": {
          "ooc": "A very short lived group, neither player really had the time to spend on playing so the few sessions were fractured and rare."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Vince Fernis / Flipside",
             "player": "Russell Henley",
@@ -584,7 +572,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Streetrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -594,7 +582,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -612,8 +600,8 @@
       "gamesmaster": "Rob Lang",
       "location": "2 Radstock Road, Reading",
       "ruleVersion": "2",
-      "information": [],
-      "characters": [
+      "information": {},
+      "playerCharacters": [
          {
             "name": "Earl Cupper",
             "player": "Timothy Hastings",
@@ -621,7 +609,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Meshrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -631,7 +619,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Pilot",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -641,7 +629,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -651,7 +639,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Streetrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -669,8 +657,8 @@
       "gamesmaster": "Rob Lang",
       "location": "Finchley Games Club",
       "ruleVersion": "2",
-      "information": [],
-      "characters": [
+      "information": {},
+      "playerCharacters": [
          {
             "name": "Helena Tomkin",
             "player": "Gideon Moss",
@@ -678,7 +666,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -688,7 +676,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Recon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -698,7 +686,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Recon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -708,7 +696,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Recon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -729,7 +717,7 @@
       "information": {
          "ooc": "TOWHHOYE stands for That's Ok, We Haven't Heard Of You Either."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Blankety Blank",
             "player": "Gideon Moss",
@@ -737,7 +725,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -747,7 +735,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -757,7 +745,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -767,7 +755,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -777,7 +765,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -798,7 +786,7 @@
       "information": {
          "ooc": "OLOLATWM stands for One Lunatic, One Leader And Two Welsh Men"
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Marc Steveson",
             "player": "Gideon Moss",
@@ -806,7 +794,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -816,7 +804,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -826,7 +814,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -836,7 +824,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -857,7 +845,7 @@
       "information": {
          "ooc": "During this game the ruleset was being rewritten and tested by the team. Brutal Deluxe were the most International Team ever, Tamas is Hungarian, Damien is French, Chris was Austrian and Byrnie was from 'Up North'! Peter Sutcliff (Fish), managed to survive through from OLOLATWM."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Bliz Gerpal",
             "player": "Tamas Kormos",
@@ -865,7 +853,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -875,7 +863,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -885,7 +873,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -895,7 +883,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -905,7 +893,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Pilot",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -921,12 +909,12 @@
          "end": "1999/7"
       },
       "gamesmaster": "Gideon Moss",
-      "location": [],
-      "ruleVersion": [],
+      "location": "",
+      "ruleVersion": "3",
       "information": {
          "ooc": "FTIFAN stands for 'Far Too Important For A Name'"
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Binden Reyy",
             "player": "Andrew O'Byrne",
@@ -934,17 +922,17 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
             "name": "Sdrawde Pihilihp",
             "player": "Gareth Jones",
             "type": "SF Special Forces",
-            "humanity": [],
+            "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -954,7 +942,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -975,18 +963,18 @@
       "information": {
          "ooc": "This group was used as a test for email gaming. It was not repeated."
       },
-      "characters": {
-         "character": {
+      "playerCharacters": [
+         {
             "name": "Steve Thresh",
             "player": "James Neesom",
             "type": "SE Investigator",
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
-      }
+      ]
    },
    {
       "name": "WSAWKWA",
@@ -1004,7 +992,7 @@
       "information": {
          "ooc": "WSAWKWA stands for We're Shit and we know we are"
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Jeffery Dahmer",
             "player": "Simon Aubury",
@@ -1012,7 +1000,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1022,7 +1010,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1032,7 +1020,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1042,7 +1030,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -1064,7 +1052,7 @@
          "ooc": "The Fear ended after almost three years of play. The team had gone from nothing, to Interstellar vigilante superstars. Their home planet, Acerine Prime (Baeleris, Dorian) rocked to the sounds of their chain Weaponry and heavy armour. They had style and ethos but this was soon lost when an accident lead to the death of an undercover Star Enforcer, they were then chased off planet and the decline began. The team lost cohesion and direction, left to wander the wastes of the Fringe and Lone Systems.",
          "ic": "They started as a group of school friends on a system that was not as comfortable as they first thought. After graduation, some of their friends became entangled in trouble and then started disappearing. From here, the group started doing Vigilante work."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Lucas Newell",
             "player": "Peter Ganderton",
@@ -1072,9 +1060,7 @@
             "humanity": "Human",
             "genus": "3",
             "speciality": "Tech",
-            "information": {
-               "ic": "Inventor of skills like 'Bullet Time', this is by far the coolest character ever created."
-            },
+            "information": "Inventor of skills like 'Bullet Time', this is by far the coolest character ever created.",
             "living": "Alive"
          },
          {
@@ -1084,9 +1070,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Weapon",
-            "information": {
-               "ic": "Died by diving at a chain gun over the bonnet of a car."
-            },
+            "information": "Died by diving at a chain gun over the bonnet of a car.",
             "living": "Dead"
          },
          {
@@ -1096,9 +1080,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": {
-               "ic": "Amber Gler faked her own death to remove the numerous crimes and then faked her identity. She also worked at right angles to the rest of the team, faking her identity further to become most of their best contacts!"
-            },
+            "information": "Amber Gler faked her own death to remove the numerous crimes and then faked her identity. She also worked at right angles to the rest of the team, faking her identity further to become most of their best contacts!",
             "living": "Alive"
          },
          {
@@ -1108,9 +1090,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": {
-               "ic": "Tamas made his name in this group for being able to see every single angle of any argument and arguing them all at the same time."
-            },
+            "information": "Tamas made his name in this group for being able to see every single angle of any argument and arguing them all at the same time.",
             "living": "Dead"
          },
          {
@@ -1120,9 +1100,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Weapon",
-            "information": {
-               "ic": "Keyth gave his life by carrying a large bomb away from the main colony of Acerine Prime."
-            },
+            "information": "Keyth gave his life by carrying a large bomb away from the main colony of Acerine Prime.",
             "living": "Dead"
          },
          {
@@ -1132,9 +1110,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": {
-               "ic": "Turned out to be te daughter of Imperial Peer Tess Cannar."
-            },
+            "information": "Turned out to be the daughter of Imperial Peer Tess Cannar.",
             "living": "Dead"
          },
          {
@@ -1144,7 +1120,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1154,7 +1130,7 @@
             "humanity": "Borg",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1164,7 +1140,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Pilot",
-            "information": [],
+            "information": "",
             "living": "Alive"
          },
          {
@@ -1184,7 +1160,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Alive"
          }
       ]
@@ -1202,8 +1178,8 @@
       "gamesmaster": "Pete Ganderton",
       "location": "Tilehurst, Reading",
       "ruleVersion": "3.2",
-      "information": [],
-      "characters": [
+      "information": {},
+      "playerCharacters": [
          {
             "name": "Jacob Solo / Mayhem",
             "player": "Neville Fenn",
@@ -1211,7 +1187,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1221,7 +1197,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1231,7 +1207,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1241,7 +1217,7 @@
             "humanity": "Cyber",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -1263,7 +1239,7 @@
       "information": {
          "ooc": "Playtest of the Scavenger Setting. They ended up killing Tacquent in a massive Ion explosion."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Morden (via Bank)",
             "player": "Simon Aubury",
@@ -1271,7 +1247,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1281,7 +1257,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1291,7 +1267,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Human Resources",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1301,7 +1277,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1311,7 +1287,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1321,7 +1297,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1331,7 +1307,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -1351,9 +1327,9 @@
       "ruleVersion": "3.4",
       "setting": "Star Enforcer Setting",
       "information": {
-         "ooc": "Thrown out of the Star Enforcers relatively early, this group then decided to go full tilt against the might of the Nios population on planet. The team detonated the colony when the two Genus 4 characters touched while being hugely charged with energy. The setting ended a little early, to say the least."
+         "ooc": "Thrown out of the Star Enforcers relatively early, this group then decided to go full tilt against the might of the Nios population on planet. The team detonated the colony when the two Genus 4 playerCharacters touched while being hugely charged with energy. The setting ended a little early, to say the least."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Mister Kipling",
             "player": "Steve Wyman",
@@ -1361,20 +1337,17 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Criminologist",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
             "name": "Geoff Steel / Hedgehog",
             "player": "Simon Aubury",
-            "type": [
-               "SE Colonial",
-               "SE Investigator"
-            ],
+            "type": "SE Colonial / SE Investigator",
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1384,7 +1357,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Medic",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1394,7 +1367,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1404,7 +1377,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Forensics",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1414,7 +1387,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Criminologist",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1424,7 +1397,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1434,7 +1407,7 @@
             "humanity": "Human",
             "genus": "4",
             "speciality": "Meshrunner",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1444,7 +1417,7 @@
             "humanity": "Human",
             "genus": "4",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -1466,18 +1439,15 @@
       "information": {
          "ooc": "Playtest of the Expeditionary Setting. Working as troubleshooters across the light jump net into Typhon (Droid Space). Jack and Eight are both Akarakians, with Eight being more compassionate and Jack being hard-line. This leads to many interesting situations. Andy does well to lead them."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Fidel",
             "player": "Iain Pulley",
             "type": "Expeditionary",
             "humanity": "Human",
             "genus": "1",
-            "speciality": [
-               "Recon",
-               "Tech"
-            ],
-            "information": [],
+            "speciality": "Recon / Tech",
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1486,11 +1456,8 @@
             "type": "Expeditionary",
             "humanity": "Human",
             "genus": "1",
-            "speciality": [
-               "Recon",
-               "Artificer"
-            ],
-            "information": [],
+            "speciality": "Recon / Artificer",
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1499,11 +1466,8 @@
             "type": "Expeditionary",
             "humanity": "Cyber",
             "genus": "3",
-            "speciality": [
-               "Weapon",
-               "Tech"
-            ],
-            "information": [],
+            "speciality": "Weapon / Tech",
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1512,10 +1476,7 @@
             "type": "Expeditionary",
             "humanity": "Borg",
             "genus": "1",
-            "speciality": [
-               "Medic",
-               "Tech"
-            ],
+            "speciality": "Medic / Tech",
             "information": "Akarakian",
             "living": "Dead"
          },
@@ -1525,11 +1486,8 @@
             "type": "Expeditionary",
             "humanity": "Human",
             "genus": "1",
-            "speciality": [
-               "Tech",
-               "Pilot"
-            ],
-            "information": [],
+            "speciality": "Tech / Pilot",
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1538,10 +1496,7 @@
             "type": "Expeditionary",
             "humanity": "Cyber",
             "genus": "3",
-            "speciality": [
-               "Tech",
-               "Weapon"
-            ],
+            "speciality": "Tech / Weapon",
             "information": "Akarakian",
             "living": "Dead"
          }
@@ -1562,9 +1517,9 @@
       "ruleVersion": "3.4/3.5",
       "setting": "Streetpunk",
       "information": {
-         "ooc": "Another new campaign for my player group. This campaign introduced drugs and their affects on the characters. Super-low powered with lots of running away rather than facing off with bigger guns. Fish plays a super bitch while Byrn does an impression of Neil from the Young Ones to the delight of all. Iain's first character, Fidel, moved up out of the group by getting employed as a member of the council, attempting to change the politics from within."
+         "ooc": "Another new campaign for my player group. This campaign introduced drugs and their affects on the playerCharacters. Super-low powered with lots of running away rather than facing off with bigger guns. Fish plays a super bitch while Byrn does an impression of Neil from the Young Ones to the delight of all. Iain's first character, Fidel, moved up out of the group by getting employed as a member of the council, attempting to change the politics from within."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Fidel de la Souza",
             "player": "Iain Pulley",
@@ -1572,7 +1527,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Revolutionary",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1582,7 +1537,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1592,9 +1547,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Meshrunner",
-            "information": {
-               "ic": "The first pacifist character in Icar, which worked surprisingly well."
-            },
+            "information": "The first pacifist character in Icar, which worked surprisingly well.",
             "living": "Alive"
          },
          {
@@ -1604,7 +1557,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Explosives",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1614,7 +1567,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Weapon",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1624,7 +1577,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Vangog",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1634,7 +1587,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Tech",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
@@ -1656,18 +1609,7 @@
       "information": {
          "ooc": "A play test of the Fleet Setting, the players take on Recon Troopers from Unit 555 (again!) and head over the Light Jump Net to fight Droids, get separated from their spacecraft, get given a secret mission and told to return. They \"won\" but at great cost. It was a limited run campaign (was always designed as such) so that I could work out the difficult bits of the setting."
       },
-      "characters": {
-         "character": {
-            "name": [],
-            "player": [],
-            "type": [],
-            "humanity": [],
-            "genus": [],
-            "speciality": [],
-            "information": [],
-            "living": []
-         }
-      }
+      "playerCharacters": []
    },
    {
       "name": "Imperial Investigation",
@@ -1684,20 +1626,9 @@
       "ruleVersion": "4",
       "setting": "Fleet",
       "information": {
-         "ooc": []
+         "ooc" : "Still filling in the details!"
       },
-      "characters": {
-         "character": {
-            "name": [],
-            "player": [],
-            "type": [],
-            "humanity": [],
-            "genus": [],
-            "speciality": [],
-            "information": [],
-            "living": []
-         }
-      }
+      "playerCharacters": []
    },
    {
       "name": "Deep Space",
@@ -1714,9 +1645,10 @@
       "ruleVersion": "4",
       "setting": "Deep Space",
       "information": {
-         "ooc": []
+         "ooc" : "Best described as 'Icar does Star Trek badly', the Deep Space game brought together a wonderful combination of players old and new thanks to the online platform Roll20. Using web video, we met most weeks. We played through character generation using an open roleplay format and that built characters who had more depth than perhaps they would otherwise. The campaign came to a conclusion just before Rob's daughter was born.",
+         "ic" : "Taken from the fledgeling setting book: You have been plucked from tens of thousands of appli-cations to join the crew of the deep space research ves-sel Cerulean Marble. Venture out along the galactic arm to seek out remote human settlements, investigate anomalies in space time and report back. The Cerulean Marble is a built for purpose, state of the art research vessel."
       },
-      "characters": [
+      "playerCharacters": [
          {
             "name": "Sam",
             "player": "Andrew O'Byrne",
@@ -1724,7 +1656,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Pilot",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1734,7 +1666,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "Pilot",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1754,7 +1686,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "\"Medical Science\" and xenobiology",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1764,7 +1696,7 @@
             "humanity": "Cyborg",
             "genus": "4",
             "speciality": "Killing things",
-            "information": [],
+            "information": "",
             "living": "Dead"
          },
          {
@@ -1774,7 +1706,7 @@
             "humanity": "Human",
             "genus": "1",
             "speciality": "The Doctor",
-            "information": [],
+            "information": "",
             "living": "Dead"
          }
       ]
