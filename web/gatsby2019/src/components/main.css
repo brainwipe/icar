@@ -1,14 +1,14 @@
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
-  line-height: 1.7em;
-  color: #52595a;
-  font-size: 13px;
-  background-color: #000033;
+    line-height: 1.7em;
+    color: #52595a;
+    font-size: 13px;
+    background-color: #000033;
 }
 
 h1,
@@ -18,48 +18,53 @@ h4,
 h5,
 h6,
 label {
-  color: #34495e;
+    color: #34495e;
 }
 
 .pure-img-responsive {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
+
 
 /*
  * -- LAYOUT STYLES --
  * These are some useful classes which I will need
  */
+
 .l-box {
-  padding: 1em;
+    padding: 1em;
 }
 
 .l-box-lrg {
-  padding: 2em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .is-center {
-  text-align: center;
+    text-align: center;
 }
+
 
 /*
  * -- PURE FORM STYLES --
  * Style the form inputs and labels
  */
+
 .pure-form label {
-  margin: 1em 0 0;
-  font-weight: bold;
-  font-size: 100%;
+    margin: 1em 0 0;
+    font-weight: bold;
+    font-size: 100%;
 }
 
 .pure-form input[type] {
-  border: 2px solid #ddd;
-  box-shadow: none;
-  font-size: 100%;
-  width: 100%;
-  margin-bottom: 1em;
+    border: 2px solid #ddd;
+    box-shadow: none;
+    font-size: 100%;
+    width: 100%;
+    margin-bottom: 1em;
 }
+
 
 /*
  * -- MENU STYLES --
@@ -67,249 +72,243 @@ label {
  */
 
 .home-menu {
-  font-size: 16px;
-  padding: 0.5em;
-  background: #000033;
-  -webkit-box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    padding: 0.5em;
+    background: #000033;
+    -webkit-box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.2);
 }
+
 .pure-menu.pure-menu-fixed {
-  /* Fixed menus normally have a border at the bottom. */
-  border-bottom: none;
-  /* I need a higher z-index here because of the scroll-over effect. */
-  z-index: 4;
+    /* Fixed menus normally have a border at the bottom. */
+    border-bottom: none;
+    /* I need a higher z-index here because of the scroll-over effect. */
+    z-index: 4;
 }
 
 .home-menu .pure-menu-heading {
-  color: white;
-  font-weight: 400;
-  font-size: 120%;
+    color: white;
+    font-weight: 400;
+    font-size: 120%;
 }
 
 .home-menu .pure-menu-selected a {
-  color: white;
+    color: white;
 }
 
 .home-menu a,
 .pure-menu-selected .pure-menu-link,
 .pure-menu-selected .pure-menu-link:visited {
-  color: #6fbef3;
-  padding: .5em 0.5em;
+    color: #6fbef3;
+    padding: .5em 0.5em;
 }
+
 .home-menu li a:hover,
 .home-menu li a:focus {
-  background: none;
-  border: none;
-  color: #aecfe5;
+    background: none;
+    border: none;
+    color: #aecfe5;
 }
 
-
 .home-menu ul.pure-menu-list {
-  float: right;
+    float: right;
 }
 
 .icar-title-logo {
-  margin-top: 6px;
-  margin-left: 20px;
+    margin-top: 6px;
+    margin-left: 20px;
 }
 
+
 /* Set Icar font stack */
+
 html,
 button,
 input,
 select,
 textarea,
 .pure-g [class*="pure-u"] {
-  /* Set your content font stack here: */
-  font-family: Century Gothic, Verdana, Geneva, Tahoma, sans-serif;
+    /* Set your content font stack here: */
+    font-family: Century Gothic, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .splash-container {
-  background-image: url("../img/icar-core-front-splash.jpg");
-  background-repeat: no-repeat;
-  background-position: right middle;
-
-  z-index: 1;
-  overflow: hidden;
-  /* The following styles are required for the "scroll-over" effect */
-  width: 100%;
-  height: 88%;
-  top: 0;
-  left: 0;
-  position: fixed !important;
+    background-color: #eed389;
+    background-image: url("../img/icar-core-front-splash.jpg");
+    background-repeat: no-repeat;
+    background-position: right middle;
+    z-index: 1;
+    overflow: hidden;
+    /* The following styles are required for the "scroll-over" effect */
+    width: 100%;
+    height: 88%;
+    top: 0;
+    left: 0;
+    position: fixed !important;
 }
 
 .splash {
-  /* absolute center .splash within .splash-container */
-  width: 80%;
-  height: 50%;
-  margin: auto;
-  position: absolute;
-  top: 100px;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  text-align: center;
+    /* absolute center .splash within .splash-container */
+    width: 80%;
+    height: 60%;
+    margin: auto;
+    position: absolute;
+    top: 5%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+}
+
+.splash img {
+    max-height: 50%
 }
 
 .splash-head {
-  font-size: 20px;
-  font-weight: bold;
-  color: #000033;
-  padding: 1em 1.6em;
-  font-weight: 100;
-  border-radius: 5px;
-  line-height: 1em;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000033;
+    padding: 1em 1.6em;
+    font-weight: 100;
+    border-radius: 5px;
+    line-height: 1em;
 }
 
 .splash-subhead {
-  color: #000000;
-  /*letter-spacing: 0.05em;*/
-  text-shadow: 0px -1px 0px rgba(255, 255, 255, 0.4);
-  font-weight: 600;
-  line-height: 1.5em;
-  font-size: 160%;
-  /*opacity: 0.8;*/
+    color: #000000;
+    /*letter-spacing: 0.05em;*/
+    text-shadow: 0px -1px 0px rgba(255, 255, 255, 0.4);
+    font-weight: 600;
+    line-height: 1.5em;
+    font-size: 160%;
+    /*opacity: 0.8;*/
 }
 
 .content {
-  padding: 1em 1em 3em;
-  margin: 0 auto;
-  background: #fff;
+    padding: 1em 1em 3em;
+    margin: 0 auto;
+    background: #fff;
 }
 
 .index-wrapper {
-  position: absolute;
-  top: 75%;
-  width: 100%;
-  min-height: 12%;
-  z-index: 2;
-  background: white;
+    position: absolute;
+    top: 75%;
+    width: 100%;
+    min-height: 12%;
+    z-index: 2;
+    background: white;
 }
 
 .content-head {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin: 2em 0 1em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 2em 0 1em;
 }
 
 .content h2 a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 .content a {
-  color: #997948;
+    color: #997948;
 }
+
 .content a:hover {
-  color: #88632c;
+    color: #88632c;
 }
 
 .content-head-ribbon {
-  color: white;
+    color: white;
 }
 
 .content-subhead {
-  color: #000033;
+    color: #000033;
 }
+
 .content-subhead i {
-  margin-right: 7px;
+    margin-right: 7px;
 }
 
 .ribbon {
-  background: #000033;
-  color: #ddddfe;
+    background: #000033;
+    color: #ddddfe;
 }
 
 .ribbon a {
-  color: #d1af52;
+    color: #d1af52;
 }
 
 .ribbon a:hover {
-  color: #eed389;
+    color: #eed389;
 }
 
 .footer {
-  background: #000033;
-  position: fixed;
-  color: #ddddfe;
-  bottom: 0;
-  width: 100%;
+    background: #000033;
+    position: fixed;
+    color: #ddddfe;
+    bottom: 0;
+    width: 100%;
 }
 
 .blog-wrapper,
 .virtualsession-wrapper {
-  margin: 3.4em 0 0 0;
+    margin: 3.4em 0 0 0;
 }
 
 .virtualsession-wrapper ul.photos {
     clear: both;
-    text-align:center;
+    text-align: center;
 }
 
 .virtualsession-wrapper ul li {
     list-style-type: none;
-    margin:0 0 1.5em 0;
-    padding:0;
+    margin: 0 0 1.5em 0;
+    padding: 0;
 }
 
 .virtualsession-wrapper ul.players img {
-    float:left;
-    margin:8px 1em 1em 0;
+    float: left;
+    margin: 8px 1em 1em 0;
 }
-
 
 .pure-button-primary,
 .pure-button-selected,
 a.pure-button-primary,
 a.pure-button-selected {
-  background-color: #000033;
-  color: #eed389;
+    background-color: #000033;
+    color: #eed389;
 }
 
 @media (min-width: 48em) {
-  /* We increase the body font size */
-  body {
-    font-size: 16px;
-  }
-
-  /* We can align the menu header to the left, but float the
-    menu items to the right. */
-  .home-menu {
-    text-align: left;
-  }
-
-  /* We increase the height of the splash-container */
-  /*    .splash-container {
-        height: 500px;
-    }*/
-
-  /* We decrease the width of the .splash, since we have more width
-    to work with */
-  .splash {
-    width: 50%;
-    height: 50%;
-  }
-
-  .splash-head {
-    font-size: 250%;
-  }
-
-  /* We remove the border-separator assigned to .l-box-lrg */
-  .l-box-lrg {
-    border: none;
-  }
+    body {
+        font-size: 16px;
+    }
+    .home-menu {
+        text-align: left;
+    }
+    .splash-container {
+        height: 100%
+    }
+    .splash {
+        width: 70%;
+        height: 60%;
+    }
+    .splash-head {
+        font-size: 250%;
+    }
+    .l-box-lrg {
+        border: none;
+    }
 }
 
-/*
- * -- DESKTOP (AND UP) MEDIA QUERIES --
- * On desktops and other large devices, we want to over-ride some
- * of the mobile and tablet styles.
- */
 @media (min-width: 78em) {
-  /* We increase the header font size even more */
-  .splash-head {
-    font-size: 300%;
-  }
+    .splash-head {
+        font-size: 300%;
+    }
+    .splash {
+        width: 60%;
+        height: 60%;
+    }
 }
