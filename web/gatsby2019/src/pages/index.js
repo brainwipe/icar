@@ -5,6 +5,10 @@ import CoreRules from "../img/icar-core-rules.jpg"
 import PlayerHandouts from "../img/icar-equipment-index.jpg"
 import FleetSetting from "../img/icar-fleet-setting.jpg"
 import RulesPages from "../img/icar-core-pages.png"
+import twitterIcon from "../img/iconmonstr-twitter-3.svg"
+import facebookIcon from "../img/iconmonstr-facebook-4.svg"
+import emailIcon from "../img/iconmonstr-email-1.svg"
+import forumIcon from "../img/iconmonstr-speech-bubble-25.svg"
 import { Link } from "gatsby"
 
 export default () => (
@@ -18,7 +22,7 @@ export default () => (
         </div>
         
         <div id="download" className="index-wrapper pure-g">
-            <div className="content content pure-u-1 pure-u-lg-2">
+            <div className="content pure-u-1 pure-u-lg-2">
                 <h2 className="content-head is-center">Downloads</h2>
                 <div>
                     <div className="pure-u-1 pure-u-md-1-3 is-center l-box">
@@ -71,8 +75,23 @@ export default () => (
                         <br/>
                         Icar is a space opera, more light hearted than hard science fiction. It is set in a distant future where a benevolent Imperium protect the human race, which is battling race of killer robots it created!<br/>
                         <br/>
-                        Up to date news can be found on <Link to="blogs">the blog</Link>, questions, feedback and chat can be found on <a href="http://www.1km1kt.net/forum/viewforum.php?f=34">the forum</a>.<br/>
+                        Up to date news can be found on <Link to="/blogs">the blog</Link>, questions, feedback and chat can be found on <a href="http://www.1km1kt.net/forum/viewforum.php?f=34">the forum</a>.<br/>
                     </p>
+                </div>
+            </div>
+
+            <div id="keepintouch" className="keepintouch pure-g">
+                <div className="content pure-u-1 pure-u-lg-2">
+                    <h2 className="content-head is-center">Keep in touch</h2>
+
+                        <a href="http://www.1km1kt.net/forum/viewforum.php?f=34"><img src={forumIcon} alt="Icar Forum on 1KM1KT"/>Forum</a>   
+
+                        <a href="https://www.twitter.com/icarrpg"><img src={twitterIcon} alt="@icarrpg"/>@icarrpg</a>
+                    
+                        <a href="https://www.facebook.com/icarrpg/"><img src={facebookIcon} alt="Facebook as icarrpg"/>icarrpg</a>
+                    
+                        <a href="mailto:roblang@icar.co.uk"><img src={emailIcon} alt="Email me at roblang@icar.co.uk"/>roblang@icar.co.uk</a>
+                            
                 </div>
             </div>
        </div>

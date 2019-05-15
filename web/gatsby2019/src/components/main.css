@@ -200,6 +200,23 @@ textarea,
     background: white;
 }
 
+.keepintouch {
+    width: 100%;
+    text-align: center;
+}
+
+.keepintouch a {
+    margin:0 1em;
+    text-decoration: none;
+    vertical-align: top;
+    height: 2em;
+}
+
+.keepintouch img {
+    margin:0 1em;
+    height:2em;
+}
+
 .content-head {
     font-weight: 400;
     text-transform: uppercase;
