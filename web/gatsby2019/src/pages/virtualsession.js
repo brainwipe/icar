@@ -90,7 +90,7 @@ export default () => {
               <h3>
                 Fish
               </h3>
-              <img src={fish} />
+              <img src={fish} alt="Fish, Simon Aubury" />
               Playing Icar since year dot, his character began working at right
               angles with the team. He essentially used the team for profit for
               half of the game. He also used his extensive self-created
@@ -104,7 +104,7 @@ export default () => {
               <h3>
                 Pete
               </h3>
-              <img src={pete} />
+              <img src={pete} alt="Pete" />
               The Fear didn't have a leader. They had Pete, the driving force
               and style guru. Stubborness and style beyond normal human
               parameters, Pete was responsible for the team staying alive
@@ -116,7 +116,7 @@ export default () => {
               <h3>
                 Byrnie
               </h3>
-              <img src={byrnie} />
+              <img src={byrnie} alt="Byrnie" />
               Byrnie was the team diplomat (in 2012, he still is). No matter
               what the argument was between the rest of the group, Byrnie could
               find the middle ground. He could find the middle ground of a
@@ -128,7 +128,7 @@ export default () => {
               <h3>
                 Dwain
               </h3>
-              <img src={dwain} />
+              <img src={dwain} alt="Dwain" />
               Any team needs an argument engine and Dwain was it. Any side of
               the argument that could be taken, he take it, often switching
               sides half-way through. His Icar experience was excellent as well,
@@ -140,7 +140,7 @@ export default () => {
               <h3>
                 Tamas
               </h3>
-              <img src={tamas} />
+              <img src={tamas} alt="Tamas" />
               Tamas played Icar on a completely different level to the rest of
               the team. His blinding intelligence and ability to think plots
               through in the minutae of detail allowed him to perplex the rest
@@ -151,7 +151,7 @@ export default () => {
             </li>
             <li>
               <h3>Rob</h3>
-              <img src={rob} />
+              <img src={rob} alt="Rob" />
               The GM. Me. With big hair. The one who put up with the other
               lunatics for 3 hours a week.
             </li>

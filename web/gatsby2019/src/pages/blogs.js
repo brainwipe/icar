@@ -6,7 +6,7 @@ export default ({ data }) => {
     return (
         <Layout>
           <div className="blog-wrapper pure-g">
-            <div className="content pure-u-1 pure-u-sm-3-4 pure-u-md-1-2">
+            <div className="content pure-u-1 pure-u-sm-3-4 pure-u-md-3-4 pure-u-lg-1-2">
             <h1>Blogs</h1>
             {data.allMarkdownRemark.edges.map(({ node }) => (
               <section key={node.frontmatter.slug}>
