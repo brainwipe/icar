@@ -1,93 +1,132 @@
-Core Rules
-Icar is a Roleplaying game. A Roleplaying game is similar to a film where the players take the roles of the Characters and make up their actions. The Gamesmaster (GM) is the director and all the other Characters the players will meet.
-This is where the similarity ends. There is no script and the good guys don�t always win. How the story ends is up to the players and a small amount of luck.
-The setting of Icar is a space opera science fiction, set in the far future where a benevolent, autocratic Imperium protects the human race from a rarely-seen race of killer robots called the Droids. With the Droid advance slowed, human occupied space is a trove of opportunity for the Characters to explore. There are no intelligent alien species, travel between the stars is commonplace, friendly robots called Automatons live somewhere between slaves and family members; and a virtual reality internet called Gaia is the backbone of civilisation.
-In a single session, Characters will be exploring long deserted colonies, abandoned spacecraft, starting bar fights, hacking into corporate files, escaping colonies invaded by Droids and zipping between the stars. As the Characters grow they can choose bionics or powered armour, wield more powerful weapons and even own their own spacecraft.
-The mechanics of Icar are intended to be cinematic, based on using ten-sided dice (D10), two ten-sided dice can be rolled to produce a percentile (a number out of 100 or D100), or a single hundred-sided die (D100) can be used. Common sense should reign over rulings, keep things fast and if a player comes up with an idea that improves fun at the table, go with it.
-This book contains a description of the core mechanics, a section describing the broader Galaxy according to Icar, an example campaign setting called Scavengers, Equipment and Technology, Gamesmaster section, and a series of resources, such as Character sheets and quick reference. 
-Character Creation
-Characters are imaginary people that a player uses to interact with the game world. A Character is a playing piece that can be improved, equipped and killed. Creating a Character is a matter of following the Character creation steps detail below.
+# Introduction
+Icar is a space opera science fiction, set 90,000 years into the future where a benevolent, autocratic Imperium protects the human race from a rarely-seen race of killer robots called the Droids. With the Droid advance halted, human occupied space is a trove of opportunity for the Characters to explore. There are no intelligent alien species, travel between the stars is commonplace, friendly robots called Automatons live as slaves and family members, corporations are duplicitous villains, and a virtual quasi-reality internet called Gaia is both the backbone of civilisation and the playground of hackers.
+In a single session, Characters will be exploring long deserted colonies, abandoned spacecraft, starting bar fights, hacking into corporate secrets, escaping colonies invaded by Droids and zipping between the stars. As the Characters grow they can choose bionics or powered armour, wield more powerful weapons and even own their own spacecraft.
+The mechanics of Icar are intended to be cinematic, based on using ten-sided dice (D10), common sense should reign over rulings, choose speed over accuracy and if a player comes up with an idea that improves fun at the table, go with it.
+This book contains a description of the core mechanics, a section describing the broader galaxy according to Icar, an example campaign setting called Scavengers, Equipment and Technology, Gamesmaster section, and a series of resources, such as Character sheets and quick reference. 
+
+# Character Creation
+Characters are imaginary people that a player uses to interact with the game world. A character is a playing piece that grows and changes with experience. Creating a character is a matter of following the character creation steps detail below.
+
 The main properties of an Icar Character are:
-Concept and Class.
-Attributes
-Deviant
-Skills
-Body
-Close combat combos
-Psychotheatrics
-The concept is a description of what the Character is about. Are they a pacifist star cruiser pilot or technology obsessed engineer? A Class sets out what job the character does in the team and gives the Skills and equipment the Character starts with. Attributes are the natural properties of the Character, such as how strong they are, how quick they can run or how clever they are. 
-The Deviant represents the personality of the Character, whether they are flamboyant or withdrawn, patient or restless and so on. The Skills are a list of things that the Character can do. They include flying Grav vehicles, mending weapons or bartering in a street market. Body records their physique and how much damage the Character takes before it loses a limb or even dies. Psychotheatrics are randomly rolled advantages and disadvantages and are optional.
-All this information is written down on Character Sheets. You can find these at the back of this book. You will learn how to fill the Character sheets in the following sections.
-Character sheet one (top) contains the Attributes, the Deviant wheel and close combat fighting combos as well as place of birth and credits (cash).
-Character sheet two (middle) has equipment and Psychotheatrics on the left and skills on the right.
-Character sheet three (bottom) shows the body and armour. This sheet is folded down the middle and contains discs for writing the number of hits the Character can take in each location, how tough they are and how much stun they can take.
-Within the following sections, the new Character will be made to demonstrate all the steps. The example Character will be created for the Scavenger Setting, included later in this book.
-Step 1: Concept
-Concept is the overall description and definition of the Character. The concept defines who the Character is and how they might react in certain situations. The concept may be based on a character from a film or book. The concept is not recorded on the Character sheet as it is used only for the initial creation.
-A Character concept should make sense in the setting you are going to be playing. Each setting provides some examples of concepts to use as inspiration. Some concepts are more appropriate for a setting, just ask your Gamesmaster. 
-For example, an anarchistic Character does not fit well in a military setting where rules are there to keep you alive.
+
+- Concept and class.
+- Attributes
+- Deviant
+- Skills
+- Body
+- Close combat combos
+- Psychotheatrics
+
+The concept is a description of what the character is about. Are they a pacifist spacecraft Captain or technology obsessed engineer? A class is a character's job, which provides the skills and equipment the character starts with. Attributes are the natural characteristics of the character, such as how strong they are. 
+
+The Deviant represents the personality of the character, whether they are flamboyant or withdrawn, patient or restless and so on. The skills are a list of things that the character can do. They include driving, fixing technology or bartering. Hip points denote how much damage you can take before death and stun is the ability to stay conscious. Psychotheatrics are optional, randomly rolled advantages and disadvantages.
+
+A character is written down on two character sheets. The first contains deviant, attributes, hit points, stun, close combat combos and general character information, such as their name. The second contains, equipment, skills and psychotheatrics.
+
+## Step 1: Concept
+
+Used only in the initial character creation, the concept is a couple of sentences of who the character is. The concept should give a person a good understanding of the character's XXXXXXXX
+Concept is the overall description of the character. The concept defines who the Character is and how they might react in certain situations. The concept may be based on a character from a film or book. The concept is not recorded on the Character sheet as it is used only for the initial creation.
+
+A Character concept should make sense in the setting you are going to be playing. Each setting provides some examples of concepts to use as inspiration. Some concepts are more appropriate for a setting, just ask your Gamesmaster. For example, an anarchistic Character does not fit well in a military setting where rules are there to keep you alive.
+
 A good way to quickly make a concept is to take two Characters from film or TV and join them together to make something more interesting. The result will normally need a little adjustment to fit into the Icar universe.
-Example. Take Johnny Mnemonic and Neil from The Young Ones. A ruthless corporate man, who eats purely organic food and has a deep love for furry animals and flowers.
-If in doubt then clich�
-If you are still stuck on a Character concept and you are being hurried to decide, then choose a clich�, such as a rogue smuggler (Han Solo from Star Wars). New players should avoid playing Characters that are quiet, withdrawn or anti-social. It is much easier to play Icar if you Character is keen on friendship with the other Characters and wants to speak!
+
+> Example: Take Johnny Mnemonic and Neil from The Young Ones. A ruthless corporate man, who eats purely organic food and has a deep love for furry animals and flowers.
+
+If in doubt then cliché!
+
+If you are still stuck on a Character concept and you are being hurried to decide, then choose a clich', such as a rogue smuggler (Han Solo from Star Wars). New players should avoid playing Characters that are quiet, withdrawn or anti-social. It is much easier to play Icar if you Character is keen on friendship with the other Characters and wants to speak!
+
 Do not worry if your concept is not perfect, as the Character experiences different things its personality (or Deviant), Skills and motivations will change. If you do not start with the Character your would like, you can always change it.
+
 Our example Character, John Smith, will use one of the given concepts in the Scavenger Setting (found later). Below is the example Character concept.
-Class
-A class is a package of starting Skills, equipment and background that needs to be chosen alongside the concept. Classes are roughly equivalent to classes in other systems. It�s best to think of a concept first and then choose a class but experienced players might prefer selecting both at the same time. 
+
+### Class
+A class is a package of starting Skills, equipment and background that needs to be chosen alongside the concept. Classes are roughly equivalent to classes in other systems. It's best to think of a concept first and then choose a class but experienced players might prefer selecting both at the same time. 
 Classes can be found in the Setting your Gamesmaster is going to run, there are no generic Icar Classes as Icar. If no Skeleton exists for your Character concept, then use ones from the Setting as a guide and suggest your own to the Gamesmaster.
-Step 2: Deviant
-The Deviant is the personality of the Character and suggests what the Character might do in any situation. The Deviant of the Character is recorded in the Deviant wheel. The wheel is made from a number of personality traits. Opposite traits are on opposite sides of the wheel. For example, on one side is Selfish, on the other is Generous. You�ll find the deviant wheel on the front Character sheet.
+
+## Step 2: Deviant
+The Deviant is the personality of the Character and suggests what the Character might do in any situation. The Deviant of the Character is recorded in the Deviant wheel. The wheel is made from a number of personality traits. Opposite traits are on opposite sides of the wheel. For example, on one side is Selfish, on the other is Generous. You'll find the deviant wheel on the front Character sheet.
+
 To fill in the Deviant wheel, go around to each of the traits and colour in up to 5 of the boxes. Both sides of the wheel must add up to 5. If you have 5 in Fiery, then you have 0 in Calm. Below shows an example Deviant Wheel. Only one trait is filled in.
-Tip: Pick two or three traits you know you would like to play, colour them in up to four and colour in their opposites at one. Then all the others, either colour them in as 3 and 2 or leave them blank and fill them in as you play the Character.
-Let�s take a look at the Deviant wheel for our example Character, John Smith. It�s filled in for a generally nice person who is a bit naive and is easily excitable.
-Tip: When creating the Deviant wheel, try to pick two to four traits that you think best describe your Character. Make those traits 4 and 5 and then set the rest of the wheel to traits of 2 or 3. Concentrating on a couple of strong personality traits is much easier when you start to play Icar.
+
+> Tip: Pick two or three traits you know you would like to play, colour them in up to four and colour in their opposites at one. Then all the others, either colour them in as 3 and 2 or leave them blank and fill them in as you play the Character.
+
+Let's take a look at the Deviant wheel for our example Character, John Smith. It's filled in for a generally nice person who is a bit naive and is easily excitable.
+
+> Tip: When creating the Deviant wheel, try to pick two to four traits that you think best describe your Character. Make those traits 4 and 5 and then set the rest of the wheel to traits of 2 or 3. Concentrating on a couple of strong personality traits is much easier when you start to play Icar.
+
 In general, pleasant Character traits (generous, honest, forgiving) are on the right hand side of the wheel, and unpleasant traits (selfish, vengeful, dishonest) are on the left.
-Don�t worry if you don�t get it correct to begin with as Deviant wheel can be changed using Roleplaying Points. This accounts for the Character�s personality changing as they experience life changing events. 
-Do not be bound by the Deviant wheel, it is there as a guide to help you keep the Character�s decisions consistent. There might be times when the event is so life changing that the Character may react outside of their normal personality. In those cases, you might consider using that event as a reason to change the Character�s personality.
-Step 3: Attributes
+
+Don't worry if you don't get it correct to begin with as Deviant wheel can be changed using Roleplaying Points. This accounts for the Character's personality changing as they experience life changing events. 
+Do not be bound by the Deviant wheel, it is there as a guide to help you keep the Character's decisions consistent. There might be times when the event is so life changing that the Character may react outside of their normal personality. In those cases, you might consider using that event as a reason to change the Character's personality.
+
+## Step 3: Attributes
 Attributes are the physical and mental properties of the Character. There are five Attributes in Icar: Battle, Shift, Meat, Soul and Wit. 
-Each Attribute on a scale of 1 to 5. A value of 1 is human lowest and 5 is the human maximum. The human average is 2. 
-If the Character becomes augmented with bionics, then Attributes can go beyond 5.
+
+Each Attribute on a scale of 1 to 5. A value of 1 is human lowest and 5 is the human maximum. The human average is 2. If the Character becomes augmented with bionics, then Attributes can go beyond 5.
 All Attributes begin at 1 and then you spend points to increase them in the same way that you do for Roleplaying Points. You have 20 Roleplaying Points to spend, check the Roleplaying Points section XXXXXXXXXXXXXX.
-Quick Attribute Assignment
+
+### Quick Attribute Assignment
 Rather than working out each of the levels and spending up your points, you could assign one of the following groups of values to your Attributes. They add up to 20 Roleplaying points: 4,3,2,2,2 or 3,3,3,1 or 5,2,2,1.
-Battle
+
+### Battle
 Battle is the ability of the Character to fight. This includes physical ability as well as natural prowess in combat. It is mostly used for close combat fighting but is also used for deciding initiative. Battle does not cover how hard you hit something, just how well you do it. 
+
 Having a Battle of 1 means you fight like a flailing child. A Battle of 5 means you are more lethal than Bruce Lee.
-Meat
-Meat is Character�s toughness. It controls how much they can carry (see Encumbrance later), how hard they can hit something, how many hits they can take before passing out (see Stun later), how resistant they are to poisons (such as alcohol) and how physically large they are. 
+
+### Meat
+Meat is Character's toughness. It controls how much they can carry (see Encumbrance later), how hard they can hit something, how many hits they can take before passing out (see Stun later), how resistant they are to poisons (such as alcohol) and how physically large they are. 
+
 Having a Meat of 1 means you are an under-developed weakling; 5 a huge body-builder.
-Shift
+
+### Shift
 Shift controls the  quickness of the character.  This includes how far the character can move, how dexterous they are and the likelihood of having the upper hand in a fight. 
+
 Multiple your Shift by 8 to find the furthest you can move in a turn in metres. This should be only an indicator as combat is more fluid than taking measurements will allow.
-Soul
-Soul is a measure of the Character�s life force and mental strength. A low Soul is easily frightened and has trouble dealing with gory or bloody scenes. A high Soul recognises their fear but is not driven by it. 
-Failing a Soul check can lead the Character into a blind panic. Passing a Soul check can mean the Character does not blurt out the location of the money stash. A panicking Character isn�t able to perform any useful action and you should roleplay a panic stricken character to freeze, run amok or act irresponsibly.
-Tip: If you want to play a bionic character then it pays to have a high Soul to start with as you spend the Soul to become bionic.
-Wit
+
+### Soul
+Soul is a measure of the Character's life force and mental strength. A low Soul is easily frightened and has trouble dealing with gory or bloody scenes. A high Soul recognises their fear but is not driven by it. 
+Failing a Soul check can lead the Character into a blind panic. Passing a Soul check can mean the Character does not blurt out the location of the money stash. A panicking Character isn't able to perform any useful action and you should roleplay a panic stricken character to freeze, run amok or act irresponsibly.
+
+>Tip: If you want to play a bionic character then it pays to have a high Soul to start with as you spend the Soul to become bionic.
+
+### Wit
 Wit is the measure of intelligence and the ability to spot things. A high Wit is likely to notice details and will have more divine inspiration (hints from the GM). 
+
 A low Wit is unlikely to notice even the most obvious indications and will have difficulty reasoning logically. This can be useful to you because you can use a low Wit to do things that are fun and not necessarily a good idea.
-Classes and Attributes
+
+### Classes and Attributes
 Some classes included in the Setting have recommended Attribute values. These suggest that for a given class, the Wit should be over 4 or Meat over 5. The aim of this is to help the finished Character survive. 
-A combat based Character with a low Battle statistic will find it difficult to fulfil their concept. This might be intentional and that�s why these Attributes are only recommendations.
-Step 4: Skills
+A combat based Character with a low Battle statistic will find it difficult to fulfil their concept. This might be intentional and that's why these Attributes are only recommendations.
+
+## Step 4: Skills
 Skills are learnt abilities. Where Attributes make up the natural physical description of the Character, the Skills represent the learnt abilities. A Character is likely to learn a great many Skills and is likely to change their role in the game. Skills are also easier to improve than Attributes, although both can be improved by taking an active role in the game. The Skills are jotted down on Character sheet two, included at the back of this book.
-Assigning Points to Skills
+
+### Assigning Points to Skills
 All the Skills included in your chosen class begin at 1 for free. You can then use 10 points to increse these skills with 1 point per level (as you do spending Roleplaying Points).
-Tip: You may not raise a Skill of a higher Epoch higher than the Skills it depends on, see Skill Trees on page 6.
-Roleplaying and Skills
+
+> Tip: You may not raise a Skill of a higher Epoch higher than the Skills it depends on, see Skill Trees on page 6.
+
+### Roleplaying and Skills
 Skills should be used along with role-playing. Before rolling a for a Skill, describe the action as best you can. A good description of the Skills application may make your GM lower your difficulty roll. If the Skill is performing some acrobatic feat, then the twists and turns through the air should be described. If the Skill involves haggling a deal, then try to haggle. The GM is not looking for the best dealer or acrobat in the world, just some effort in description as this effort adds richness to the game for everyone.
 There are a few instances where this does not apply (such as fast fire fights where shooting lots of guns needs to be performed quickly).
-Skill Epochs and Trees
-Skills are organised into trees that grow from left to right. Here�s the Skill Tree that begins with Grav Pilot (all the trees can be found in the Appendix).
+
+### Skill Epochs and Trees
+Skills are organised into trees that grow from left to right. Here's the Skill Tree that begins with Grav Pilot (all the trees can be found in the Appendix).
 
 Every Skill has an Epoch. An Epoch of 1 means that the Skill does not depend on any other. For example above, Grav Pilot does not depend on any other Skill.
+
 Skills of Epochs 2 and above can only be bought after the Skills of a lower Epoch have been bought first. For example, Spacecraft Pilot requires Grav Pilot and Zero g Ops first.
+
 A Skill of a higher Epoch cannot have a value larger than the lower Epoch. 
 For example, if Grav Pilot has a value of 3, Zero g Ops can only go as high as 3, it cannot be 4. If you have Zero g Ops at 3 and you want to raise it, you must raise Grav Pilot to 4 first.
-Skills Example: John Smith
+
+### Skills Example: John Smith
 Now we add Skills to our example character, John Smith. The class we chose at the start was Scavenger Engineer. All these skills start with 1 point for free. 
 We want John Smith to be really good with space craft. Spacecraft comes under Macromechanics (3rd Epoch). We will need to put points into Physics and Astromechanics too. We have 10 points to spend.
+
 Law 				1
 History 			1
 Biology 			1
@@ -99,54 +138,72 @@ Astromechanics		1 + 3 = 4
 Macro Engineering		1 + 3 = 4
 Artificial Intelligence		1
 Hacking			1
+
 When flying an Orbihaul, John will be using Grav Pilot (1) with his Shift attribute (3). Having a skill of 1 means that he can fly fine but if he wants to do anything interesting then he will need to get to a target number of 12. He starts on 4 (3 + 1) so he needs 8 or more on a D10 to succeed.
 When fixing the Botchery Clipper, John will be using Wit (4) and  Macro Engineering (4). When fixing something in a short amount of time or under stress, the target number will be 12 and as he starts on 8 (4 + 4), he only needs a 4 or more.
+
 The skills are all found on the second character sheet.
-Step 5: Character Information
+
+## Step 5: Character Information
 It is detail that brings a character to life and that life makes the character more interesting to play. Name, age, place of birth, class and an image. You do not have to be an artist to have a cool character image, instead plunder the internet!
-Name
-This is the name of the character. It�s best to choose a name from within your own culture. From a white, British perspective, names such as �Adam Williamson�, �Simon Aubury� are common. 
+
+### Name
+This is the name of the character. It's best to choose a name from within your own culture. From a white, British perspective, names such as 'Adam Williamson', 'Simon Aubury' are common. 
 Avoid using names of characters from films unless you want to parody that character. Within Human Occupied Space, people often have only one word for a name, feel free to experiment.
-Akarakian names (if you are playing one) tend to have the syllable sounding �ak� somewhere in the name. Zealot Akarakians often have �ax� instead.
-Age
+Akarakian names (if you are playing one) tend to have the syllable sounding 'ak' somewhere in the name. Zealot Akarakians often have 'ax' instead.
+
+### Age
 Better genetics and medicines mean a long life and over 90,000 years the human race has managed to nearly double the average life span of what it was in the 21st Century. 
 Each setting and class will have recommended ages, experience is gained through living life, not necessarily getting older.
 increases with age. This is just only recommendations, so feel free to discuss with the GM any ideas you might have. 
+
 Age Comparison Table
 21st Century Age	Icar - 921st Century Age	Rough Description
 0	0	Birth
 12	8	Start of puberty
 18	12	End of puberty
 21	18	Physical peak
-26	50	Onset of weight gain and �middle aged spread�
+26	50	Onset of weight gain and 'middle aged spread'
 35	70	Middle age (hair loss, etc.)
 40	85	Greying hair
 65	110	Retirement age
 75	140	Average life expectancy
-85	150	�Good� life expectance
+85	150	'Good' life expectance
 125	180	Oldest non-augmented human
 N/A	320	Oldest augmented human
 
-Place of Birth
-This facet of the Character is very much dependent on the setting that is being run. Within the setting, there will be a list of places that are eligible for your place of birth. The character�s home will colour their point of view and experiences. Try and tie in the place of birth with your character concept.
-Class and Setting
-This is simply the name of the class the character is made from the setting document. The setting is the name of the campaign setting your GM is running. In John Smith�s case, this is the Scavenger Setting.
-Step 6: Hit Points
+### Place of Birth
+This facet of the Character is very much dependent on the setting that is being run. Within the setting, there will be a list of places that are eligible for your place of birth. The character's home will colour their point of view and experiences. Try and tie in the place of birth with your character concept.
+
+### Class and Setting
+This is simply the name of the class the character is made from the setting document. The setting is the name of the campaign setting your GM is running. In John Smith's case, this is the Scavenger Setting.
+
+## Step 6: Hit Points
 This section determines the physical state of the Character. Hit Points are the number of points of damage that your character can take before they are incapacitated. Incapacitated means that you need urgent medical attention or your character will die.
+
 A human starts with 10 Hit Points.
-Starting with Bionics
+
+### Starting with Bionics
 If your character begins with Bionics then the Hit Points will come straight from the Bionics attributes.
-Step 7: Close Combat Combos XXXX
+
+## Step 7: Close Combat Combos XXXX
 Close Combat Combos (Combos) are chains of fighting manoeuvres that the character can perform. Although every character can punch and kick someone, to chain them together in a flow needs practise and the result of that practise is a close combat combo. 
+
 Combo building is covered in the Close Combat rules. XXXXXX
+
 The Combos are written in the bottom right of Character sheet one. You can spent Roleplaying Points (RP) to buy new Combos. 
-Step 9: Roleplaying Points
+
+## Step 8: Roleplaying Points
 Roleplaying Points (RP) are awarded for roleplaying a consistent, believable character and for experiencing the world around them.
+
 Roleplaying points are then spent to change the personality and improve attributes and skills.
 It is quite normal for the Character you start with to be completely different in personality and strengths when you finish playing. 
+
 RP is recorded on a disc on Character Sheet one underneath the Deviant Wheel. You might also like to keep a running total in this disc so that you can see how much you have spent on your character in the campaign.
 When To Spend RP
+
 Your Gamesmaster might decide to hand out RP at the end of the session or as the session is being played. Whenever the Gamesmaster gives you RP, you may spend it.
+
 Roleplaying Point UsesCost	Effect
 1	Alter as much of the Deviant Wheel as you please. This should be justified with the rest of the group and GM. For example, after you go through a harrowing ordeal.
 1	Buy a new Skill
@@ -155,19 +212,27 @@ Roleplaying Point UsesCost	Effect
 *	Raise an Attribute. The cost is the new value of the Attribute. If your Attribute is 2 then to raise to 3, you must pay 3.
 10	Choose an existing Psychotheatric and roll again on the table. You must accept the new Psychotheatric.
 
-Step 10: Psychotheatrics
+## Step 10: Psychotheatrics
 By now, the Character has already taken shape, all that is left now is to add quirks of personality that are selected at random. Psychotheatrics are determined in the following way (and found in the Appendix).
+
 1. The Player states how many Psychotheatrics are going to be added to the Character. The player may choose up to three, no more. Up to three is number of the Psychotheatrics. 5 is right out. Once the number is decided, the player must stick with it.
-2. The player rolls a D100 for each Psychotheatric in turn, dealing with each separately.
-3. Any alterations to the Deviant wheel or Attributes must now be made.
-Psychotheatrics and the Deviant Wheel
-There may be cases where the Psychotheatric conflicts with the way in which the character�s Deviant is created. In this case the Psychotheatric wins and the Deviant Wheel must be altered. If two Psychotheatrics are opposing then the earlier Psychotheatric is used and the second roll is to be re-rolled. No Attribute may go below 1 but can be raised over the cap of 5.
+1. The player rolls a D100 for each Psychotheatric in turn, dealing with each separately.
+1. Any alterations to the Deviant wheel or Attributes must now be made.
+
+### Psychotheatrics and the Deviant Wheel
+There may be cases where the Psychotheatric conflicts with the way in which the character's Deviant is created. In this case the Psychotheatric wins and the Deviant Wheel must be altered. If two Psychotheatrics are opposing then the earlier Psychotheatric is used and the second roll is to be re-rolled. No Attribute may go below 1 but can be raised over the cap of 5.
+
 The Psychotheatric is there to pour colour onto the character and give complacent players a challenge.
 Weaving the Tale
+
 The Psychotheatrics should fit into the background the character has. A certain amount of weaving or fitting in must be done make the Psychotheatric work. The GM should read the Psychotheatric before reading it out to the player. Some of the information is the Psychotheatric may need to be withheld from the player.
+
 If the GM feels a Psychotheatric would break the character  (especially given the Setting) then they should ask them to re-roll.
+
 Do not be worried if you roll poorly, you can buy off Psychotheatrics (see below) and it can be great fun to play a character with truly terrible Psychotheatrics. Before you spend RP, give it your best shot.
-Buy off Pyschotheatrics
+
+### Buy off Pyschotheatrics
 Pyschotheatrics can be replaced by spending 10 RP. Choose the Psychotheatric you no-longer want and roll D100 for a new one.  You have to take a new one if you are buying off an old one. You keep the Attribute and Skill affects of the previous Psychotheatric but not the flavour text.
 This should not be done lightly. The mental affect or problem represented by the Psychotheatric must be accounted for in game. 
-Example: If you are Hunted then you must confront and stop the killer before buying off the Psychotheatric. If you are a Psychopath, then you must go through psychotherapy or live through a life-changing event to change your psyche.
+
+> Example: If you are Hunted then you must confront and stop the killer before buying off the Psychotheatric. If you are a Psychopath, then you must go through psychotherapy or live through a life-changing event to change your psyche.
