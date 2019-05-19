@@ -1,3 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Cannon	80	60	300	Feed	7.4P
-

@@ -1,3 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Cannon	20	10	100	Feed	2.2P
-

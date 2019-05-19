@@ -1,8 +1,0 @@
-Spacecraft Know	40
-Mechasys Know	35
-Mechasys Systems	20
-History	65
-Biological	60
-Medical Basic	70
-Medical Diagnosis	75
-Medical Surgery	75

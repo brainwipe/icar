@@ -1,3 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Chain	70	70	50	Feed	7.4P
-

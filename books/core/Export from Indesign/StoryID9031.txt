@@ -1,2 +1,0 @@
-The Entity will then search the planet, system, cluster and so on. Bob will have told the Entity to stop after the planet as it will take too long otherwise.
-It will find Reg in the field eventually and report back to Bob, who can join him.

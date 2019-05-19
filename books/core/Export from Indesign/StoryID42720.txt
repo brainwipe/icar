@@ -1,9 +1,0 @@
-John Smith’s Attributes
-For John, we’re going to use the quick attribute assignment and as we want John to be fearless and OK in a fight, we’ll use 4,3,2,2,2 like so:
-Battle		2
-Meat		2
-Shift		3
-Soul		2
-Wit		4
-We have already selected Scavenger Engineer (page 106) as John’s class. This has one attribute recommendation:
-Wit > 3 

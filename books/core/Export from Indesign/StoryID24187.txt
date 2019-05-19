@@ -1,3 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Pulse Laser	100	150	10	20	15G
-

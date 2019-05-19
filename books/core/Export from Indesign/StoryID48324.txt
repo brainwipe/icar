@@ -1,6 +1,0 @@
-Metrpol Van
-AR: 10
-HP:3000
-Speed: 200
-Acceleration: 20
-Mano: 20

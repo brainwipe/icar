@@ -1,4 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Sniper Rifle	70	100	5	30	7.4P
-Energy Jacket	100	100	1	10	10G
-

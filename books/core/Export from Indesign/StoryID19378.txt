@@ -1,3 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Chain	65	100	5	20	7.4P
-

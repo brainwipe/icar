@@ -1,8 +1,0 @@
-Location	HP	
-Head		
-Left Arm		
-Torso		
-Right Arm		
-Left Leg		
-Right Leg		
-

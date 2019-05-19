@@ -1,6 +1,0 @@
-Options:
-Silencer. The weapon is silent beyond short range.
-Optax Sighting. Fits snugly on top of giving +0, +10, +10. Cost 150cu.
-Power Setting. Increase the power of one round. Requires successful Weapon System Roll to fit. Dam 20, R/T 1. Cost 250cu.
-Chain Feed. Converts magazine to chain feed. Must use chained 2.2 rounds. Requires successful Weapon Systems roll. Mag: feed. Cost: 250cu.
-Palm Print ID. Stops anyone other than the owner firing the weapon. Requires successful Weapon Systems roll. Cost 175cu.

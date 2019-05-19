@@ -1,6 +1,0 @@
-Mary (Security)
-Battle: 6, Meat: 5, Shift: 5, Soul: 6, Wit: 4
-Body: H: 10, LA: 10, T: 40, LL: 15, RL: 15
-Armoured EV Suit: H: 100, LA: 150, T: 1000, RA: 150, LL: 200; RL: 200
-Heavy Firing: 60%
-Weapon: Arms 5 Rifle, magazines, no greandes.

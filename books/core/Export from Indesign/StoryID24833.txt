@@ -1,7 +1,0 @@
-Weapon	BF	Dmg	R/T	Mag	Ammo
-Pulse Laser	100	70	20	30 x 2	15G
-Multilauncher			2	8	LVG
-Multilauncher			1	4	HVG/SWIRL
-Flamer	10	30/T	1	20	Cartridge
-Flamer Lance	35	50/T	1	20	Cartridge
-
