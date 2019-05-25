@@ -33,7 +33,7 @@ On a roll of 1, the character always fails. On a roll of 10, they always pass. T
 ## Optional: The Shared Dice Pool
 At the start of the game, put a pot or hat in the middle of the table with a number of D10s equal to the number of players. When the players roll a D10, they can choose to pick a die from the hat to add to their total. The player can choose to keep doing this until the dice run out.
 
-Any remaining dice at the end of the game get turned into roleplaying points, shared out between the players. This makes the game a little easier but adds an element of co-operation for the players.
+Any remaining dice at the end of the game get turned into roleplaying points, shared out between the players. This makes the game a little easier but adds an element of co-operation for the players. It's especially useful when you have less than 4 players.
 
 # Combat
 
@@ -58,7 +58,7 @@ _Turn Action Table_
 | Say one thing             | Along with an action, a Character may utter one thing. | 
 | Turn on shield            | Free! Does not take a turn but a shield can be raised in a turn. | 
 | Use Close Combat Combo    | Execute a close combat combo against one or more opponents. | 
-| Fire weapon               | Fire up to the rounds per turn (R/T) for the weapon.  If less, state how many. | 
+| Fire weapon               | Fire your weapon! | 
 
 ## Entering Combat
 
@@ -71,7 +71,7 @@ When a combat begins, the gamesmaster will follow these steps:
 
 ## The Turn Sequence
 
-There are different turn sequences for each type of combat.  Once a combat sequence is complete, the GM will announce that the combat turn is over. 
+There are different turn sequences for each type of combat.  Once a combat sequence is complete, the gamesmaster will announce that the combat turn is over. 
 
 ## Healing
 
@@ -106,7 +106,7 @@ Bigger shield systems can have multiple shields. This means that when one shield
 
 # Close Combat
 
-When you're near enough to smell their fear, that's Close Combat. You can always hit someone once in a turn like any other action but it's more fun to chain moves together in a Combo. By default you use the Battle attribute with your skill check but that's negotiable, depending on the situation.
+When you're near enough to smell their fear, that's Close Combat. You can always hit someone once in a turn like any other action but it's more fun to chain moves together in a combo. By default you use the Battle attribute with your skill check but that's negotiable, depending on the situation.
 
 ## Hitting once
 
@@ -121,278 +121,248 @@ If you are holding just about anything and want to hit someone once then perform
 > Later Simon sneaks up behind Byrnie with a table leg and hits him over the back of the head. Simon's Battle attribute is 4 and Street Fighting is 2. He needs a 12 to hit Byrnie and rolls 6. His total is 12 (6 + 4 + 2) so he hits Byrnie. Byrnie removes 4 stun (Simon's Meat attribute) and because Simon is holding a table leg, he removes 4 hit points too. The Gamesmaster tells Byrnie that he's bleeding from a nasty gash on his head.
 
 ## Combos
-A Combo is a series of moves that your character can perform in a flow such as Headbutt, Punch, Trip, Stamp. If you have the Street Fighting Skill of 1 or higher then you can spend roleplaying points to build Combos. A Combo does damage to hit points and stun and in turn has a difficulty. The more damage and stun your Combo does, the more difficult it will be to execute. Some moves can have extra benefits, such as knocking the weapon from the other's hand. 
-Using a Combo
-When it comes to your turn, you choose one of your combos from your list of Combos. You must verbally describe your Combo before rolling a die. If you forget, the Combo fails automatically. Then roll a skill check using Street Fighting and Battle and subtracting the Combo difficulty. The enemy you are fighting removes the Combo's damage from their hit points and the stun from their stun. The default target number for NPCs is 10.
-Street Fighting + Battle - Difficulty + D10 = 10 or more.
-'I'm going to hit the Star Enforcer with Combo 1: punch, trip, stamp. Difficulty is 1.' said Byrnie and rolls the D10. Although he rolls a 10, he loses the round because there was no description first.
-'I am going use kick the Star Enforcer in the groin, then I'm going to push him over the fence to trip, jump over myself and stamp on his face.'. Combo #1, which is Punch, Trip, Stamp and has a difficulty of 2.
-Using a Combo Against Another Player Character
-If two player characters are fighting, or perhaps a player character is fighting a Non-Player-Character important enough to have their own Combos, then the winner is the character with the highest score. Critical pass (rolling 10) or fail (rolling 1) are automatic success or failure. The the totals are equal then roll again. Roll initiative to find out who chooses their Combo first; lowest chooses and narrates their Combo first.
-Street Fighting + Battle - Difficulty + D10
-'While running, I'm going to barge into Simon and stamp on his groin twice. Using Combo 2, difficulty 2.' said Byrn.
-'Seeing him come in, I'm going to bring him to a halt by headbutting three times. Using Combo 3, difficulty 3.' said Simon.
-Byrn and Simon roll D10s, Byrn's rolls 5, his total is 7 (1 + 3 - 2 + 5). Simon rolls 3, his total is 6 (2 + 4 - 3 + 3).
-Byrn's narration wins and Simon is left on the floor!
-Trip and Hold
-'Trip' makes an enemy prone (lying on the floor). In the next round, the enemy must make a Street Fighting with Shift opposed skill check (or use the Spring to Feet swap move). 'Hold' means the enemy cannot move until their break free using Street Fighting and Meat. You can Combo against the foe who is prone or held, if they pass their standing up or breaking free check then your Combo will fail.
+
+A combo is a series of moves that your character can perform in a single turn flow such as Headbutt, Punch, Trip, Stamp. If you have the Street Fighting skill of 1 or higher then you can spend roleplaying points to build combos. A combo does damage and stun and has a difficulty. The more damage and stun your combo does, the more difficult it will be to execute. Some moves can have extra benefits, such as knocking the weapon from the other's hand. 
+
+### Using a Combo
+
+When it comes to your turn, you choose one of your combos from your list of combos. *You must verbally describe your combo before rolling a die*. If you forget, the combo fails automatically. Then roll a skill check using Street Fighting and Battle and subtracting the combo difficulty. The enemy you are fighting removes the combo's damage from their hit points and the stun from their stun.
+
+ The default target number for NPCs is 10.
+
+> Battle + Street Fighting - Difficulty + D10 = 10 or more.
+
+> 'I'm going to hit the Star Enforcer with combo 1: punch, trip, stamp. Difficulty is 1.' said Byrnie and rolls the D10. Although he rolls a 10, he loses the round because there was no description first.
+
+> 'I am going use kick the Star Enforcer in the groin, then I'm going to push him over the fence to trip, jump over myself and stamp on his face.'. combo #1, which is Punch, Trip, Stamp and has a difficulty of 2.
+
+## Using a Combo Against Another Player Character
+
+If two player characters are fighting, or perhaps a player character is fighting an NPC important enough to have their own combos, then the winner is the character with the highest score. Critical pass (rolling 10) or fail (rolling 1) are automatic success or failure. The the totals are equal then roll again. Roll initiative to find out who chooses their combo first; lowest chooses and narrates their combo first.
+
+> 'While running, I'm going to barge into Simon and stamp on his groin twice. Using Combo 2, difficulty 2.' said Byrn.
+> 'Seeing him come in, I'm going to bring him to a halt by headbutting three times. Using Combo 3, difficulty 3.' said Simon.
+> Byrn and Simon roll D10s, Byrn's rolls 5, his total is 7 (1 + 3 - 2 + 5). Simon rolls 3, his total is 6 (2 + 4 - 3 + 3).
+> Byrn's narration wins and Simon is left on the floor!
+
+## Trip and Hold
+
+Trip makes an enemy prone (lying on the floor). In the next round, the enemy must make a Street Fighting with shift opposed skill check (or use the Spring to Feet swap move). 'Hold' means the enemy cannot move until their break free using Street Fighting and Meat. You can Combo against the foe who is prone or held, if they pass their standing up or breaking free check then your Combo will fail.
+
 To struggle free from a Trip and a Hold (being pinned down on the ground) then you must roll a Hard difficulty Street Fighting skill check with Meat or Shift.
-Swapping out Attributes
-The attribute you use can be negotiated with the GM before the dice are rolled. Any attribute can be married with a fighting skill if the player is persuasive enough and it is decided before dice are rolled. In the example above, Simon could have used his Shift attribute of 4 because headbutting someone running at you is more a matter of dexterity than fighting prowess.
-Using Weapons in Combos
-To use a weapon in a Combo you need to have a good enough skill. For hand weapons, you need Street Fighting at level 2 and higher. For using a firearm (pistol, rifle or sub-machinegun) in close quarters then you need Gun Fu at level 1. The damage and stun you do is listed on the weapon if you're firing it or if you're using it just to hit someone then use the Meat of the character.
-Humans versus Augs
+
+## Swapping out Attributes
+
+The attribute you use can be negotiated with the GM before the dice are rolled. Any attribute can be married with a fighting skill if the player is persuasive enough. In the example above, Simon could have used his Shift attribute of 4 because headbutting someone running at you is more a matter of dexterity than fighting prowess.
+
+## Using Weapons in Combos
+
+To use a weapon in a combo you need to have a good enough skill. For hand weapons, you need Street Fighting at level 2 and higher. For using a firearm (pistol, rifle or sub-machine gun) in close quarters then you need Gun Fu at level 1. The damage and stun you do is listed on the weapon if you're firing it. If you're using it as a blunt object to bash someone, then use the Meat of the character.
+
+## Humans versus Augs
+
 Humans are puny compared to those with bionic augmentation (Augs). Augs can choose to do damage with their Combos, the damage being the same as the stun. As Augs have a higher Meat attribute, they do more damage, have moresStun and regain stun quicker. Humans should avoid getting into a fight with an Aug at all costs. The same can be said for fighting with people in powered armour and insane automatons.
+
 > EXAMPLE! XXXXXXXXXXXXXXX NEEDS BIONICS FIRST
-Using Advanced Close Combat Skills
+
+## Using Advanced Close Combat Skills
+
 Street Fighting covers the majority of fighting scenarios but there is also Gun Fu (close quarters gun play) and Akarak Art (like martial arts but much tougher). No matter where the moves come from, you always use your Street Fighting skill.
-Swap Moves
-As you improve in Street Fighting, Gun Fu and Akarak Art, you get the ability to improvise by swapping out moves in your Combo. Swap moves are not permenant, only for that combo use. Add the Swap Move difficulty on top of the existing Combo difficulty, even though you are replacing one of your moves. You can only swap one move in a turn (until you reach Akarak Art at level 3). You can build swap moves in a Combo normally if you wish. 
-The simplest swap that anyone can do is a Hold (requires Street Fighing level 1).
-Simon wants to headbutt Byrn three times again. Byrn is fed up with Simon headbutting him. Byrn takes his Punch, Trip, Stamp combo and replaces Trip with Hold and says 'I want to punch him in the face and then as he's reeling, grab him round the shoulders.' The Stamp move won't happen because Hold ends the Combo. 
-Hold has a difficulty of 1 added to the Combo's difficulty of 2. Byrn rolls a D10 and gets an 8, his total is 9 (1 + 3 - 3 + 8). This beats Simon's roll. Simon will need to pass an opposed Meat check next turn to break free.
-Combos and swap moves can become quite complex and specific to a situation. When a player chooses their swap moves, they are responsible for understanding what they are going to say in the narrative. If they cannot  describe it in a way that others can understand then they cannot use it.
-Take the Gun Fu based Combo: Puppet, Reload, Reverse, Dismantle has the narrative 'Grab hold of the enemy with a gun and shoot their friend with it, reload it, shoot them with it and then dismantle it.' This means that the weapon will have fired twice in a single turn but it's an expensive Combo, so let the player enjoy it if they pass!
-How to Build a Combo
-First you need to know what you want to achieve from your Combo in terms of difficulty, coolness or achieving a goal. For example, you might start with an easy Combo that just punches someone as many times as you can (which is free!). You might also have one that leaves the opponent prone.
+
+## Swap Moves
+
+As you improve in the close combat skills of Street Fighting, Gun Fu and Akarak Art, you get the ability to improvise by swapping out moves in your Combo. Swap moves are only for that one use and have a difficulty. Add the swap move difficulty on top of the existing Combo difficulty, even though you are replacing one of your moves. You can only swap one move in a turn (until you reach Akarak Art at level 3). You can build swap moves in a Combo normally if you wish. 
+
+The simplest swap that anyone can do is a Hold (requires Street Fighting level 1).
+
+> Simon wants to headbutt Byrnie three times again. Byrnie is fed up with Simon headbutting him. Byrnie takes his Punch, Trip, Stamp combo and replaces Trip with Hold and says 'I want to punch him in the face and then as he's reeling, grab him round the shoulders.' The Stamp move won't happen because Hold ends the Combo. Hold has a difficulty of 1 added to the Combo's difficulty of 2. Byrnie rolls a D10 and gets an 8, his total is 9 (1 + 3 - 3 + 8). This beats Simon's roll. Simon will need to pass an opposed Meat check next turn to break free.
+
+Combos and swap moves can become quite complex and specific to a situation. When a player chooses their swap moves, they are responsible for understanding what they are going to say in the narrative. If they cannot describe it in a way that others can understand then they cannot use it.
+
+> Take the Gun Fu based Combo: Puppet, Reload, Reverse, Dismantle has the narrative 'Grab hold of the enemy with a gun and shoot their friend with it, reload it, shoot them with it and then dismantle it.' This means that the weapon will have fired twice in a single turn but it's an expensive Combo, so let the player enjoy it if they pass!
+
+## How to Build a Combo
+
+First you need to know what you want to achieve from your Combo in terms of difficulty, or achieving a goal. For example, you might start with an easy Combo that just punches someone as many times as you can (which is free!). You might also have one that leaves the opponent prone.
+
 To build the Combo, choose the moves from the Combo table below, adding up Stun, Damage and Difficulty. You can have as many moves in your Combo as your Battle attribute. Each move has a skill requirement (except punch). Use Roleplaying Points to buy the Combo, the cost is the same as its difficulty.
 Put your completed Combo on the front page of your character sheet with the Stun, Damage and Difficulty. You can have 6 Combos. If you run out of room and want to replace a Combo then you can but you can't edit a Combo that's already there.
-Pre-Built Example Combos
+
+## Pre-Built Example Combos
+
 The Combos below are designed for a Battle attribute of 3 and Street Fighting and Gun Fu of 5.
-'I'm going to barge him over and stamp on his head twice.'
-Leaves the enemy prone.
-Trip, Stamp, Stamp. Difficulty: 1. Stun: Meat x 2. Damage: 0. 
-'I'm going to get really close, headbutt him, knee him in the groin and then uppercut into his face.'
-Headbutt, Kick, Punch. Difficulty: 2. Stun: Meat x 3. Damage: Meat. Good for starting fights.
-'I'm going to kick him back up to the table, push him over it and as he tumbles onto the floor slam my heel into his chest.'
-Kick, Trip, Stamp. Difficulty: 2. Stun: Meat x 3. Damage: 0. Great for a bar fight.
-'I'm going to pick up the leg from the broken table and keep hitting him while screaming.'
-Strike, Strike, Strike. Difficulty: 3. Stun: Meat x 3. Damage: Meat x 3.
-Fighting More Than One Foe
+
+- 'I'm going to barge him over and stamp on his head twice.' Leaves the enemy prone. Trip, Stamp, Stamp. Difficulty: 1. Stun: Meat x 2. Damage: 0. 
+- 'I'm going to get really close, headbutt him, knee him in the groin and then uppercut into his face.' Headbutt, Kick, Punch. Difficulty: 2. Stun: Meat x 3. Damage: Meat. Good for starting fights.
+- 'I'm going to kick him back up to the table, push him over it and as he tumbles onto the floor slam my heel into his chest.' Kick, Trip, Stamp. Difficulty: 2. Stun: Meat x 3. Damage: 0. Great for a bar fight.
+- 'I'm going to pick up the leg from the broken table and keep hitting him while screaming.' Strike, Strike, Strike. Difficulty: 3. Stun: Meat x 3. Damage: Meat x 3.
+
+## Fighting More Than One Foe
+
 If you want to fight two people then pick a Combo for each foe (it can be the same for each) and roll a skill check with a -2 difficulty for each additional foe. Two foes -2, three foes -4, four foes -6 and so on.
-Byrn has won the initiative against Simon and Gideon. 'I'm going to kick Simon in the groin and then the face (Kick, Kick) and I'm going to reach out and punch Gideon in the stomach and face twice (Punch, Punch).' Byrn will need to roll once for each Combo add an extra -2 difficulty onto each roll.
-Close Combat Skills
-DO I MOVE THIS? XXXXXXXXXXXXX
-Street Fighting
+
+> Byrnie has won the initiative against Simon and Gideon. 'I'm going to kick Simon in the groin and then the face (Kick, Kick) and I'm going to reach out and punch Gideon in the stomach and face twice (Punch, Punch).' Byrnie will need to roll once for each Combo add an extra -2 difficulty onto each roll.
+
+## Close Combat Skills
+
+These skills can be raised just like any other skill.
+> DO I MOVE THIS? XXXXXXXXXXXXX
+
+### Street Fighting
 Fisticuffs and brawling in the human tradition of getting stuck in with foot and fist.
+
 Level 1: Can build Combos. Moves: Punch, Stamp. Swap Moves: Hold.
 Level 2: Moves: Kick, Headbutt. Swap Moves: Disarm.
 Level 3: Moves: Strike. Swap Moves: Spring onto feet, break free.
 Level 4: Moves: Spinning Kick. Swap Moves: Hold Reverse.
-Gun Fu
+
+### Gun Fu
 Your firearm is an extension of your arm. Kick the weapon from the hands of your enemy, reload it and shoot them with it in a single flow.
+
 Level 1: Moves: Fire. Swam Moves: Quick Draw
 Level 2: Moves: Puppet. Swam Moves: Rearm.
 Level 3: Moves: Dismantle. Swam Moves: Reload
 Level 4: Moves: Reverse.
-Akarak Art
+
+### Akarak Art
 Performed by bionic warrior monks, Akarak Art uses the principal of the world flowing from one stream to another. Imagination, rhythm and concentration combined with bionics lets the fighter slow the world down around them. All the Akarak Art moves are Swap Moves.
 Level 1: Knock out
 Level 2: Push Clear
 Level 3: Improvise
 Level 4: Undress, The Flow
 
+> MOVES TABLE
 
+# Firefighting
 
+Fire fighting deals with ranged combat and firearms. It is assumed that all fire fights happen simultaneously and initiative is merely used to allow the more combat aware to see what happens to everything else before making their decision.
 
-Firefighting
-Fire fighting deals with the use of firearms. It is assumed that all fire fights happen simultaneously and initiative is merely used to allow the more combat aware to see what happens to everything else before making their decision.
-Firearms
-In Icar, weapons are not written down on part of the Character sheet but are included as handouts (folded paper into cards) and then kept with the Character sheet. This removes confusion about what the Character is carrying. If the player does not have the sheet, they do not have the weapon. On the next page is the Nelson H1 from the Equipment Index, please refer to this as an example. You can download the handouts in the Equipment Index and print as needed.
-For quick reference, a list of weapons with their pictures is included in the technology section but it is highly recommended to use the hand-outs as they contain more information about the weapon and extra features.
-Photo and Name
-The picture shows a representation of the weapon with its name.
-Features
-Here are the important features of the weapon. Not really statistics but other information of use. Typically this place holds the following:
-1. Cost. If bought New from a regular dealer.
-2. Type of weapon (Light or Heavy). Tells you which Skill to use.
-3. Rarity (a percentage). A GM will roll over this number to see if a dealer has one in stock. Lower is more common.
-4. Additional Features. These are accompanied with a heading and a description. Things such as 'Grav Balancing 'are additional features. For descriptions of what these technologies mean, see the Technology section.
-5. Stock Options. Some weapons are so versatile that the manufacturer may create them with possible additions straight from the factory. These come with a tick box, a price and a rarity (if different from the rarity of the weapon).
-Note
+## Firearms
+
+In Icar, weapons are not written down on part of the Character sheet but are included as handouts (folded paper into cards) and then kept with the Character sheet. This removes confusion about what the character is carrying. If the player does not have the sheet, they do not have the weapon. On the next page is the Nelson H1 from the Equipment Index, please refer to this as an example. You can download the handouts in the Equipment Index and print as needed.
+
+> PICTURE OF NELSON
+
+For quick reference, a list of weapons with their pictures is included in the technology section of this book but it is highly recommended to use the hand-outs as they contain more information about the weapon and extra features.
+
+### Photo and Name
+The picture shows a representation of the weapon with its name. The picture isn't upside down! Once you've folded the weapon sheet, it will be the correct way up.
+
+### Features
+The weapon's features are statistics that are used outside of combat. They are:
+
+1. Cost. If bought new from a regular dealer.
+1. Type of weapon. Gives you a sense of what it is best used for.
+1. Rarity. This is a target number for a Street Deal skill check, lower is better.
+1. Additional Features. These are accompanied with a heading and a description. Things such as 'Grav Balancing 'are additional features. For descriptions of what these technologies mean, see the Technology section of this book.
+1. Stock Options. Some weapons are so versatile that the manufacturer may create them with possible additions straight from the factory. These come with a tick box, a price and a Rarity.
+
+### Note
 Either used for further pictures or options or for a brief history and description for the weapon.
-Statistics
-These are split into three sections, Range Discs, Weapon Statistics and Ammo. 
-Range Discs. On the outer edge of the range discs are the modifiers for this weapon at Short (S), Medium (M) and Long (L) ranges. Add this value to your Light (or Heavy) firing Skill and add the number in the centre of the ring. A positive modifier is signified by a coloured in (black) shape and a negative modifier is signified by an outline shape.
-For example, if your Character has a Skill in Light Firing at 85%, then Short Range will be 95% and both medium and long will be at 85%.
 
-Statistics. The table of numbers tell you the physical attributes the weapon has. How each number is used is detailed later.
-The acronyms stand for: Weapon The type of technology the weapon uses to fire. BF Blast factor, how good the weapon is at penetrating armour. Damage The damage done by each round fired. R/T Rounds fired each turn. 
-Ammo the type of ammunition fired. Mag Magazine. 
-The Turn Sequence
-Begin Fire Fight
+### Statistics
+The weapon's statistics are:
+- Damage: how many hit points the weapon removes from the enemy.
+- Magazine: how many shots you get before you must reload.
+- To hit modifier: Added to your skill roll. 
+
+## The Turn Sequence
+
+### Begin Fire Fight
 Fire Fight combat is entered into if the combatants fire weapons. The GM must state what targets there are, at what range they are and whether they are moving or in cover.
-Roll Initiative
+
+### Roll Initiative
 Each combatant, whether they be NPC or player, rolls for initiative:
-Initiative = Battle + Shift + D10
-The lower initiative, is the worse combatant and thus must decide what to do first, without having seen the outcome of everyone else's actions.
-State Target and Number of Rounds to Fire
-The player (or NPC) states the target that she is shooting at and the number of rounds she wishes to fire. The number of rounds fired can not exceed the R/T value of the weapon.
-Roll Dice to Hit
-Player rolls a percentile (D100 or %). This must be less than number on the corresponding range disc. The ranges are listed below. If the player is throwing a Grenade, they can do so up to Short Range and roll Shift to hit.
-Weapon Ranges
-Range	Distance (in Metres)
-Short	Up to 50m
-Medium	51-500m
-Long	501m+
 
-If Hits
-The player must roll under the number on the relevant Range Disc. However there are modifiers, which make it difficult to hit. Add these modifiers to the difference between the roll and the number required to hit.
-Example 1: If a player has a Skill of 70% and the weapon has a modifier of 30%, the total is 100. The player rolls 60, therefore a difference of 40. This difference then has modifiers added to it. The modifiers add up to -30%, leaving 10% difference, this is a hit.
-Example 2: At long range, the modifier may only be 20%. The player requires a roll of 90 (Skill 70% + 20)  on a D100. The player rolls 90 and misses.
-Example 3: At short range, the modifier is only 25%. The player requires a roll of 95 (Skill 70 + 25) on a D100. The player rolls 92. This is a difference of 3. Modifiers could quite easily make that shot a miss.
-Hit Modifiers
-Modifiers make hitting the target easier or more difficult. This is by no means an exhaustive list, if there are any circumstances which the GM thinks affects the situation then they too will be added.
-Hit Modifier Table
-Modifier	%	Usage
-Target in Cover	-10	The target is obscured.
-Target or Character  moving	-10	A Character may fire while moving if moving at walk.
-Called Shot	-30	Player chooses body part to shoot at. You may not shoot at the head.
-Aimed Previous Turn	+20	Character spent last turn aiming at the target.
-Shot at target last turn	+10	Bonus for continually shooting at the same thing
-Character Stunned	- (100 - stun)	If stun is below 100, then take the difference.
-Shooting at more than one target	-20	If you shoot at more than one target in a turn, take off 20% for each target.
+> Initiative = Battle + Shift + D10
 
+The lower initiative, is the worse combatant and thus must decide what to do first, without having seen the outcome of everyone else's actions. 
 
-Example: John Smith fires a Raqax IIE at a foe at short range. His Skill is 95%, the Raqax short range modifier add 35% to the chance to hit. Therefore he needs to roll under 130% on a D100. He rolls 28. The difference is 102%! However Max has taken damage and has 50% (-50) stun. He is also firing while moving (-10) and the target is hiding behind a wall (In cover -10). This brings the difference down to a less impressive 32%. This is still a hit. 
-Damaging the Target
-The maximum damage done to the target is the Rounds fired multiplied by the Damage.
-Damage Done = Rounds Fired x Damage
-However, this damage is affected by the difference between the Blast Factor (BF) of the weapon and the Armour Rating (AR) of the Armour. The alteration is as follows:
-1. If BF > AR then all damage is applied.
-2. If BF <= AR then 1/10 damage is applied.
-Stun is the measure of physical shock. Regardless of damage applied, a target takes the BF in stun. This rule does not apply to some forms of powered armour.
-As you will note from the damage system, Icar is a deadly game. The best tactic is not to be shot at in the first place. If you are, make sure you are Augmented or Armoured or both.
-Firing without a Skill
-It's not unknown for a Character to pick up a weapon and pull the trigger. In this case, use only the modifiers given with the weapon.
-Example: For the Nelson H1, a Character without Light Firing would have to roll under 10 at short range. 
-Firefight Example
-John Smith, a Scavenger player character, meets a nearly-dead crew member of a wreck (an NPC). John is wearing a Moss Environment (EV) suit, the statistics for the suit are:
-Moss EV Suit Statistics
-AR	H	LA	T	RA	LL	RL	Stun
-10	200	300	800	300	400	400	200
+### State Target and Roll
 
-John is carrying a Nelson H1 with 3 rounds in the clip. He does not have the Light Firing skill, so will be using the default Nelson short range at +5. John's Battle is 7 and his Shift is 5. We need that for initiative.
-The NPC crew member is lying in the corner, one barely working arm and hit points only in his head and Torso. He is carrying a Havan 11 with a full magazine. He has a Light Firing of 55%. The NPC has a Battle of 6 and a Shift of 3 - his Shift is low because the GM says that he has been starved of oxygen.
-Turn 1
-Both roll initiative. John rolls 2, making his initiative 14 (7 + 5 + 2) and the NPC crew member rolls 4, making his initiative 13 (6 + 3 + 4).  John wins the initiative. The GM says that the NPC will be opening fire. John decides to jump behind a nearby doorway.
-The NPC fires a full magazine at John. John is moving, so the NPC is at -30%. The NPC must roll under 30% (Skill 55 - 30 for John's movement + 5 for the Havan 11 at short range). The GM rolls D100 for the NPC, rolling 44. 44 is larger than 30, so is a miss. The Havan 11 spits all 15 rounds over the corridor, bathing John in a shower of sparks! 
-Turn 2
-John still has the initiative. The GM says that the NPC is going to keep shoot. John would like to shoot back at the NPC but his chance of hitting is slim (10%), so he decides to spend the turn aiming from behind the bulk head. Aiming gives a +20 to a shot next turn.
-The NPC has 10 rounds left in the magazine (15 of the 25 were fired). John is in cover, which gives a -10% modifier. However the NPC fired at John last turn, giving a +10%. The modifiers cancel out. The NPC needs 60% (55 Skill + 5 for Havan 11 at short range). The GM rolls 22, a hit.
-The Havan 11 has a Blast Factor (BF) of 15, which is higher than John's EV Armour Rating (AR) of 10, so John will be taking all damage. 10 rounds were fired, at 10 damage per round, making 100 damage (10 x 10 ). The GM rolls for a location and gets a 5 (Torso). 100 points of damage are done to John's EV suit's Torso, which has 800, leaving a comfortable 700. 
-As the BF of the Havan 11 is 15, the hit also does 15 Stun, which is crossed off the suit's 200.
-Turn 3
-The NPC has run out of ammunition in that clip and elects to spend the turn reloading. John now decides to fire the remaining 3 rounds in his clip, having been aiming for a turn. 
-John needs less than 30 to hit (10 for the weapon and +20 for aiming). He rolls 21, which hits. The GM rolls for 4 for location, which is the Torso. The Blast Factor (BF) of the Nelson is 10, which is higher than the NPC's body's Armour Rating (AR) - clothing doesn't count. 
-36 points of damage are done to the  NPC's Torso, leaving him on 4. The GM decides that the NPC is dead.
-Dog Fighting
-Dog Fighting is combat between vehicles. Grav Vehicles in Icar are all flying and they fight it out in the vertical warrens of Mex cities. Players choose manoeuvres, take risks and try and get into a firing position on the foe without flying into oncoming traffic, walkways or architecture. Dog fighting is not about the realistic portrayal about moving bodies in flight, it's about zip, whoosh and bang.
-Each vehicle combatant is considered as either offensive, defensive or in advantage. The defender is the person who is trying to dodge the attacker by trying to get advantage, the attacker is the one trying to shoot the defender. When both craft are in the advantage state, each one is trying to become attacker.
-Example: John Smith is flying his Vulture on the way to a Croft. A rival crew attacks. The rival crew has the element of surprise so he becomes the attacker. John becomes the defender. At the start of next turn, John does a manoeuvre and the rival crew does not manage to stay on his tail. Both of them circle around the sky in advantage (neither of them able to attack or defend). Then John is able to take the attack and blows the rival's car from under him.
-Rounding and Resolution
-Dog fighting requires you to reduce the resolution of the Combat Pilot Skill. This means turn a number that is normally out of 100 (like 69%) to a number which is out of 10 (like 6.9). 
-First divide the number by 10, then round up if the decimal is '.5' or more and down otherwise. Thus, 74 becomes 7.4 and (as the decimal, '.4' is less than '.5') it becomes 7. Also, 25 becomes 2.5 and then round to 3. If you prefer, truncate by cutting off the second number, 92 become 9 and 38 becomes 3. This greatly speeds up the process.
-The Turn Sequence
-Combat normally begins with both vehicles in advantage (unless one surprises the other). They both roll Advantage dice (Combat Skill + Vehicle Manoeuvring + D10) and the winner becomes the attacker. The loser becomes the defender. 
-Then, at the end of the turn the attacker gets to fire. The next turn, the loser chooses a manoeuvre and each player rolls combat dice (Combat Skill + Vehicle Manoeuvring + Manoeuvre Modifier + D10). Then a simple table (below) is followed to see if the situation remains the same and the attacker fires again or if the manoeuvre succeeds and the players are placed into advantage again.
-Dogfight Manoeuvre List
-Name	Speed	DF	AT	Notes
-Random Side Slip	Any	0	-1	
-Sharp Turn	< 1/2 Max	-1	-2	
-Throttle Slam	Not Max	0	-1	Increase speed by acceleration
-Brake Hard	Not 0	-1	-2	Reduce speed by acceleration
-Loop	> 1/2 Max	-1	-2	-10% to attacker's next shot
-Roll	Any	-1	-3	
-Air brake	> 1/2 Max	-4	-3	Attacker may not fire next turn
-Swoop	> 1/2 Max	-2	-3	Increase speed by acceleration. -10% to attacker's shot
-Feint and Dive	< 1/2 Max	-2	-4	May only be performed by Grav Bikes. If attacker is not Grav Bike, then may not fire.
-Split 'S'	< 1/2 Max	-3	-4	
-3 Axis Tumble	< 1/2 Max	-2	-5	Next move must be a random side slip
-Generator Power Dump	< /2 Max	-1	-4	Do 500 points of damage to vehicle
-Aero Dynamo	Any	-3	-6	Do 500 points of damage to vehicle
-Falrodding Manoeuvre	Any	*	*	Combat Pilot Skill only roll, biggest difference wins.
-Evasion	*	-2	0	Defender's speed must be greater than attackers!
+This is performed as a skill check. The player (or NPC) states the weapon she is using and the target she is shooting at. The gamesmaster sets the skill (usually Shooting) and a target number based on the situation (range, whether people are moving, the environment and so on). The attribute is usually Battle but the player may negotiate like any other skill check before adding on the weapon's To Hit modifier. If you hit, the target takes the damage from the gun.
 
-Roll Combat Dice
-This determines whether the manoeuvre is successful at removing the attacker from the tail of the defender and put them both into advantage.
-Combat = Combat Skill + Vehicle Manoeuvre + Manoeuvre Modifier + D10
-Check the Resolution Table
-One the winner and looser have been decided, check the table below.
-Attacker / Defender / Advantage Resolution Table
-Attacker	Defender	Result
-Win	Lose	Remain the same
-Lose	Win	Got To Advantage
-Win	Evade	Remain the same
-Lose	Evade	Combat Ends
+> Skill + Attribute + Weapon To Hit Modifier + D10 must be equal to or larger than target number.
 
-Evasion
-This occurs when the defender chooses to evade the battle. If the defender manages to win with an evade manoeuvre. Then the battle ends. GM will roll dice to see if battle can be started again. This is often not the case.
-End Of Combat
-Combat can also end if one enemy is destroyed or the attacker wishes to stop. If the attacker wishes to stop then combat ends automatically. The attacker must specify that the combat will end before firing (essentially rolling the dice).
-Example Dogfight
-Here is an example dog fight. Note how all the mathematics is quite similar between each turn. For any combat the player's Skill and the vehicle modifier are not going to change so these number can be added once and remembered.
-The Dog fight concerned two pilots John Smith (Combat Grav Skill 80% = 8) and Bernard Black (Combat Grav Skill 55% = 6). John Smith is driving a Borealis with a mounted Chain Gun (Vehicle manoeuvring is +10 = 1) and Bernard Black is in a Star Enforcer Fortitude (Vehicle manoeuvring is +60 = 6). They arrive at the same moment (no one has the element of surprise) and go to Advantage.
-Turn One - Roll Advantage Dice
-Both roll a D10. John Smith rolls a 3, Bernard Black rolls 6.
-ADVANTAGE = COMBAT Skill + VEHICLE MANOEUVRE + D10
-John Smith Advantage = 8 + 1 + 3 = 12
-Bernard Black Advantage = 6 + 6 + 6 = 18
-Winner Becomes Attacker
-Bernard is the winner. So Bernard becomes the attacker.
-Attacker Fires
-Bernard shoots using the Fortitude's Pulse Laser. He lets off one shot, rolling D100. There are no Skill modifiers on this weapon so he needs to roll under his Skill of 65%. He rolls 94, so he misses.
-Defender Chooses Manoeuvre
-As John Smith is a good pilot, he chooses to do a 3 axis tumble. He checks that his speed is over 1/2 (which it is). He also notes that if he is defender again next turn, it must be a side slip. The 3 axis tumble has a manoeuvre modifier of -2.
-Turn Two - Roll Combat Dice
-Bernard must now try to stay on the tail of John so he can fire again. Both roll a D10. John rolls 9 and Bernard rolls a 4.
-Combat = Combat Skill + Vehicle Manoeuvre + Manoeuvre Modifier + D10
-John Smith Combat = 8 + 1 - 2 + 9 = 16
-Bernard Black Combat = 6 + 6 - 5 + 4 = 11
-Check Table
-Last turn Bernard was the attacker and John was the defender. John won (as John's total was the higher of the two) so using the table, they go to Advantage.
-Roll Advantage Dice
-Both roll a D10. John rolls a 2, Bernard rolls 8.
-Advantage = Combat Skill + Vehicle Manoeuvre + D10
-John Smith Advantage = 8 + 1 + 2 = 11
-Bernard Black Advantage = 6 + 6 + 8 = 20
-Winner Becomes Attacker
-Bernard is the winner. So Bernard becomes the attacker again.
-Attacker Fires Mounted Weapon
-Bernard decides to fire 15 of the possible 50 rounds he can fire. He rolls a D100, trying to get under 65% (his Heavy Weapon Skill). He rolls 20, and hits, taking off 3000 points of damage from the John's Borealis. John writes this figure in the top half of the hit points circle.
-Defender Chooses Manoeuvre
-John decides that the damage he has taken is too heavy to continue so he chooses to Evade, this counts as a Random Side Slip. His speed is larger than Bernard's so he can evade if he succeeds the next roll. 
-Turn Three - Roll Combat Dice
-Bernard must now try to stay on the tail of John Smith so he can fire again. Both roll a D10. John rolls 7 and Bernard rolls a 1.
-Combat = Combat Skill + Vehicle Manoeuvre + Manoeuvre Modifier + D10
-John Smith Combat = 8 + 1- 2 + 7 = 14
-Bernard Combat = 6 + 6 - 5 + 1 = 8
-Check Table
-Bernard is the attacker and John is the defender. John won so (as John's total was the higher of the two) using the table, John Evades.
-End Of Combat
-The GM decides that the speed difference is too great for Bernard to join battle again immediately, so a chase will ensue. They will, of course, start in Advantage next time
-Additional Factors
-In a Mex City Dog Fighting
-If the dog fight happens in an empty Mex City, underground, in an Orbital Post or canyon (where space is restricted) then this is considered Hard difficulty.
-Fighting Amongst Traffic
-When fighting amongst lots of traffic, this is considered Taxing difficulty.
-Extreme Weather
-If the weather reduces visibility and winds make accurate flying virtually impossible, then this is considered Hard difficulty.
-Stunned Pilot
-If the pilot has taken any stun, divide it by 10 and subtract this from the total.
-Damage
-The more the vehicle is damaged, the worse it will fly. Once the damage has reached at least half of the total damage of the craft, then the Manoeuvre Bonus should be ignored.
-Firing Unmounted Weapons
-If there are other people inside the vehicle have weapons and are able to fire them (such as from the back seat of a roofless Anchorage Type R) then they may fire straight after the Mounted Weapons do. The to hit modifier is the same as the Manoeuvre Modifier for the attacker. Work out damage as you would for a fire fight.
-As the weapon is not mounted to the vehicle, those firing unmounted weapons can fire even when the vehicle is the defender or in advantage. Think of this as firing out of the back of the car when escaping.
-Boarding
-The attacking vehicle can draw alongside the defender rather than firing mounted weapons. Once alongside, anyone inside either vehicle can attempt to board the other by rolling Shift a check. Failing this check either means that the jump was not made and they remain in their own vehicle or they made the jump but are hanging on by their fingertips and will stay that way until they pass a successful Shift check.
-Optional - Losing Control
-If the defender fails the manoeuvre then they loose control of their vehicle. The next turn, the GM will choose the manoeuvre and the Character must pass a Pilot or Combat roll (depending on whether they are in combat) to gain control the next turn. The manoeuvre may not be an Evade.
-General Flying
-Outside of combat, if the Character wishes to do a crazy  manoeuvre (outside the normal realm of flying) then they may do so. A good description and a pass on the relevant Pilot roll will allow them to do this manoeuvre. A fail of the Pilot roll will make them Lose Control (see above).
-If the description was entertaining and the risk taken pushes the story of the group along then using the Skill in this way should warrant an immediate (and free) Skill raise of a few percent.
-Hacking
+> Simon is sitting drinking Byrnie's beer. Byrnie's bursts in, his sense of humour fails and draws an Arms 3 sub-machine gun. He tells the GM he is shooting Simon with it. Simon is sitting nearby, so the GM decided that the difficulty is easy and sets a skill of Shooting and target number of 10. Byrnie is happy to use the Battle attribute, the Arms 3 to hit modifier is -1. Byrnie has a Battle of 3 and a Shooting of 3. He rolls a 5 giving 10 (3 + 3 - 1 + 5), which is only just a hit. Simon takes 20 damage and 20 stun, thrown from his chair.
+
+### Example Difficulty Chart 
+Harder
+Target in cover
+Target or shooter moving
+Shooter wants to shoot a specific spot
+Shooting at more than one target
+
+Easier
+Shooter used the previous turn to aim at the target
+Shooter shot at target last turn
+
+# Vehicle Combat
+In Icar all cars fly. This makes vehicle combat somewhere between great car chases and dog fights. Everyone in the vehicle can help in the combat and take on a role.
+
+The pilot dodges, rams, speeds and gets into good firing positions, gunners use mounted or hand-held weapons, engineers adjust the setup of the vehicle to fit the situation and hackers throw chaos in the path. You don't need all of these roles to do vehicle combat.
+
+## Roles
+
+### Pilot  
+*Skill: Pilot Grav, Target Number 12*
+By manoeuvring the vehicle, the pilot aims to meet the goal of the team as a whole. The pilot has the final say because they are at the controls. The goals are:
+
+- **Escape:** only possible if the escaping vehicle is faster.
+- **Get into a firing position:** Gives a +2 to the Gunner's Shooting skill check.
+- **Ram:** smashing into the enemy vehicle or pushing them into the floor, a building or another vehicle. Also makes jumping from one vehicle to another normal difficulty (target number 12). Each vehicle takes damage that's 10% of the Ramming vehicle's hit points.
+- **Dodging:** flying erratically makes all Shooting (both enemy and players) TN 16.
+
+### Gunners
+*Skill: Shooting, Target Number 14*
+Handheld weapons can be as powerful as vehicle weapons so the players can choose to use either. Gunners can choose to shoot the enemy vehicle itself (target number 14) or people inside or hanging off it (target number 16). Shields must be taken out first (target number 14).
+
+### Engineer
+*Skill: Micro Engineering, Target Number 12*
+You may not want the engineer fiddling with the vehicle that's keeping you in the air but they can add extra boost to the Pilot's Pilot Grav skill check or fix the shields. Their choices are:
+
+- **Power to the engine!** Boost in speed, when escaping, +2 to Pilot's Pilot Grav check.
+- **Power to the Grav plates!** Boost in agility, when Get into a firing position +2 to Pilot's Pilot Grav check.
+- **Shield repair** brings a shield back online.
+
+### Hacker
+*Skill: Hacking Target Number 12*
+A hacker has the ability to affect the environment and the enemy directly to help the team. This is largely down to the imagination of the player, ideas include:
+
+- **Re-route traffic** to make escape route clear or help dodge bullets
+- **Open doorways in buildings** for shortcuts
+- **Hack the enemy vehicle** to make it lose control or power. TN 16.
+
+## Turn Order
+All target numbers are 12 but each role can give a bonus to another role.
+
+- The team declare what they are doing that turn such as (but not limited to)
+  - Escape
+  - Getting into a firing position
+  - Ramming into an enemy
+  - Dodging
+- The Hacker performs Hacking skill to help
+- The Engineer performs Micro Engineering skill check to help
+- The pilot rolls Grav Pilot skill to perform the action
+- Gunners shoot using Shooting skill
+
+## Doing Damage
+If the vehicle has shields then those must be depleted first. Once the shields are gone, damage is done to the vehicle or its occupants, depending on the style of the vehicle and how good your gunner is.
+
+> For example: an open top Anchorage R leaves its occupants exposed, whereas a Kestrel with the door shut does not.
+
+Every vehicle has hit points like a player character and when those hot points are depleted then the vehicle is inoperable and it will start to fall like a rock. Hit points becoming zero does not mean that the vehicle disappears, just that it is inoperable.
+
+## Ending combat
+Combat ends when one side is destroyed, or the escaping vehicle passes their pilot roll. Escaping means that they cannot be shot at again but are likely to be tracked over Gaia or visually (use Hacking target number 12 to become invisible on Gaia).
+
+## Using the autopilot
+In small teams, players may choose to put the vehicle on autopilot. The autopilot can navigate around the city but at the first sign of danger it will stop somewhere safe. If the players want to stop that from happening then they must hack the autopilot first (Hacking, target number 12).
+
+## Boarding
+There is a long Icar tradition of jumping from one vehicle to another. If the pilot rams someone then anyone in the car may jump onto the other car with a successful skill check. Failing the skill check usually means dangling by the fingertips! The further the team is from the other vehicle, the more difficult the jump is.
+
+# Hacking
 Gaia is the 3D virtual world that acts as the internet in Icar. The whole human race revolves around the use of Gaia. For more details on Gaia itself (and the different objects you get in it), see the Gaia section in the Background.
 Hacking is the act of performing illegal actions in Gaia. Gaia emulates the laws of the real world and so can be mistreated in a similar way. Hacking often requires a team effort, regardless of whether a Character has the Hacking Skill. 
 When considering Gaia, it is best to think of it as the real world rather than a 21st Century computer system. If a message needs to travel through Gaia, you might assume it moves instantly (like email) and although it is instant, you can intercept the message still. Do not worry about the technical concerns here. The aim is to make Gaia playable without any in depth technical knowledge.
