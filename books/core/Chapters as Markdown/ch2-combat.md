@@ -19,6 +19,7 @@ If the player doesn't have a Skill then that's OK, just use the Attribute and D1
 The GM gets to choose the target number depending on how difficult the action is.
 
 _Difficulty Level Table_
+
 | Difficulty | Number |
 |------------|--------|
 | Easy	| 10 |
@@ -44,9 +45,10 @@ For all of these combat types, distance is measured by metres. This is used for 
 ## Turn Actions
 A Turn is three seconds. In some cases, a character can do many different quick tasks in this time. Here is a list of actions which can be performed in a turn.
 
-_Turn Action Table_                                                                                       
+_Turn Action Table_                     
+
 | Action                    | Effect                                            |                         
-|-------------------------------------------------------------------------------|   
+|---------------------------|---------------------------------------------------|   
 | Move                      | Move up to 4 times your Shift Attribute in metres.|
 | Change Magazine           | Put a new Magazine into a weapon. |
 | Change Weapon             | Select a new weapon and stow previous weapon. | 
