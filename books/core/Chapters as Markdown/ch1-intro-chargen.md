@@ -1,5 +1,4 @@
 # Introduction
-
 Icar is a space opera science fiction, set 90,000 years into the future. A benevolent, autocratic Imperium protects the human race from a rarely-seen race of killer robots called the Droids. With the Droid advance halted, human occupied space is a trove of opportunity for the Characters to explore. There are no intelligent alien species, travel between the stars is commonplace, friendly robots called Automatons live as slaves and family members, corporations are duplicitous villains, and a quasi-reality internet called Gaia is both the backbone of civilisation and the playground of hackers.
 
 In a single session, players will be exploring long deserted colonies and abandoned spacecraft, starting bar fights, hacking corporate secrets, escaping colonies invaded by Droids and zipping between the stars. As the characters grow they can choose bionics or powered armour, wield more powerful weapons and own their own spacecraft.
@@ -28,7 +27,6 @@ The deviant represents the personality of the character, whether they are flambo
 A character is written down on two character sheets. The first contains deviant, attributes, hit points, stun, close combat combos and general character information, such as their name. The second contains equipment, skills and psychotheatrics.
 
 ## Step 1: Concept
-
 The concept is a couple of sentences that describes who the character is. The concept should give a person a good understanding of the character's personality, passions and quirks. It helps the character's player keep a sense of consistency and know how the character might react in various situations. It also helps other players and gamesmaster understand your character too. There is no formal space on the character to write your concept, so please use the back side, margins or notebook.
 
 A concept should make sense in the setting you are going to be playing. Each setting provides some examples of concepts to use as inspiration. Some concepts are more appropriate for a setting, just ask your gamesmaster. For example, an anarchistic character does not fit well in a military setting where rules are there to keep you alive.
