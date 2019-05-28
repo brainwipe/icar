@@ -17,3 +17,6 @@ You might assume that with such advanced technologies comes the benefit of being
 
 ## Peers
 The general public see their Peer as the ultimate problem solver as the Peer is normally required to solve large, system wide problems. A Peer visiting a colony can provide a massive economic boost alone.
+
+### Crowell
+Point out that she is Akarakian by stealth. Jacqueline is a softening of the common Akarakian hard 'ak' sound.

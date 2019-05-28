@@ -146,50 +146,52 @@ The Imperial Lords and Ladies (Imperial Peers) oversee the clusters of Human Occ
 
 Funding is part in some profitable activity and part from the Imperium. This funding primarily runs vast trade navies which perform unprofitable trade routes to ensure that colonies do not die out. The peers also use troubleshooter and investigation teams to quietly solve problems at the ground level; helping the colony help itself rather than simply applying the huge economy wealth of the peer.
 
-Peers do not openly discuss their philosophical view points (as either Humanist, Technologist or Akarakian) but they do influence their decisions. A Peer's philosophical belief is the topic of many bar conversations. In each of the Peer descriptions below, the philosophical belief assumed by the general public is given.
+Peers do not openly discuss their philosophical views (as either Humanist, Technologist or Akarakian) but they do influence their decisions. A Peer's philosophical belief is the topic of many bar conversations; the result of which is included with each description below.
 
 ### Lady Tess Cannar
-Lady Cannar is a tough, unscrupulous Dorian Sector Peer. Her severe bobbed hair, pale pallor and slight build gives is as sharp as her wit. In dealing with colony councils and corporations, she is notably curt, brief and direct. When compassion is required for the populace, Lady Cannar transforms into a kind and caring maternal character. It is this convincing dual personality that experts find unsettling.
+Lady Cannar is a tough, unscrupulous Dorian Sector Peer. Her severe bobbed hair, pale pallor and slight build and austere clothing is as sharp as her wit. She is curt, brief and direct. When compassion is required for the populace, Lady Cannar transforms into a kind and caring maternal character. It is this convincing dual personality that experts find unsettling.
 
-Before becoming a Peer, Lady Canner was the heiress of a large Dorian Trade Corporation but was more interested in people. Emperor Morius was taken by her 'People First' policies and made her an Imperial Peer at the age of 22. Assumed to believe in Humanist philosophy.
+Before becoming a Peer, Lady Canner was the heiress of a large Dorian Trade Corporation but was more interested in people. Emperor Morius was taken by her 'People First' policies and made her an Imperial Peer at the age of 22. Humanist philosophy.
 
 ### Lord James Walker
-Lord Walker is an upbeat, camp and outrageous Peer. The general public are in love with and perplexed by him in equal measure. His bubbly outgoing personality and fast talking hyperbolic speeches hide a shrewd negotiator and businessman. Lord Walker is mostly known for the perpetual party that erupts wherever he visits.
+Lord Walker is an upbeat, camp and flamboyant man with unashamedly advanced bioware. The general public are in love with and perplexed by him in equal measure. His bubbly outgoing personality and fast talking hyperbolic speeches hide a shrewd negotiator and businessman. His retinue forms a wake that creates a perpetual party and economic upturn.
 
-Before becoming a Peer, Lord Walker was a wealthy experimental artisan and was a household name throughout many of the clusters he now supervises. Assumed to believe in Humanist philosophy.
+Before becoming a Peer, Lord Walker was a wealthy experimental artisan and a household name in most of the clusters he now nurtures. In spite of his bioware, most believe him to be humanist.
 
 ### Lord Stephen Lawrence
-Lord Lawrence is a proud and serious Peer who speaks softly but demands respect. He is a gentle man, who takes the time to listen to anyone who takes the time to tell him their woes. Lord Lawrence works tirelessly for his people and was once ordered to have a holiday from work by the Empress - a holiday he spent inspecting leisure facilities on one of his Colonies. Lord Lawrence not a great economist, so takes his economic advise from a herd of advisers.
+Lord Lawrence is a proud and serious Peer who speaks softly but demands respect. He is a gentle man, who takes the time to listen to anyone who gives him their time to explain their problems. Lord Lawrence works tirelessly for his people and was once ordered to have a holiday from work by the Empress - a holiday he spent inspecting leisure facilities on one of his colonies. Lord Lawrence not a great economist, taking advice from a herd of advisers.
 
-Before becoming a Peer, Lord Lawrence was a Star Fleet Stub Wing pilot, having served 15 years with the 2nd Stub Wing Fighter Squadron on the Star Clipper Relentless. Assumed to believe in Technologist philosophy.
+Before becoming a Peer, Lord Lawrence was a Star Fleet Stub Wing pilot, having served 25 years with the 2nd Stub Wing Fighter Squadron on the Star Clipper Relentless. Technologist philosophy.
 
 ### Lady Jacqueline Crowell
-Lady Crowell is a young, energetic Peer who delights in asking difficult questions of those whom she meets. Fiercely intelligent and keen on understanding everything about each place she visits. This can cause embarrassment in those on the receiving end of the question but always commands respect from each witness. A relatively new Peer, Lady Crowell has rapidly gained a large following for her direct and positive attitude.
+Lady Crowell is a young, energetic Peer who delights in asking difficult questions of those whom she meets. Lady Crowell is famous for learning all there is about a colony before she arrives. The unprepared are often embarrassed by the breadth of her knowledge and the depth of her questionning. 
 
-Lady Crowell emerged as a candidate from one of Remmar's wealthy families. Lady Crowell was spotted as a rising star while working in the Imperial Civil Chamber. Assumed to believe in Futurist philosophy.
+Lady Crowell emerged as a candidate from one of Remmar's wealthy construction families, who inherited huge wealth while working in the Imperial Civil Chamber. Akarakian philosophy.
 
 ### Lady Berrinda
-Lady Berrinda is as fierce as her reputation. A fiery Character who throws her power and weight behind causes she believes in. Lady Berrinda spends most of her time at fledgling colonies, which has little economic affect but does improve the survival of young colonies.
+Lady Berrinda is as fierce as her reputation. A fiery Character who throws her power and weight behind causes she believes in. Lady Berrinda spends most of her time at fledgling colonies, bringing resources, trade routes and expertise. This usually accelerates the growth of a colony and a failure is rare.
 
-Lady Berrinda came to Emperor Morius's attention when she led a fleet of 25 huge freighter spacecraft through 12 clusters of Droid space and across the Light Jump net into safety. Saving millions of lives, Lady Berrinda was halted from going back by being made a Peer. It is believed that this threw her into a rage that lasted a week - a belief that is rooted in truth. Morius appeased her by giving her clusters along the Light Jump Net edge of Remmar Sector (the Typhon side). Assumed to believe in Technologist philosophy.
+Lady Berrinda came to Emperor Morius's attention when she led a fleet of 25 hulk freighters through 12 clusters of Droid space to safety. Having saved millions of lives, Lady Berrinda was ready to head back when she was force by Imperial decree to become a Peer. Legend has it that she flew into a rage and threw a chair through a stained glass window. Morius appeased her by giving her clusters along the Light Jump Net edge of Remmar Sector (the Typhon side), making her a patron of the Fringe. Technologist philosophy.
 
 ### Lady Axa Erland
-Lady Erland is the Imperial Peer in charge of the Akarak Nation. Although appointed by the Empress, Lady Erland was drawn from the Akarakian Elders. Lady Erland is a typical Akarakian and strictly follows the three tenets of hard work, expansion of the mind and a pragmatic view that the end justifies the means. For more detail see Akarak Nation on page 60.
+Lady Erland is the Imperial Peer in charge of the Akarak Nation. Although appointed by the Empress, Lady Erland was drawn from the Akarakian Elders. Lady Erland is a typical Akarakian and strictly follows the three tenets of hard work, expansion of the mind and a pragmatic view that the end justifies the means. For more detail see Akarak Nation XXXX.
 
-###  Imperial Peer Trade Navies
-Each Peer also has a Trade Navy. These spacecraft are owned and operated by the Peer. Trade routes which would not be viable for a normal trader will be given to the Trade Navy (as they do not need to pay taxes to the Peer). Trade Navies are resented by other trading firms but they are understood as a necessary evil. If a Trade Navy turns a trade route profitable, it is required to hand over that route to a trade company and turn its attentions elsewhere.
+### Imperial Peer Trade Navies
+The root of an Imperial Peer's power is a navy of freighters. These spacecraft are owned and operated by the Peer and serve colonies whose economies are too weak to support a regular trade links. As soon as a colony economy strengthens, the trade navy craft are moved on to assist other colonies.
+ 
+Trade navies are resented by other trading outfits because they imbalance trade prices in the cluster in which they operate.
 
 ### Clusters and Peer Control
-Most Clusters tend to stay under the control of the same Peer. However, the Peers can swap Clusters between them (as long as the general public vote in favour). Another method for changing Peer is when the Council of many systems  in the Cluster vote against the Peer. This is uncommon and frowned upon by the Imperial Civil Chamber. Normally, the Cluster will only vote against the Peer if there has been a serious miscarriage of justice.
+Most Clusters tend to stay under the control of the same Peer. However, the Peers can swap Clusters between them (as long as the general public vote in favour). Another method for changing Peer is when the Council of many systems in the Cluster vote against the Peer. This is uncommon and frowned upon by the Imperial Civil Chamber. Normally, the Cluster will only vote against the Peer if there has been a serious miscarriage of justice.
 
 ### Peer Creation
-Peers are chosen from a shortlist (compiled by Star Civ) of wealthy industrialists by the Empress and the position is a double edged sword - it's a position of considerable power  and influence but you cannot refuse if you are called upon to serve. Peers spend most of their time travelling between systems and as such do not have a seat of power. While en route between systems, business and problems are dealt with over Gaia.
+Peers are chosen from a shortlist (compiled by Star Civ) of wealthy industrialists by the Empress and the position is a double edged sword - it's a position of considerable power and influence but you cannot refuse if you are called upon to serve. Peers spend most of their time travelling between systems and as such do not have a seat of power. While en route between systems, business and problems are dealt with over Gaia. No-one has yet stopped being a Peer.
 
 # Corporations
-Corporations tread a fine line between exploiting colonies and providing for them. The law is broad enough to stop Corporations from controlling colony politics. Corporations come in three sizes: Intersector, Intercluster and Local. Intersector corporations stretch across all of Human Occupied Space and include the biggest brands that have been around for tens of thousands of years. Intercluster Corporations tend to be localised amongst a few clusters in a single Sector. Local Corporations at the very most spread over only a single cluster. A list of well known and example corporations are included in the section on Corporations on page 62.
+Corporations tread a fine line between exploiting colonies and providing for them. The law is broad enough to stop corporations from controlling colony politics. Corporations come in three sizes: Intersector, Intercluster and Local. Intersector corporations stretch across all of Human Occupied Space and include the biggest brands that have been around for tens of thousands of years. Intercluster Corporations tend to be localised amongst a few clusters in a single Sector. Local Corporations at the very most spread over only a single cluster. A list of well known and example corporations can be found XXXXXX.
 
 ## Black Mills
-Most Local and few Intercluster Corporations fund secret 'Black Mill' subsidiaries to influence the markets, steal secrets from competitors and even cause damage to other companies. Although illegal, Black Mills have become expert in evading the Star Enforcers and often make use of criminal Syndicates. Black Mills use the Undergaia to arrange missions, hire mercenaries and exchange private corporate data.
+Most Local and few Intercluster Corporations fund secret 'Black Mill' subsidiaries to influence the markets, steal secrets from competitors, entice employees, and even cause damage to other companies. Although illegal, Black Mills have become expert in evading the Star Enforcers. Black Mills use the Undergaia to arrange missions, hire mercenaries and exchange private corporate data. In many cases they are indistinguishable from syndicates.
 
 # The Sectors
 The galactic arm is split into Sectors. Each Sector began life as an administrative zone, which then grew into a place where people would be proud of. Since The Droid War, all but three Sectors fell to the Droids. The Imperium built Light Jump Nets along the borders of each of the human occupied space sectors to stop the Droid ships just long enough for the Star Fleet to intercept.
