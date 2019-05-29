@@ -194,89 +194,41 @@ Corporations tread a fine line between exploiting colonies and providing for the
 Most Local and few Intercluster Corporations fund secret 'Black Mill' subsidiaries to influence the markets, steal secrets from competitors, entice employees, and even cause damage to other companies. Although illegal, Black Mills have become expert in evading the Star Enforcers. Black Mills use the Undergaia to arrange missions, hire mercenaries and exchange private corporate data. In many cases they are indistinguishable from syndicates.
 
 # The Sectors
-The galactic arm is split into Sectors. Each Sector began life as an administrative zone, which then grew into a place where people would be proud of. Since The Droid War, all but three Sectors fell to the Droids. The Imperium built Light Jump Nets along the borders of each of the human occupied space sectors to stop the Droid ships just long enough for the Star Fleet to intercept.
+The galactic arm is split into Sectors. Each sector began life as an administrative zone, which then grew into a place with an identity of its own. Since The Droid War, all but three sectors fell to the Droids. The Imperium built Light Jump Nets along the borders of each of the human occupied space sectors to stop the Droid ships just long enough for the Star Fleet to intercept.
 
-The three Sectors under human control are Sayshell, Dorian and Remmar. Sayshell is the home of Star Fleet and having never fallen to the Droids, it is prosperous and very high tech. Dorian holds the reigns of production and is mostly industrial and trade orientated. Remmar, newly retaken from the Droids is the sector of expansion and new opportunities. Sectors can be further broken down into clusters.
+The three sectors under human control are Sayshell, Dorian and Remmar. Sayshell is the home of Star Fleet and having never fallen to the Droids, it is the safest, wealthiest and most cultured sector. Dorian holds the reigns of production. Remmar, newly retaken from the Droids is the sector of expansion and new opportunities. Sectors can be further broken down into clusters.
 
-A Cluster is a group of stars that are spatially close to each other. Clusters tend to have shared economies and trade as the distances for the transportation of goods is small. Separating the sectors from the Fringe and Droid space is a Light Jump Net. This net will stop any craft Light Jumping through it in either direction. If a spacecraft Light Jumps though this one light-year thick barrier, it will be pulled out of its jump and all craft nearby (including Star Fleet) are automatically notified.
+Separating the sectors from the Fringe and Droid space is a Light Jump Net. This net will stop any craft Light Jumping through it in either direction. If a spacecraft Light Jumps though this one light-year thick barrier, it will be pulled out of its jump and all craft nearby (including Star Fleet) are automatically notified.
 
 ## The Anatomy of a Sector
-A Sector is represented as a flat map taken from above (looking down on the plane the galaxy spins in) for simplicity. A Sector is made from a mosaic of Clusters, which are groups of stars that due to their proximity share a common culture and economy. In ancient times, a Cluster would be considered a nation. As you move away from the centre of the arm, the number of Systems diminishes and Clusters are spread far apart. Light jumping spacecraft take longer to travel between stars in The Fringe and Lone Systems.
+A sector is represented as a flat map taken from above (looking down on the plane the galaxy spins in). A sector is made from a mosaic of clusters: groups of stars that due to their proximity share a common culture and economy. In ancient times, a cluster would be considered a nation. As you move away from the centre of the arm, the number of systems diminishes and clusters are spread far apart. Light jumping spacecraft take longer to travel between stars in The Fringe and Lone Systems.
 
-The Central Arm: The central arm is the name given to the bright section running down the centre of the sector.
-Clusters: A line between each of the sections are the markings defining clusters. Those clusters that are dark have many stars, the lighter have fewer.
+> CLUSTER PICTURE XXXX
+
+The Central Arm: The central arm is the name given to the bright section running down the centre of the sector. System density is highest here.
+
+Clusters: A line between each of the sections are the markings defining clusters. Those clusters that are dark have many stars (up to 30), the lighter have fewer (5). Detailed descriptions for the Anadar cluster is included in the Scavenger Setting on page XXXX.
 
 The Fringe: The area outside the Light Jump Net is the top and bottom edges of the image. The exception to this is the white line, which shows the Light Jump Net.
 
-The Lone Systems: Those Systems on the very edge of the galaxy are far from Imperial control. A good definition for what makes a Lone System is that it takes at least ten days to travel to a Lone System.
+The Lone Systems: Those systems on the very edge of the galaxy are far from Imperial control. A good definition for what makes a Lone System is that it takes at least ten days to travel to a Lone System.
 
 ## Sayshell
 First populated in the 11th millennia, Sayshell began as a centre of learning and commerce. It remained so until Star Fleet moved its operations there during Aran War.  Since then, The Star Fleet has protected and looked after Sayshell more so than any other sector. When the war against the Droids looked like all was lost, the Fleet spontaneously retreated to Sayshell and with the aid of Star Sci kept the Droids out. This is the safest Sector in Human Occupied Space.
 
-Sayshell's economy revolves around technology and learning with food production coming a close second. Comparatively little is actually manufactured in Sayshell, although most inventions originate there. Sayshell does not have any Imperial Peers in control, it administers its colonial councils through Colonial Command. Sayshell is by far the richest and most technological system in the human space, by living there you are assured a job, even if it is in Star Fleet.
+Sayshell's economy revolves around technology, academia and food production. Although most inventions originate in Sayshell, little is manufactured there. Sayshell is by far the richest and most technological system in the human space, by living there you are assured a job, even if it is in Star Fleet.
 
 ## Dorian
-The War of Dorian was the closing chapter of The Droid War, where Star Fleet had a limited presence (only due to its proximity to Sayshell) but the colonists who had retreated and fought their way out of every system up until then were not going to let Dorian and all its resources to fall to the Droids. Although the space was invaded, it was never entirely occupied, the human inhabitants giving a hard resistance. The Imperium soon took the sector back as the many systems yielded much needed resources that were not available in enough quantity in Sayshell. Dorian grew once more as the production centre of Human Occupied Space once the Droids were expelled. 
+The _War of Dorian_ was the closing chapter of The Droid War. Star Fleet had only a skeleton presence, but the people who had repeatedly fought, become overwhelmed and retreated managed to stop the Droids from taking total control. The Imperium soon took the sector back. Dorian grew once more as the production centre of Human Occupied Space once the Droids were expelled. 
 
-Now Dorian produces the most raw materials and technological goods of the three sectors and continues to grow economically. The Sector prospers despite poorly funded Colonies becoming technologically archaic. The people of Dorian prefer to fix only when broken, to do so before is waste. 
+Now Dorian produces the most raw materials and technological goods of the three sectors and continues to grow economically. The sector prospers despite poorly funded colonies falling behind in technology. The people of Dorian instinctively make-do-and-mend rather than attempt to continually improve.
 
 ## Remmar
-Remmar was the last Sector to be successfully evacuated, leaving many of the Colonies intact. The onslaught of the Droids was met with empty Orbitals (space stations) and booby traps aplenty. When the Star Fleet eventually pushed the Droids out 2 years ago, they opened up a Sector largely untouched by war.
+Remmar was the last sector to be successfully evacuated before the Droid onslaught, leaving many of the colonies intact. The Droids found empty Orbitals (space stations), left a few Droids as rear guard and moved on. When the Star Fleet eventually pushed the Droids out 2 years ago (92026), they opened up a sector largely untouched by war.
 
-Remmar is a fledgling sector with one very important resource: food. As the human race grew in the other two sectors, it was soon clear that it would be impossible to feed everyone with the food processing available. Huge effort was put into opening Remmar and when it was finally opened for the general public to colonise, a quarter of the human population flocked there to start up crofts (small, self sufficient farms) and rejuvenate empty colonies. Remmar's prime function is to produce food and allow private enterprise to flourish. 
+Remmar is a fledgling sector with 1000 year old infrastructure waiting for the humans to return. Huge ghost-town colonies litter planets; enormous Orb and Orbital space stations lie dormant and all of it ready for salvage operations.
 
-Unfortunately, there is not yet enough resources coming out of Remmar to make Imperial Peers overseeing all the systems worthwhile. Star Civilisation is looking into assigning Peers to those places that are struggling.
-
-# Clusters
-A whole Sector is a large area to administer without further sectioning. A Cluster is a clump of stars arranged in geographical proximity (they are near each other) and as a result of this share trade and economies. A Cluster can be any number of inhabitable Systems from 2 to 20. Below is a list of Clusters which are important to note. Detailed descriptions for the Anadar Cluster is included in the Scavenger Setting on page 97.
-
-Your campaign is likely to be based in any number of Clusters.  These Clusters are well-known and are detailed below as examples.
-
-## Akar Cluster
-The Akar Cluster was first settled in 4002 by Jebediah Akarak. Jebediah believed that to lead a long and healthy life both Mind and Body must be expanded and pursued. The first colonies starved as the colonies split their time evenly between encouraging their mind state and doing duties on the farms. This lead to many harsh winters where hundreds died through starvation. The food that was grown barely fed the populace, so little trade was possible. The cluster was quickly populated by people of the Akarak nation (many took surnames with 'AK' to show their affiliation) and slowly the wealth and power of these odd-ball people began to grow. This growth was massively aided by the Akarak Aid Fleet whose job it was to stop colonies from dying out.
-
-Now the cluster is a thriving trade source as well as cultural centre. The strict Akarakian discipline lends itself well to trade as outside traders fell that the deal that they were getting will always be honest and fair.  The details of the Akarak nation are given later in the section Akarak Nation on page 60.
-
-## Baleris Cluster
-Situated on the border between Sayshell and Dorian, the Baleris Cluster location has been disputed since the original pioneers landed on Zeff Orb in 6295. The Cluster was soon absorbed into the Akarak culture but took a slightly different spin on their ideals. Baleris was a cultural centre for Akarakians, allowing the Akarak people to have more freedom from the constraints of the Elder's wishes. Times soon changed and the colonies in Baleris moved away from the Akarak way of thinking, it has kept its cultural significance and its leading system Acerine Prime is a good example of a system with all the good aspects of Akarakian ideas. 
-
-## The Imperial Crescent
-Deep within the heart of Remmar, the Imperial Crescent is a cluster that resembles a crescent if viewed directly from above the Galactic axis. The Imperial Crescent was populated extremely quickly and is the home of the Empress, Star Scientifica and The Star Enforcers. The technology of the Imperial Crescent is second only to Arcturus (Star Fleet's home in the Turus Cluster) but is also the centre of art and humanitarian issues as well. 
-Many of the Interstellar corporations moved their operation to The Crescent purely for the prestige of being in the same cluster as the Empress. Trade, as you would expect, is blisteringly high around the cluster. The cluster also has a industrial edge, it is responsible for the production a huge amount of food which serves less fortunate clusters around it. The Imperial Crescent is a shining example for the rest of the human race.
-
-## Naggachef Cluster
-This cluster exists within the Nagga and Chef nebulae, two massive clouds of gas which exist 5 light years apart, swallowing most of the cluster. The patchy sparseness of the nebulae (compared to other nebulae of similar size) allowed Colonies to grow where otherwise it would have been impossible. When Peter Nagga settled the first colony with his wife-to-be Gill Chef in the latter part of 5998, the colonists who had taken the gamble were quite cut off from the rest of humanity. Most traders would not venture into the Nagga or Chef nebulae for fear of collision. Once the nebulae were correctly charted, the systems became very popular indeed.
-
-Naggachef contains many systems within its nebulae, most of these systems have many I class planets (some terraformed) and great, untapped natural resources. The cluster has two major systems Prem-Nagga, a huge I class planet with a massive farming industry and Prem-Chef, a medium I class planet with a huge tourist and pleasure industry. Those on any system within Naggachef are delighted by the 'Nebularis' or 'sky lights', the patterns in space made by the two swirling nebulae. Never do any of the systems have complete darkness, there is always a glow of red, green or blue.
-Naggachef is the main food producing cluster in Sayshell, turning out enough food to feed a third of the population of Sayshell. Subsidiary industries include production and tourism. 
-
-## Niopak Cluster
-'Niopak Primus Retaris' was first landed upon by James 'Niopak' Trenchard in 6156, life was very hard there. The colonists who settled there were more idealistic dreamers than realists. Artisans, writers, poets and drifters soon settled the many inhabitable planets surrounding Primus. They were not well suited to building and defending a colony but even through harsh winters, the Colonies grew. When the Romar Cluster began links in 6211, the colonies in Niopak strengthened, without losing the artisan core that permeated all the systems.
-
-Today, Niopak is a very wealthy cluster, known for its fashion and for creating new trends and often being the centre of attention in Sayshell. Although there is quite a frivolous side to the Niopak cluster, there is a basis of hard fashion industry to support it all. Any item of day to day living is made fashionable, from Gaiacards to sports cars. Non-essential, yet highly sought after gadgets and trinkets are also produced in large quantities. 
-
-## Romar Cluster
-Populated by Romar Smith in 6002, the founder only remained on the founding system (Romar Grand) for a space of five years. In those years, he managed to set up a self sufficient economy. He soon realised that the remaining systems around Romar Grand were ripe for the picking and squeezed Romar Grand for the resources for setting up more colonies around it. Later, he bored of colonisation, Romar began setting up trade links with the colonies. When Romar was 56, he had managed to populate 10 planets and was training his two sons (Andrew and Simon) all that he had learnt. The Romar Cluster is now the most powerful economic cluster in Human Occupied Space.
-
-Romar's strength is in its excellent adaption to changing needs. When Dorian opened, industry in Romar shrank, so they built extensive space docks to meet the demand for space craft. Currently, the Romar Cluster is gearing up to produce Orb Orbitals - huge space stations. Romar is often referred to as a 'Nomadic' Cluster as most of the cluster's inhabitants are traders who do not tend to spend too long in one place.
-
-## Tef Cluster
-Settled in 4142 by Norman Teffralliage (Tef), the Tef cluster is by far the most notorious and disreputable cluster in Imperial space. Within the Tef systems there are two sets of laws. The first set is Imperial Law, by which any respectable person goes by. 'Fralliage' law is the widely adopted law based on the principle 'You can do what you like if no-one is watching'. 
-
-Corruption, theft, political overthrow are common place in Tef. However, people still enjoy living there because it is out from under the thumb of the Imperium while still remaining inside the safety of the Light Jump net. Tef also includes a very high percentage of I class planets (about 40%!), Although most of the climates are very harsh on those living there, they do still count as I class. 
-
-## The Turus Cluster
-Since the The Star Fleet was first created as Stella Fleet in 5800, the Turus Cluster (1 on the Sayshell Guide) has been its home. Boasting the largest colonies and Orbitals (space stations), the Turus Cluster is the centre of technology and learning. The Turus Cluster produces enough food to trade excess; training and spacecraft for the Fleet. Its excellent central position leaves it open to trade from the other Sectors and is by far the most advanced Cluster in Human Occupied Space. 
-
-## Vitero Cluster
-The 'Blue World' colony was founded in 6322 by Simon Vitero, from whom the Cluster takes its name. The ideals that the colony founded itself on were based within practicality. In the early years of colonisation, Vitero and his colleagues did well by saving time and effort for that which was absolutely necessary. The technological and agricultural output of the Blue World colony and the colonies that followed were excellent while the sociological advancements were minimal in the extreme.
-
-Today, the Cluster still thrives on its principles of function rather than form. It is no surprise that the Mex building was designed here along with the laser-bladed harvester. Vitero also holds the headquarters of the Endotech shipwrights, along with a massive spacecraft manufacturing trade. The general public have little interest in visiting Vitero, which leaves its tourist trade dead and social colour bland.
-
-## Earth, Sol System
-Earth is the 3rd planet in the Sol system and the origin of humanity. After the rapid expansion of the human race, Earth become forgotten as it was a painful reminder of the horrors of war and the human race's barbaric past. Explorers often go looking for the location of Earth but never turn anything up. Most believe that Earth is now within Droid Space and not worth the risk looking for it.
-
-The Imperium do not actively stop people looking for Earth but at the same time, they do not promote it. The Imperium claim that they do not know where Earth is, a favourite topic for conspiracy theorists.
+The existing Peers aren't interested in Remmar. They see it as a wild, unruly volume of space where their skills aren't required. Star Civ are looking to create new Peers from Remmar itself, a process that's made difficult by the lack of rich industrialists operating there.
 
 # Colonies
 A colony is the name given to a dwelling on or under the surface of a planet. A colony can be a city (called a Mex city) or high tech farming communities (called Crofts) or a combination of those. Colonies are normally set up on planets where there is a gravity strength appropriate to humans (around 1 earth gravity) although some colonies use spacecraft technology to provide a bubble of artificial gravity. A quarter of the human race live in space stations, called Orbitals but they are not considered to be colonies.
