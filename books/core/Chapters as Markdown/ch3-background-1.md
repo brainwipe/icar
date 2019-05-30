@@ -231,7 +231,7 @@ Remmar is a fledgling sector with 1000 year old infrastructure waiting for the h
 The existing Peers aren't interested in Remmar. They see it as a wild, unruly volume of space where their skills aren't required. Star Civ are looking to create new Peers from Remmar itself, a process that's made difficult by the lack of rich industrialists operating there.
 
 # Colonies
-A colony is the name given to a dwelling on or under the surface of a planet. A colony can be a city (called a Mex city) or high tech farming communities (called Crofts) or a combination of those. Colonies are normally set up on planets where there is a gravity strength appropriate to humans (around 1 earth gravity) although some colonies use spacecraft technology to provide a bubble of artificial gravity. A quarter of the human race live in space stations, called Orbitals but they are not considered to be colonies.
+A colony is the name given to a dwelling on or under the surface of a planet. A colony can be a city (called a Mex city), high tech farming communities (called Crofts) or industrial centres. Colonies are normally set up on planets where there is a gravity strength appropriate to humans (around 1 Earth gravity) although some colonies use spacecraft technology to provide a bubble of artificial gravity. A quarter of the human race live in space stations, called Orbitals but they are distinct to colonies.
 
 ## Where Colonies Grow
 Wherever there is a need for people to live, there will a be Colony. Colonies are built on planet surfaces (Prosurface), under the surface (Subsurface) or under oceans (Subaqua).
@@ -240,26 +240,27 @@ Wherever there is a need for people to live, there will a be Colony. Colonies ar
 Any colony on a planet where the air is nontoxic to humans is a Prosurface colony. Roughly 60% of colonies are Prosurface colonies. Earth in the 21st Century was a Prosurface colony.
 
 ### Subsurface
-Any colony where the atmosphere is not breathable is called a Subsurface colony. These colonies are normally huge caverns buried deep within the surface of the crust, sealed to the harmful atmosphere. Within these caverns are cities, much the same as on Prosurface planets. Access to the colony is through many huge circular tunnels called 'vents'.
+Any colony where the atmosphere is not breathable is called a Subsurface colony. They can be enormous domes or huge caverns buried deep within the surface of the crust. Within these domes and caverns are cities, much the same as on Prosurface planets. Access to the colony is through many huge circular tunnels called 'vents'.
 
 ### Subaqua
-Any colony built under an ocean of liquid (not necessarily water) is a Subaqua colony. Subaqua colonies are Cities built on the inside of giant spheres. Gravity in the spheres points toward the nearest inside face. All the buildings reach into the middle of the sphere. The large spheres are interconnected using a system of tunnels. Spacecraft dock on the outside of the spheres - space inside is usually too precious.
+A Subaqua colony is built on the inside of a giant spehere under an ocean of liquid. Gravity in the spheres points toward the nearest inside face, the buildings reaching into the middle of the sphere. Many large spheres are interconnected using a system of tunnels. Spacecraft dock on the outside of the spheres - space inside is usually too precious. A few spheres in each Subaqua colony will poke above the surface of a colony.
 
 ## Colony Buildings
-The Droid War turned the human race into a race of refugees. A tsunami of people flooded from invaded Sectors into Sayshell. At first, they lived in repurposed spacecraft but those craft were soon needed to help other refugees and spark off trade. The Imperium responded with prefabricated buildings. 
+The Droid War turned the human race into a race of refugees. A tsunami of people flooded from invaded sectors into Sayshell. At first, they lived in the spacecraft they had travelled in but they were soon needed to help other refugees. The Imperium responded with prefabricated buildings; efficient with material use, quick to erect and expandable.
 
-There are two main types of building: Crofts and Mex Cities. Crofts are smaller buildings, made to house farms and holiday homes. Mex Cities are huge lattice structures with tall, straight buildings connected together with structural walkways, providing strength. Mex cities are by far the most popular buildings as they are cheap, very quick to construct and do not take up much of a footprint.
+There are two main types of building: crofts and Mex cities. Crofts are smaller buildings, made to house farms and holiday homes. Mex Cities are huge lattice structures with tall, straight buildings connected together with structural walkways, providing strength. Mex cities are by far the most common buildings as they are cheap, very quick to construct and do not take up much of a footprint.
 
 ## Crofts
-A typical croft building is a circular hut which has a domed roof. On the ground floor is where all the utility equipment is kept, including generators and for larger croft buildings and any vehicles. The upper floor is the living space. The more people that live in the croft, the larger the diameter of the building is to be. Every living space has a sky view through the domed roof and all rooms are on the edge of the building.
+A typical croft building is a circular hut which has a domed roof. Lower floors are used for parking and equipment. Upper floors are living space, under a domed roof that can be made transparent to give a better connection with the outside. Crofts are usually built by smaller agricultural colonies and appear in groups of 5 or ten homes.
 
-A typical croft has a diameter of 15 metres, large ones can go up to 50 metres. There are many different designs on offer, with many different interiors of all qualities. A simple Croft (including installation fees) costs 10 000 credits. Permission needs to be granted by the local Council (which it normally is) before one is installed.
+A typical croft has a diameter of 15 metres, large ones can go up to 50 metres. A simple croft (including installation fees) costs 10 000 credits. Permission needs to be granted by the local colony council (which it normally is) before one is built.
 
 ## Mex Cities
 Found in all colony types, a Mex city is made from many levels stacked on top of each other. Each level has a particular template so that level with differing purposes can be stacked easily. Each building stands alone, connected to other buildings by walkways which people walk through. Lifts run up and down the corners of the building, each powered by Grav.
-Although this prefab system of building is normally followed, each system does have its own special character which can be seen in the colours and layout of the buildings. Mex buildings on very different systems sometimes look very similar in shape. Mex buildings tend to be very tall and thin, a normal size for a building would be approximately 4km high with a footprint of 100m square.
 
-In Mex cities, there are many ways of travelling. Inside buildings, people travel by foot, to move up and down the buildings are extremely fast lifts that can traverse hundreds of floors in seconds. Free transport is provided in all Mex cities by the Free Mass-Transportation System (FEMTS) which are large bullet-shaped Grav vehicles that run methodical routes around the cities. Personal transport is provided by Grav Cars and Grav bikes which are flying vehicles that travel between the buildings.
+Within this pattern, each colony adds its own style and colour to fit the local landscape and materials. Mex buildings are  tall and thin, a normal size for a building would be approximately 4km high with a footprint of 100m square.
+
+In Mex cities, there are many ways of travelling. Inside buildings, people travel by foot, to move up and down the buildings are extremely fast lifts that can traverse hundreds of floors in seconds. Free transport is provided in all Mex cities by the Free Mass-Transportation System (FEMTS) which are large bullet-shaped Grav vehicles that run methodical routes around the cities. Personal transport is provided by flying vehicles  called Grav Cars and Grav bikes that fly between buildings in streams.
 
 Living in a Mex city would feel like a very strange experience to those in the 21st Century. People tend to work near where they live, even in the same or neighbouring building. Nearly all humans live in a Mex city in one form or another as Mex cities can be built anywhere. Mex buildings can be repaired and constructed very easily, they can also be added to by lifting off the top level and add more levels in underneath. 
 
