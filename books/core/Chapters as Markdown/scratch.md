@@ -69,3 +69,60 @@ Today, the Cluster still thrives on its principles of function rather than form.
 Earth is the 3rd planet in the Sol system and the origin of humanity. After the rapid expansion of the human race, Earth become forgotten as it was a painful reminder of the horrors of war and the human race's barbaric past. Explorers often go looking for the location of Earth but never turn anything up. Most believe that Earth is now within Droid Space and not worth the risk looking for it.
 
 The Imperium do not actively stop people looking for Earth but at the same time, they do not promote it. The Imperium claim that they do not know where Earth is, a favourite topic for conspiracy theorists.
+
+# Colonies
+
+
+# Colonies
+A colony is the name given to a dwelling on or under the surface of a planet. A colony can be a city (called a Mex city) or high tech farming communities (called Crofts) or a combination of those. Colonies are normally set up on planets where there is a gravity strength appropriate to humans (around 1 earth gravity) although some colonies use spacecraft technology to provide a bubble of artificial gravity. A quarter of the human race live in space stations, called Orbitals but they are not considered to be colonies.
+
+## Where Colonies Grow
+Wherever there is a need for people to live, there will a be Colony. Colonies are built on planet surfaces (Prosurface), under the surface (Subsurface) or under oceans (Subaqua).
+
+### Prosurface
+Any colony on a planet where the air is nontoxic to humans is a Prosurface colony. Roughly 60% of colonies are Prosurface colonies. Earth in the 21st Century was a Prosurface colony.
+
+### Subsurface
+Any colony where the atmosphere is not breathable is called a Subsurface colony. These colonies are normally huge caverns buried deep within the surface of the crust, sealed to the harmful atmosphere. Within these caverns are cities, much the same as on Prosurface planets. Access to the colony is through many huge circular tunnels called 'vents'.
+
+### Subaqua
+Any colony built under an ocean of liquid (not necessarily water) is a Subaqua colony. Subaqua colonies are Cities built on the inside of giant spheres. Gravity in the spheres points toward the nearest inside face. All the buildings reach into the middle of the sphere. The large spheres are interconnected using a system of tunnels. Spacecraft dock on the outside of the spheres - space inside is usually too precious.
+
+## Colony Buildings
+The Droid War turned the human race into a race of refugees. A tsunami of people flooded from invaded Sectors into Sayshell. At first, they lived in repurposed spacecraft but those craft were soon needed to help other refugees and spark off trade. The Imperium responded with prefabricated buildings. 
+
+There are two main types of building: Crofts and Mex Cities. Crofts are smaller buildings, made to house farms and holiday homes. Mex Cities are huge lattice structures with tall, straight buildings connected together with structural walkways, providing strength. Mex cities are by far the most popular buildings as they are cheap, very quick to construct and do not take up much of a footprint.
+
+## Colony Council
+Administration of the Colony is performed by the Colony Council. The Council is democratically elected every 4 years. Councillors are drawn from the wealthy, famous or purely on merit. The positions on the Council are: Chair, Industry, Treasury, Trade and Domestic. Two extra seats are appointed by the Imperium: Star Enforcer Captain in Charge and Star Civilisation Captain in Charge. Some councils have extra members depending on their local situation - such as a council member for Mining activities.
+
+Councillors can serve as many terms as required and each Councillor is given a budget from the Imperium (via Taxes) and employs a staff. The taxes are used by the Council to grow the colony, provide services, perform maintenance on the infrastructure, subsidise trade negotiations and support flagging industries. Council Staffers wield much of the Council's power as negotiators and advisers to the Councillors.
+
+The Council are constantly in the public eye, their decisions having real and often immediate affects on the population of the colony. Although there are no party affiliations, councillors often hold onto Human philosophies, by which they make their decisions (see Philosophy on page 59).
+
+To understand, gain connections and make use of a colony's council, an Ecopolitical skill check is required.
+
+### Chair
+The Council Chair has the job of keeping order and making sure people do as they say they are going to do. The Chair is the public face of the colony and spends a lot of the day travelling around the reaches of the colony talking to people and investigating problems that might have been raised on a council meeting.
+
+### Treasurer
+The Treasurer is responsible for ensuring that the colony remains within its budget and that the Imperium is warned before they run out of money. Taxes are collected automatically by the Imperium over Gaia and the enforcement of tax collection is down to the Star Enforcers. Therefore, the Treasurer's budget is derived straight from an allowance from the Imperium.
+
+More enterprising Treasurers will seek to boost this income with donations from wealthy people and corporations, although this is not expected of them.
+
+### Industry
+The aim of the Industry is to ensure that local businesses are supported and that there is fair competition on planet. The Industry Councillor also aids local businesses (using a budget) to help grow new industries or save important ones that are floundering.
+
+# Mex
+
+In Mex cities, there are many ways of travelling. Inside buildings, people travel by foot, to move up and down the buildings are extremely fast lifts that can traverse hundreds of floors in seconds. Free transport is provided in all Mex cities by the Free Mass-Transportation System (FEMTS) which are large bullet-shaped Grav vehicles that run methodical routes around the cities. Personal transport is provided by Grav Cars and Grav bikes which are flying vehicles that travel between the buildings.
+
+## Lifts
+run on Grav and are not directly to connected to the building, so there are many (often as many as 200) lifts in one building corner. 
+
+They are best thought of as independent Grav Vehicles that mainly travel vertically. Lifts travel at great speeds and one can travel at up to 20 meters per second (4 floors a second or 12 floors a game turn). Each lift has a powerful gravity field generator that keeps the occupants safe from the affects of huge accelerations. Lifts can pass each other in a corner, allowing lifts to overtake each other.
+
+## traffic
+
+For those who can afford their own personal transport, there are flying cars called Grav cars are used to move people around. As the volume of traffic in central areas of a city can be extremely heavy, people often choose to walk instead of driving.
+Grav Cars fly through the city in lanes. Flying through the Mex City can be quite stressful to do at speed, so most people will switch on the Grav Car artificial intelligence and let it drive for them - picking the quickest route. An artificial intelligence will not break any driving laws and for those who want to dash through the City, they can drive on Manual (Pilot Grav skill check).

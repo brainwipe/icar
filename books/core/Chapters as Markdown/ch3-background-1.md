@@ -231,104 +231,77 @@ Remmar is a fledgling sector with 1000 year old infrastructure waiting for the h
 The existing Peers aren't interested in Remmar. They see it as a wild, unruly volume of space where their skills aren't required. Star Civ are looking to create new Peers from Remmar itself, a process that's made difficult by the lack of rich industrialists operating there.
 
 # Colonies
-A colony is the name given to a dwelling on or under the surface of a planet. A colony can be a city (called a Mex city) or high tech farming communities (called Crofts) or a combination of those. Colonies are normally set up on planets where there is a gravity strength appropriate to humans (around 1 earth gravity) although some colonies use spacecraft technology to provide a bubble of artificial gravity. A quarter of the human race live in space stations, called Orbitals but they are not considered to be colonies.
+A colony is a fixed place where humans live and work. It could be on a planet, in a planet, orbiting around a planet, in an asteroid field, at the edge of a nebula or out in the void between systems. If there are resource or a useful place nearby, humans will live there.
 
-## Where Colonies Grow
-Wherever there is a need for people to live, there will a be Colony. Colonies are built on planet surfaces (Prosurface), under the surface (Subsurface) or under oceans (Subaqua).
+Where close to a planet, systems are chosen where planets have a gravity near to that of Earth and orbit in the Goldilocks zone so that they may be terraformed. Worlds with harsh, toxic climates unsuitable for terrforming have domes built on the surface or huge spheres dug out underneath with an artificial gravity sticking people to the inside of the ball.
 
-### Prosurface
-Any colony on a planet where the air is nontoxic to humans is a Prosurface colony. Roughly 60% of colonies are Prosurface colonies. Earth in the 21st Century was a Prosurface colony.
+Colony industry is usually a mix of mining, manufacturing, agriculture, high tech, leisure and tourism.
 
-### Subsurface
-Any colony where the atmosphere is not breathable is called a Subsurface colony. These colonies are normally huge caverns buried deep within the surface of the crust, sealed to the harmful atmosphere. Within these caverns are cities, much the same as on Prosurface planets. Access to the colony is through many huge circular tunnels called 'vents'.
+> Ecopolitical for estimating gaps in the market/trade opportunities or for understanding the power balance by fusing disparate news sources.
 
-### Subaqua
-Any colony built under an ocean of liquid (not necessarily water) is a Subaqua colony. Subaqua colonies are Cities built on the inside of giant spheres. Gravity in the spheres points toward the nearest inside face. All the buildings reach into the middle of the sphere. The large spheres are interconnected using a system of tunnels. Spacecraft dock on the outside of the spheres - space inside is usually too precious.
+## Council Administration
+Colonies are run by a locally elected council of: Chairperson, Treasurer and secretaries important facets of the colony, such as trade, agriculture or mining. Terms are fixed to 4 years and re-election is common. Each councillor commands a budget and retinue of staffers; who investigate, negotiate, troubleshoot and fix. Not always in that order.
 
-## Colony Buildings
-The Droid War turned the human race into a race of refugees. A tsunami of people flooded from invaded Sectors into Sayshell. At first, they lived in repurposed spacecraft but those craft were soon needed to help other refugees and spark off trade. The Imperium responded with prefabricated buildings. 
-
-There are two main types of building: Crofts and Mex Cities. Crofts are smaller buildings, made to house farms and holiday homes. Mex Cities are huge lattice structures with tall, straight buildings connected together with structural walkways, providing strength. Mex cities are by far the most popular buildings as they are cheap, very quick to construct and do not take up much of a footprint.
+Corporations are taxed directly by the Imperium, who grant a budget back to the colony. Only the richest colonies send more than they receive. Larger colonies have Star Enforcers and Star Civilisation officers.
 
 ## Crofts
-A typical croft building is a circular hut which has a domed roof. On the ground floor is where all the utility equipment is kept, including generators and for larger croft buildings and any vehicles. The upper floor is the living space. The more people that live in the croft, the larger the diameter of the building is to be. Every living space has a sky view through the domed roof and all rooms are on the edge of the building.
+Small villages are built from pill shaped croft buildings, each self-contained in power, living and working space. They range between 15 and 50 metres across and are cheap to build at 10k credits each. Crofts sprout in the centre of lush farmland, at the top of mine complexes and in areas of natural beauty.
 
-A typical croft has a diameter of 15 metres, large ones can go up to 50 metres. There are many different designs on offer, with many different interiors of all qualities. A simple Croft (including installation fees) costs 10 000 credits. Permission needs to be granted by the local Council (which it normally is) before one is installed.
+As small communities, they are good places to hide if you are welcome. Crime in Crofts tends to be scant or everyone is involved. Anonymity is impossible and the resources are easily tracked.
 
 ## Mex Cities
-Found in all colony types, a Mex city is made from many levels stacked on top of each other. Each level has a particular template so that level with differing purposes can be stacked easily. Each building stands alone, connected to other buildings by walkways which people walk through. Lifts run up and down the corners of the building, each powered by Grav.
-Although this prefab system of building is normally followed, each system does have its own special character which can be seen in the colours and layout of the buildings. Mex buildings on very different systems sometimes look very similar in shape. Mex buildings tend to be very tall and thin, a normal size for a building would be approximately 4km high with a footprint of 100m square.
+A Mex city is a towering 3D lattice of vertical buildings joined by a maze of walkways. Traffic flies between the buildings, ducking above and below walkways, lifts whoosh up and down the corners of each building impossibly quickly. Each Mex city is built from a prefabricated set of structures, which are then given its own special character buy the colonies that build them.
 
-In Mex cities, there are many ways of travelling. Inside buildings, people travel by foot, to move up and down the buildings are extremely fast lifts that can traverse hundreds of floors in seconds. Free transport is provided in all Mex cities by the Free Mass-Transportation System (FEMTS) which are large bullet-shaped Grav vehicles that run methodical routes around the cities. Personal transport is provided by Grav Cars and Grav bikes which are flying vehicles that travel between the buildings.
+A Mex building has a square footprint of 100m and typically reaches 4000m into the sky. Levels of the building are clustered by zone, a single building will have homes, commercial and specialised retail outlets. Each level of a Mex building is prefabricated and dropped into place on a building while its still being used, allowing cities to grow vertically with very little disruption.
 
-Living in a Mex city would feel like a very strange experience to those in the 21st Century. People tend to work near where they live, even in the same or neighbouring building. Nearly all humans live in a Mex city in one form or another as Mex cities can be built anywhere. Mex buildings can be repaired and constructed very easily, they can also be added to by lifting off the top level and add more levels in underneath. 
+## Typical Mex City Plan
 
-### Mex in General
-From a distance, a Mex city tends to look out of place within the landscape. This is because of the large square lattice work of the buildings. The edges of the city tend to be square and the can be built in any place (shown below in a valley). This is due to their sturdy structure and the fact that all vehicles fly in and out of the city, there are no need for roads, as such.
+> Mex 3D plan
 
-The ethos of the Mex city has lead to some standardisation in the layout. These standards are called The Imperial Polisat and they provide a perfect model for city designers to follow.
-
-## Typical Mex Plan
 ### A. Town Centre
-Pivotal to the running of the colony, the Town Centre is the home of all the main colony offices and comprises of several Mex buildings. The main building is the Council Office where councillors and their advisors organise new policy and manage planetary issues. Star Enforcer Colonial Building or SEC Building is where the Enforcers (Police) on planet reside. Often, the SECs have two or more buildings depending on size of the Colony. The Town Centre nearly always comprise of the tallest buildings in the City.
+Pivotal to the running of the colony, the central clutch of buildings host offices for the council, Star Enforcers, Star Civilisation and toward the top are executive spacecraft gate (see Home Gate below).
 
-Star Civ have an important presence in the town hall. It is the location of their headquarters and also a central hub for the services it provides, including trauma clinics. A Mex city will have a large number of trauma clinics distributed around, the Town Hall will have several scattered between the top and the bottom.
+The Star Industries on planet (Enforcers and Civilisation) use the town centre for their headquarters but will have smaller offices spread around the city. These offices act as trauma clinics and holding cells.
 
-### B. Home Gateway
-The Home Gateway or Home Gate is the star craft docking facility that is used by smaller, private craft and the large passenger carrying Pitlifters that deliver people to Orbit and the Star Buses. Smaller berths with more commercial aspects (such as hotels, retail shops) are clusters around this edge. Traditionally, the Home Gate is normally a very well kept part of the Mex City as it is normally the first place that the visitors to the city will ever see. The Home Gateway has the feel of an old-fashioned 'airport', with people waiting to travel or moving away from the Gate area as quickly as possible. Local populace normally leave the inflated prices of the Home Gate for the tourists and shop elsewhere. The Home Gate is often locally called something else, named after a founder or famous space farer.
+### B. Home Gate
+This is where small atmosphere capable starcraft and Pitlifters dock onto the city. It's cheaper than docking on the town centre gate. Pitlifters are shuttles that carry people and cargo up the gravity well to huge spacecraft in orbit, Orbitals and Orbs.
 
-### C. Freight Gateway
-This is the dock for larger spacecraft. These spacecraft tend to be huge hulks that carry a massive number of poly-ceramic-alloy space crates. Each of these freighters have only 100 crew but have many hundreds of automated 'Hoppers'. Hoppers are flying robots designed to carry space crates to and from the freighter. When a freighter arrives, a huge swarm of Hoppers move cargo back and forth. 
+The home gate Mex buildings are designed for the fast transfer of people and cargo. Spacecraft dock toward the top, cargo is temporarily stored toward the bottom and a swarm of lifts, public transport and cargo Hopper robots caries it all out into the wider city.
 
-The Freight Gateway has few bars and cheap hotels. Many crews prefer to sleep on the spacecraft but the hotels offer a change of scenery, live music and a range of local entertainment.
+Clustered around the home gate is a beautifully groomed commercial district of hotels, tourist retail and services for the arriving traveller.
+
+### C. Freight Gate
+Larger spacecraft, such as freighters cling to the outside of the city. Each spacecraft is crewed with tens of people and contains hundreds of thousands of poly-cermaic-alloy cubes called space crates. The crates are moved and managed in a ballet of a thousand flying robots called Hoppers. 
+
+The Freight Gateway has few bars and cheap hotels. Many crews prefer to sleep on the spacecraft but the hotels offer a change of scenery, live music and a range of local entertainment. The vast majority of cargo moves through the freight gate, making it a target for crime.
 
 ### D. Hauler Port
-Also situated at the base and on the edge of the city, the Hauler port is how goods are transported around the planet. A hauler is a large haulage vehicle which accelerates very slowly but can travel very fast indeed. This makes it perfect for long distances. 
+At the edge of the city, in the shadow of the freight gate is the Hauler port. Haulers are long arrow like land trains that move cargo around the planet.
 
-Although mostly automated, the Haulers are normally piloted due to the mistrust of automated systems. Hauler ports tend to be poorer areas of the city as most of the Hauler pilots spend little time in the city, it is not looked after very well. The Hauler Port is also likely to contain many storage levels as it is not a desirable place to live.
+Haulers fly on autopilot but have pilots to deal with the rare ocassions where a deal goes wrong. Being in the Nearground (see below), Hauler ports tend to be poorer areas of the city. The lower levels of the Mex buildings host mechanic workshops, low pay bars and hotels, storage areas and little comfort. Although at the edge of the city, the shadows of huge spacecraft docked on makes it difficult to enjoy the view.
 
 ## In a Mex City
-The picture (on the next page) shows a view from within a Mex city. The picture is looking down the middle of the city. To people who have lived on Crofts their whole lives, the Mex City will feel  claustrophobic, overcrowded and busy. The space between the Mex buildings is packed with traffic (only a small amount shown in the picture for clarity). Due to the regularity of Mex levels, it is very easy to navigate around a Mex city. 
+The picture (on the next page) shows a view looking down the centre of a Mex city. To people who have lived in crofts their whole lives, the Mex City will feel  claustrophobic, vertigo inducing, overcrowded and dark. The space between the Mex buildings is packed with traffic (only a small amount shown in the picture for clarity).
 
 ### A. Lift
-Lifts travel up and down the corners of all buildings. Some buildings have lifts on the inside as well but the majority of people use the corner lifts. The lifts run on Grav and are not directly to connected to the building, so there are many (often as many as 200) lifts in one building corner. 
-
-They are best thought of as independent Grav Vehicles that mainly travel vertically. Lifts travel at great speeds and one can travel at up to 20 meters per second (4 floors a second or 12 floors a game turn). Each lift has a powerful gravity field generator that keeps the occupants safe from the affects of huge accelerations. Lifts can pass each other in a corner, allowing lifts to overtake each other.
+Lifts travel up and down the corners of all buildings. The lifts are extremely fast, specialised flying Grav cars with their own artificial gravity. As they aren't connected to the building, they can pass other lifts.
 
 ### B. Walkway 
-Walkways allow people to move from one building to another and are structural tubes that connect the Mex buildings together. Mex Cities with many walkways form a tight lattice, making the city as a whole very strong. Toward the centre of a Mex city, walkways are common and become more rare toward the edge. Traffic passes above and below these walkways and they sometimes travel at angles between the buildings. In any case, the gravity inside of the Walkway is always perpendicular to its floor.
+Structural tubes give the Mex city its lattice strength and allows pedestrians to move between buildings. Walkway density is at its highest toward the bottom and centre of a Mex city. Traffic passes above and below these walkways and they sometimes travel at angles between the buildings. In any case, the gravity inside of the Walkway is always perpendicular to its floor.
 
 ### C. Traffic
-For those who can afford their own personal transport, there are flying cars called Grav Cars are used to move people around. As the volume of traffic in central areas of a city can be extremely heavy, people often choose to walk instead of driving.
-Grav Cars fly through the city in lanes. Flying through the Mex City can be quite stressful to do at speed, so most people will switch on the Grav Car artificial intelligence and let it drive for them - picking the quickest route. An artificial intelligence will not break any driving laws and for those who want to dash through the City, they can drive on Manual (Pilot Grav skill check).
+Owning your own personal transport is common and traffic forms ordered streams between the buildings. Flying cars called Grav cars are the most common form of traffic, usually flown on autopilot while the occupants relax. Hauler land trains are common toward the edge, larger utility vehicles (such as the Bull) are found everywhere while Grav bikes zip between them all, seemingly a law unto themselves.
 
-### D. Free Mass Transportation System
-The Free Mass Transportation System (FEMTS) is available in all major Imperial Systems. The FEMTS consists of a huge number of bullet shaped FEMTS cars. Unlike most old-world free transportation systems, the FEMTS is normally the pride of the city, clean, reliable and always on time. FEMTS cars are unmanned, it is only the passengers who travel on it. The car is controlled by an artificial intelligence (AI power 2) which senses other traffic in Gaia and then makes decisions on the best route to meet its stops. The FEMTS is widely used by many, as a safe alternative to owning one's own car.
+Anyone can fly a Grav on autopilot but doing so is slow. It's legal to fly outside of the traffic streams (Grav Pilot) but doing so quickly and safely is hard. Dangerous driving is reported by other Grav cars immediately and only in the most liberal cities is this ignored.
+
+### D. Free Mass Transportation System (FEMTS)
+
+The Free Mass Transportation System (FEMTS) is available in just about Imperial systems. The FEMTS consists of a huge number of bullet shaped FEMTS cars. Unlike most old-world free transportation systems, the FEMTS is normally the pride of the city, clean, reliable and always on time. FEMTS cars are unmanned, it is only the passengers who travel on it. The car is controlled by an artificial intelligence (AI power 2) which senses other traffic in Gaia and then makes decisions on the best route to meet its stops. The FEMTS is widely used by many, as a safe alternative to owning one's own car.
 
 More affluent Cities adorn their FEMTS with bars, relaxation rooms, massage parlours and brothels. Regardless of their internal fittings, the external bullet shape is standard.
 
 ### E. The Nearground
-The Nearground is the place where those not content with normal society go to live. See the later section The Nearground on page 40.
-
-## Colony Council
-Administration of the Colony is performed by the Colony Council. The Council is democratically elected every 4 years. Councillors are drawn from the wealthy, famous or purely on merit. The positions on the Council are: Chair, Industry, Treasury, Trade and Domestic. Two extra seats are appointed by the Imperium: Star Enforcer Captain in Charge and Star Civilisation Captain in Charge. Some councils have extra members depending on their local situation - such as a council member for Mining activities.
-
-Councillors can serve as many terms as required and each Councillor is given a budget from the Imperium (via Taxes) and employs a staff. The taxes are used by the Council to grow the colony, provide services, perform maintenance on the infrastructure, subsidise trade negotiations and support flagging industries. Council Staffers wield much of the Council's power as negotiators and advisers to the Councillors.
-
-The Council are constantly in the public eye, their decisions having real and often immediate affects on the population of the colony. Although there are no party affiliations, councillors often hold onto Human philosophies, by which they make their decisions (see Philosophy on page 59).
-
-To understand, gain connections and make use of a colony's council, an Ecopolitical skill check is required.
-
-### Chair
-The Council Chair has the job of keeping order and making sure people do as they say they are going to do. The Chair is the public face of the colony and spends a lot of the day travelling around the reaches of the colony talking to people and investigating problems that might have been raised on a council meeting.
-
-### Treasurer
-The Treasurer is responsible for ensuring that the colony remains within its budget and that the Imperium is warned before they run out of money. Taxes are collected automatically by the Imperium over Gaia and the enforcement of tax collection is down to the Star Enforcers. Therefore, the Treasurer's budget is derived straight from an allowance from the Imperium.
-
-More enterprising Treasurers will seek to boost this income with donations from wealthy people and corporations, although this is not expected of them.
-
-### Industry
-The aim of the Industry is to ensure that local businesses are supported and that there is fair competition on planet. The Industry Councillor also aids local businesses (using a budget) to help grow new industries or save important ones that are floundering.
+The Nearground is the place where those not content with normal society go to live. See the later section The Nearground below.
 
 ## The Nearground
 In most Mex Cities, there is an area which is known as the Nearground. Typically, the Nearground is the area 'Near to the ground' - the first 50 metres of each Mex building where light rarely filters do to. The Nearground is where anarchists, socially dispossessed, poor and criminal elements of society live and work. The Imperial society is a liberal one and the Nearground provides a space for the fringes of society to meet, away from those playing by the rules.
