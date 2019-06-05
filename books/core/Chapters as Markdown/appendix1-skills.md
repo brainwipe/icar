@@ -23,6 +23,7 @@
 | Law                                                   | 2 | History           | 
 | Macro Engineering (space craft, colonies, big things) | 3 | Physics           | 
 | Medicine                                              | 2 | Biology           | 
+| Meshrunning                                           |   |                   |
 | Micro Engineering (vehicles)                          | 2 | Physics           | 
 | Persuade                                              | 2 | Empathy           | 
 | Physics                                               | 1 |                   | 

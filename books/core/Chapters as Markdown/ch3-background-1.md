@@ -281,13 +281,13 @@ At the edge of the city, in the shadow of the freight gate is the Hauler port. H
 Haulers fly on autopilot but have pilots to deal with the rare ocassions where a deal goes wrong. Being in the Nearground (see below), Hauler ports tend to be poorer areas of the city. The lower levels of the Mex buildings host mechanic workshops, low pay bars and hotels, storage areas and little comfort. Although at the edge of the city, the shadows of huge spacecraft docked on makes it difficult to enjoy the view.
 
 ## In a Mex City
-The picture (on the next page) shows a view looking down the centre of a Mex city. To people who have lived in crofts their whole lives, the Mex City will feel  claustrophobic, vertigo inducing, overcrowded and dark. The space between the Mex buildings is packed with traffic (only a small amount shown in the picture for clarity).
+The picture (on the next page) shows a view looking down the centre of a Mex city. To people who have lived their whole lives in crofts, the Mex City will feel claustrophobic, vertigo inducing, overcrowded and dark. The space between the Mex buildings is packed with traffic (only a small amount shown in the picture for clarity).
 
 ### A. Lift
 Lifts travel up and down the corners of all buildings. The lifts are extremely fast, specialised flying Grav cars with their own artificial gravity. As they aren't connected to the building, they can pass other lifts.
 
 ### B. Walkway 
-Structural tubes give the Mex city its lattice strength and allows pedestrians to move between buildings. Walkway density is at its highest toward the bottom and centre of a Mex city. Traffic passes above and below these walkways and they sometimes travel at angles between the buildings. In any case, the gravity inside of the Walkway is always perpendicular to its floor.
+Structural tubes give the Mex city its lattice strength and allows pedestrians to move between buildings. Walkway density is at its highest toward the bottom and centre of a Mex city. Traffic passes above and below these walkways and they sometimes travel at angles between the buildings. In any case, the gravity inside of the walkway is always perpendicular to its floor.
 
 ### C. Traffic
 Owning your own personal transport is common and traffic forms ordered streams between the buildings. Flying cars called Grav cars are the most common form of traffic, usually flown on autopilot while the occupants relax. Hauler land trains are common toward the edge, larger utility vehicles (such as the Bull) are found everywhere while Grav bikes zip between them all, seemingly a law unto themselves.
@@ -296,35 +296,33 @@ Anyone can fly a Grav on autopilot but doing so is slow. It's legal to fly outsi
 
 ### D. Free Mass Transportation System (FEMTS)
 
-The Free Mass Transportation System (FEMTS) is available in just about Imperial systems. The FEMTS consists of a huge number of bullet shaped FEMTS cars. Unlike most old-world free transportation systems, the FEMTS is normally the pride of the city, clean, reliable and always on time. FEMTS cars are unmanned, it is only the passengers who travel on it. The car is controlled by an artificial intelligence (AI power 2) which senses other traffic in Gaia and then makes decisions on the best route to meet its stops. The FEMTS is widely used by many, as a safe alternative to owning one's own car.
+The Free Mass Transportation System (FEMTS) is found in the vast majority of Human Occupied Space. Thousands of bullet shaped automated FEMTS cars provide clean, reliable and punctual transport. The car is controlled by an artificial intelligence (AI power 2) which senses other traffic in Gaia and then makes decisions on the best route to meet its stops. The FEMTS is widely used by many, as a safe alternative to owning one's own car.
 
 More affluent Cities adorn their FEMTS with bars, relaxation rooms, massage parlours and brothels. Regardless of their internal fittings, the external bullet shape is standard.
 
 ### E. The Nearground
-The Nearground is the place where those not content with normal society go to live. See the later section The Nearground below.
+The Nearground is the place where those not content with normal society collect.
 
 ## The Nearground
-In most Mex Cities, there is an area which is known as the Nearground. Typically, the Nearground is the area 'Near to the ground' - the first 50 metres of each Mex building where light rarely filters do to. The Nearground is where anarchists, socially dispossessed, poor and criminal elements of society live and work. The Imperial society is a liberal one and the Nearground provides a space for the fringes of society to meet, away from those playing by the rules.
+The Nearground is the area 'Near to the ground' - the first 50 metres of each Mex building where natural light rarely filters down to. It is entirely lit by the gaudy saturation of businesses tempting 
+
+The Nearground is where anarchists, socially dispossessed, poor and criminal elements of society live and work. The Imperial society is a liberal one and the Nearground provides a space for the fringes of society to meet, away from those playing by the rules.
 
 The Nearground is where the order of Mex architecture descends into chaos. At ground level, the Mex buildings are difficult to discern, the core layout of the buildings augmented by gantries, walkways and buildings in a high-tech shanty-town. There is little traffic in the Nearground - only Grav bikes are small and nimble enough to drive quickly through the maze of architectural imagination.
 
 ### Typical Nearground Locations
-In the Nearground can be found brothels, seedy nightclubs, old-fashioned tea shops, non-Star Civilisation doctors who do not ask questions, black markets, drug dens, cheap hotels, Grav biker hang outs and burlesque clubs. 
-The Hauler port is also normally by the Nearground. Some of the Hauler crews are seduced by the Nearground but most remain professional and once away from their Hauler, travel to the higher areas of the City.
+In the Nearground can be found brothels, seedy nightclubs, old-fashioned tea shops, doctors who forget to report things to Star Civilisation, black markets of stolen goods, repair shops that will remove the bullet holes, drug dens, cheap hotels, Grav biker hang outs and burlesque clubs. 
 
 ### Star Enforcers and the Nearground
-The Nearground is very difficult for the Star Enforcers to operate in. It can be very difficult to gather evidence of a crime as the anarchists refuse to co-operate and buildings rarely carry sensors. The Star Enforcers often return from the Nearground empty handed. The main exception is with particularly dangerous criminals, for which the Star Enforcers travel in great numbers and force.
+People who live in the Nearground have a talent for passive non-cooperation with the Star Enforcers. Security recordings get corrupted, surveillance equipment is stolen, no-one sees anything or remembers anything. Only when the Star Enfocer tactical units arrive to hunt the really dangerous criminals do the locals start thinking about helping. Justice is still served in the Nearground but the Imperial Nexus is rarely involved.
 
 ## The Mesh
-The superstructure of the Mex buildings contains large air ducts and utility sections, this area is known as the Mesh. The ducts of the Mesh run everywhere throughout the Mex City. Some longer ducts run the vertical length of the 2km building. Although originally intended for repair crews to work without disturbing the general public, the Mesh has now become home to an outcast part of society, the Meshrunners.
-
-The Mesh can also be found in Orbitals and some very large spacecraft. The Mesh could be anywhere, so the same rules apply. The General Public are mostly ignorant of Meshrunners, assuming that the thieves and muggers come up from the Nearground in lifts.
+Like that of all spacecraft, the superstructure of the Mex buildings contains a maze of air ducts and utility rooms, known as the Mesh. Originally designed for repair crews to work without disturbing the general public, the Mesh has now become home to an outcast part of society, the Meshrunners. The Mesh could be anywhere, so the same rules apply. The General Public are mostly ignorant of Meshrunners, assuming that the thieves and muggers come up from the Nearground in lifts.
 
 ### Meshrunners
 Meshrunners live in the Mesh, leaving only to steal food and money from the general public. The Mesh is a haven for those on the run from society. Most Meshrunners are children, teenagers and young adults; petty criminals, family outcasts or escapees from the constricts of their upbringing. As Meshrunners grow into adulthood, they usually leave the Mesh for the bright lights and opportunity of the Nearground - or even back into society. Few grow old in the Mesh and even fewer are born there.
 
-### Meshrunner Gangs
-The Meshrunner Gang is a family. A tight knit group where  seniority is defined by time spent in the Mesh and ability; age is of little importance. Meshrunner Gangs tend to occupy an area of Mesh and rarely stray from their patch. A Gang's area is normally across many buildings over a few levels. Friction and suspicion between Gangs is great - each Gang assumes the others are in league with the Star Enforcers, their parents or whichever organisation they are avoiding.
+Meshrunners form into tight knit gangs, where seniority is defined by time spent in the Mesh. Meshrunner gangs are territorial, spanning many levels and buildings. Friction between gangs is huge; each assuming the other gangs are in league with the Imperium or whoever they ran away from.
 
 ### Running the Mesh
 Moving through the Mesh is a Skill (Meshrunning) that can only be taught by another Meshrunner. Meshrunners use high tech climbing gear repurposed from common day items that can be hidden under clothing for when they are moving amongst the general public. Running the Mesh is extremely dangerous for the uninitiated as the Mesh is utterly dark and there can be sudden 2km vertical shafts. An experienced Meshrunner will know their Gang's Mesh extremely well and be able to navigate it with only the faintest glow of light.
@@ -335,17 +333,20 @@ Meshrunners are always on the lookout for vulnerable children and teenagers. In 
 ### The Star Enforcers and the Mesh
 The Star Enforcers would like the Mesh to be empty save for repair crews. In most cases, the Meshrunners do not draw any attention as their thefts tend to be small and based on subsistence. The Star Enforcers normally leave the Mesh alone as the time and energy spent rounding up Meshrunners is better spent elsewhere. Furthermore, proving a Meshrunner has performed a crime is difficult and the sentences are so short for the petty crimes that they would just return to the Mesh afterwards. Star Civilisation believe that a Meshrunner left uncaught is more likely to return to civilised society than one that is caught and punished.
 
-Only when Meshrunners become a problem do the Star Enforcers get involved. The Star Enforcer Investigation branch have a number of Mesh teams. These are specially trained  and equipped bionic Star Enforcers who can move through the Mesh with great speed. It is rare that these teams are brought in to solve a Meshrunner problem. In very extreme cases, the Mesh of a building can be closed down entirely, suffocating all those within. This extreme measure has only been taken once or twice in living memory.
+On rare occassions when Meshrunners disrupt the normal running of a colony, the Star Enforcers deploy bionic Meshrunner officers, who arrest and remove Meshrunners with stunning speed. In the most extreme cases, the Mesh can be sealed, suffocating all those within. This has only happened twice in living memory. 
 
 ### Using Meshrunners
-Player Characters are normally ex-Meshrunners - people who have the Skills but do not run the Mesh anymore. Meshrunning Skills replace the standard Skills of a person's upbringing (using Gaia, mathematics, science, social understanding) so it is not to be taken lightly. Meshrunners are not included in this book as a Character class as they fit into a very specific sort of campaign setting.
+Player characters are normally ex-Meshrunners - people who have the skill but do not run the Mesh anymore. Meshrunning Skills replace the standard skills of a person's upbringing (using Gaia, mathematics, science, social understanding) so it is not to be taken lightly. Meshrunners are not included in this book as a character class as they fit into a very specific sort of campaign setting.
 
 Meshrunners make useful contacts, although Meshrunners are wary of anyone outside of the Mesh. Trust must be gained first before a Meshrunner will do any work for a player Character. 
 
 Once trust is gained, a Meshrunner is very useful - able to steal, overhear and rob people before blending back into society. Meshrunners do not use Gaia, so contacting them can be difficult and gaining one as a valuable contact is likely to be a haphazard affair involved in a chance encounter.
 
-## Scanning and Privacy
-Scanning is the name given to using sensors to detect things that might be hidden from view. Sensors are fitted to buildings, spacecraft, vehicles (such as FEMTS) and anywhere where you want to ensure a level of security. There are two kinds of scanner: Tech scanners and Medical Scanners. A Tech Scanner analyses any piece of technology (weapons, bionic system, Automatons etc). 
+## Privacy in a Surveillance Future
+Sensors are fitted to buildings, spacecraft, vehicles (such as FEMTS) and anywhere where you want to ensure a level of security. Measuring, collecting and recording information is tightly controlled as the Imperium guards the privacy of its citizens very carefully.
+
+
+There are two kinds of scanner: Tech scanners and Medical Scanners. A Tech Scanner analyses any piece of technology (weapons, bionic system, Automatons etc). 
 
 A Medical Scanner scans biological life forms and is used for detecting a biological problem (diseases, illnesses, breaks, viruses etc). 
 
