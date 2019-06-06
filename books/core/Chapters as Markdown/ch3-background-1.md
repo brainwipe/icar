@@ -304,11 +304,9 @@ More affluent Cities adorn their FEMTS with bars, relaxation rooms, massage parl
 The Nearground is the place where those not content with normal society collect.
 
 ## The Nearground
-The Nearground is the area 'Near to the ground' - the first 50 metres of each Mex building where natural light rarely filters down to. It is entirely lit by the gaudy saturation of businesses tempting 
+The Nearground is the area 'Near to the ground' - the first 50 metres of each Mex building where natural light rarely filters down to. It is where anarchists, socially dispossessed, poor and criminal elements of society live and work. The Imperial society is a liberal one and the Nearground provides a space for the fringes of society to meet, away from those playing by the rules.
 
-The Nearground is where anarchists, socially dispossessed, poor and criminal elements of society live and work. The Imperial society is a liberal one and the Nearground provides a space for the fringes of society to meet, away from those playing by the rules.
-
-The Nearground is where the order of Mex architecture descends into chaos. At ground level, the Mex buildings are difficult to discern, the core layout of the buildings augmented by gantries, walkways and buildings in a high-tech shanty-town. There is little traffic in the Nearground - only Grav bikes are small and nimble enough to drive quickly through the maze of architectural imagination.
+The Nearground is where the order of Mex architecture descends into chaos. At ground level, the Mex buildings are difficult to discern, the core layout of the buildings augmented by gantries, walkways and buildings in a high-tech shanty-town, lit by augmented reality holograms where Gaia spills into reality. There is little traffic in the Nearground - only Grav bikes are small and nimble enough to drive quickly through the maze of architectural imagination.
 
 ### Typical Nearground Locations
 In the Nearground can be found brothels, seedy nightclubs, old-fashioned tea shops, doctors who forget to report things to Star Civilisation, black markets of stolen goods, repair shops that will remove the bullet holes, drug dens, cheap hotels, Grav biker hang outs and burlesque clubs. 
@@ -343,42 +341,36 @@ Meshrunners make useful contacts, although Meshrunners are wary of anyone outsid
 Once trust is gained, a Meshrunner is very useful - able to steal, overhear and rob people before blending back into society. Meshrunners do not use Gaia, so contacting them can be difficult and gaining one as a valuable contact is likely to be a haphazard affair involved in a chance encounter.
 
 ## Privacy in a Surveillance Future
-Sensors are fitted to buildings, spacecraft, vehicles (such as FEMTS) and anywhere where you want to ensure a level of security. Measuring, collecting and recording information is tightly controlled as the Imperium guards the privacy of its citizens very carefully.
+Modern artificial intelligence feeds on data. From building amospheric control to a Grav car's autopilot, collecting of data is everywhere. The Imperium tightly guards the privacy of its citizens with harsh penalties of anyone who collects data without consent.
 
-
-There are two kinds of scanner: Tech scanners and Medical Scanners. A Tech Scanner analyses any piece of technology (weapons, bionic system, Automatons etc). 
-
-A Medical Scanner scans biological life forms and is used for detecting a biological problem (diseases, illnesses, breaks, viruses etc). 
-
-Scanners have levels of scan, the higher the level the more information provided. High level scans tend to take longer and need more power (and thus tend to be bigger). Details on the scanner levels can be found in Scanners on page 83.
-Privacy
-
-The Imperium guards the privacy of its citizens very carefully and as such, scanner use across Human Occupied Space is limited. Some colonies will ban any Technology scanning at all whereas more paranoid colonies will have invasive Tech and Med scanners (Level 2) everywhere. 
-
-Most colonies will only have scanners where security is particularly important, such as in armouries or in Council buildings. Large corporations avoid using scanners, instead hiring humans augmented with bionics as their security teams to spot concealed weapons. It is not a fool-proof system but the Imperium would not allow a proliferation of scanning and the inevitable erosion of the right to privacy.
+Anywhere that the general public can be reasonably expected to go cannot be recorded without the express permission of the Imperium. Within private spaces, then it's only legal to capture sensor information if it going to be immediately processed by an AI and then forgotten. This is enough to give a level of security but not so much to invade someone's privacy.
 
 ## Colony Travel
-- A Prosurface colony spreads across and above the planets surface. There are common elements on every Colony (see picture).  
-- A. Large spacecraft that cannot enter the atmosphere either dock to an Orb (or Orbital) from where they can undock and Light Jump to other systems. 
+A colony spreads across the planet's surface. There are common elements on every colony.  
+
+- A. Large spacecraft that cannot enter the atmosphere either dock to an Orb (or Orbital) from where they can undock and light jump to other systems. 
 - B. Cargo is transported from orbit using Pitlifters, which are specifically designed to make the journey between orbit and planet surface. 
-- C and E. For spacecraft that can enter atmosphere, they dock either straight onto the Mex City (C) or the Croft (E).  The Croft would have to have a very large output to warrant a freighter going straight there. Some Crofts have  their own Pitlifters.
-- D. Cargo and people are transported between surface dwellings by high speed Haulers and sub orbital flyers (not shown). 
+- C and E. For spacecraft that can enter atmosphere, they dock either straight onto the Mex city (C) or the croft (E).  The croft would have to have a very large output to warrant a freighter going straight there. Some crofts have their own Pitlifters.
+- D. Cargo and people are transported between surface dwellings by high speed Haulers and sub orbital flyers. 
+
+> SUB ORBITAL SHARD FLYERS
 
 # Time
-When the first spacefarers left Earth, they abandoned the 24 hour clock in favour of a 40 hour day. As ships always needed to have a crew awake and active, a ship system was developed that was soon adopted as the normal for the whole galaxy. The days is split into four 10 hour cycles. Each cycle serves a different purpose. Between each cycle is a meal.
+When the first spacefarers left Earth, they abandoned the 24 hour clock in favour of a 40 hour day, running two shifts of 20 hours. The day is split into four 10 hour cycles. Each cycle serves a different purpose. Between each cycle is a meal.
+
+As everyone is living in a synchronised 40 hour lifestyle, businesses stay open for all 40 hours. People tend to share jobs, one job between two. The passing of day and night has no effect on the cycles of a person, phrases such as 'morning' and 'afternoon' are normally used to express the position of the sun in the sky. 
 
 ### Sleep Cycle
-During the cycle, a person get their rest. A human of 92030 only requires 9 hours sleep in 40 to function properly. The other hour is spent waking up and having the first meal called 'Breakfast'.
+During the cycle, a person get their rest. A human of 92030 only requires 9 hours sleep in 40 to function properly. The other hour is spent waking up and having the first meal called breakfast.
 
 ### Work Cycle One
-This is the first ten hours of work. Some take two jobs, each with a 10 hour duration. After this cycle is a meal called 'Lunch'.
+This is the first ten hours of work. Some take two jobs, each with a 10 hour duration. After this cycle is a meal called lunch.
 
 ### Work Cycle Two
-The second work cycle is normally a more relaxed affair as motivation begins to wane. After this cycle is the meal called 'Dinner'.
+The second work cycle is normally a more relaxed affair as motivation begins to wane. After this cycle is the meal called dinner.
 
 ### Recreation Cycle
-The recreation cycle is when a person can pursue whatever activities they are interested in. Most people have a hobby of some such. Before sleeping once more, a person normally partakes in a nutrient drink called a 'Cap'.
-As everyone is living in a synchronised 40 hour lifestyle, businesses stay open for all 40 hours. People tend to share jobs, one job between two. The passing of day and night has no effect on the cycles of a person, phrases such as 'morning' and 'afternoon' are normally used to express the position of the sun in the sky. 
+The recreation cycle is when a person can pursue hobbies and personal goals. Before sleeping once more, a person normally partakes in a nutrient drink called a _cap_.
 
 ### Organisation of Years and Dates
 Following the standardisation of time, dates and years followed suit. The organisation is as follows:
@@ -394,42 +386,44 @@ Following the standardisation of time, dates and years followed suit. The organi
 The month names are the same as the Gregorian calendar, except November and December are omitted. Days are named as Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, Moriusday (after the previous Emperor), Solday (named after the system that bore the human race) and Thousanday (after the space station that became the cradle of human civilisation). Naming of the days has become unimportant as there is no weekend as such - people spend 10 hours of recreation every day. People simply refer to the date.
 
 ### Public Holidays
-Although business runs 40x40, regardless of day and night, there are still public holidays. Days during the week are not taken off and there is no 'weekend'. The public holidays tend to mark events throughout Human Occupied Space (Empress' Birthday) or locally (Cluster or System Founding day). Public holidays depend very much on the system. Those systems without much local history tend to have fewer, as do heavily industrial systems. Artistic colonies and those systems with a long history tend to have more public holidays.
+Although business runs 40x40, regardless of day and night, there are still public holidays. Days during the week are not taken off and there is no 'weekend'. The public holidays tend to mark events throughout Human Occupied Space (Empress' birthday) or locally (cluster or system founding day). Those systems without much local history tend to have fewer public holidays, as do heavily industrialised systems. Artistic colonies and those systems with a long history tend to have more.
 
-The Star Chambers do not partake in public holidays as the employees are always on duty. In some cases, they take part but only in an official capacity. The only exception to this rule is the Empress' Birthday when most Star Chambers throw a party. Only those on active duty do not. 
+The Star Chambers do not partake in public holidays, except in an official capacity.  The only exception to this rule is the Empress' birthday when most Star Chambers throw a party.
 
 ### Day and Night
 The connection with time and night and day is no longer important. Very few planets have 40 hour day and the human race has got used to sleeping at the end of the 30 hours, rather than when it gets dark. This is especially important on planets where there isn't much night due to the light from large moons or on Orbitals, where day and night are simulated by glowing lights.
 
-### Money
-The Imperium has one single currency, the Imperial Credit (or just Credit). Money value and flow is controlled by the Imperial Resource Chamber. There are no banks, you cannot get a loan and money is stored on small plastic cards, on a Gaiacard or in a person's personal Gaia space (see section on Gaia).
+# Money
+The Imperium has one single currency, the Imperial credit (or just credit). Money value and flow is controlled by the Imperial Resource Chamber. There are no banks, you cannot get a loan and money is stored on small plastic cards, on a Gaiacard or in a person's personal Gaia space (see section on Gaia).
 
-No frills living in Icar is cheap. A cheap yet comfortable apartment can be rented for 100 credits a month and healthy meals cost as little 3 credits. A general price list is included in the Appendix (see the General Items Price List on page 161). Weapons, ammunition and armour are all relatively expensive as the Imperium believes that people should not need to buy them.
+No frills living in Icar is cheap. A comfortable apartment can be rented for 100 credits a month and healthy meals cost as little 3 credits. A general price list is included in the Appendix (see the General Items Price List on page XXXXX). Weapons, ammunition and armour are all relatively expensive as the Imperium believes that people should not need to buy them.
 
-The Imperium raises taxes only through businesses. Corporations hand the Imperium a percentage of their revenue (not profit) automatically when doing business. It is possible for a Corporation to avoid paying tax but it is not advised as the Imperium will seize all assets immediately upon discovery, anyone found running a business this way will go straight to jail. Small time operations are ignored, which fosters the spirit of entrepreneurship.
+The Imperium raises taxes only through businesses. Corporations hand the Imperium a percentage of their revenue (not profit) automatically when doing business. It is possible for a Corporation to avoid paying tax but it is not advised as the Imperium will seize all assets immediately upon discovery, anyone found running a business will undoubtedly end up in a penal colony. Small time operations are ignored, fostering the spirit of entrepreneurship.
 
 All private banking (loans, interest on savings etc) is strictly forbidden and there is no stock market. Loan sharks do exist but are not used by the general populace. Interest rates from Loan sharks are extremely high and failure to pay can be deadly. Some colonies use their own currency but it is often for very ceremonial or tourist industries.
 
 # Space Stations
-With the advent of powerful interstellar Light Jump engines, it became obvious that spacecraft could be made very large indeed. However, the amount of energy required to get these huge craft from orbit to surface and back was greater than could be produced with legal technology. One solution to this was to have a place in orbit where a craft could deposit some of its cargo for shuttling down to the surface. This is the prime reason for having an Orbital space station but they are integral to the economy.
+Space stations are huge cities that either orbit a planet, nestle within asteroid belts, skim the edge of nebulae or lay deep in space. They serve as trade outposts for freighters too large to climb back up the gravity well, homes for millions of souls and microgravity manufacturing centres and space docks.
 
-More than just trade platforms or orbiting store rooms, an Orbital is often the gateway to the rest of Human Occupied Space. They are used for many different tasks such as acting as: a base of operations for a mining company, a dock for spacecraft repairs and the home for many people who dislike living on planet. The use of an orbital often changes focus through its life, normally beginning as a trade or base of mining operation and then growing with the population to become a more pleasant habitation or supporting large trade ships.
+For many, a space station is the gateway to the rest of Human Occupied Space, having left the surface colony on a Pitlifter to seek out wealth and a life elsewhere.
 
 ## Space Station Types
-Each Orbital is different from the others, however they do roughly split into two types: Orbitals and Orbs. 'Orbitals' is the name given to most orbiting space stations. They come in all shapes and sizes: sketch any design onto a piece of paper and that shape will be found somewhere in the Galaxy. 'Orbs' are space stations where an artificial world is created on the inside of a sphere.
+Space stations are grouped into orbs and orbitals. Orbs are huge sphere where the population live on the inside, their world curving upwards and overhead rather than down. Orbitals is a catch-all term for all other space stations and covers a bewildering variety of shapes and sizes. 
 
 ## Orbitals
-Orbitals are common across the galaxy and come in bewildering variety of shapes and sizes. Some Orbitals begin life as a freighter, stranded in orbit by a loss of Light Jump capability. These Orbitals tend to be expanded in a piecemeal manner and tend to look light huge pieces of orbiting space junk. Other Orbitals are designed from the outset and like Spacecraft are a mix of sharp lines and organic curves.
+Common across the galaxy, the shape and size of an orbital can tell you a lot about the history and status of the colony. Some are a chaos of jutting angles, formed by merging thousands of salvaged broken down space craft; others are neat, functional geometric shapes to fill a specific purpose and then there are the artfully sculpted ballet of organic cuves and art deco geometry.
 
-Orbitals can house up to 2 billion people and the largest Orbitals (which rival Orbs in size) are 1000km at their widest. The haphazard structure of most Orbitals requires artificial gravity to be present everywhere. Those unfamiliar with an Orbital would find that the direction of the Gravity can often change, meaning shopping districts around the inside of a cylinder.
+The largest orbitals house around 2 billion people and rival orbs in size, measuring 1000km at their widest. The smallest are 5 people on a freighter that entered orbit and couldn't leave. Most orbitals have a few million inhabitants and can serve thousands of spacecraft each day.
 
-### Transport in an Orbital
-Getting around in an Orbital can either be done on foot, by driving a Grav or by FEMTS. Most people live close to where they work, shop and relax and so go by foot. This means than an Orbital tends to split into communities of people, not too dissimilar to Crofts on a planet's surface. 
+Gravity in all space stations is artificial however the more ragged the design of the space station, the more often and jarring the gravity changes its frame of reference, which can be upsetting for newcomers.
 
-When driving a Grav, they are driven through huge tubes that run to most corners of the Orbital. These tubes are often irregular and connect areas of the orbital that are important. The FEMTS system also uses its own set of tubes, exactly resembling the FEMTS of Mex Cities.
+### Community and Transport
+Orbitals tend to cluster people together into 3D villages, where people live, work, shop and play within the same cubic kilometre. Every orbital works hard to maintain a sense of identity for each village because if a person feels like they belong in a place then they are more likely to look after it. It's well known that orbital dwellers are more friendly than those living on surface or orb and they take that sense of friendly community with them.
+
+Tubes connect the villages, down which traffic like any other colony travels. The better designed a space station is, the smoother it is to drive down the tunnels.
 
 ### Psychological effects of living in an Orbital
-People who live in Orbitals tend to prefer enclosed spaces and can be agoraphobic (afraid of open spaces). Families that have lived on Orbitals for generations tend to be pale skinned and fair haired and are fiercely proud of their origin. Orbital inhabitants will have no problem with sharply changing gravity gradients and often make excellent Spacecraft crews.
+People who live in Orbitals prefer enclosed spaces and can be agoraphobic (afraid of open spaces). They become accustomed to sharpley changing gravity and people walking on the walls. Vertigo is rare.
 
 ### The Orbital Explained
 This image shows a simple example of a common orbital with the main sections marked out. The Orbital is drawn in orbit with the planet below it. The top of the Orbital picture is the part furthest from the planet surface.
