@@ -426,73 +426,74 @@ Tubes connect the villages, down which traffic like any other colony travels. Th
 People who live in Orbitals prefer enclosed spaces and can be agoraphobic (afraid of open spaces). They become accustomed to sharpley changing gravity and people walking on the walls. Vertigo is rare.
 
 ### The Orbital Explained
-This image shows a simple example of a common orbital with the main sections marked out. The Orbital is drawn in orbit with the planet below it. The top of the Orbital picture is the part furthest from the planet surface.
+This image shows a simple cross-section of a common orbital with the main sections marked out. The top of the orbital is the part furthest from the planet surface.
 
-- A. The largest spacecraft dock onto 'foils' furthest from the centre. The most expensive external docking sections are at the top of the Orbital as it nearest to where spacecraft jump to.
-- B. Freighters can also dock on the upper reaches of an Orbital but this is normally only for short stays and rapid unloads. Normally executive and courier spacecraft dock on the upper reaches.
-- C. Every Orbital has at least one artificial biosphere where plants, trees, grass and wild animals live in a carefully balanced ecosystem. Expensive restaurants and apartments look out over the biosphere and most have public paths.
-- D. The ubiquitous Free Mass Transportation System (FEMTS) travels up and down inside the docking foils transporting people back and forth to freighters. Private Grav cars and bikes also travel up and down but rarely Haulers. Automaton Hoppers are used for moving space crates.
+- A. The largest spacecraft dock onto 'foils' furthest from the centre. The most expensive external docking sections are at the top of the orbital.
+- B. Freighters can also dock on the upper reaches of an orbital but this is normally only for short stays and rapid unloads. Normally executive and courier spacecraft dock on the upper reaches.
+- C. Every orbital has at least one artificial biosphere where plants, trees, grass and wild animals live in a carefully balanced ecosystem. Expensive restaurants and apartments look out over the biosphere and most have public paths.
+- D. The ubiquitous Free Mass Transportation System (FEMTS) and private cars travel up and down inside the docking foils, transporting people back and forth to freighters. Automaton Hoppers are used for moving space crates.
 - E. The main living space is crisscrossed with tubes that carry traffic. Smaller tubes (not shown) stretch out from the main tubes like veins, reaching throughout the superstructure.
-- F. Pitlifter shuttles travel back and forth between planet surface and the Orbital. The Pitlifter always docks internally and near the living space.
+- F. Pitlifter shuttles travel back and forth between planet surface and the orbital. The Pitlifter usually docks internally and near the living space.
 - G. Internal space crate storage is expensive and normally only used by families, small businesses and spacecraft repair companies.
-- H. Spacecraft less than 2km in length can be accommodated in internal docking bays. This main reason to do this is for performing repairs in low-gravity atmosphere.
+- H. Spacecraft less than 2km in length can be accommodated in internal docking bays for repair.
 - I. Most space crates carrying large quantities of raw materials (which are cubes 10m to a side) are stored external on a docking foil. If tens of thousands of space crates are to be loaded or unloaded, then spacecraft are often docked onto this foil and are serviced by a huge swarm of Automaton Hoppers.
-- J. Engineering is where the Generators, Grav Engine, Grav Field Generators are located. It is the hub of repair and refurbishment, populated by enthusiasts under the pay of the Orbital. Engineering is off limits to the general public.
+- J. Engineering is where the generators and Grav engine are located. It is the hub of repair and refurbishment, populated by enthusiasts under the pay of the orbital. Engineering is off limits to the general public.
 
 ## Orbs
-An Orb is the largest construction the human race has ever made. The Orb is an inside-out planet. A huge hollow sphere where the people live on the inside. The inside surface of the Orb is often as large as a large moon and contains continents, mountains and oceans. A huge artificial and yet self-sufficient ecosystem exists on the inside of these massive structures. Gravity is produced by localised Grav field generators, making sure the inhabitants have a constant gravity downwards, keeping them on the inside of the sphere. The atmosphere is created and maintained by a series of atmosphere processing plants that exhaust through the oceans. 
+An orb is an inside-out planet, a huge hollow sphere where the people live on the inside. The inside surface of the orb is often as large as a large moon and contains continents, mountains and oceans; which supports a huge, artificial ecosystem. Gravity is produced by localised Grav field generators, making sure the inhabitants have a constant gravity downwards, keeping them on the inside of the sphere. The atmosphere is created and maintained by a series of atmosphere processing plants that exhaust through the oceans. 
 
-To give the inside a feeling of a planet, a huge light source (which is given a different name on each Orb, commonly known as The Solar) with a hood rotates in two axis in the middle of the Orb. This gives the appearance of light and dark. When looking 'up' on the Orb, you see the ground on the other side. During the day, the sun obscures the dark side of the world and the atmosphere gives a pleasant blue haze. Looking 'up' at night time, you will see a blue blur, without stars as if a moon was lighting high cloud.
+To give the inside a feeling of a planet, a huge light source (which is given a different name on each orb, commonly known as The Solar) with a hood rotates in two axis in the middle of the orb. This gives the appearance of light and dark. When looking 'up' on the orb, you see the ground on the other side. During the day, the sun obscures the dark side of the world and the atmosphere gives a pleasant blue haze. Looking 'up' at night time, you will see a blue blur, without stars as if a moon was lighting high cloud.
 
-The Orb is so large that the curvature of the surface is barely recognisable unless it is a clear day. Most people's day to day lives can be lead without ever realising they were not on a planet. Under the crust of the inner surface is a huge number of manufacturing bays and zero-g workshops. Massive transit tubes take FEMTS all over the orb.
+The Orb is so large that the curvature of the surface is barely recognisable unless it is a clear day. Most people's day to day lives can be lead without ever realising they were not on a planet. Under the crust of the inner surface is a huge number of manufacturing bays and zero-g workshops.
 
 ### Orb Segments
-An orb is made up of a huge number of triangular segments. Each segment has a very similar make-up. The diagram shows a cross section of the Orb. Transit tubes are used for moving around, although communities are created much like normal cities, towns and villages on any other planet. They are huge tube highways that curve throughout the structure of the Orb.
-Most people live in cities, towns and villages on the inside and commute to the outer skin. 
+An orb is made up of tens of thousands of triangular segments, each generating its own power and gravity. Transit tubes are used for moving around, although communities are created much like normal cities, towns and villages on any other planet. They are huge tube highways that curve throughout the structure below the ground level of the orb. Most people live in cities, towns and villages on the inside work below ground level. 
 
 ### Social Considerations
-Due to an Orb's size, there is more than enough room for everyone to live on the surface, regardless where they actually work. On a few desirably located Orbs, space can be at a premium and one can own a share of the surface. This makes the Orb much like any other planet, with large Mex cities for convenience and then out-of-the-way places of beauty for the rich.
+Due to an orb's size, there is more than enough room for everyone to live on the surface, regardless where they actually work. On a few desirably located orbs, space can be at a premium and one can own a share of the surface. This makes the orb much like any other planet, with large Mex cities for convenience and then out-of-the-way places of beauty for the rich.
 
 ### Psychological effects of living in an Orb
-Unlike on an Orbital, the inhabitants of an Orb are unlikely to become agoraphobic (fear of open spaces) as the surface provides a wide-open space, akin to a planet. Claustrophobia (fear of closed in spaces) is also unlikely as the human subconscious knows that it is on the inside of a giant marble. 
+Unlike on an orbital, the inhabitants of an Orb are unlikely to become agoraphobic (fear of open spaces) as the surface provides a wide-open space, akin to a planet. Claustrophobia (fear of closed in spaces) is also unlikely as the human subconscious knows that it is on the inside of a giant marble. 
 
-Where Orb dwellers have problems is with Convexophobia. Convexophobia is the irrational fear of slipping off a planet's surface. In an Orb, the ground curves up at the horizon (concave), giving it a bowl shape. On a planet surface, the ground curves down at the horizon (convex), giving the appearance that things can slide off the side of the sphere.
+Where orb dwellers have problems is with Convexophobia, which is the fear of slipping off a planet's surface. In an orb, the ground curves up at the horizon (concave), giving it a bowl shape. On a planet surface, the ground curves down at the horizon (convex), giving the appearance that things can slide off the side of the sphere.
 
 ### Orb Administration
-Due to its size and general resemblance of a planet, an Orb always has its own administration and will have a councillor on the seat of the controlling planet of the system. In systems where an Orb has a larger population than the planet colony it orbits, the Orb will have a Council.
+Due to its size and general resemblance of a planet, an orb always has its own administration and will have a councillor on the seat of the controlling planet of the system. In systems where an orb has a larger population than the planet colony it orbits, the orb will have a council.
 
-Charges for Orbs tend to be far lower than on an Orbital as there is so much more space. Also, they use a sliding scale. The longer you dock for, the cheaper it is. This sometimes leads to people abandoning craft on the Orb.
+Docking charges for orbs tend to be insignificant or non-existant as there is so much space to dock. This can lead to spacecraft being abandoned on an orb.
 
 ### Jungle Orbs
-When The Droid War started, many people fled Orbs in search of a safer planet surface; the rational fear being that Orbs were easier to destroy than an entire planet. As such Droids often left Orbs alone - their ecosystems intact. Left unchecked the wildlife of the inside of the Orb would spread throughout the superstructure. These Jungle Orbs often do have people living on them but life can be difficult there as the flora and fauna constantly encroaches on crops.
+When The Droid War started, many people fled orbs in search of a safer planet surface; the rational fear being that orbs were easier to destroy than an entire planet. As such Droids often left orbs alone - their ecosystems intact. Left unchecked the wildlife of the inside of the orb spread throughout the superstructure. These jungle orbs often do have people living on them but life can be difficult there as the flora and fauna constantly encroaches on crops and infrastructure.
 
-Jungle Orbs are rare in Sayshell and most common in Remmar and the edges of Dorian. As Jungle Orbs are often the product of a rapid mass evacuation, they often contain treasures abandoned by those too preoccupied with Armageddon to think about what is being left behind.
+Jungle orbs are rare in Sayshell and most common in Remmar and the edges of Dorian. As jungle orbs are often the product of a rapid mass evacuation, they often contain treasures abandoned by those too preoccupied with Armageddon to think about what is being left behind.
 
 ### Orbai
-The Orbai (pronounced Orb - eye) is the name given to the Artificially intelligent brain that controls the general running of the Orb. The Orbai is considered the same as the Artificial Intelligence on a spacecraft. The Orbai can be used as an information source for the inhabitants and normally has an avatar Automaton that represents it. 
+The Orbai (pronounced Orb - eye) is the name given to the artificially intelligent brain that controls the general running of the orb, like that of a spacecraft. The Orbai can be used as an information source for the inhabitants and normally has an automaton avatar that represents it. 
 
-The Orbai is very careful not to intrude into people's lives and only has sensors where it requires them for controlling the Orb. The Orbai is not allowed to go through Ascension and is capped at Artificial Intelligence Power 4 (see Artificial Intelligence Power on page 55).
+The Orbai is very careful not to intrude into people's lives and only has sensors where it requires them for controlling the orb. The orbai is not allowed to go through ascension and is capped at artificial intelligence Power 4 (see Artificial Intelligence Power on XXXXXX).
 
 ### The Orb Explained
-- A. Spacecraft less than 2km long can use the Radial Tunnels to enter the atmospheric area of the Orb. It is expensive to do so and not encouraged.
-- B. The Solar gives the Orb a day and night cycle. Normally it's set to 12-14 hours. For clarity the diagram shows daytime across the Orb but in reality, the right hand half of the Orb would be shrouded in darkness half the time. The sun is powered centrally and hangs on Grav, unsupported by wires. It lets out a Sun-like UV balanced light. Orb dwellers often proudly declare that twilight and dawn on an Orb is more beautiful than any in nature.
-- C. As the Orb is a fully functioning ecosystem, it also has clouds like any normal world. The atmosphere is regulated by carefully control plants and algae located under the seas. Orbs can be set up to be temperate, arid, cool or any combination of conditions.
-- D. A Mex city. People live in Orbs much like any other colony. Very few people live anywhere other than the surface.
-- E. Storage and heavy industry is found under the land mass, huge caverns that stretch for miles are organised entirely by an army of Automatons.
-- F. Crofts. An Orb has the advantage of being self-supporting by growing its own food. Croft output tends to be very high as the environment can be controlled with great ease compared to a planet's surface.
-- G. Radial Tunnels measure more than 5km in diameter and connect the outer skin to the inner atmosphere. They are used for spacecraft docking inside, service craft and pleasure trips.
-- H. Every Orb uses seas to help regulate the environment and provide a source of sustainable food in the form of plants and fish. Early on in an Orb's life, it is the seas that provide while the land gains it nutrients.
-- I. The area under the surface of the landmass is called the Hull. The hull is used for industry such as factories and raw material processing. Few people live in this area.
-- J. The outer Hull is where the Orb generates its power, contains its generators and Grav systems to maintain orbit. Unlike Orbitals, Orbs have millions of smaller generators and always produces a great deal more power than it needs. It also provides a place for most spacecraft to dock.
-- K. The Outer Skin is a 20km thick armoured metal skin, pock marked from years of meteorite impacts but tough enough to withstand collision with just about anything. Thousands of huge iris airlocks allow spacecraft through. Orbs are too large to have shields, so this thick skin is the only protection with space.
+- A. Spacecraft less than 2km long can use the radial tunnels to enter the atmospheric area of the orb. It is expensive to do so and not encouraged.
+- B. The Solar gives the orb a day and night cycle. Normally it's set to 12-14 hours. For clarity, the diagram shows daytime across the Orb but in reality, the right hand half of the orb would be shrouded in darkness half the time. The sun is powered centrally and hangs on Grav, unsupported by wires. It lets out a Sun-like UV balanced light. Orb dwellers often proudly declare that twilight and dawn on an orb is more beautiful than any in nature.
+- C. As the orb is a fully functioning ecosystem, it also has clouds like any normal world. The atmosphere is regulated by carefully control plants and algae located in the seas. Orbs can be set up to be temperate, arid, cool or any combination of conditions.
+- D. A Mex city. People live in orbs much like any other colony. Very few people live anywhere other than the surface.
+- E. Storage and heavy industry is found under the land mass, huge caverns that stretch for miles are organised entirely by an army of automatons.
+- F. Crofts. An orb has the advantage of being self-supporting by growing its own food. Croft output tends to be very high as the environment can be controlled with great ease compared to a planet's surface.
+- G. Radial tunnels measure more than 5km in diameter and connect the outer skin to the inner atmosphere. They are used for spacecraft docking inside, service craft and pleasure trips.
+- H. Every orb uses seas to help regulate the environment and provide a source of sustainable food in the form of plants and fish. Early on in an orb's life, it is the seas that provide while the land gains it nutrients.
+- I. The area under the surface of the landmass is called the hull. The hull is used for industry such as factories and raw material processing. Few people live in this area.
+- J. The outer hull is where the Orb generates its power, contains its generators and Grav systems to maintain orbit. Unlike Orbitals, Orbs have millions of smaller generators and always produces a great deal more power than it needs. It also provides a place for most spacecraft to dock.
+- K. The outer skin is a 20km thick armoured metal skin, pock marked from years of meteorite impacts but tough enough to withstand collision with just about anything. Thousands of huge iris airlocks allow spacecraft through. Orbs are too large to have shields, so this thick skin is the only protection with space.
 
 # Space Travel
-Since mankind strode upright and gazed upon the night sky it has wondered what it would be like to visit the tiny points of light that hung overhead. Space Travel is commonly available though generally unused by the bulk of the populace. Space travel is either a requirement of work, a lifestyle or used for entertainment purposes. Purely recreational planet hopping is rare. The instability of the space-time continuum causes many dangerous places called Void Faults. Most are charted and can be avoided. Some can be detected from a distance (in time or space), others come and go at such speed, that the craft can be enveloped by them before they can be avoided.
+Since mankind strode upright and gazed up at the night sky it has wondered what it would be like to visit the tiny points of light that hung overhead. Space travel is commonly available though only 30% regularly travel. Space travel can be a requirement of work, a lifestyle choice or used for entertainment purposes. Spacecraft do not require fuel, have an artificial gravity and there are no ill effects to light jumping.
 
-Travelling in space will inherently involve a few calculations. To keep them simple, travel operates in multiples of an hour. There are many facts and figures scattered through this section. They are collated at the end for easy reference.
+The space-time continuum is littered with dangerous faults, most of which are charted and avoided. Some come and go at such speed, that the craft can be enveloped by them before they can be avoided. Even after 90,000 years of space travel, this danger gives space travel a sense of danger.
 
 ## How to read Sector maps
 The Sector maps from Human Occupied Space can be found in the Appendix. The map below shows a portion of Remmar. Space is curved and not two dimensional so the maps are an approximation to reality.
+
+> Remmar Sector part map
 
 - A. Cluster. The coloured blobs are clusters and the white between them are notional edges of those clusters. The nearer to red (or darker the grey) the Cluster is, the more colonies it has. A colony can number only 100 people, but it still counds.
 - B. Named Cluster. Some of the maps have named Clusters. These named Clusters are described in this book. Only Anadar has a full description as it is the Cluster used in the included Scavenger Setting.
