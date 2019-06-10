@@ -486,7 +486,7 @@ The Orbai is very careful not to intrude into people's lives and only has sensor
 - K. The outer skin is a 20km thick armoured metal skin, pock marked from years of meteorite impacts but tough enough to withstand collision with just about anything. Thousands of huge iris airlocks allow spacecraft through. Orbs are too large to have shields, so this thick skin is the only protection with space.
 
 # Space Travel
-Since mankind strode upright and gazed up at the night sky it has wondered what it would be like to visit the tiny points of light that hung overhead. Space travel is commonly available though only 30% regularly travel. Space travel can be a requirement of work, a lifestyle choice or used for entertainment purposes. Spacecraft do not require fuel, have an artificial gravity and there are no ill effects to light jumping.
+Since mankind strode upright and gazed up at the night sky it has wondered what it would be like to visit the tiny points of light that hung overhead. Space travel is commonly available though only 30% regularly travel. Space travel can be a requirement of work, a lifestyle choice or used for entertainment purposes. Spacecraft do not require fuel, have an artificial gravity and there are no ill effects to light jumping. Travel is cheap, most can afford a comfortable bunk, albeit on an indirect route with a few changes (price list in appendix).
 
 The space-time continuum is littered with dangerous faults, most of which are charted and avoided. Some come and go at such speed, that the craft can be enveloped by them before they can be avoided. Even after 90,000 years of space travel, this danger gives space travel a sense of danger.
 
@@ -554,41 +554,35 @@ _Void Rescue_ is a spacecraft breakdown service but the name is used for all res
 
 _Deep Space Scavengers_ are explorers who find, repair and return (or sell) valuable items from the millions of abandoned systems, spacecraft, orbitals and orbs. Scavengers are the topic of the included setting, see XXXXXXXX.
 
-## Cost of Space Travel
-Space Travel is cheap and available to the masses. There are nearly always spacecraft berths available, although it can be difficult finding a spacecraft on a direct route. In most cases, the traveller will change at a large terminus Orbital. Costs of travel do change with location, the numbers given here are for a typical colony.
-
-| XXXXXXX
-
 ## Buying your own Spacecraft
-Brand new spacecraft are very expensive and the Imperium has outlawed loans. How you get hold of a spacecraft depends on what it is going to be used for. The most popular ways of getting hold of a spacecraft are (most expensive first):
-- *Buy new from the manufacturer*. Spacecraft can cost millions, so this is only for large corporations or the super rich.
-- *Buying second hand from a corporation*. Spacecraft are still expensive at 50% of the new price but for small corporations, this is often the best way.
+Brand new spacecraft are very expensive and the Imperium has outlawed interest loans. The most popular ways of getting hold of a spacecraft are (most expensive first):
+
+- *Buy new from the manufacturer*. Spacecraft can cost millions. A wealthy benefactor may gift you the spacecraft.
+- *Buying second hand from a corporation*. Spacecraft are still expensive at 30% of the brand new price but for small corporations, this is often the best way.
 - *Operate a Spacecraft for a Trade Company*. Trade Companies loan spacecraft to crews and require a minimum amount of return each month. The better the craft on loan, the more return required.
 - *Buy a junker*. The best entry level spacecraft is an old refurbished  junker. These spacecraft come with only the basics but can be bought for as little as 25 000. Of course, you might spend a lot of time repairing the junker and it will not be as fast as a new craft but it will get you about.
+- *Find your own salvage*. There are always spacecraft that were abandoned as the Droids spread across Human Occupied Space. Salvaged craft are free will need the most technical skill to get them running.
 
 ## The Starbus
-The Starbus a public transport network that connects major systems and clusters together. It acts as slow, reliable and cheap transportation through the void. Starbuses are huge spacecraft that are more like permanently moving villages than spacecraft. As such the Starbus self-organises by wealth with the rich and poor being entertained in different areas. The Starbus is so large that they never go down to the surface of the planet but instead are served by Pitlifter shuttle craft (many have their own). 
+The Starbus is a public transport network that connects major systems and clusters together. It is slow, reliable and cheap transportation through the void. The Starbuses are huge spacecraft and like orbitals they self-organised into village zones such that the rich separate themselves from the poor. The Starbus is so large that they never go down to the surface of the planet but instead are served by Pitlifter shuttle craft (many have their own). 
 
-Every Starbus has a limited number of berths that are set aside for free travel. The births are communal and cramp but the atmosphere is fun and free. Most Star Buses cap the time you can spent in a communal bunk to 1 month but this is rarely checked and it is common for some people to live for their whole lives in Communal bunks.
-
-The Starbus also carries cargo but it tends to be the personal items owned by passengers.
-
-## Void Rescue
+Every Starbus has a number of berths that are set aside for free travel. The births are communal and comparatively cramped but the atmosphere is fun and free. Most Starbuses have a notion that the maximum time you can spend in a communal bunk is 1 month, but this is rarely enforced and it is common for some people to live for most of their lives this way.
 
 ### Starbus Naturals
 Starbus Naturals is the name given to people who permanently stay on a Starbus, using it as a means to see the Galaxy. A Starbus's route often rarely circles back on the same system, it is a good way to see lots of different places. Naturals are considered part of the crew and family, although they serve no function but to pay their way.
 
-### Costs and Durations
-The Starbus is a great deal slower than chartering your own spacecraft. The table below shows the costs and durations for different berths on the Starbus. Communal berths are free and cramps, a single room sleeps just one person, a suite is much larger and can sleep up to 4 - with a squeeze. Planetary travel is between planet orbits, Orbs and Orbitals. System travel is between two systems in the same cluster. Cluster travel is between two clusters. Intersector travel is not listed because the Starbus would take many months to cross into another Sector. If you want to change Sector, your best bet is to charter. For the price list see Travel - Star Bus on page 161.
+## Void Rescue
+Void Rescue is the space rescue service. If your spacecraft has broken down, you can call Void Rescue to come and help. With over 1 million spacecraft across all Human Occupied Space, their yellow and black stripes are instantly recognisable and affectionately known as Bees. The crews are highly trained engineers, who can help find problems with your spacecraft. Most trade spacecraft have Void Rescue insurance cover and some colonies require it before awarding a trade contract.
 
 ## Spaceflight Types
-Faster than light travel has been a goal of the human race since the laws of physics made the speed of light a boundary. In normal space, it is a boundary but there is more to the space-time continuum than just normal space. This section will stay as free from science as possible. Every trans-light vehicle is given a light jump speed. This speed is the number of boxes on a cluster map the craft can go in 1 hour. A cluster is approximately 20 squares in diameter. Use this a rule of thumb for unknown clusters or the actual cluster pictures for use.
+Faster than light travel has been a goal of the human race since the laws of physics made the speed of light a boundary. In normal space, it is a boundary but there is more to the space-time continuum than just normal space. Every trans-light vehicle is given a light jump speed. This speed is the number of boxes on a cluster map the craft can go in 1 hour. A cluster is approximately 20 squares in diameter. Use this a rule of thumb for unknown clusters.
 
 ### Grav
-When travelling between ground, space and between planets in a system, Grav is used. Grav works by 'surfing' down the waves created by celestial objects (stars, planets and moons). With Grav, it takes approximately 1 hour to travel between planets, 10 minutes between a planet and a moon. These figures are ship-independent as the waves that the Grav surfs on are the same for all the different craft. The time from low orbit to planet (or vice versa) depends on the power of the Grav engine and varies from ship to ship. It's normally about 4 hours. The time between Low and High Orbit is small and thus can be ignored.
+When travelling between ground, space and between planets in a system, Grav is used. Grav works by 'surfing' down the gravitational waves created by celestial objects (stars, planets and moons). With Grav, it takes approximately 1 hour to travel between planets, 10 minutes between a planet and a moon. These figures shift depending on the power of the Grav engine, the physical characteristics of the craft and the system. The time from low orbit to planet (or vice versa) depends on the power of the Grav engine and varies from ship to ship. It's normally about an hour. The time between low and high orbit is small and thus can be ignored.
+
 Grav suffers from zero gravity deficiency. This means that if the Grav engine is in a place where the gravities of objects around it cancel out. This dead zone is rare and is unlikely to last for very long but will cause the Grav ship to be stranded.
 
-### light jump
+### Light Jump
 A light jump is a method of traversing a huge distance of space in a fixed amount of time. A jump lasts one hour. At the end of which, you can jump again. The jump is in a straight line (there is no such thing as a straight line as space is curved, but simplified for ease here). All jumps last one hour, the faster the ship is, the further you go. This is because the ship takes most of this hour to accelerate and the major part of the travelling is done in the last ten seconds. Thus, if a ship can go at 20 and needs only to jump 10, it will still take an hour. All of the calculations required to cover long distances are performed by an AI and thus the crew of the ship can rest or perform other tasks while the vessel is in transit.
 
 For a light jump engine to form a bubble in which to jump, it needs to be in a gravitational low. This means away from any system or large celestial objects and clear of other craft (by 1 minute). 1 hour outside of system space is typical. Thus, a light jump can only be performed in dead space. This is a pain because you need to travel to the edge of the system before you can leave.

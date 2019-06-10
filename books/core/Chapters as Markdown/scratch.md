@@ -122,7 +122,7 @@ run on Grav and are not directly to connected to the building, so there are many
 
 They are best thought of as independent Grav Vehicles that mainly travel vertically. Lifts travel at great speeds and one can travel at up to 20 meters per second (4 floors a second or 12 floors a game turn). Each lift has a powerful gravity field generator that keeps the occupants safe from the affects of huge accelerations. Lifts can pass each other in a corner, allowing lifts to overtake each other.
 
-## traffic
+## Traffic
 
 For those who can afford their own personal transport, there are flying cars called Grav cars are used to move people around. As the volume of traffic in central areas of a city can be extremely heavy, people often choose to walk instead of driving.
 Grav Cars fly through the city in lanes. Flying through the Mex City can be quite stressful to do at speed, so most people will switch on the Grav Car artificial intelligence and let it drive for them - picking the quickest route. An artificial intelligence will not break any driving laws and for those who want to dash through the City, they can drive on Manual (Pilot Grav skill check).
@@ -145,3 +145,6 @@ A courier picks up an item from one client and delivers it to another. They are 
 There are billions of tonnes of abandoned treasure, and junk worth money. A Deep Space Scavenger's (Scavengers) job is to find, repair and return for sale. Seen as the lowest of the low when it comes to ship crews, Scavengers spend their time in dangerous wrecks, hunting out cargo and objects of value. 
 
 Within these floating shipwrecks could be any manner of dangers, from traps rigged by paranoid crew members on leaving the wreck to other Scavenger teams. The example setting pits you as one of these crews. See Scavenger Setting on page 97.
+
+## Cost of Space Travel
+Space Travel is cheap and available to the masses. There are nearly always spacecraft berths available, although it can be difficult finding a spacecraft on a direct route. In most cases, the traveller will change at a large terminus orbital. Supply and demand 
