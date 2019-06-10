@@ -57,7 +57,7 @@ At the start of The Droid War, the Droids could program other machines to turn a
 'Droid' is a specific name for this particular race of killing machines. Not all robots are Droids, only those programmed to kill are called Droids. More information on this distinction can be found in the Automatons section.
 
 ## Human Occupied Space
-A small proportion of the Milky Way is controlled and inhabited by humans. The area of human Occupied Space (HOS) is split into three sectors: Sayshell, Dorian and Remmar. Humanity is in a post-war era of rebuilding and consolidation. All that separates the humans and Droids is an invisible Light Jump Net: A web that leeches energy from spacecraft travelling faster than the speed of light. While recharging, humans intercept and destroy the Droid spacecraft. Human Occupied Space is controlled by a benevolent organisation called The Imperium, without which chaos would reign and the Droids would surely invade and overwhelm.
+A small proportion of the Milky Way is controlled and inhabited by humans. The area of human Occupied Space (HOS) is split into three sectors: Sayshell, Dorian and Remmar. Humanity is in a post-war era of rebuilding and consolidation. All that separates the humans and Droids is an invisible light jump Net: A web that leeches energy from spacecraft travelling faster than the speed of light. While recharging, humans intercept and destroy the Droid spacecraft. Human Occupied Space is controlled by a benevolent organisation called The Imperium, without which chaos would reign and the Droids would surely invade and overwhelm.
 
 # The Imperium
 The Imperium is a benevolent empire that is the guardian of the human race. The Imperium consists of a set of Chambers, each overseeing a particular area of the Imperium's operation. Overall power is assigned to an Empress who is arbiter and leader. The core of the Imperium is a small organisation, employing only twenty thousand people. However, the Imperium has direct control of the Star Industries, military organisations under the control of The Imperium who are the real power. The Star Industries are Star Fleet, Star Scientifica, Star Enforcers and Star Civilisation
@@ -88,12 +88,12 @@ The Imperium is based in a crescent of systems in Remmar called The Imperial Cre
 ## Star Fleet
 Star Fleet is a spacecraft fleet that defend the human race against the Droids. The Fleet is split into three Commands: Battle Command, Support Command and Deep Space Command. Battle Command consists of all the spacecraft and warriors that do the fighting. Support Command deals with the logistics of keeping the Battle Command supplied and repaired. The secretive Deep Space Command is used for exploration, Recon and information gathering. They operate far outside of Human Occupied Space.
 
-Star Fleet is equipped with the pinnacle of human technology to combat the Droids and has discovered tactics and methods for defeating them even when grossly outnumbered. Many of the spacecraft in the Fleet (ranging from massive hulks down to tiny skiffs) spend their time patrolling the Light Jump Nets which surround the edges of the sectors that border with the Droids, waiting for any spacecraft to be caught in the Net. Star Fleet's foot soldiers are a legion of power armoured knights called Troopers, a select few of which become highly trained Special Forces and the very best are made into the Elite. Troopers are not grunts, they are highly educated, trained and professional fighting force.
+Star Fleet is equipped with the pinnacle of human technology to combat the Droids and has discovered tactics and methods for defeating them even when grossly outnumbered. Many of the spacecraft in the Fleet (ranging from massive hulks down to tiny skiffs) spend their time patrolling the light jump Nets which surround the edges of the sectors that border with the Droids, waiting for any spacecraft to be caught in the Net. Star Fleet's foot soldiers are a legion of power armoured knights called Troopers, a select few of which become highly trained Special Forces and the very best are made into the Elite. Troopers are not grunts, they are highly educated, trained and professional fighting force.
 
 The Fleet is based in the Turus cluster in Sayshell and have vowed that Sayshell will never fall to the Droids. The public rarely sees Star Fleet except when broadcasted by the Gaian news programmes. Gritty battles remain unedited at the request of The Fleet. Colonies with a strong leisure community are chosen for leisure time for the crews. Troopers and pilots like to party and often take over bars, clubs and entire pleasure resorts. 
 
 ### Star Fleet and the general public
-Civilian spacecraft Captains running expeditionary missions across the Light Jump Net will be scanned by Star Fleet as they re-enter Human Occupied Space. Although The Fleet is looking for the presence of Droids on board they will also scan for other illegal items but will hand the information to the Star Enforcers rather than spending time enforcing the law. The vast majority of the general public bear enormous respect for the members of The Fleet and appreciate the work that they do. It is common for a member of the public to approach a member of the Star Fleet and offer to buy them a drink, shake their hand or thank them.
+Civilian spacecraft Captains running expeditionary missions across the light jump Net will be scanned by Star Fleet as they re-enter Human Occupied Space. Although The Fleet is looking for the presence of Droids on board they will also scan for other illegal items but will hand the information to the Star Enforcers rather than spending time enforcing the law. The vast majority of the general public bear enormous respect for the members of The Fleet and appreciate the work that they do. It is common for a member of the public to approach a member of the Star Fleet and offer to buy them a drink, shake their hand or thank them.
 
 ## Star Scientifica
 With colonies spread across such huge distances, scientific discoveries took many years to proliferate throughout humanity. Star Scientifica (Star Sci) was formed to be the centre of academic wisdom and research. Many of the great scientists flocked to be part of the Imperium funded research. 
@@ -171,7 +171,7 @@ Lady Crowell emerged as a candidate from one of Remmar's wealthy construction fa
 ### Lady Berrinda
 Lady Berrinda is as fierce as her reputation. A fiery Character who throws her power and weight behind causes she believes in. Lady Berrinda spends most of her time at fledgling colonies, bringing resources, trade routes and expertise. This usually accelerates the growth of a colony and a failure is rare.
 
-Lady Berrinda came to Emperor Morius's attention when she led a fleet of 25 hulk freighters through 12 clusters of Droid space to safety. Having saved millions of lives, Lady Berrinda was ready to head back when she was force by Imperial decree to become a Peer. Legend has it that she flew into a rage and threw a chair through a stained glass window. Morius appeased her by giving her clusters along the Light Jump Net edge of Remmar Sector (the Typhon side), making her a patron of the Fringe. Technologist philosophy.
+Lady Berrinda came to Emperor Morius's attention when she led a fleet of 25 hulk freighters through 12 clusters of Droid space to safety. Having saved millions of lives, Lady Berrinda was ready to head back when she was force by Imperial decree to become a Peer. Legend has it that she flew into a rage and threw a chair through a stained glass window. Morius appeased her by giving her clusters along the light jump Net edge of Remmar Sector (the Typhon side), making her a patron of the Fringe. Technologist philosophy.
 
 ### Lady Axa Erland
 Lady Erland is the Imperial Peer in charge of the Akarak Nation. Although appointed by the Empress, Lady Erland was drawn from the Akarakian Elders. Lady Erland is a typical Akarakian and strictly follows the three tenets of hard work, expansion of the mind and a pragmatic view that the end justifies the means. For more detail see Akarak Nation XXXX.
@@ -194,14 +194,14 @@ Corporations tread a fine line between exploiting colonies and providing for the
 Most Local and few Intercluster Corporations fund secret 'Black Mill' subsidiaries to influence the markets, steal secrets from competitors, entice employees, and even cause damage to other companies. Although illegal, Black Mills have become expert in evading the Star Enforcers. Black Mills use the Undergaia to arrange missions, hire mercenaries and exchange private corporate data. In many cases they are indistinguishable from syndicates.
 
 # The Sectors
-The galactic arm is split into Sectors. Each sector began life as an administrative zone, which then grew into a place with an identity of its own. Since The Droid War, all but three sectors fell to the Droids. The Imperium built Light Jump Nets along the borders of each of the human occupied space sectors to stop the Droid ships just long enough for the Star Fleet to intercept.
+The galactic arm is split into Sectors. Each sector began life as an administrative zone, which then grew into a place with an identity of its own. Since The Droid War, all but three sectors fell to the Droids. The Imperium built light jump Nets along the borders of each of the human occupied space sectors to stop the Droid ships just long enough for the Star Fleet to intercept.
 
 The three sectors under human control are Sayshell, Dorian and Remmar. Sayshell is the home of Star Fleet and having never fallen to the Droids, it is the safest, wealthiest and most cultured sector. Dorian holds the reigns of production. Remmar, newly retaken from the Droids is the sector of expansion and new opportunities. Sectors can be further broken down into clusters.
 
-Separating the sectors from the Fringe and Droid space is a Light Jump Net. This net will stop any craft Light Jumping through it in either direction. If a spacecraft Light Jumps though this one light-year thick barrier, it will be pulled out of its jump and all craft nearby (including Star Fleet) are automatically notified.
+Separating the sectors from the Fringe and Droid space is a light jump Net. This net will stop any craft light jumping through it in either direction. If a spacecraft light jumps though this one light-year thick barrier, it will be pulled out of its jump and all craft nearby (including Star Fleet) are automatically notified.
 
 ## The Anatomy of a Sector
-A sector is represented as a flat map taken from above (looking down on the plane the galaxy spins in). A sector is made from a mosaic of clusters: groups of stars that due to their proximity share a common culture and economy. In ancient times, a cluster would be considered a nation. As you move away from the centre of the arm, the number of systems diminishes and clusters are spread far apart. Light jumping spacecraft take longer to travel between stars in The Fringe and Lone Systems.
+A sector is represented as a flat map taken from above (looking down on the plane the galaxy spins in). A sector is made from a mosaic of clusters: groups of stars that due to their proximity share a common culture and economy. In ancient times, a cluster would be considered a nation. As you move away from the centre of the arm, the number of systems diminishes and clusters are spread far apart. light jumping spacecraft take longer to travel between stars in The Fringe and Lone Systems.
 
 > CLUSTER PICTURE XXXX
 
@@ -209,7 +209,7 @@ The Central Arm: The central arm is the name given to the bright section running
 
 Clusters: A line between each of the sections are the markings defining clusters. Those clusters that are dark have many stars (up to 30), the lighter have fewer (5). Detailed descriptions for the Anadar cluster is included in the Scavenger Setting on page XXXX.
 
-The Fringe: The area outside the Light Jump Net is the top and bottom edges of the image. The exception to this is the white line, which shows the Light Jump Net.
+The Fringe: The area outside the light jump Net is the top and bottom edges of the image. The exception to this is the white line, which shows the light jump Net.
 
 The Lone Systems: Those systems on the very edge of the galaxy are far from Imperial control. A good definition for what makes a Lone System is that it takes at least ten days to travel to a Lone System.
 
@@ -496,22 +496,22 @@ The Sector maps from Human Occupied Space can be found in the Appendix. The map 
 > Remmar Sector part map
 
 - A. Cluster. The coloured blobs are clusters and the white between them are notional edges of those clusters. The nearer to red (or darker the grey) the Cluster is, the more colonies it has. A colony can number only 100 people, but it still counds.
-- B. Named Cluster. Some of the maps have named Clusters. These named Clusters are described in this book. Only Anadar has a full description as it is the Cluster used in the included Scavenger Setting.
+- B. Named Cluster. Only Anadar has a full description as it is the Cluster used in the included Scavenger Setting. A brief description can be found on each; more information on the Icar website.
 - C. The Zero Line. The Zero Line is a grey line that runs down the centre of the galactic arm. It represents 0 in the grid. 
 - D. Rim 1. As an example, the horizontal line underneath 'D' is the first line towards the Rim.
 - E. Spin line. The vertical lines are spin lines, and number 'up' from right to left. The spin lines are labelled along the bottom of the graph and are not shown here for simplicity.
 
 ## Using the Grid
-The grid is used for finding Clusters. The horizontal lines are called either Hub or Rim lines. The lines above the white Zero Line are Hub lines. This is because if you carried on in that direction, you would head toward the centre of the galaxy. Horizontal lines below the Zero Line are Rim lines. This is because if you headed in that direction (down the page), you would be heading out of the galaxy. The Vertical Lines are Spin Lines and they number right to left.
+The grid is used for finding clusters. The horizontal lines are called either hub or rim lines. The lines above the white zero line are hub lines. This is because if you carried on in that direction, you would head toward the centre of the galaxy. Horizontal lines below the zero line are rim lines. This is because if you headed in that direction (down the page), you would be heading out of the galaxy. The vertical lines are spin lines and they number right to left.
 
-To locate a Cluster, first find the nearest horizontal Hub or Rim line. If it sits between two lines, choose the line nearest the Zero Line and call it 'middle'. Next, you find the nearest vertical Spin line and if it sits between two, choose the lowest value and call it 'Middle'.
+To locate a Cluster, first find the nearest horizontal hub or rim line. If it sits between two lines, choose the line nearest the zero and call it 'middle'. Next, you find the nearest vertical spin line and if it sits between two, choose the lowest value and call it 'middle'.
 
-> For example, the Cluster labelled by 'A' sits between Rim lines 2 and 3. As the vertical Spin lines are not numbered on this example, assume its Spin line is 23. Therefore, the Cluster Location would be: Rim 2 Middle, Spin 23.
+> For example, the cluster labelled by 'A' sits between rim lines 2 and 3. As the vertical spin lines are not numbered on this example, assume its spin line is 23. Therefore, the cluster location would be: Rim 2 Middle, Spin 23.
 
-If the Cluster sits on the Zero Line, it's called 'Zero'. If it sits between the Zero Line and either Hub 1 or Rim 1, it is called Hub 0 Middle or Rim 0 Middle.
+If the cluster sits on the zero Line, it's called 'Zero'. If it sits between the zero line and either hub 1 or rim 1, it is called 'Hub 0 Middle' or 'Rim 0 Middle'.
 
 ## Examples of Named Clusters
-For more examples, here are the grid locations for all of the named Clusters. You can find the Sector Maps in the Appendix. The Sectors are included for ease but they are not required as the Spin lines will give you the Sector you are in.
+For more examples, here are the grid locations for all of the named clusters. You can find the sector Maps in the appendix. The sectors are included for ease but they are not required as the spin lines will give you the Sector you are in.
 
 ### Remmar Sector
 - Juno Cluster: Hub 1 Middle, Spin 22
@@ -532,39 +532,34 @@ For more examples, here are the grid locations for all of the named Clusters. Yo
 - Baeleris: Rim 2, Spin 74
 
 ## Reading Cluster Maps
-A Cluster map shows the locations of systems and other features within a Cluster. Cluster maps are based on a 20 sided grid. Each box on the Cluster map represents one Light Jump unit. In one hour, you can move up to as many squares on this map as you have Light Jump on your spacecraft. All jumps take at least one hour.
+A cluster map shows the locations of systems and other features within a cluster. Cluster maps are based on a 20 sided grid. Each box on the cluster map represents one light lump unit. In one hour, you can move up to as many squares on this map as you have light jump on your spacecraft. All jumps take at least one hour.
 
 ## Classifying Space
-Before you can explore it, you need to know what you are dealing with. Space is classified depending on what is round it. Here are the main classifications of space:
+Before you can explore it, you need to know what you are dealing with. Space is classified depending on what is round it:
 
 - *Atmosphere*. Not strictly space as such but the first step one must make before getting there. Atmosphere is classed as the first 20km between the lowest point on the surface (sea level) and space.
-- *Low Orbit*. Between 20km and 500km is low orbit. If a craft is not atmosphere capable, then this is the nearest to the surface it can get. Most large vessels use this altitude for the loading and unloading of cargo, although the expense of doing so is often prohibitive.
-- *High Orbit*. From 500km to 1000km is known as High Orbit. This is where the Orbitals exist and where Point To Point Light Jumps can be performed from.
+- *Low Orbit*. Between 20km and 500km is low orbit. If a craft is not atmosphere capable, then this is the nearest to the surface it can get. Most large vessels use this altitude for the loading and unloading of cargo. There's usually a fee for parking in low orbit.
+- *High Orbit*. From 500km to 1000km is known as high orbit. This is where the Orbitals exist and where Point To Point light jumps can be performed from. There's no charge for staying in high orbit.
 - *System Space*. Within the outermost planet's orbit around a star is system space. In a place with few planets, the edge of system space depends on the gravitational pull of the star.
-- *Dead Space*. Dead space is the area that is not governed gravitationally by a star or its planets; the force provided by them is too weak to be useful to a non-Light Jump Grav engine. Most of space is dead space but you have to go a long way from a star to be in it.
+- *Dead Space*. Dead space is the area that is not governed gravitationally by a star or its planets; the force provided by them is too weak to be useful to a non-light jump Grav engine. Most of the universe is dead space but you have to go a long way from a star to be in it.
 
 ## Jobs in space
-Travellers are often grouped by the job that they perform. Most regular travellers through space operate as part of a crew on a star craft. Although the particular jobs on each craft are varied - from medic through to pilot - the crew are normally classified by the job that the ship does. A few examples of these tasks are given below.
+Aside from Star Enforcer police in Human Occupied Space and the Star Fleet outside of it, there are lots of ways to earn a living in space.
 
-### Imperial
-The Imperium has 2 separate fleets. The largest Fleet is operated by the Star Enforcers and is used by Star Enforcers, Star Civilisation and Star Scientifica. The craft are mostly used for chasing criminals and for dealing with Pirates. Not all of the Enforcer fleet is well armed and are a mix of purpose built and converted civilian craft. The other fleet, The Star Fleet, is purpose built and created from the very best technology the Imperium has to offer. The crews are all Fleet personnel and represent a complete fighting force from fighter pilots to soldiers (called Troopers).
+_Traders_ move goods between systems; where possible for profit and also because a colony council pays them to do so. Half of trader Captains own their own craft; the other half belong to a co-operative trade corporation. Traders also carry passengers for a modest fee.
 
-### Trade
-In this case, the term Trade is a very broad one. A craft that moves any item from A to B is considered a trade one. A trade vessel carries freight (raw materials or tech) or passengers.  Typically, a depicts the type of cargo it caries. 
-For example, Ore freighters tend to be large and dirty, with large industrial automaton equipment. Tech traders tend to be smaller, high tech craft! The dynamics of space trade itself is dealt with later.
+_Couriers_ move high value items for their wealthy clientele. Most couriers book travel on other spacecraft; the more successful own their own, highly specialised craft.
 
-### Courier
-A courier picks up an item from one client and delivers it to another. They are more expensive than traders but give a more personalised hand-to-hand service: important for expensive or personal items. A courier is a regular space traveller and will build up a clientele of corporate and non-corporate customers. Excellent service will build a good name and this is essential for a successful courier.
+_Void Rescue_ is a spacecraft breakdown service but the name is used for all rescue services. More on Void Rescue below. XXXXXXXX
 
-### Deep Space Scavenger Crew
-There are billions of tonnes of abandoned treasure, and junk worth money. A Deep Space Scavenger's (Scavengers) job is to find, repair and return for sale. Seen as the lowest of the low when it comes to ship crews, Scavengers spend their time in dangerous wrecks, hunting out cargo and objects of value. 
-
-Within these floating shipwrecks could be any manner of dangers, from traps rigged by paranoid crew members on leaving the wreck to other Scavenger teams. The example setting pits you as one of these crews. See Scavenger Setting on page 97.
+_Deep Space Scavengers_ are explorers who find, repair and return (or sell) valuable items from the millions of abandoned systems, spacecraft, orbitals and orbs. Scavengers are the topic of the included setting, see XXXXXXXX.
 
 ## Cost of Space Travel
 Space Travel is cheap and available to the masses. There are nearly always spacecraft berths available, although it can be difficult finding a spacecraft on a direct route. In most cases, the traveller will change at a large terminus Orbital. Costs of travel do change with location, the numbers given here are for a typical colony.
 
-### Buying your own Spacecraft
+| XXXXXXX
+
+## Buying your own Spacecraft
 Brand new spacecraft are very expensive and the Imperium has outlawed loans. How you get hold of a spacecraft depends on what it is going to be used for. The most popular ways of getting hold of a spacecraft are (most expensive first):
 - *Buy new from the manufacturer*. Spacecraft can cost millions, so this is only for large corporations or the super rich.
 - *Buying second hand from a corporation*. Spacecraft are still expensive at 50% of the new price but for small corporations, this is often the best way.
@@ -578,6 +573,8 @@ Every Starbus has a limited number of berths that are set aside for free travel.
 
 The Starbus also carries cargo but it tends to be the personal items owned by passengers.
 
+## Void Rescue
+
 ### Starbus Naturals
 Starbus Naturals is the name given to people who permanently stay on a Starbus, using it as a means to see the Galaxy. A Starbus's route often rarely circles back on the same system, it is a good way to see lots of different places. Naturals are considered part of the crew and family, although they serve no function but to pay their way.
 
@@ -585,23 +582,23 @@ Starbus Naturals is the name given to people who permanently stay on a Starbus, 
 The Starbus is a great deal slower than chartering your own spacecraft. The table below shows the costs and durations for different berths on the Starbus. Communal berths are free and cramps, a single room sleeps just one person, a suite is much larger and can sleep up to 4 - with a squeeze. Planetary travel is between planet orbits, Orbs and Orbitals. System travel is between two systems in the same cluster. Cluster travel is between two clusters. Intersector travel is not listed because the Starbus would take many months to cross into another Sector. If you want to change Sector, your best bet is to charter. For the price list see Travel - Star Bus on page 161.
 
 ## Spaceflight Types
-Faster than light travel has been a goal of the human race since the laws of physics made the speed of light a boundary. In normal space, it is a boundary but there is more to the space-time continuum than just normal space. This section will stay as free from science as possible. Every trans-light vehicle is given a Light Jump speed. This speed is the number of boxes on a cluster map the craft can go in 1 hour. A cluster is approximately 20 squares in diameter. Use this a rule of thumb for unknown clusters or the actual cluster pictures for use.
+Faster than light travel has been a goal of the human race since the laws of physics made the speed of light a boundary. In normal space, it is a boundary but there is more to the space-time continuum than just normal space. This section will stay as free from science as possible. Every trans-light vehicle is given a light jump speed. This speed is the number of boxes on a cluster map the craft can go in 1 hour. A cluster is approximately 20 squares in diameter. Use this a rule of thumb for unknown clusters or the actual cluster pictures for use.
 
 ### Grav
 When travelling between ground, space and between planets in a system, Grav is used. Grav works by 'surfing' down the waves created by celestial objects (stars, planets and moons). With Grav, it takes approximately 1 hour to travel between planets, 10 minutes between a planet and a moon. These figures are ship-independent as the waves that the Grav surfs on are the same for all the different craft. The time from low orbit to planet (or vice versa) depends on the power of the Grav engine and varies from ship to ship. It's normally about 4 hours. The time between Low and High Orbit is small and thus can be ignored.
 Grav suffers from zero gravity deficiency. This means that if the Grav engine is in a place where the gravities of objects around it cancel out. This dead zone is rare and is unlikely to last for very long but will cause the Grav ship to be stranded.
 
-### Light Jump
-A Light Jump is a method of traversing a huge distance of space in a fixed amount of time. A jump lasts one hour. At the end of which, you can jump again. The jump is in a straight line (there is no such thing as a straight line as space is curved, but simplified for ease here). All jumps last one hour, the faster the ship is, the further you go. This is because the ship takes most of this hour to accelerate and the major part of the travelling is done in the last ten seconds. Thus, if a ship can go at 20 and needs only to jump 10, it will still take an hour. All of the calculations required to cover long distances are performed by an AI and thus the crew of the ship can rest or perform other tasks while the vessel is in transit.
+### light jump
+A light jump is a method of traversing a huge distance of space in a fixed amount of time. A jump lasts one hour. At the end of which, you can jump again. The jump is in a straight line (there is no such thing as a straight line as space is curved, but simplified for ease here). All jumps last one hour, the faster the ship is, the further you go. This is because the ship takes most of this hour to accelerate and the major part of the travelling is done in the last ten seconds. Thus, if a ship can go at 20 and needs only to jump 10, it will still take an hour. All of the calculations required to cover long distances are performed by an AI and thus the crew of the ship can rest or perform other tasks while the vessel is in transit.
 
-For a Light Jump engine to form a bubble in which to jump, it needs to be in a gravitational low. This means away from any system or large celestial objects and clear of other craft (by 1 minute). 1 hour outside of system space is typical. Thus, a Light Jump can only be performed in dead space. This is a pain because you need to travel to the edge of the system before you can leave.
+For a light jump engine to form a bubble in which to jump, it needs to be in a gravitational low. This means away from any system or large celestial objects and clear of other craft (by 1 minute). 1 hour outside of system space is typical. Thus, a light jump can only be performed in dead space. This is a pain because you need to travel to the edge of the system before you can leave.
 
-Light Jumps are susceptible to space-time faults. A ship is likely to come out of jump immediately when encountering one - requiring the vessel to make another jump. It is uncommon that any damage will be done to the Light Jump engine unless it is old or already damaged.
+light jumps are susceptible to space-time faults. A ship is likely to come out of jump immediately when encountering one - requiring the vessel to make another jump. It is uncommon that any damage will be done to the light jump engine unless it is old or already damaged.
 
-> TIP: Light Jumps of this kind are old-fashioned and rarely found on modern craft. Most craft use Point to Point Light Jumps (given below).
+> TIP: light jumps of this kind are old-fashioned and rarely found on modern craft. Most craft use Point to Point light jumps (given below).
 
-### Point to Point Light Jump
-The original Light Jump engine design is millennia old. The Point to Point Light Jump engine (PTP) takes sensor information, an improved star chart and more accurate engine for precise jumps. The PTP is very much like its old variant, except for two major points:
+### Point to Point light jump
+The original light jump engine design is millennia old. The Point to Point light jump engine (PTP) takes sensor information, an improved star chart and more accurate engine for precise jumps. The PTP is very much like its old variant, except for two major points:
 
 1. PTP can begin a jump from high orbit, as long as it is clear of any Orbitals.
 2. PTP can end a jump within system space of another system but may not jump straight into high orbit.
@@ -609,11 +606,11 @@ The original Light Jump engine design is millennia old. The Point to Point Light
 PTP requires more power, and cannot be fitted on very large craft. For large craft with PTP, the engine and generators for it take up most of the vessel. PTP is mostly found in small executive and charter vessels (as might be used by couriers in a hurry). PTP is also four times as expensive. This is not so much the future of space travel, more of an alternative present.
 
 ### Curve Surf Engine
-Rumoured to be invented by a number of rogue Star Sci scientists, the curve surf engine has unofficially been used by the Star Fleet for a few thousands of years. Curve Surf is a technology more like Grav than Light Jumping. Like Grav, it surfs down the gravity supplied by celestial objects, it does this beyond the speed of light. Because of the gradual acceleration offered by this surfing, the light jump bubble can be kept open indefinitely. A vessel using Curve Surf can also change direction in mid jump. 
+Rumoured to be invented by a number of rogue Star Sci scientists, the curve surf engine has unofficially been used by the Star Fleet for a few thousands of years. Curve Surf is a technology more like Grav than light jumping. Like Grav, it surfs down the gravity supplied by celestial objects, it does this beyond the speed of light. Because of the gradual acceleration offered by this surfing, the light jump bubble can be kept open indefinitely. A vessel using Curve Surf can also change direction in mid jump. 
 
 As curve surf has a more accurate sensor pack and can change direction, it is less susceptible to time-space faults. Also, Curve Surfing can begin from anywhere in System Space.
 
-The largest difference between Curve Surf and typical Light Jump Engines is that the speed of Curve Surf depends on the pilot. In Light Jump Engines, it does not matter what part of space you're flying through, the distance you travel given in one hour has a maximum. Curve Surf depends on the ability of the pilot to intelligent plot routes through space. This can be achieved by an AI, but the nuances of space an human flair will always achieve better results. Thus, for each ship equipped with Curve Surf, two light jump speed are provided: one if a Pilot Cruiser Skill check is successful and one if it is not. 
+The largest difference between Curve Surf and typical light jump Engines is that the speed of Curve Surf depends on the pilot. In light jump Engines, it does not matter what part of space you're flying through, the distance you travel given in one hour has a maximum. Curve Surf depends on the ability of the pilot to intelligent plot routes through space. This can be achieved by an AI, but the nuances of space an human flair will always achieve better results. Thus, for each ship equipped with Curve Surf, two light jump speed are provided: one if a Pilot Cruiser Skill check is successful and one if it is not. 
 
 > For example, The Gaterunner is equipped with two engines, a Curve Surf (CS) and a Point to Point (PTP). You can choose to use either. They are listed as: CS: 8,16 / PTP:12. Use the PTP and you go 12. However, if you use the Curve Surf and pass your Skill check, you can go 16! Or if you fail, you only go at 8.
 
@@ -630,7 +627,7 @@ _Typical Craft Systems_
 | Generators | Huge power sources from which all power on the craft derives. Spacecraft do not use fuel, all their power comes from the Generators. |
 | Life Support | Air and food processing for indefinite survival (they have their own generators). |
 | Grav Engines | Engines use the Gravity of nearby objects to move around. A Grav engine is used for sub-light travel between planets in a system. |
-| Light Jump Engines | Engines used for moving between systems and clusters. |
+| light jump Engines | Engines used for moving between systems and clusters. |
 | Energy Web | The power distribution system around the craft. |
 | Sensors | Mostly used for detection of collisions and for avoiding space-time faults. |
 | Grav Field Generator | Creates an artificial gravity on the ship. Can be localised to allow any surface to be walked on. |
@@ -652,7 +649,7 @@ A quantum singularity is the scientific name given to things that are inexplicab
 - *Total Energy Shut Down.* Perhaps the worst-case scenario, this would involve the main generators shutting down completely. Restarting generators can often take days.
 
 ### Worm Holes
-These are tunnels that connect different places in the space-time continuum. They exist for spaces of time and are then gone. Some do re-occur, but those are not dangerous: they are listed amongst the star charts as avoids. If a light jump takes a craft through a worm-hole then the position of the craft in space and time can be somewhat random. There is a 50/50 chance that a Light Jump Engine will come out of light jump before entering the worm-hole, in this case, it can be avoided.
+These are tunnels that connect different places in the space-time continuum. They exist for spaces of time and are then gone. Some do re-occur, but those are not dangerous: they are listed amongst the star charts as avoids. If a light jump takes a craft through a worm-hole then the position of the craft in space and time can be somewhat random. There is a 50/50 chance that a light jump Engine will come out of light jump before entering the worm-hole, in this case, it can be avoided.
 
 Worm holes are not to be entered, they are extremely dangerous and a craft must be specially designed to cope with the huge pressures and energy flux within the tunnel.
 
@@ -675,7 +672,7 @@ This is the name given to any fault or failure within the craft. This can occur 
 Total energy loss is the worse case scenario. If the generators shut down then there is no power to go anywhere and help must be summoned. 
 
 ### Gravity Nulls
-A Gravity null is a point in space where the gravity pull of surrounding stars cancel out. This is a problem for Grav engines and Light Jump engines because they all require a Gravity source to push or pull against.
+A Gravity null is a point in space where the gravity pull of surrounding stars cancel out. This is a problem for Grav engines and light jump engines because they all require a Gravity source to push or pull against.
 
 If you find yourself in a gravity null, you could be stuck there for minutes, hours, days or years.  Gravity nulls can be both predictable (listed in Star charts and avoided) and unpredictable. They can pulse on and off and some are even used by pirates, who lie in wait for a spacecraft to come to a halt.
 
@@ -692,7 +689,7 @@ Secondly, a trade route may exist between two planets where there is mutual bene
 Finally, a trade route between two systems where there is profit to be had. This is a more traditional route and they make up 80% of the total number of routes. These are called free trade routes.
 
 ## Space Travel Facts and Figures
-- A Light Jump takes 1 Hour.
+- A light jump takes 1 Hour.
 - A ship's light jump speed gives the number of cluster squares travelled in a single jump.
 - A cluster can be considered to be 20 cluster squares across.
 - A craft must be 1 hour outside the system (outermost planet) before it can light jump.

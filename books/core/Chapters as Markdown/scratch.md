@@ -126,3 +126,22 @@ They are best thought of as independent Grav Vehicles that mainly travel vertica
 
 For those who can afford their own personal transport, there are flying cars called Grav cars are used to move people around. As the volume of traffic in central areas of a city can be extremely heavy, people often choose to walk instead of driving.
 Grav Cars fly through the city in lanes. Flying through the Mex City can be quite stressful to do at speed, so most people will switch on the Grav Car artificial intelligence and let it drive for them - picking the quickest route. An artificial intelligence will not break any driving laws and for those who want to dash through the City, they can drive on Manual (Pilot Grav skill check).
+
+# Jobs in space
+
+Travellers are often grouped by the job that they perform. Most regular travellers through space operate as part of a crew on a star craft. Although the particular jobs on each craft are varied - from medic through to pilot - the crew are normally classified by the job that the ship does. A few examples of these tasks are given below.
+
+### Imperial
+The Imperium has 2 separate fleets. The largest Fleet is operated by the Star Enforcers and is used by Star Enforcers, Star Civilisation and Star Scientifica. The craft are mostly used for chasing criminals and for dealing with Pirates. Not all of the Enforcer fleet is well armed and are a mix of purpose built and converted civilian craft. The other fleet, The Star Fleet, is purpose built and created from the very best technology the Imperium has to offer. The crews are all Fleet personnel and represent a complete fighting force from fighter pilots to soldiers (called Troopers).
+
+### Trade
+In this case, the term Trade is a very broad one. A craft that moves any item from A to B is considered a trade one. A trade vessel carries freight (raw materials or tech) or passengers.  Typically, a depicts the type of cargo it caries. 
+For example, Ore freighters tend to be large and dirty, with large industrial automaton equipment. Tech traders tend to be smaller, high tech craft! The dynamics of space trade itself is dealt with later.
+
+### Courier
+A courier picks up an item from one client and delivers it to another. They are more expensive than traders but give a more personalised hand-to-hand service: important for expensive or personal items. A courier is a regular space traveller and will build up a clientele of corporate and non-corporate customers. Excellent service will build a good name and this is essential for a successful courier.
+
+### Deep Space Scavenger Crew
+There are billions of tonnes of abandoned treasure, and junk worth money. A Deep Space Scavenger's (Scavengers) job is to find, repair and return for sale. Seen as the lowest of the low when it comes to ship crews, Scavengers spend their time in dangerous wrecks, hunting out cargo and objects of value. 
+
+Within these floating shipwrecks could be any manner of dangers, from traps rigged by paranoid crew members on leaving the wreck to other Scavenger teams. The example setting pits you as one of these crews. See Scavenger Setting on page 97.
