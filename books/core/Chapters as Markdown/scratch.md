@@ -147,4 +147,19 @@ There are billions of tonnes of abandoned treasure, and junk worth money. A Deep
 Within these floating shipwrecks could be any manner of dangers, from traps rigged by paranoid crew members on leaving the wreck to other Scavenger teams. The example setting pits you as one of these crews. See Scavenger Setting on page 97.
 
 ## Cost of Space Travel
-Space Travel is cheap and available to the masses. There are nearly always spacecraft berths available, although it can be difficult finding a spacecraft on a direct route. In most cases, the traveller will change at a large terminus orbital. Supply and demand 
+Space Travel is cheap and available to the masses. There are nearly always spacecraft berths available, although it can be difficult finding a spacecraft on a direct route. In most cases, the traveller will change at a large terminus orbital.
+
+## Light Jump
+
+A jump lasts one hour. At the end of which, you can jump again. The jump is in a straight line (there is no such thing as a straight line as space is curved, but simplified for ease here). All jumps last one hour, the faster the ship is, the further you go. This is because the ship takes most of this hour to accelerate and the major part of the travelling is done in the last ten seconds. Thus, if a ship can go at 20 and needs only to jump 10, it will still take an hour. All of the calculations required to cover long distances are performed by an AI and thus the crew of the ship can rest or perform other tasks while the vessel is in transit.
+
+### PTP
+
+PTP requires more power, and cannot be fitted on very large craft. For large craft with PTP, the engine and generators for it take up most of the vessel. PTP is mostly found in small executive and charter vessels (as might be used by couriers in a hurry). PTP is also four times as expensive. This is not so much the future of space travel, more of an alternative present.
+
+### Curve Surf
+Because of the gradual acceleration offered by this surfing, the light jump bubble can be kept open indefinitely. A vessel using Curve Surf can also change direction in mid jump. 
+
+As curve surf has a more accurate sensor pack and can change direction, it is less susceptible to time-space faults. Also, Curve Surfing can begin from anywhere in System Space.
+
+The largest difference between Curve Surf and typical light jump Engines is that the speed of Curve Surf depends on the pilot. In light jump Engines, it does not matter what part of space you're flying through, the distance you travel given in one hour has a maximum. Curve Surf depends on the ability of the pilot to intelligent plot routes through space. This can be achieved by an AI, but the nuances of space an human flair will always achieve better results. Thus, for each ship equipped with Curve Surf, two light jump speed are provided: one if a Pilot Cruiser Skill check is successful and one if it is not. 

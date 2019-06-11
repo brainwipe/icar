@@ -578,37 +578,35 @@ Void Rescue is the space rescue service. If your spacecraft has broken down, you
 Faster than light travel has been a goal of the human race since the laws of physics made the speed of light a boundary. In normal space, it is a boundary but there is more to the space-time continuum than just normal space. Every trans-light vehicle is given a light jump speed. This speed is the number of boxes on a cluster map the craft can go in 1 hour. A cluster is approximately 20 squares in diameter. Use this a rule of thumb for unknown clusters.
 
 ### Grav
-When travelling between ground, space and between planets in a system, Grav is used. Grav works by 'surfing' down the gravitational waves created by celestial objects (stars, planets and moons). With Grav, it takes approximately 1 hour to travel between planets, 10 minutes between a planet and a moon. These figures shift depending on the power of the Grav engine, the physical characteristics of the craft and the system. The time from low orbit to planet (or vice versa) depends on the power of the Grav engine and varies from ship to ship. It's normally about an hour. The time between low and high orbit is small and thus can be ignored.
+When travelling between ground, space and between planets in a system, Grav is used. Grav works by surfing down the gravitational waves created by celestial objects (stars, planets and moons).
+
+The speed of every spacecraft is measured as the time in minutes it takes to do each transition: surface to orbit, between planets and then for each square on a cluster map. As a rule of thumb, most craft take 60 minutes (1 hour) to go between planets, climb an energy well or get clear enough from a system to perform a light jump. 
 
 Grav suffers from zero gravity deficiency. This means that if the Grav engine is in a place where the gravities of objects around it cancel out. This dead zone is rare and is unlikely to last for very long but will cause the Grav ship to be stranded.
 
 ### Light Jump
-A light jump is a method of traversing a huge distance of space in a fixed amount of time. A jump lasts one hour. At the end of which, you can jump again. The jump is in a straight line (there is no such thing as a straight line as space is curved, but simplified for ease here). All jumps last one hour, the faster the ship is, the further you go. This is because the ship takes most of this hour to accelerate and the major part of the travelling is done in the last ten seconds. Thus, if a ship can go at 20 and needs only to jump 10, it will still take an hour. All of the calculations required to cover long distances are performed by an AI and thus the crew of the ship can rest or perform other tasks while the vessel is in transit.
+Light jumping is the most comment method of travelling in space. The process begins with the spacecraft Captain choosing a desintation, the spacecraft intelligence then plots the safest route given the starchart and sensor data. The light jump engine then forms a bubble around the spacecraft, which detatches the ship from Einsteinian physics, which allows the Grav engine to push the spacecraft beyond the speed of light. The bubble has a limited lifespan and when it collapses, the spacecraft comes to a halt. The light jump engine must then recharged before the next bubble can be formed. Most modern spacecraft can recharge the engine in a matter of minutes.
 
-For a light jump engine to form a bubble in which to jump, it needs to be in a gravitational low. This means away from any system or large celestial objects and clear of other craft (by 1 minute). 1 hour outside of system space is typical. Thus, a light jump can only be performed in dead space. This is a pain because you need to travel to the edge of the system before you can leave.
+Bigger spacecraft need much more energy to form a light jump bubble, which do not last as long and take longer to recharge. Standard light jump engines must be away from large gravitational forces to form the bubble, which usually means on the edge of a system.
 
-light jumps are susceptible to space-time faults. A ship is likely to come out of jump immediately when encountering one - requiring the vessel to make another jump. It is uncommon that any damage will be done to the light jump engine unless it is old or already damaged.
+Light jumps are susceptible to space-time faults. The bubble is likely to immediately collapse when encountering one - requiring the vessel to make another jump. It is uncommon that any damage will be done to the light jump engine unless it is old or already damaged.
 
 > TIP: light jumps of this kind are old-fashioned and rarely found on modern craft. Most craft use Point to Point light jumps (given below).
 
-### Point to Point light jump
-The original light jump engine design is millennia old. The Point to Point light jump engine (PTP) takes sensor information, an improved star chart and more accurate engine for precise jumps. The PTP is very much like its old variant, except for two major points:
+#### Point to Point light jump
+Point to Point (PTP) light jump engines use the same science as a standard light jump but use more powerful light jump engines and more accurate Grav engines for very precise jumps. They are more complex, expensive and have a size limit. It has two main benefits:
 
-1. PTP can begin a jump from high orbit, as long as it is clear of any Orbitals.
-2. PTP can end a jump within system space of another system but may not jump straight into high orbit.
-
-PTP requires more power, and cannot be fitted on very large craft. For large craft with PTP, the engine and generators for it take up most of the vessel. PTP is mostly found in small executive and charter vessels (as might be used by couriers in a hurry). PTP is also four times as expensive. This is not so much the future of space travel, more of an alternative present.
+1. PTP can begin a light jump from high orbit, clear of any orbitals.
+2. PTP can end a jump in high orbit, although it's illegal to do so in Human Occupied Space as the risk of collision is high.
 
 ### Curve Surf Engine
-Rumoured to be invented by a number of rogue Star Sci scientists, the curve surf engine has unofficially been used by the Star Fleet for a few thousands of years. Curve Surf is a technology more like Grav than light jumping. Like Grav, it surfs down the gravity supplied by celestial objects, it does this beyond the speed of light. Because of the gradual acceleration offered by this surfing, the light jump bubble can be kept open indefinitely. A vessel using Curve Surf can also change direction in mid jump. 
+Rumoured to be invented by rogue Star Sci scientists for a practical joke, the curve surf engine has unofficially been used by the Star Fleet for a thousands year. Like Grav, it surfs down the gravity supplied by celestial objects on the fly rather than pre-calculating beforehand. The journey is usually faster but is more unpredictable, relying upon space-time eddies and swells to accelerate the spacecraft further. The power required by the curve surf engine allows the jump bubble to form in high orbits like PTP.
 
-As curve surf has a more accurate sensor pack and can change direction, it is less susceptible to time-space faults. Also, Curve Surfing can begin from anywhere in System Space.
+Unlike other light jumps, curve surfing requires a pilot for some parts of the journey as navigating a fast route without bursting the jump bubble is as much an art as a science. Gentle turns 
 
-The largest difference between Curve Surf and typical light jump Engines is that the speed of Curve Surf depends on the pilot. In light jump Engines, it does not matter what part of space you're flying through, the distance you travel given in one hour has a maximum. Curve Surf depends on the ability of the pilot to intelligent plot routes through space. This can be achieved by an AI, but the nuances of space an human flair will always achieve better results. Thus, for each ship equipped with Curve Surf, two light jump speed are provided: one if a Pilot Cruiser Skill check is successful and one if it is not. 
+> New example of piloting CS
 
-> For example, The Gaterunner is equipped with two engines, a Curve Surf (CS) and a Point to Point (PTP). You can choose to use either. They are listed as: CS: 8,16 / PTP:12. Use the PTP and you go 12. However, if you use the Curve Surf and pass your Skill check, you can go 16! Or if you fail, you only go at 8.
-
-Curve Surf is expensive. Most engines are created specifically for a vessel and that vessel is likely to have a very powerful set of generators. Few craft are produced with a curve surf engine although it is possible to find an engineer (Street Deal with Taxing difficulty) to build a custom one. The cost of such an engine and upgrade will be approximately the cost of the space craft when it was new.
+Curve surf is expensive. Each engine must be crafted to fit the precise specifications of the spacecraft and the amount of energy required means that a lot of the internal space is taken up by power generation. Few craft are produced with a curve surf engine although it is possible to find an engineer (Street Deal, Target Number 18) to build a custom one. The cost of such an engine and upgrade will be approximately the cost of the space craft when it was new.
 
 ### Typical Craft Systems
 Spacecraft vary in technology widely from the basic freighter to the most expensive executive cruiser. There are some basic systems that are found on most craft. 
