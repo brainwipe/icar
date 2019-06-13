@@ -1,33 +1,42 @@
-Technology
-Technology can make you stronger, faster and more dangerous. This Chapter introduces technology and equipment behind Icar: what�s possible, what�s illegal and what you can buy.
+# Technology
+Technology can make you stronger, faster and more dangerous. This Chapter introduces technology and equipment behind Icar: what's possible, what's illegal and what you can buy.
+
 For weapons, vehicles and spacecraft, the statistics in this Chapter are an outline. Icar is intended to be played with a full page hand outs that can be found in the Equipment Index.
-New Starters!
+
+## New Starters!
 Icar has a lot of technology and if you are new to Icar, it can be very daunting. If you are unsure where to begin, look at the equipment that is listed for your Setting. If you are using the Scavenger Setting, the equipment each character gets is listed on the Character Skeleton. You only need to understand those bits of technology, you can skip the rest.
+
 If a player wants to use a bit of technology, then it is up to them to understand how it works and how it might be used. If a gizmo is forgotten about by the player then the opportunity to use it will have passed. It is not the responsibility of the GM to remember who has what and the functions of all the technology in each section.
-Rarity
-Rarity is the measure of how difficult it is to get hold of something (in percentage). Rarity can change depending on a character�s location. For example, a Hand Cannon is easy to acquire on a planet dedicated to the construction of firearms but next to impossible on planets with gun-restrictive laws. This value can be used in two ways. 
-Rarity as a guide for the GM
+
+## Rarity
+Rarity is the measure of how difficult it is to get hold of something (in percentage). Rarity can change depending on a character's location. For example, a Hand Cannon is easy to acquire on a planet dedicated to the construction of firearms but next to impossible on planets with gun-restrictive laws. This value can be used in two ways. 
+
+### Rarity as a guide for the GM
 Firstly, it can be used as a guide to the GM and players when deciding if a certain item of kit can be obtained. This system should be used with care as decisions should be backed up with a reason.
-Rarity as a Modifier on Street Deal
+
+### Rarity as a Modifier on Street Deal
 The second  method is to use the value as a modifier on a Street Deal Skill roll. Use the Rarity as a negative modifier by subtracting the Rarity from the Street Deal Skill before rolling. 
-For example, if the Character has Street Deal at 50% and they wish to by a Nelson H1 at rarity of 10%, they will need to roll under (50% - 10%) 40%. 
+
+>  For example, if the Character has Street Deal at 50% and they wish to by a Nelson H1 at rarity of 10%, they will need to roll under (50% - 10%) 40%. 
+
 A Character can try every 5 hours to find the goods (roll once for every 5 hours of game time).
 If a player does not have Street Deal, then they will need to find another method of obtaining the goods. This is likely to include the use of contacts, Gaia and knowledge. Of course, if they get someone else to find the objects, then they might want to add a fee.
-The Black Market
-The Black Market is an illegal method of getting hold of items. Most items (not Imperial Issue ones, like the Qaxam) can be gained on the Black Market at much reduced �Black� costs. However, the black market on any planet is very difficult to find and often requires local knowledge. 
+
+### The Black Market
+The Black Market is an illegal method of getting hold of items. Most items (not Imperial Issue ones, like the Qaxam) can be gained on the Black Market at much reduced 'Black' costs. However, the black market on any planet is very difficult to find and often requires local knowledge. 
 The Black Market is normally little more than space on the Undergaia that has been set aside for trading less-than-legal goods at low prices. An Isis is essential for the Black Market as it is used a guarantee of ownership. If something has been purchased on the Black Market, then it is impossible for the Star Enforcers to know this. Arrests are normally made by infiltrating the Black Market Undergaia space and following transactions until the goods are handed over. It is also illegal to be found in a Gaia space that is used as a Black Market trading space, although arrests are rare.
 Some of the goods are often of poor quality and it is wise to use a knowledgeable person to check it over after purchase. Items on the Black Market also differ in Rarity, so it may either be easier or more difficult to get an object there.
 Ownership Dockets
-Expensive items (vehicles, spacecraft etc) have a �Docket� that describes both the owner and the item itself. The Docket is a unique Gaia Entity that proves that the item belongs to someone. Most people keep their Dockets on their Gaiacard but they can also be stored in any Gaia space or on a plastic Datacard. Changing the owner is easy and only requires the owner�s agreement. 
+Expensive items (vehicles, spacecraft etc) have a 'Docket' that describes both the owner and the item itself. The Docket is a unique Gaia Entity that proves that the item belongs to someone. Most people keep their Dockets on their Gaiacard but they can also be stored in any Gaia space or on a plastic Datacard. Changing the owner is easy and only requires the owner's agreement. 
 The owner can be illegally changed by a successful Hacking check and Forgery check. The skill checks can be performed by different characters but must be done at the same time.
 Expeditionary technology
 Expeditionaries are mercenaries who tend to work in the unruly areas of Imperial space and outside the Light Jump Net. Expeditionary technology is more expensive, better made and more rare than ordinary technology.
 Full page sheets
 The Equipment Index is a free PDF that you can download from the web site that include player hand outs of weapons, vehicles and spacecraft. Each sheet represents the in-game Ownership Docket that the Character would own and contains all the rules and statistics that apply to that item.
-The sheets should be printed, folded and handed out to the player who�s Character owns the Docket. You can also use these sheets as a physical form of who is holding or using an item.
+The sheets should be printed, folded and handed out to the player who's Character owns the Docket. You can also use these sheets as a physical form of who is holding or using an item.
 If you are not sure which full page sheets to print, check the GM section of the setting you are playing and it will list the sheets you need.
 Legality and Feasibility
-Areas of technological discovery are grouped by their legality and feasibility. The Imperium decide (with Star Sci�s help) which technologies are illegal. Illegal technologies tend to be those that are dangerous to the general public. Feasibility is whether or not the technology is possible.
+Areas of technological discovery are grouped by their legality and feasibility. The Imperium decide (with Star Sci's help) which technologies are illegal. Illegal technologies tend to be those that are dangerous to the general public. Feasibility is whether or not the technology is possible.
 Where is Technology X?
 Our timeline is different to the one your characters share and as such, some technologies have flourished and others withered. After ninety thousand years, you would expect most discoveries we imagine as obvious today to be present in Icar but are missing. For any given discovery or technological evolution, the reasons for its omission can be complicated and can include one of the following:
 Star Sci do most of the research
@@ -37,7 +46,7 @@ The human race cannot be trusted to act sensibly to the discovery of a new techn
 Impractical
 Impractical technologies require huge amounts of power, effort or fuel that it is not practical to use them day to day. These technologies tend to become the purview of enthusiasts and hobbyists.
 Socially unacceptable
-Socially unacceptable technologies are repugnant to Imperial citizens and become forgotten about due to their incompatibly with society�s sensibilities.
+Socially unacceptable technologies are repugnant to Imperial citizens and become forgotten about due to their incompatibly with society's sensibilities.
 Superseded
 Some modern technology has no use anymore because there is a safer, cheaper alternative.
 Possible and Legal
@@ -45,12 +54,12 @@ This is a list of legal technologies grouped by how common they are.
 Common Technology
 Bionics. From small cosmetic enhancements (Cyber) to brain-inside-a-robot (called Borgs). See Bionics on page 72.
 Humanoid robots. Called Automatons and barely indistinguishable from humans.
-Flying cars. Called �Grav�, just about everything can be made to fly, including restaurant tables and lamps.
+Flying cars. Called 'Grav', just about everything can be made to fly, including restaurant tables and lamps.
 Free, clean and safe energy. Called Solid State Generators (or just Generators for short), they are ubiquitous.
 Cures for everything. Any disease or human ailment except old age can be cure by hypodermic injection.
 Faster than light space travel. Everyone can visit other planets for their holidays. Called Light Jumping, safe and easy.
-Virtual world internet. It�s called Gaia and so real that humans can be fooled into thinking it is real.
-Food replicators. Food can be converted from a material called �Biomatter� into any organic matter, particularly food. This happens in Bioreorganisers. The food designs are Gaia Entities.
+Virtual world internet. It's called Gaia and so real that humans can be fooled into thinking it is real.
+Food replicators. Food can be converted from a material called 'Biomatter' into any organic matter, particularly food. This happens in Bioreorganisers. The food designs are Gaia Entities.
 Rare
 Energy weapons. Expensive weapon and ammunition. Only owned by those really keen on violence.
 Owning your own space craft. Good ones are expensive and bad ones are rarely owned by anyone except player character teams.
@@ -74,9 +83,9 @@ Nanobots free in the wild. Requires huge amounts of power to feed the Nanobots i
 Superseded
 Warp drive. Superseded by the light jump that was safer and allowed speeds 100 times quicker.
 Sensors
-Sensors in Icar allow the users to see further and in much greater detail. It is up to the player to ask the Gamesmaster to explain what additional information a given sensor provides during a scene. The Gamesmaster�s call is final. 
+Sensors in Icar allow the users to see further and in much greater detail. It is up to the player to ask the Gamesmaster to explain what additional information a given sensor provides during a scene. The Gamesmaster's call is final. 
 Sensors are one of two types: Device Sensors and Scanners. Device Sensors are fitted to weapons, devices and bionic upgrades. Scanners tend to be built into buildings and medical facilities. Device Sensors provide the user with the raw information, whereas Scanners provide some interpretation.
-For example, a Level 2 Tech Scanner can be fitted to the door of a members-only bar. When you walk through it, it will know what sort of a gun you�re carrying and whether it is loaded. An Electrogrid (EG) sensor will show that you�re carrying a generator - it could be a gun or part of your tech kit - it is up to the owner of the EG sensor to decide!
+For example, a Level 2 Tech Scanner can be fitted to the door of a members-only bar. When you walk through it, it will know what sort of a gun you're carrying and whether it is loaded. An Electrogrid (EG) sensor will show that you're carrying a generator - it could be a gun or part of your tech kit - it is up to the owner of the EG sensor to decide!
 Device Sensors
 These sensors are normally built into a device, weapon or bionic upgrade. They provide some interpretation for the user and come with a variety of features.
 Electromagnetic (EM)
@@ -96,7 +105,7 @@ For scanners use in society see Scanning and Privacy on page 41.
 Tech Scanners (TS)
 Most commonly found in spacecraft air locks and the entrances to bars, they are mostly used for scanning for weapons. These are not just metal detectors, they scan using a broad range of sensors and are very difficult to fool. Tech scanners are either hand-held or mounted in buildings. Tech scanners cannot detect Bioweave augmentation.
 Level 1. Can be hand-held. Needs to be held close to the thing you are scanning. Takes one round (3 seconds). Can detect weapons, Gaiacards and whether or not the person is Borged or Cybered.
-Level 2. Very expensive if hand-held. Usually mounted into doors. Can detect up to 5 metres. Takes 2  rounds (6 seconds). Can detect type of weapons or bionics to determine capabilities. Can also detect manufacturer�s signature.
+Level 2. Very expensive if hand-held. Usually mounted into doors. Can detect up to 5 metres. Takes 2  rounds (6 seconds). Can detect type of weapons or bionics to determine capabilities. Can also detect manufacturer's signature.
 Level 3. Only found in dedicated engineering bays, sensor data gathered from a cloud of floating sensors that take up position around the object. Takes up to 1 minute (20 rounds). Can detect faults.
 Medical Scanner (MS)
 The purview of the Medic, the medical scanner is commonly used to diagnose the sick.
@@ -129,7 +138,7 @@ Gaianware Infotracker 50, Research: 50%, Cost: 1500, Rarity: 15%
 Gaia Personal Assistant
 Type: AI
 This Artificially Intelligent Entity will remain in one location and take/give messages for you. To allow anyone to leave a message, the Entity must be placed in a Public Space. The Entity may be sent with a message for a specific person with instructions on how to give the message. 
-Although Unique through its AI, the appearance of the Entity can either be the rather boring �Neohuman�, a very generic looking human Entity or a unique and attractive form. Attractive Personal Assistants cost more. The more you pay, the more attractive they will be. The Personal Assistant will not follow the user around Gaia, it needs to be placed manually by the user. Most people place a Personal Entity in the Public Space of their apartment.
+Although Unique through its AI, the appearance of the Entity can either be the rather boring 'Neohuman', a very generic looking human Entity or a unique and attractive form. Attractive Personal Assistants cost more. The more you pay, the more attractive they will be. The Personal Assistant will not follow the user around Gaia, it needs to be placed manually by the user. Most people place a Personal Entity in the Public Space of their apartment.
 Shell Ent. Personal Assistant. Neohuman. Cost: 200. Rarity: 2%
 Shell Ent. Personal Assistant. Mythological Creatures. Cost: 500. Rarity: 5%
 Shell Ent. Personal Assistant. Famous People.
@@ -153,7 +162,7 @@ Cost: 5000
 Modifier to use: -20%
 Refail
 Type: Hacking AI
-Covers up the character�s error and allows another try. When you fail a dice roll, use Refail to re-roll it. You can only use one Refail in a Hacking session.
+Covers up the character's error and allows another try. When you fail a dice roll, use Refail to re-roll it. You can only use one Refail in a Hacking session.
 Cost: 6000
 Modifier to use: -20%
 Trail
@@ -190,7 +199,7 @@ If a Soft Light projection is made to look real, the only way to detect that it 
 Soft Light in advertising
 The most common use of holographic soft light is advertising from brightly coloured displays showcasing a latest product to a soft light human that walks alongside you and acts as a salesperson. In some colonies, having a Soft Light salesperson is seen as an insult, whereas elsewhere it is seen as a useful tool.
 Soft Light in art and entertainment
-Soft light is a malleable form of expression that is used alongside music. Huge Soft Light projections are used by artists to entertain and delight. Celebrations are often accompanied by beautiful displays of Soft Light. In �In Fizz� nightclubs, a Soft Light artists will be employed alongside a DJ to create art on the fly to improve the experience of the revellers.
+Soft light is a malleable form of expression that is used alongside music. Huge Soft Light projections are used by artists to entertain and delight. Celebrations are often accompanied by beautiful displays of Soft Light. In 'In Fizz' nightclubs, a Soft Light artists will be employed alongside a DJ to create art on the fly to improve the experience of the revellers.
 Costs
 Soft Light projectors are relatively inexpensive. Their size relates to how large a volume they can project into. As a guide to the sizes:
 Shop floor area or whole apartment: 100
@@ -199,12 +208,12 @@ Entire floor of a mex building: 5000
 The artistry involved in the projection acts as a multiple. Stock celebratory images (such as Happy Birthday) will cost the same as the prices listed above. A jobbing designer will have a multiplier of 1.5 times and famous artists up to 5 times.
 Hard Light Projectors
 Hard Light projectors allow you to animate Entities in the real world. In a holoroom Gaia terminal, any Hard Light Entity can be animated without any fuss. When outside a Holoroom, creating a Hard Light shape is more difficult. Unfortunately, the more complex an Entity, the more expensive the projector needs to be. The projector acts as its own self contained unit and Hard Light objects can be loaded onto it.
-To use a Hard Light projector, use a Gaia terminal to move a hard light object onto the projector. From this point on, you can animate the object by squeezing the middle of the projector and throwing it. As soon as the projector is clear of your hand, it will animate the Hard Light object you�ve set it to. There are a couple of exceptions to this (Hard Light swords) but most projectors follow this method.
+To use a Hard Light projector, use a Gaia terminal to move a hard light object onto the projector. From this point on, you can animate the object by squeezing the middle of the projector and throwing it. As soon as the projector is clear of your hand, it will animate the Hard Light object you've set it to. There are a couple of exceptions to this (Hard Light swords) but most projectors follow this method.
 To de-animate, the object will have a way of deanimating it (such as a simple switch or pad to press). The object with instantly deanimate. Anything resting (or sitting) on the object will fall to the ground.
 Limitations
-A Hard Light projection has a zero armour rating (AR) and hit points (HP). You can�t use a Hard Light image as armour. If it takes any damage, it will de-animate.
+A Hard Light projection has a zero armour rating (AR) and hit points (HP). You can't use a Hard Light image as armour. If it takes any damage, it will de-animate.
 Only complex Hard Light items can have a Blast Factor, otherwise none. You cannot make bullets or lasers out of Hard Light.
-The object will not animate if there is an obstruction. You can�t animate a 2m square box inside a 1m square box.
+The object will not animate if there is an obstruction. You can't animate a 2m square box inside a 1m square box.
 Hard Light projectors can only sense when the objects is being touched. It cannot sense anything else unless it is part of a more complex system.
 Complexity
 The more complex the object, the more expensive the projector. For simplicity, projectors are produced with three complexity types: Low, Medium and High. A description of each is given below.
@@ -219,16 +228,16 @@ Nearly all of the High Complexity projectors are a special case as they nearly a
 Some small moving parts. High level of detail. Sharp edges.
 Sword (special case), Automaton.
 Automatons
-Buying an Automaton is not like buying a car. It�s more like buying a pet. Not only are there physical attributes to account for but there is also a personality to decide upon. It is personality that is most important to most people. Every Automaton is different. Buying an Automaton follows these steps:
+Buying an Automaton is not like buying a car. It's more like buying a pet. Not only are there physical attributes to account for but there is also a personality to decide upon. It is personality that is most important to most people. Every Automaton is different. Buying an Automaton follows these steps:
 Choose either new or second hand
 Choose a Model
 Decide on a name
 Select a Personality Template
 Add Skills
 New or Second Hand
-Brand new Automatons begin with plain personalities, whereas second hand, older Automatons can have quite extreme personalities formed by their experiences. Due to their quirky nature (and better Skills), older Automatons are more expensive than new ones. Older Automatons also appear to have more �common sense�, because they are used to operating in a human world. New Automatons are treated like children that have a gift for a few defined subjects but are terrible in general social situations.
+Brand new Automatons begin with plain personalities, whereas second hand, older Automatons can have quite extreme personalities formed by their experiences. Due to their quirky nature (and better Skills), older Automatons are more expensive than new ones. Older Automatons also appear to have more 'common sense', because they are used to operating in a human world. New Automatons are treated like children that have a gift for a few defined subjects but are terrible in general social situations.
 The Appendix of this book shows new Automatons only. To make up a second hand one, use the given new ones, reduce the hit points to indicate damage, set the personality as an extreme version of one of the templates and add some Skills. To calculate cost, make up the Automaton as if it is new and then multiply using the following table. For really old Automatons (100 years or more), then their value can be just about anything. The Auto can be too eccentric to be useful to anyone or be very knowledgeable and thus priceless.
-The affect of an Automaton�s age on its value
+The affect of an Automaton's age on its value
 Age (years)	Value Multiplier
 1-5	x 1
 6-20	x 2
@@ -241,10 +250,10 @@ Automatons come in two forms, Humanoid and Industrial.
 Humanoid Automatons are designed to integrate with society. They are based on the human form. The more expensive ones have realistic synthetic skin and are difficult to tell apart from humans without using some sort of sensors. All Humanoid Automatons come with a basic personality and a basic human empathy such that they can hold conversations and understand tone and meaning.
 Industrial Automatons are more like complex robots of old. Normally large, strong and designed to perform a particular range of tasks. They simply obey human instructions and are trained such that they have an affinity with technical subjects. They understand any tools that are fitted to them and are normally trained to be able to work on a particular group of tasks.
 Decide on a name
-A name might be a frivolous idea to the players and Characters but to the Automaton, it�s very important. It is the first connection that the Automaton has to the human world.
+A name might be a frivolous idea to the players and Characters but to the Automaton, it's very important. It is the first connection that the Automaton has to the human world.
 Applicable to new Automatons only.
 Select a Personality Template
-An Automaton�s personality is represented by a cut-down Deviant Wheel, similar to the one on the normal Character sheet. A Personality Template is an initial Deviant Wheel that you pick from the list given below. Over time, the Automaton�s personality will grow from this first step.
+An Automaton's personality is represented by a cut-down Deviant Wheel, similar to the one on the normal Character sheet. A Personality Template is an initial Deviant Wheel that you pick from the list given below. Over time, the Automaton's personality will grow from this first step.
 An automaton is judged by a cut down Deviant wheel: Serious, Calm, Introvert, Machine, Virtuous. And their opposites are on the other side of the wheel. The different facets are described below:
 Serious
 A serious Automaton is one that has not yet developed a sense of humour. A sense of humour is normally associated with Automatons that have experienced a lot. Therefore, brand new Automatons are unlikely to have a well developed sense of humour.
@@ -253,9 +262,9 @@ Most Automatons appear to be calm when they are new but they soon become excitab
 Introvert
 An introverted Automaton is a quiet one and keeps itself to itself. It will not go out of its way to make friends and be helpful to humans. However, if talked to then an introverted Automaton will politely hold conversation.
 Machine
-This is a measure of how machine-like the Automaton�s personality is. It is intrinsically linked to the other personality facet. Initial personality templates are always set to 4.
+This is a measure of how machine-like the Automaton's personality is. It is intrinsically linked to the other personality facet. Initial personality templates are always set to 4.
 Virtuous
-This is a measure of how naive the Automaton is. Will it automatically believe anything that�s told to it or is it a more questioning Automaton. Initial personality templates are always set to 4.
+This is a measure of how naive the Automaton is. Will it automatically believe anything that's told to it or is it a more questioning Automaton. Initial personality templates are always set to 4.
 Personality Templates
 Amicable
 The Amicable personality template is a good starting point for any Automaton buyer. It is the default template for the buyer who is not sure what task the Automaton will perform. An Amicable Automaton is calm, respectful, serious and will look for opportunities to be helpful. It is how you might expect an Automaton to be.
@@ -264,7 +273,7 @@ The clown is a lively, fun and outgoing. They make excellent companions rather t
 Austere
 The Austere Automaton is ideal for business. Serious, calm, capable and an air of servitude. This Automaton personality will not embarrass you or your company.
 Add Skills
-To make your Automaton really useful to the team as a whole, ensure that it has Skills that fill gaps in the team�s abilities. Automaton Skills come with a Skill percentage, cost a certain amount of money and take time for the Automaton to learn. The more complex the Skill, the more expensive it is and the longer it takes to learn.
+To make your Automaton really useful to the team as a whole, ensure that it has Skills that fill gaps in the team's abilities. Automaton Skills come with a Skill percentage, cost a certain amount of money and take time for the Automaton to learn. The more complex the Skill, the more expensive it is and the longer it takes to learn.
 Automaton Skills
 Skill	Price	Time	Start	Max
 Spacecraft Know	11 000	8h	30	60
@@ -332,7 +341,7 @@ Grav Balancing
 Grav balancing is an anti-gravity system that reduces the mass of the weapon, making it lighter. Grav balancing also reduces the kick of a weapon when fired, helping the user to keep the weapon pointed at its intended target. All weapons are fitted with a Grav balancing system. The weight of the weapon is due to the generator required to accelerate the rounds.
 Grenades
 Much like in the 20th Century, grenades are mini explosive devices. They can be thrown or fired from a weapon and can have a number of different detonation options that are decided before the grenade is fired. 
-Grenades come in two sizes: Low Velocity Grenades (LVG) and High Velocity Grenades (HVG). LVGs are the size of a �D� Cell battery and have a typical blast radius of 25m. These can be thrown. LVGs come in a vast array of applications, both destructive and pacifying. HVGs are much more powerful, the size of a 20th Century can of Coca Cola and have a typical blast radius of 50m. They are always destructive and usually fired (you have to be augmented to throw it far enough for you to not be in its blast radius).
+Grenades come in two sizes: Low Velocity Grenades (LVG) and High Velocity Grenades (HVG). LVGs are the size of a 'D' Cell battery and have a typical blast radius of 25m. These can be thrown. LVGs come in a vast array of applications, both destructive and pacifying. HVGs are much more powerful, the size of a 20th Century can of Coca Cola and have a typical blast radius of 50m. They are always destructive and usually fired (you have to be augmented to throw it far enough for you to not be in its blast radius).
 Grenades to damage to everything in their radius. For a human, that would mean applying the damage to head, left arm, right arm, torso, left leg and right leg separately. For a fragmentation LVG, that would be 100 points to each location, or 600 points in total. For larger objects than people, take an estimate of how much damage it takes. The larger it is, the more it takes.
 Triggers (Optional)
 Grenades normally explode when they hit something. However, all grenades come with a variety of triggers that allow the user to specify the conditions under which they explode. These can be quite complicated and are up to the player to describe, they include:
@@ -342,7 +351,7 @@ When hot or cold
 When hit really hard indeed
 When tampered with
 Low Velocity Grenades (LVG)
-LVGs are the size of a �D� Cell battery and have a typical blast radius of 25m. They can be thrown but are normally fired from a weapon.
+LVGs are the size of a 'D' Cell battery and have a typical blast radius of 25m. They can be thrown but are normally fired from a weapon.
 LVGs come in a variety of different types such as stun, smoke, fragmentation and napalm. The statistics for each are show below.
 Low Velocity Grenades (LVG)
 Description	Rarity	Cost	BF	Damage	Stun
@@ -381,7 +390,7 @@ Armour is extremely important. Weapons in Icar can shred you in a second. Unpowe
 Styles of Armour
 For each type of armour (for example Moss Sports Impact Armour), many styles and colours can be ordered. All of these armours can be purchased as an Oversuit - a baggy over-clothing boiler suit or as a Second Skin (goes under clothes like a very thin wet suit) at no extra cost. Second skin armours do not protect your clothing or personal affects (such as Gaiacard) so be careful where you go.  Oversuits are conspicuous and can be worn as a fashion statement. Helmets for all of these armours collapse into the collar when not required and do not restrict view when in use. 
 Extra-Vehicular (EV) Armour
-Some armours will protect you in hazardous environments such as space or on planets where the temperature is very high or low with toxic atmospheres. EV-suits are special armours made just for that purpose, whereas Powered Armour tends to have EV properties by default. Basic EV suits are Oversuits, rather than second skin. This is because clothing may not survive the rigours of the environment you have chosen to go out into. For example, a leather jacket may be fine in space but in a 250 degree maelstrom with acid-rich atmosphere, it won�t last long.
+Some armours will protect you in hazardous environments such as space or on planets where the temperature is very high or low with toxic atmospheres. EV-suits are special armours made just for that purpose, whereas Powered Armour tends to have EV properties by default. Basic EV suits are Oversuits, rather than second skin. This is because clothing may not survive the rigours of the environment you have chosen to go out into. For example, a leather jacket may be fine in space but in a 250 degree maelstrom with acid-rich atmosphere, it won't last long.
 Moss Sports Impact
 AR	H	LA	T	RA	LL	RL	Stun
 12	200	150	600	150	200	200	500
@@ -453,11 +462,11 @@ Styles available: Oversuit, Second Skin
 Hours EV: 200
 Sensors: EM, EG, EN
 Meat required: 3+
-For those travelling to more dangerous parts of the cosmos, Moss�s Expeditionary Armour is the toughest unpowered armour they offer. Incorporating Moss�s typical EV specifications (it will protect against vacuum; fire; extreme cold (-200C) and heat (+300C); radiation; pressure (20 ATM)).
+For those travelling to more dangerous parts of the cosmos, Moss's Expeditionary Armour is the toughest unpowered armour they offer. Incorporating Moss's typical EV specifications (it will protect against vacuum; fire; extreme cold (-200C) and heat (+300C); radiation; pressure (20 ATM)).
 Personal Shield Generators
-Personal Shield generators are a popular way to provide a compact protection against damage. For rules on shields see Shields on page 9. Shields form an invisible layer around the user�s form - including their clothing and anything they are carrying (within reason, a personal shield will not cover an entire Grav Car but will cover the driver). They only work from the outside in, allowing you to fire out through them. All shields have an AR of 100.
+Personal Shield generators are a popular way to provide a compact protection against damage. For rules on shields see Shields on page 9. Shields form an invisible layer around the user's form - including their clothing and anything they are carrying (within reason, a personal shield will not cover an entire Grav Car but will cover the driver). They only work from the outside in, allowing you to fire out through them. All shields have an AR of 100.
 Anything with a small mass hitting the shield with great energy will have its energy sapped from it. This includes bullets, shrapnel and meteorites. Heavier objects moving quickly will transfer its energy onto the user of the shield without stun and damage. This might disable the shield (GM decides). 
-For example, if you are hit by a speeding car, you will be thrown back and the shield will shut down. You will not take damage (you might take Stun at the GM�s discretion). If you fall from a great height (more than 20m), a normal shield will not be able to slow you down gently enough and you will take Stun and some damage.
+For example, if you are hit by a speeding car, you will be thrown back and the shield will shut down. You will not take damage (you might take Stun at the GM's discretion). If you fall from a great height (more than 20m), a normal shield will not be able to slow you down gently enough and you will take Stun and some damage.
 Moss Suresafe Shield
 Cost: 1800
 Hit Point Soak: 300 (per turn)
@@ -620,8 +629,8 @@ Cost: 2500
 Encumbrance: +4
 Shift > 6 to use.
 Grav Field Generator
-A Grav field generator changes the gravity within a bubble. The size of the bubble that can created depends on the power of the generator but the gravity strength can be anything from zero to 10 times Earth�s gravity (0g to 10g). 
-It takes 3 seconds (1 turn) to turn on or off, so items don�t immediately slam into each other. The edge of the bubble is very distinct, anything outside the bubble will behave as normal. While switched on, the Grav Field Generator cannot be moved.
+A Grav field generator changes the gravity within a bubble. The size of the bubble that can created depends on the power of the generator but the gravity strength can be anything from zero to 10 times Earth's gravity (0g to 10g). 
+It takes 3 seconds (1 turn) to turn on or off, so items don't immediately slam into each other. The edge of the bubble is very distinct, anything outside the bubble will behave as normal. While switched on, the Grav Field Generator cannot be moved.
 The Grav Field Generator can be used to make working in a micro G environment (such as space or disabled space craft) much easier.
 Shakespeare Standard Grav Field Generator
 Cost: 800
@@ -636,13 +645,13 @@ Bubble size: 30m
 Med Kits
 Med Kits help medics repair people. Each Med Kit gives a bonus to any Skill check in the Medical Skill Tree. The larger the Med Kit, the easier it is for the Medic to heal people. The top end Tech Kits can heal a bunch of Hit Points each day. The contents includes:
 Med Scanner
-Affectionately known as the �Wibbly-Wee�, the Med Scanner performs a non-invasive scan of a human or bionic infrastructure. It can detect any medical problem from toxins to neurological breakdown. It helps the Medic quickly diagnose the most urgent problems and deal with them.
+Affectionately known as the 'Wibbly-Wee', the Med Scanner performs a non-invasive scan of a human or bionic infrastructure. It can detect any medical problem from toxins to neurological breakdown. It helps the Medic quickly diagnose the most urgent problems and deal with them.
 Fleshfixer
-The Fleshfixer is a mulit-tool that allows the Medic to cut, seal, fuse, coagulate human or bionic flesh in any way. It�s the ultimate surgical tool.
+The Fleshfixer is a mulit-tool that allows the Medic to cut, seal, fuse, coagulate human or bionic flesh in any way. It's the ultimate surgical tool.
 Hypo
 The Hypo is a modern injection device for insert Genejelly into the blood stream quickly.
 Genejelly
-A blue mush that can be programmed in an instant to destroy diseases in the patient. The genetic code of the patient provides a blue print that makes the jelly�s healing ability powerful. You can consume Genejelly, inject it or rub it into the skin. Genejelly can also be used as a powerful pain reliever. Best of all is that Genejelly can be made using any Bioreorganiser.
+A blue mush that can be programmed in an instant to destroy diseases in the patient. The genetic code of the patient provides a blue print that makes the jelly's healing ability powerful. You can consume Genejelly, inject it or rub it into the skin. Genejelly can also be used as a powerful pain reliever. Best of all is that Genejelly can be made using any Bioreorganiser.
 Shakespeare Med Kit
 Cost: 300
 Encumbrance: 1

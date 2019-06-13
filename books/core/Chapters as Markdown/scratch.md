@@ -163,3 +163,45 @@ Because of the gradual acceleration offered by this surfing, the light jump bubb
 As curve surf has a more accurate sensor pack and can change direction, it is less susceptible to time-space faults. Also, Curve Surfing can begin from anywhere in System Space.
 
 The largest difference between Curve Surf and typical light jump Engines is that the speed of Curve Surf depends on the pilot. In light jump Engines, it does not matter what part of space you're flying through, the distance you travel given in one hour has a maximum. Curve Surf depends on the ability of the pilot to intelligent plot routes through space. This can be achieved by an AI, but the nuances of space an human flair will always achieve better results. Thus, for each ship equipped with Curve Surf, two light jump speed are provided: one if a Pilot Cruiser Skill check is successful and one if it is not. 
+
+
+### Typical Craft Systems
+Spacecraft vary in technology widely from the basic freighter to the most expensive executive cruiser. There are some basic systems that are found on most craft. 
+
+_Typical Craft Systems_
+
+| System | Description |
+|--------|-------------|
+| Hull | Able to withstand the shock of meteor collisions. |
+| Generators | Huge power sources from which all power on the craft derives. The fuel they use lasts for thousands of years. |
+| Life Support | Air, food and waste processing for indefinite survival. |
+| Grav Engines | Sub-light speed travel and also for the gentle push in a light jump. |
+| Light Jump Engines | Engines used for moving between systems and clusters. |
+| Energy Web | The power distribution system around the craft. |
+| Sensors | Mostly used for detection of collisions and for avoiding space-time faults. |
+| Grav Field Generator | Creates an artificial gravity on the ship. Can be localised to allow any surface to be walked on. |
+| Grav Lock | A device for keeping the atmosphere 'in' where the hull has holes (airlocks and breeches). |
+| Shields | An energy based defence that can be turned on and off. Invisible to the human eye. |
+| Cargo Bay | A space for stacking crates. |
+
+## The Dynamics of Trade
+Trade is the movement of resources from one system to another for money and happens for three reasons. 
+
+### Obliged Trade Routes
+An obliged trade route is where a colony council contracts a 
+
+Firstly, trade occurs because a system requires a certain resource to continue operating. For example, a sub-surface colony may need a supply of oxygen. This is called an obliged trade route. Failure to complete this route can mean a fine, legal action and even a banning of spacecraft use. 
+
+Secondly, a trade route may exist between two planets where there is mutual benefit. In one direction there may be flow of food and water from an inhabited planet and in the other direction technology from a planet strong on manufacture. These routes are controlled by the Councils on the planets and are sold to particular traders to operate them. No one else may run that cargo on that route unless there is an increase in demand. This is called a secured trade route.
+
+Finally, a trade route between two systems where there is profit to be had. This is a more traditional route and they make up 80% of the total number of routes. These are called free trade routes.
+
+## Space Travel Facts and Figures
+- A light jump takes 1 Hour.
+- A ship's light jump speed gives the number of cluster squares travelled in a single jump.
+- A cluster can be considered to be 20 cluster squares across.
+- A craft must be 1 hour outside the system (outermost planet) before it can light jump.
+- On Grav, it takes 1 hour to travel between planets.
+- On Grav, it takes 10 minutes to travel between a planet and a moon.
+- Unless otherwise stated by the spacecraft sheet, it takes 4 hours to go from Low Orbit to the planet surface.
+- From Low to High Orbit takes a very small amount of time and can be ignored.

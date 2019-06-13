@@ -295,7 +295,6 @@ Owning your own personal transport is common and traffic forms ordered streams b
 Anyone can fly a Grav on autopilot but doing so is slow. It's legal to fly outside of the traffic streams (Grav Pilot) but doing so quickly and safely is hard. Dangerous driving is reported by other Grav cars immediately and only in the most liberal cities is this ignored.
 
 ### D. Free Mass Transportation System (FEMTS)
-
 The Free Mass Transportation System (FEMTS) is found in the vast majority of Human Occupied Space. Thousands of bullet shaped automated FEMTS cars provide clean, reliable and punctual transport. The car is controlled by an artificial intelligence (AI power 2) which senses other traffic in Gaia and then makes decisions on the best route to meet its stops. The FEMTS is widely used by many, as a safe alternative to owning one's own car.
 
 More affluent Cities adorn their FEMTS with bars, relaxation rooms, massage parlours and brothels. Regardless of their internal fittings, the external bullet shape is standard.
@@ -554,6 +553,8 @@ _Void Rescue_ is a spacecraft breakdown service but the name is used for all res
 
 _Deep Space Scavengers_ are explorers who find, repair and return (or sell) valuable items from the millions of abandoned systems, spacecraft, orbitals and orbs. Scavengers are the topic of the included setting, see XXXXXXXX.
 
+_Expeditionaries_ venture beyond the light jump net into the Fringe and Droid space. Bounty hunters, artefact investigators, criminal capture and rescue teams. They are a quasi-military force operating outside the laws of humanity.
+
 ## Buying your own Spacecraft
 Brand new spacecraft are very expensive and the Imperium has outlawed interest loans. The most popular ways of getting hold of a spacecraft are (most expensive first):
 
@@ -591,8 +592,6 @@ Bigger spacecraft need much more energy to form a light jump bubble, which do no
 
 Light jumps are susceptible to space-time faults. The bubble is likely to immediately collapse when encountering one - requiring the vessel to make another jump. It is uncommon that any damage will be done to the light jump engine unless it is old or already damaged.
 
-> TIP: light jumps of this kind are old-fashioned and rarely found on modern craft. Most craft use Point to Point light jumps (given below).
-
 #### Point to Point light jump
 Point to Point (PTP) light jump engines use the same science as a standard light jump but use more powerful light jump engines and more accurate Grav engines for very precise jumps. They are more complex, expensive and have a size limit. It has two main benefits:
 
@@ -600,37 +599,16 @@ Point to Point (PTP) light jump engines use the same science as a standard light
 2. PTP can end a jump in high orbit, although it's illegal to do so in Human Occupied Space as the risk of collision is high.
 
 ### Curve Surf Engine
-Rumoured to be invented by rogue Star Sci scientists for a practical joke, the curve surf engine has unofficially been used by the Star Fleet for a thousands year. Like Grav, it surfs down the gravity supplied by celestial objects on the fly rather than pre-calculating beforehand. The journey is usually faster but is more unpredictable, relying upon space-time eddies and swells to accelerate the spacecraft further. The power required by the curve surf engine allows the jump bubble to form in high orbits like PTP.
+Rumoured to be the invention of rogue Star Sci scientists for a practical joke, the curve surf engine has unofficially been used by the Star Fleet for a thousand years. Like Grav, it surfs down the gravity supplied by celestial objects but unlike light jumps, it does not pre-calculate the journey beforehand. This is usually quicker but is more unpredictable as it relies space-time eddies and the skill of a pilot. The power required by the curve surf engine allows the jump bubble to form in high orbits like PTP.
 
-Unlike other light jumps, curve surfing requires a pilot for some parts of the journey as navigating a fast route without bursting the jump bubble is as much an art as a science. Gentle turns 
+Unlike other light jumps, curve surfing requires a pilot for some parts of the journey as navigating a fast route without bursting the jump bubble is as much an art as a science.
 
 > New example of piloting CS
 
 Curve surf is expensive. Each engine must be crafted to fit the precise specifications of the spacecraft and the amount of energy required means that a lot of the internal space is taken up by power generation. Few craft are produced with a curve surf engine although it is possible to find an engineer (Street Deal, Target Number 18) to build a custom one. The cost of such an engine and upgrade will be approximately the cost of the space craft when it was new.
 
-### Typical Craft Systems
-Spacecraft vary in technology widely from the basic freighter to the most expensive executive cruiser. There are some basic systems that are found on most craft. 
-
-_Typical Craft Systems_
-
-| System | Description |
-|--------|-------------|
-| Hull | Able to withstand the shock of meteor collisions. |
-| Generators | Huge power sources from which all power on the craft derives. Spacecraft do not use fuel, all their power comes from the Generators. |
-| Life Support | Air and food processing for indefinite survival (they have their own generators). |
-| Grav Engines | Engines use the Gravity of nearby objects to move around. A Grav engine is used for sub-light travel between planets in a system. |
-| light jump Engines | Engines used for moving between systems and clusters. |
-| Energy Web | The power distribution system around the craft. |
-| Sensors | Mostly used for detection of collisions and for avoiding space-time faults. |
-| Grav Field Generator | Creates an artificial gravity on the ship. Can be localised to allow any surface to be walked on. |
-| Grav Lock | A device for keeping the atmosphere 'in' where the hull has holes (airlocks and breeches). |
-| Shields | An energy based defence that can be turned on and off. Invisible to the human eye. |
-| Cargo Bay | A space for stacking crates. |
-
 ## Dangers in Space
 Space is a dangerous place. It's no wonder that most of the human population prefer to stay put. Most of the problems that occur in space are more of an irritation (costly to those who use space for business) than a risk to life. It is, however, unpredictable. This section deals with some of the problems that can occur, they are either space-time faults or not.
-
-When everything has gone wrong then there are services operating within Human Occupied Space that can save you. The Star Enforcers will send help if there are any craft nearby but you will not be a priority. There is also the private corporation Void Rescue on page 64).
 
 ### Quantum Singularities
 A quantum singularity is the scientific name given to things that are inexplicable, unpredictable and really quite dangerous. They can arise without warning, be difficult to sense and can have a number of effects on a star craft:
@@ -641,7 +619,7 @@ A quantum singularity is the scientific name given to things that are inexplicab
 - *Total Energy Shut Down.* Perhaps the worst-case scenario, this would involve the main generators shutting down completely. Restarting generators can often take days.
 
 ### Worm Holes
-These are tunnels that connect different places in the space-time continuum. They exist for spaces of time and are then gone. Some do re-occur, but those are not dangerous: they are listed amongst the star charts as avoids. If a light jump takes a craft through a worm-hole then the position of the craft in space and time can be somewhat random. There is a 50/50 chance that a light jump Engine will come out of light jump before entering the worm-hole, in this case, it can be avoided.
+These are tunnels that connect different places in the space-time continuum for a limited time. Some recurr, but those are not dangerous: they are listed amongst the star charts as avoids. If a light jump takes a craft through a worm-hole then the position of the craft in space and time is unpredictable. There is a 50/50 chance that the light jump bubble will collapse before entering the worm-hole, in this case the spacecraft will be left on the event horizon.
 
 Worm holes are not to be entered, they are extremely dangerous and a craft must be specially designed to cope with the huge pressures and energy flux within the tunnel.
 
@@ -658,8 +636,8 @@ The worst a field can do is drop the craft out of light jump. If the field is la
 ### Super-Dense Nebulae
 A nebula is a huge cloud of gas. Most nebulae are harmless, the major bodies within it mapped out such that travellers may not have a collision. Dense nebulae are more dangerous as they hold stars being born. The energy involved in such a process can cause energy ripples (see above).
 
-### Astrofailure
-This is the name given to any fault or failure within the craft. This can occur of very old vessels. Most vehicles have an AI which can scan for problems within the ship. However, the difficulty is not always detecting the problem, but solving it.
+### Technical Fault
+This can occur of very old vessels. Most vehicles have an AI which can scan for problems within the ship. However, the difficulty is not always detecting the problem, but solving it.
 
 Total energy loss is the worse case scenario. If the generators shut down then there is no power to go anywhere and help must be summoned. 
 
@@ -669,23 +647,6 @@ A Gravity null is a point in space where the gravity pull of surrounding stars c
 If you find yourself in a gravity null, you could be stuck there for minutes, hours, days or years.  Gravity nulls can be both predictable (listed in Star charts and avoided) and unpredictable. They can pulse on and off and some are even used by pirates, who lie in wait for a spacecraft to come to a halt.
 
 ### Pirates
-Uncommon in Dorian, common in Remmar and impossibly unlikely in Sayshell, pirates are those people with armed craft that attack other craft. Depending on their motives and the Captain, the pirates may just take the cargo or murder the crew as well. They normally choose soft targets (or those that look soft). Most pirates are well organised and educated, researching their targets and finding fences for the cargo before attacking. It is often thought that Pirates are amongst the best-trained ship crews.
+Uncommon in Dorian, common in Remmar and impossibly unlikely in Sayshell, pirates are those people with armed craft that attack other craft. Depending on their motives and the Captain, the pirates may just take the cargo or murder the crew as well. 
 
-## The Dynamics of Trade
-Trade is the movement of resources from one system to another for money and happens for three reasons. 
-
-Firstly, trade occurs because a system requires a certain resource to continue operating. For example, a sub-surface colony may need a supply of oxygen. This is called an obliged trade route. Failure to complete this route can mean a fine and even a banning of spacecraft use. Often, if the trade route does not appear profitable enough, then the Councils it serves will add a subsidy; after all, the welfare of the system is at stake.
-
-Secondly, a trade route may exist between two planets where there is mutual benefit. In one direction there may be flow of food and water from an inhabited planet and in the other direction technology from a planet strong on manufacture. These routes are controlled by the Councils on the planets and are sold to particular traders to operate them. No one else may run that cargo on that route unless there is an increase in demand. This is called a secured trade route.
-
-Finally, a trade route between two systems where there is profit to be had. This is a more traditional route and they make up 80% of the total number of routes. These are called free trade routes.
-
-## Space Travel Facts and Figures
-- A light jump takes 1 Hour.
-- A ship's light jump speed gives the number of cluster squares travelled in a single jump.
-- A cluster can be considered to be 20 cluster squares across.
-- A craft must be 1 hour outside the system (outermost planet) before it can light jump.
-- On Grav, it takes 1 hour to travel between planets.
-- On Grav, it takes 10 minutes to travel between a planet and a moon.
-- Unless otherwise stated by the spacecraft sheet, it takes 4 hours to go from Low Orbit to the planet surface.
-- From Low to High Orbit takes a very small amount of time and can be ignored.
+Pirates choose targets that look soft. They are well organised and educated, researching their targets and finding fences for the cargo before attacking. It is often thought that Pirates are amongst the best-trained ship crews.
