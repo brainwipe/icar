@@ -1,31 +1,23 @@
 ## Gaia
-Gaia is a fantastical virtual world which mimics the real world and is bent and twisted by creative artists, corporate marketing and hackers. Real world infrastructure of buildings, space stations and spacecraft are all represented in Gaia but through the lense of the creative human mind.
+Gaia is a fantastical virtual world which mimics the real world and is bent and twisted by creative artists, corporate marketing and hackers. Real world infrastructure of buildings, space stations and spacecraft are all represented in Gaia but through the lense of the creative human mind. 
+
+People mostly interact with Gaia by touching and speaking to dice-sized holograms, each an intelligent entity app that rushes through the Gaia to complete a task. Entities float, crawl or orbit around their owners, projected from a Gaiacard which is both their interface to Gaia and unique identification. A person can immerse themselves in Gaia by entering a holoroom or through neural link, their eyes glazing over in the process.
+
+Gaia blends with the real world wherever there is a machine. All machines, from the technology that cleans the corridors, through to the most complex business AI uses Gaia to host its intelligence. Giant advertising holograms that float between the buildings live on Gaia. If you know where to look, anyone can find them on Gaia; their shape often the same as their real world counterpart but adorned with hovering statistics, telemetry and advertising.
 
 ### Internet and Gaia Comparison
 | 21st Century |	923rd Century |
 |--------------|------------------|
-|Computer      | Rayengine        |
+| Gaia          | Internet |
+| Computer      | Rayengine        |
 | Memory stick with programs and personal information | Gaiacard |
 | Online shop | Gaia Volume, a 3D space that mimics the real world shop. |
 | App |	Entity |
 | Hacking app | Daemon |
 | Email account identity | Isis |
 
-Gaia can be accessed for free by anyone. There are millions of cylindrical public terminals everywhere. 
-
-Upon stepping into a Gaia terminal, the person is standing in the virtual world of Gaia. From there, the user can navigate around - visiting the Gaia representations of the real world anywhere in the Imperium without physically moving location. In large cities, these representations are likely to be more impressive than the real world counterparts. 
-
-Anything that has a Rayengine (computer chip) appears on Gaia, the shape of the real world object hard-wired into the Gaia version (with one exception - the hand-held terminal. See below)
-
-## Active and Passive Gaia
-Gaia is used in two ways. Active Gaia allows you to run your own intelligent software, called Entities. Passive allows you to do everything but use your own Entities.
-
-### Passive Gaia
-Using a public terminal without your own Entities running is known as passive Gaia and is how the majority of people use it. Using Gaia passively allows you to interact on the very basic level: watching news or sports, buying products (by exchanging money) or meeting friends in a distant Cluster. When you use Gaia passively you look exactly like you do in the real world.
-
-> Example: To make a call to a friend, you step into a terminal and give the name and location of the person you want to speak to. Gaia will perform a simple search to find them and then zip you to their location. Your physical body has not moved but the 3D Gaia projection will have changed to the world where your friend lives.
-
-Active Gaia requires the ownership of a Gaiacard (sometime called a Gaiacard in slang). A Gaiacard has a toolkit and an individual and unique identity called an Isis. This Isis is represented as a shape. You may have an Isis that looks different to yourself (such as a Dragon or giant robot) although it is not considered chic or adult to do so. A Gaiacard also allows you to have your own set of controls, such as personalised driving controls for your car or a set of hacking tools for getting into other people's systems. Most people make do without one, though. A few people have the terminal and Gaiacard installed in their head (see Bionics Section). This makes them very powerful Gaia users. One of the Gaiacard tools of interest is the ability to lock a terminal.
+### Without a Gaiacard
+Gaia is free. Billions of immersive public holorooms litter Human Occupied Space and are free for anyone to use. If you don't have a Gaiacard, you can do much the same actions but the identity you use will be your own physical self and you won't have your own specialist entities to help. Although you might travel across Gaia virtually, you never leave the holoroom.
 
 ### Immersive and Tanked Gaia
 Immersive terminals are those where the terminal surrounds you, like the public Gaia terminals. Most people will have an immersive Gaia terminal in their apartment or Croft house. 

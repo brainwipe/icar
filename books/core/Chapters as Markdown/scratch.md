@@ -210,3 +210,24 @@ Finally, a trade route between two systems where there is profit to be had. This
 The name Gaia used to refer to 'Mother Earth', a mystical being that protected the human race's original home, Earth. Such romantic mysticism has long since died and Gaia is now known as the computer network that the human race uses to communicate.
 
 Created during The Droid War, Gaia is a huge virtual world that mimics the real world as well as the creators will let it. As the technology was created after the war had started, the Droids cannot use it. It exists within Imperium space, outside of which there is no Gaia at all. A detailed description of Gaia is included in the Technology section. A brief overview for the casual user is included here.
+
+
+
+Gaia can be accessed for free by anyone. There are millions of cylindrical public terminals everywhere. 
+
+Upon stepping into a Gaia terminal, the person is standing in the virtual world of Gaia. From there, the user can navigate around - visiting the Gaia representations of the real world anywhere in the Imperium without physically moving location. In large cities, these representations are likely to be more impressive than the real world counterparts. 
+
+
+Anything that has a Rayengine (computer chip) appears on Gaia, the shape of the real world object hard-wired into the Gaia version (with one exception - the hand-held terminal. See below)
+
+## Active and Passive Gaia
+Gaia is used in two ways. Active Gaia allows you to run your own intelligent software, called Entities. Passive allows you to do everything but use your own Entities.
+
+### Passive Gaia
+Using a public terminal without your own Entities running is known as passive Gaia and is how the majority of people use it. Using Gaia passively allows you to interact on the very basic level: watching news or sports, buying products (by exchanging money) or meeting friends in a distant Cluster. When you use Gaia passively you look exactly like you do in the real world.
+
+> Example: To make a call to a friend, you step into a terminal and give the name and location of the person you want to speak to. Gaia will perform a simple search to find them and then zip you to their location. Your physical body has not moved but the 3D Gaia projection will have changed to the world where your friend lives.
+
+### Active Gaia
+
+Active Gaia requires the ownership of a Gaiacard (sometime called a Gaiacard in slang). A Gaiacard has a toolkit and an individual and unique identity called an Isis. This Isis is represented as a shape. You may have an Isis that looks different to yourself (such as a Dragon or giant robot) although it is not considered chic or adult to do so. A Gaiacard also allows you to have your own set of controls, such as personalised driving controls for your car or a set of hacking tools for getting into other people's systems. Most people make do without one, though. A few people have the terminal and Gaiacard installed in their head (see Bionics Section). This makes them very powerful Gaia users. One of the Gaiacard tools of interest is the ability to lock a terminal.
