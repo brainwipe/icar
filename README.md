@@ -6,6 +6,7 @@ This repository is being built to contain the open source versions of Icar versi
 - [Books as Markdown](https://github.com/brainwipe/icar/tree/master/books/core/Chapters%20as%20Markdown)
   - [Chapter 1 - Introduction and Character Generation](https://github.com/brainwipe/icar/blob/master/books/core/Chapters%20as%20Markdown/ch1-intro-chargen.md)
   - [Chapter 2 - Actions and Combat](https://github.com/brainwipe/icar/blob/master/books/core/Chapters%20as%20Markdown/ch2-combat.md)
+  - [Chapter 3 Part 1 - Background](https://github.com/brainwipe/icar/blob/master/books/core/Chapters%20as%20Markdown/ch3-background-1.md)
   
 ## Find out more
 - [Download Version 4 now! FOR FREE](https://www.drivethrurpg.com/product/133597/Icar)
