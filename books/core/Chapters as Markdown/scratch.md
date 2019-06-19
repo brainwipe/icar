@@ -205,3 +205,8 @@ Finally, a trade route between two systems where there is profit to be had. This
 - On Grav, it takes 10 minutes to travel between a planet and a moon.
 - Unless otherwise stated by the spacecraft sheet, it takes 4 hours to go from Low Orbit to the planet surface.
 - From Low to High Orbit takes a very small amount of time and can be ignored.
+
+# Gaia
+The name Gaia used to refer to 'Mother Earth', a mystical being that protected the human race's original home, Earth. Such romantic mysticism has long since died and Gaia is now known as the computer network that the human race uses to communicate.
+
+Created during The Droid War, Gaia is a huge virtual world that mimics the real world as well as the creators will let it. As the technology was created after the war had started, the Droids cannot use it. It exists within Imperium space, outside of which there is no Gaia at all. A detailed description of Gaia is included in the Technology section. A brief overview for the casual user is included here.

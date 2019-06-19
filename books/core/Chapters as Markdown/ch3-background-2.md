@@ -1,14 +1,12 @@
 ## Gaia
-The name Gaia used to refer to 'Mother Earth', a mystical being that protected the human race's original home, Earth. Such romantic mysticism has long since died and Gaia is now known as the computer network that the human race uses to communicate.
-
-Created during The Droid War, Gaia is a huge virtual world that mimics the real world as well as the creators will let it. As the technology was created after the war had started, the Droids cannot use it. It exists within Imperium space, outside of which there is no Gaia at all. A detailed description of Gaia is included in the Technology section. A brief overview for the casual user is included here.
+Gaia is a fantastical virtual world which mimics the real world and is bent and twisted by creative artists, corporate marketing and hackers. Real world infrastructure of buildings, space stations and spacecraft are all represented in Gaia but through the lense of the creative human mind.
 
 ### Internet and Gaia Comparison
 | 21st Century |	923rd Century |
 |--------------|------------------|
 |Computer      | Rayengine        |
 | Memory stick with programs and personal information | Gaiacard |
-| Online shop | Gaia Volume, a 3D world that mimics the real world version. |
+| Online shop | Gaia Volume, a 3D space that mimics the real world shop. |
 | App |	Entity |
 | Hacking app | Daemon |
 | Email account identity | Isis |
