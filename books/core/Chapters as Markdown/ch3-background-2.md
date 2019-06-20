@@ -1,9 +1,9 @@
 ## Gaia
-Gaia is a fantastical virtual world which mimics the real world and is bent and twisted by creative artists, corporate marketing and hackers. Real world infrastructure of buildings, space stations and spacecraft are all represented in Gaia but through the lense of the creative human mind. 
+Gaia is a fantastical virtual world which began mimicking the real world but has since evolved: bent and twisted by creative artists, aggressive corporate marketers and hackers. Real world infrastructure of cities, atmosphere generators, mines, factories, space stations and spacecraft are all represented in Gaia but through the lense of the creative human mind. 
 
-People mostly interact with Gaia by touching and speaking to dice-sized holograms, each an intelligent entity app that rushes through the Gaia to complete a task. Entities float, crawl or orbit around their owners, projected from a Gaiacard which is both their interface to Gaia and unique identification. A person can immerse themselves in Gaia by entering a holoroom or through neural link, their eyes glazing over in the process.
+People mostly interact with Gaia by touching and speaking to dice-sized holograms in the real world, each an intelligent entity app that rushes through the Gaia to complete a task. Entities float, crawl or orbit around their owners, projected from a Gaiacard which is both their interface to Gaia and unique identification. The full power of Gaia is through immersion; either through stepping into a holoroom or using a direct neural link.
 
-Gaia blends with the real world wherever there is a machine. All machines, from the technology that cleans the corridors, through to the most complex business AI uses Gaia to host its intelligence. Giant advertising holograms that float between the buildings live on Gaia. If you know where to look, anyone can find them on Gaia; their shape often the same as their real world counterpart but adorned with hovering statistics, telemetry and advertising.
+Gaia blends with the real world wherever there is a machine. All machines, from the technology that cleans the corridors through to the most complex business AI, uses Gaia to host its intelligence. Giant advertising holograms float between buildings live on Gaia. If you know where to look, anyone can find them on Gaia; their shape often the same as their real world counterpart but adorned with hovering statistics, telemetry and advertising.
 
 ### Internet and Gaia Comparison
 | 21st Century |	923rd Century |
@@ -17,28 +17,21 @@ Gaia blends with the real world wherever there is a machine. All machines, from 
 | Email account identity | Isis |
 
 ### Without a Gaiacard
-Gaia is free. Billions of immersive public holorooms litter Human Occupied Space and are free for anyone to use. If you don't have a Gaiacard, you can do much the same actions but the identity you use will be your own physical self and you won't have your own specialist entities to help. Although you might travel across Gaia virtually, you never leave the holoroom.
+Gaia is free. Billions of immersive public holorooms litter Human Occupied Space and are free for anyone to use. If you don't have a Gaiacard, you can do much the same everyday things but the identity you use will be your own physical self and you won't have your own specialist entities to help. 
 
-### Immersive and Tanked Gaia
-Immersive terminals are those where the terminal surrounds you, like the public Gaia terminals. Most people will have an immersive Gaia terminal in their apartment or Croft house. 
-Tanked Gaia is where a portal terminal is used to contact Gaia. Portable terminals are mostly used for quick calls, checking sports scores or sending messages. It is more difficult to ensure that the Gaia call is kept private.
-For those with Gaia bionics, all interactions with Gaia is immersive, even when they are light years from the nearest terminal.
+### Immersive Gaia
+Entering a holoroom will immerse you in Gaia. You may travel thousands of light years to talk to someone in another part of the Galaxy but your physical form would never leave the holoroom. Holorooms are automatically private and very difficult to hack without the user knowing, whereas taking a call on a Gaiacard can be hacked or overheard more easily. 
 
-### Psychological Effects
-A Gaia terminal reproduces reality perfectly: sights, forces, smells and sounds are not differentiable from the real world. The AI controlling the terminal will not let harm come to you. The only thing that stops you from believing that you are in reality is a psychological effect called Reality Gravity. This is a feeling that something is not entirely right. It can be suppressed for a few days, but after that it is clear that something is not right. There are those people that believe that Gaia is more real than the real world - often leaving their bodies to rot in the real world as they experience a massive galaxy of soap operas, shopping, other people, news, features, history documentaries and more.
+The holoroom can simulate all the senses, has artificial gravity and can simulate reality so accurately that people can be fooled into thinking they've woken up in the real world. No matter how detailed the simulation or volume of Gaia is, humans eventually get the sense that something is not entirely right. The feeling can be suppressed with drugs, bionics and is less potent for this with mental health problems.
 
-### Hard Light
-The technology that allows people to interact with this virtual world is called Hard Light. Hard Light is a technology where a hologram can apply a force. There is a limit to how much force it can apply but these complex objects can be used to fool the senses. A Hard Light table can be made to feel like wood, glass, water or wind. Being in Gaia, the laws of physics need to be obeyed but the table can be made to act as the artist wants. Hard Light objects can exist in Gaia rooms or within the projection sphere of a Tanked terminal. The act of these objects appearing is called 'rezzing'.
+> Use a Soul check to detect a simulation once per day. The difficulty relates to the skill of the person building the simulation.
 
-### Generic and Unique Hard Light
-Hard Light objects can be generic or unique. A generic object may be copied within Gaia but a unique object is exactly that - no copies may be made.
-
-Like any piece of art, the cost of a Hard Light object depends on the artist, its rarity, its complexity and fashion. Unlike real world objects, they can be carried on any Gaiacard, and rezzed anywhere. In this way, people can carry all their home furniture around with them on their Gaiacard, literally taking their homes with them. Hard Light objects are bought and sold across Gaia.
-
-Most rooms within the more modern colonies are immersive Gaia rooms: living rooms, bedrooms, cafes, medical facilities and shops. The furniture of these rooms are all Hard Light objects, most are generic. For high rent rooms, unique objects will be scattered around the generic ones.
+For some, immersion is a way of life; addicted to the data rate, they believe that Gaia is more real than reality and leave their bodies to rot in the real world as they explore, consume and create in the virutal world.
 
 ### Entities 
-A Gaia Entity is a program that runs in Gaia. An Entity is a Hard Light object too but unlike simple objects (tables and chairs) they are intelligent, autonomous programs. To own and use Entities, you must own a Gaiacard to store them on and fire them off. Once they have moved off the Gaiacard they are free roaming across Gaia and independent.
+A Gaia entity is an artificially intelligent app that lives and operates in Gaia. They have both form and function
+
+An Entity is a Hard Light object too but unlike simple objects (tables and chairs) they are intelligent, autonomous programs. To own and use Entities, you must own a Gaiacard to store them on and fire them off. Once they have moved off the Gaiacard they are free roaming across Gaia and independent.
  
 The most popular of all the Entities is the search Entity, that runs around the public spaces of Gaia finding out information given some search criteria. Once it has some information, it returns to where it was set (or around a list of places, looking for the Isis of the owner). You can search Gaia passively but the information tends to be rather superficial. A search Entity will make much better connections and provider more context to the information. In 21st Century terms, passive searching is using Google and adjusting search terms; In 921st Century terms, a search agent would be using Google even when your computer is switched off.
 

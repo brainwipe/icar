@@ -231,3 +231,23 @@ Using a public terminal without your own Entities running is known as passive Ga
 ### Active Gaia
 
 Active Gaia requires the ownership of a Gaiacard (sometime called a Gaiacard in slang). A Gaiacard has a toolkit and an individual and unique identity called an Isis. This Isis is represented as a shape. You may have an Isis that looks different to yourself (such as a Dragon or giant robot) although it is not considered chic or adult to do so. A Gaiacard also allows you to have your own set of controls, such as personalised driving controls for your car or a set of hacking tools for getting into other people's systems. Most people make do without one, though. A few people have the terminal and Gaiacard installed in their head (see Bionics Section). This makes them very powerful Gaia users. One of the Gaiacard tools of interest is the ability to lock a terminal.
+
+### Immersive terminals
+
+Immersive terminals are those where the terminal surrounds you, like the public Gaia terminals. Most people will have an immersive Gaia terminal in their apartment or Croft house. 
+Tanked Gaia is where a portal terminal is used to contact Gaia. Portable terminals are mostly used for quick calls, checking sports scores or sending messages. It is more difficult to ensure that the Gaia call is kept private.
+For those with Gaia bionics, all interactions with Gaia is immersive, even when they are light years from the nearest terminal.
+
+### Psychological Effects
+A Gaia terminal reproduces reality perfectly: sights, forces, smells and sounds are not differentiable from the real world. The AI controlling the terminal will not let harm come to you. The only thing that stops you from believing that you are in reality is a psychological effect called Reality Gravity. This is a feeling that something is not entirely right. It can be suppressed for a few days, but after that it is clear that something is not right. There are those people that believe that Gaia is more real than the real world - often leaving their bodies to rot in the real world as they experience a massive galaxy of soap operas, shopping, other people, news, features, history documentaries and more.
+
+
+### Hard Light
+The technology that allows people to interact with this virtual world is called Hard Light. Hard Light is a technology where a hologram can apply a force. There is a limit to how much force it can apply but these complex objects can be used to fool the senses. A Hard Light table can be made to feel like wood, glass, water or wind. Being in Gaia, the laws of physics need to be obeyed but the table can be made to act as the artist wants. Hard Light objects can exist in Gaia rooms or within the projection sphere of a Tanked terminal. The act of these objects appearing is called 'rezzing'.
+
+### Generic and Unique Hard Light
+Hard Light objects can be generic or unique. A generic object may be copied within Gaia but a unique object is exactly that - no copies may be made.
+
+Like any piece of art, the cost of a Hard Light object depends on the artist, its rarity, its complexity and fashion. Unlike real world objects, they can be carried on any Gaiacard, and rezzed anywhere. In this way, people can carry all their home furniture around with them on their Gaiacard, literally taking their homes with them. Hard Light objects are bought and sold across Gaia.
+
+Most rooms within the more modern colonies are immersive Gaia rooms: living rooms, bedrooms, cafes, medical facilities and shops. The furniture of these rooms are all Hard Light objects, most are generic. For high rent rooms, unique objects will be scattered around the generic ones.

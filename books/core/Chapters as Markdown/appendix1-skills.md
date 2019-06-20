@@ -1,7 +1,7 @@
 | Skill                                                 | E | Requires          | 
 |-------------------------------------------------------|---|-------------------| 
 | Acrobatics                                            | 1 |                   | 
-| AI and Automatons                                     | 2 | Micro Engineering | 
+| Artificial Intelligence                                     | 2 | Micro Engineering | 
 | Akarak Art                                            | 2 | Acrobatics        | 
 | Antiquities                                           | 2 | History           | 
 | Astromechanics                                        | 2 | Physical          | 
