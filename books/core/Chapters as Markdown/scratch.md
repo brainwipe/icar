@@ -251,3 +251,7 @@ Hard Light objects can be generic or unique. A generic object may be copied with
 Like any piece of art, the cost of a Hard Light object depends on the artist, its rarity, its complexity and fashion. Unlike real world objects, they can be carried on any Gaiacard, and rezzed anywhere. In this way, people can carry all their home furniture around with them on their Gaiacard, literally taking their homes with them. Hard Light objects are bought and sold across Gaia.
 
 Most rooms within the more modern colonies are immersive Gaia rooms: living rooms, bedrooms, cafes, medical facilities and shops. The furniture of these rooms are all Hard Light objects, most are generic. For high rent rooms, unique objects will be scattered around the generic ones.
+
+### Entities
+
+The most popular of all the Entities is the search Entity, that runs around the public spaces of Gaia finding out information given some search criteria. Once it has some information, it returns to where it was set (or around a list of places, looking for the Isis of the owner). You can search Gaia passively but the information tends to be rather superficial. A search Entity will make much better connections and provider more context to the information. In 21st Century terms, passive searching is using Google and adjusting search terms; In 921st Century terms, a search agent would be using Google even when your computer is switched off.

@@ -3,7 +3,7 @@ Gaia is a fantastical virtual world which began mimicking the real world but has
 
 People mostly interact with Gaia by touching and speaking to dice-sized holograms in the real world, each an intelligent entity app that rushes through the Gaia to complete a task. Entities float, crawl or orbit around their owners, projected from a Gaiacard which is both their interface to Gaia and unique identification. The full power of Gaia is through immersion; either through stepping into a holoroom or using a direct neural link.
 
-Gaia blends with the real world wherever there is a machine. All machines, from the technology that cleans the corridors through to the most complex business AI, uses Gaia to host its intelligence. Giant advertising holograms float between buildings live on Gaia. If you know where to look, anyone can find them on Gaia; their shape often the same as their real world counterpart but adorned with hovering statistics, telemetry and advertising.
+Gaia blends with the real world wherever there is a machine. All machines, from the technology that cleans the corridors through to the most complex business AI, uses Gaia to host its intelligence. Giant advertising holograms float between buildings live on Gaia and hotel furniture is made from a mix of holograms and force fields called hard light. If you know where to look, it all exists on Gaia too; their shape often the same as their real world counterpart but adorned with hovering statistics, telemetry and advertising.
 
 ### Internet and Gaia Comparison
 | 21st Century |	923rd Century |
@@ -22,24 +22,24 @@ Gaia is free. Billions of immersive public holorooms litter Human Occupied Space
 ### Immersive Gaia
 Entering a holoroom will immerse you in Gaia. You may travel thousands of light years to talk to someone in another part of the Galaxy but your physical form would never leave the holoroom. Holorooms are automatically private and very difficult to hack without the user knowing, whereas taking a call on a Gaiacard can be hacked or overheard more easily. 
 
-The holoroom can simulate all the senses, has artificial gravity and can simulate reality so accurately that people can be fooled into thinking they've woken up in the real world. No matter how detailed the simulation or volume of Gaia is, humans eventually get the sense that something is not entirely right. The feeling can be suppressed with drugs, bionics and is less potent for this with mental health problems.
+The holoroom can simulate reality so accurately that people can be fooled into thinking they've woken up in the real world. No matter how detailed the simulation is, humans eventually get the sense that something is not entirely right. The feeling can be suppressed with drugs, bionics and can be less potent for this with mental health problems.
 
 > Use a Soul check to detect a simulation once per day. The difficulty relates to the skill of the person building the simulation.
 
-For some, immersion is a way of life; addicted to the data rate, they believe that Gaia is more real than reality and leave their bodies to rot in the real world as they explore, consume and create in the virutal world.
+For some, immersion is a way of life; addicted to the data rate, they believe that Gaia is more real than reality and leave their bodies to rot in the real world as they explore, consume and create in the virtual world.
 
 ### Entities 
-A Gaia entity is an artificially intelligent app that lives and operates in Gaia. They have both form and function
+A Gaia entity is an artificially intelligent app that lives and operates in Gaia. At their most simplest, they are a app that searches Gaia for information and reports back to the owner. They could also be a fully-fledged artificial intelligence, indistinguishable from a human. Most people have many entities stored on their Gaia card; like you would apps on a smart phone. The biggest difference is that when an entities leaves your Gaiacard to perform some task in Gaia then they are gone off your Gaiacard until they finish.
 
-An Entity is a Hard Light object too but unlike simple objects (tables and chairs) they are intelligent, autonomous programs. To own and use Entities, you must own a Gaiacard to store them on and fire them off. Once they have moved off the Gaiacard they are free roaming across Gaia and independent.
- 
-The most popular of all the Entities is the search Entity, that runs around the public spaces of Gaia finding out information given some search criteria. Once it has some information, it returns to where it was set (or around a list of places, looking for the Isis of the owner). You can search Gaia passively but the information tends to be rather superficial. A search Entity will make much better connections and provider more context to the information. In 21st Century terms, passive searching is using Google and adjusting search terms; In 921st Century terms, a search agent would be using Google even when your computer is switched off.
+The vast majority of entities are common, can be easily duplicated and have no intrinsic value. There are also unique entities, which cannot be copied and like art, can be extremely expensive. All entities with an AI power of higher than 2 tend to be unique as AI entities are grown and that growing process is unique and takes time and effort.
+
+### Hard Light
+Entities can also have a hard light shape: a mix of light and force fields that can be touched and used in the real world. The most common use for hard light is furniture, which can be switched off and stored on a Gaiacard, holoroom or as part of a spacecraft. Most holograms are hard light in some way but only those with simple, practical use (like a chair or sword) have force fields strong enough to push back.
 
 ## The Nexus
-The Nexus is the name given to the Imperial Artificial Intelligence. The Nexus is the central location for all Imperial information and is used by all of the Star Industries and Imperial Councils. The Nexus performs three roles: an information store, an information retriever and a judge.
+The Nexus is the Imperial artificial intelligence, a central location for all Imperial information and used by all of the Imperial Chambers and Star Industries. It stores huge amounts of data in a deeply cross-referenced way such that an Imperial worker (such as an Imperial Peer aide or Star Enforcer) can have a question answer session with the Nexus. Asking the right question of the Nexus is a skill and answering the Nexus's questions must be done carefully as it learns who is a reliable information source.
 
-### Information store
-The Nexus automatically cross-references its data. Any  new information that is fed into the Nexus remains there. It is very difficult to remove it.
+The Nexus is the central location for all Imperial information and is used by all of the Star Industries and Imperial Councils. The Nexus performs three roles: an information store, an information retriever and a judge.
 
 ### Information retrieval
 This is the primary function of its intelligence. An Imperial worker can ask questions of the Nexus and a reply in the correct context will be given. By having a question and answer session with the AI, new connections between data (that requires the abstraction of human thought to make) can be forged. In this way, the Nexus learns from the humans that use it.
