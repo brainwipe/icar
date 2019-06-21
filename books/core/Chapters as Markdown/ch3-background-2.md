@@ -37,7 +37,9 @@ The vast majority of entities are common, can be easily duplicated and have no i
 Entities can also have a hard light shape: a mix of light and force fields that can be touched and used in the real world. The most common use for hard light is furniture, which can be switched off and stored on a Gaiacard, holoroom or as part of a spacecraft. Most holograms are hard light in some way but only those with simple, practical use (like a chair or sword) have force fields strong enough to push back.
 
 ## The Nexus
-The Nexus is the Imperial artificial intelligence, a central location for all Imperial information and used by all of the Imperial Chambers and Star Industries. It stores huge amounts of data in a deeply cross-referenced way such that an Imperial worker (such as an Imperial Peer aide or Star Enforcer) can have a question answer session with the Nexus. Asking the right question of the Nexus is a skill and answering the Nexus's questions must be done carefully as it learns who is a reliable information source.
+The Nexus is the Imperial artificial intelligence, a central location for all Imperial information and used by all of the Imperial Chambers and Star Industries. It stores huge amounts of data in a deeply cross-referenced way such that an Imperial worker (such as an Imperial Peer aide or Star Enforcer) can have a question answer session with the Nexus. Asking the right question of the Nexus is a skill and answering the Nexus's questions must be done carefully as it learns who is a reliable information source. Depending on their level of clearance, the Nexus 
+
+The Nexus is is used by the general public as the official line on any subject, from the dates of public holidays.
 
 The Nexus is the central location for all Imperial information and is used by all of the Star Industries and Imperial Councils. The Nexus performs three roles: an information store, an information retriever and a judge.
 
