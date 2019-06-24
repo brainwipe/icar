@@ -37,26 +37,32 @@ The vast majority of entities are common, can be easily duplicated and have no i
 Entities can also have a hard light shape: a mix of light and force fields that can be touched and used in the real world. The most common use for hard light is furniture, which can be switched off and stored on a Gaiacard, holoroom or as part of a spacecraft. Most holograms are hard light in some way but only those with simple, practical use (like a chair or sword) have force fields strong enough to push back.
 
 ## The Nexus
-The Nexus is the Imperial artificial intelligence, a central location for all Imperial information and used by all of the Imperial Chambers and Star Industries. It stores huge amounts of data in a deeply cross-referenced way such that an Imperial worker (such as an Imperial Peer aide or Star Enforcer) can have a question answer session with the Nexus. Asking the right question of the Nexus is a skill and answering the Nexus's questions must be done carefully as it learns who is a reliable information source. Depending on their level of clearance, the Nexus 
+The Nexus is the Imperial artificial intelligence, a central location for all Imperial information and used by all of the Imperial Chambers and Star Industries. It stores huge amounts of data in a deeply cross-referenced way such that an Imperial worker (such as an Imperial Peer aide or Star Enforcer) can have a question answer session with the Nexus. Asking the right question of the Nexus is a skill and answering the Nexus's questions must be done carefully as it learns who is a reliable information source. 
 
-The Nexus is is used by the general public as the official line on any subject, from the dates of public holidays.
+The Nexus adjusts the detail it gives depending on context and clearance level. The general public can ask it for the official line on any subject, while Star Enforcers can ask for a suspect's criminal record and Star Sci Scientists can ask for details on other secret science experiments.
 
-The Nexus is the central location for all Imperial information and is used by all of the Star Industries and Imperial Councils. The Nexus performs three roles: an information store, an information retriever and a judge.
-
-### Information retrieval
-This is the primary function of its intelligence. An Imperial worker can ask questions of the Nexus and a reply in the correct context will be given. By having a question and answer session with the AI, new connections between data (that requires the abstraction of human thought to make) can be forged. In this way, the Nexus learns from the humans that use it.
-
-Not all information is available to everyone. Some parts of the Nexus have restricted access depending on the sensitivity of the information and who placed it in there. Details of Star Sci experiments, criminal records, Star Fleet battle orders and Imperium Law reviews are placed in their respective areas. Higher ranks tend to have better access although this is not accounted for across Star Industries.
-
-The public areas of the Nexus are well frequented by those looking for the latest scientific developments, news on galactic economic trends and those requesting help with any matter.
-
-### Judge
-The law boils down to a set of rules that are applied given evidence. The Nexus holds all evidence and makes entirely impartial judgements. Most feel that the Nexus is too easy on criminals but it is not the Nexus at fault here - it is normally a lack of evidence that causes the guilty to go free.
+### Judge Nexus
+The law boils down to a set of rules that are applied given evidence. The Nexus holds all evidence and makes entirely impartial judgements. Most feel that the Nexus is too easy on criminals but it is not the Nexus at fault here - it is normally a lack of evidence that means the guilty go free. Science and technology is advanced enough that not only is the collection of evidence easier but so is the forgery of it. DNA is no longer enough to prove a person was at a crime scene; 3D video footage of a crime happening can be built in Gaia simulations. This makes evidence unreliable, so a Star Enforcer needs to collect lots of it for a conviction to occur.
 
 ### Hack the Nexus?
-The Nexus personally takes offence to hackers and will automatically hunt down and destroy any Isis that it feels has represented a threat. It is very difficult to live in the Imperial society when an enormously powerful AI at its core is hunting you. Nexus hackers are usually caught very quickly.
+The Nexus personally takes offence to hackers and will automatically hunt down and destroy any Gaiacard that it feels has represented a threat. It is very difficult to live in the Imperial society when an enormously powerful AI at its core is hunting you. Nexus hackers are usually lured into a trap and then caught by the Star Enforcers quickly.
 
 ## Hacking
+The virtual world inside Gaia is like data: malleable and constantly morphing. That data is open to abuse and that is where our hacker comes in. Hacks can change and delete parts of the virtual world and the Entities living in it.
+
+The more complex a Gaia Entity is, the more difficult it is to hack. Entities with a high Artificial Intelligence power require more time, perhaps even a life time and are, as such, impractical to hack.
+
+Critical systems are protected by being able to generate billions of Entities very quickly and root out compromised Entities. This is why spacecraft are impractical to hack. You can break in through their security and start deleting Entities but you would need to do that faster than every single intelligent Entity in the spacecraft can create them and that simply isn't practical. For example, the Life Support system typically has over a million duplicates of each of its monitoring and control Entities. Even if you could find and destroy a thousand a second, one of those Entities would spawn thousands more. If you modified a thousand a second then your modified Entities would soon be spotted and deleted by the others.
+
+Hacking examples
+Change the Gaia representation of your car into an ambulance, other traffic will give you right of way.
+Convince a security systems that you are allowed into that secure room.
+Steal hidden documents.
+Delete security footage of you shooting that bad guy (for the common good).
+Change all the holographic adverts for a company to a dancing banana, this would appear in the real world too.
+Make a derelict colony look thriving by hacking the Gaia representation and filling it with fake entities.
+
+
 No system is perfect and that can certainly be said for Gaia. It is possible to create Entities that exploit imperfections in Gaia and so gain access to areas that are otherwise hidden from the public view. 
 
 Hacking within Gaia is done within the rules of Gaia. You cannot hack Gaia itself. Therefore, Hacking is about exploiting the cracks and imperfections caused by the creation of the virtual world.

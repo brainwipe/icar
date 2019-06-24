@@ -255,3 +255,16 @@ Most rooms within the more modern colonies are immersive Gaia rooms: living room
 ### Entities
 
 The most popular of all the Entities is the search Entity, that runs around the public spaces of Gaia finding out information given some search criteria. Once it has some information, it returns to where it was set (or around a list of places, looking for the Isis of the owner). You can search Gaia passively but the information tends to be rather superficial. A search Entity will make much better connections and provider more context to the information. In 21st Century terms, passive searching is using Google and adjusting search terms; In 921st Century terms, a search agent would be using Google even when your computer is switched off.
+
+### Nexus
+The Nexus is the central location for all Imperial information and is used by all of the Star Industries and Imperial Councils. The Nexus performs three roles: an information store, an information retriever and a judge.
+
+This is the primary function of its intelligence. An Imperial worker can ask questions of the Nexus and a reply in the correct context will be given. By having a question and answer session with the AI, new connections between data (that requires the abstraction of human thought to make) can be forged. In this way, the Nexus learns from the humans that use it.
+
+
+
+### Information retrieval
+
+Not all information is available to everyone. Some parts of the Nexus have restricted access depending on the sensitivity of the information and who placed it in there. Details of Star Sci experiments, criminal records, Star Fleet battle orders and Imperium Law reviews are placed in their respective areas. Higher ranks tend to have better access although this is not accounted for across Star Industries.
+
+The public areas of the Nexus are well frequented by those looking for the latest scientific developments, news on galactic economic trends and those requesting help with any matter.
