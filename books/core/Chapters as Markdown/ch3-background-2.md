@@ -48,28 +48,38 @@ The law boils down to a set of rules that are applied given evidence. The Nexus 
 The Nexus personally takes offence to hackers and will automatically hunt down and destroy any Gaiacard that it feels has represented a threat. It is very difficult to live in the Imperial society when an enormously powerful AI at its core is hunting you. Nexus hackers are usually lured into a trap and then caught by the Star Enforcers quickly.
 
 ## Hacking
-The virtual world inside Gaia is like data: malleable and constantly morphing. That data is open to abuse and that is where our hacker comes in. Hacks can change and delete parts of the virtual world and the Entities living in it.
+The virtual world inside Gaia is data: malleable and dynamic. That data is open to abuse and that is where our hacker comes in. Hacks can change and delete parts of the virtual world and the entities living in it.
 
-The more complex a Gaia Entity is, the more difficult it is to hack. Entities with a high Artificial Intelligence power require more time, perhaps even a life time and are, as such, impractical to hack.
+The more complex a Gaia Entity is, the more difficult it is to hack. As entities increase their artificial intelligence power, they become progressively harder to hack; the most advanced taking a lifetime and are therefore impractical.
 
-Critical systems are protected by being able to generate billions of Entities very quickly and root out compromised Entities. This is why spacecraft are impractical to hack. You can break in through their security and start deleting Entities but you would need to do that faster than every single intelligent Entity in the spacecraft can create them and that simply isn't practical. For example, the Life Support system typically has over a million duplicates of each of its monitoring and control Entities. Even if you could find and destroy a thousand a second, one of those Entities would spawn thousands more. If you modified a thousand a second then your modified Entities would soon be spotted and deleted by the others.
+Critical systems get protection by generating billions of entities very quickly to root out compromised entities. This is why spacecraft are impractical to hack. You can break in through their security and start deleting or modifying entities but you would need to do that in a flood, which requires very rare and specialised tools.
 
-Hacking examples
-Change the Gaia representation of your car into an ambulance, other traffic will give you right of way.
-Convince a security systems that you are allowed into that secure room.
+### Hacking examples
+There are plenty of hacking opportunities without attacking the hardened intelligences.
+
+- Change the Gaia representation of your car into an ambulance, other traffic will give you right of way.
+- Convince a security systems that you are allowed into that secure room.
 Steal hidden documents.
-Delete security footage of you shooting that bad guy (for the common good).
-Change all the holographic adverts for a company to a dancing banana, this would appear in the real world too.
-Make a derelict colony look thriving by hacking the Gaia representation and filling it with fake entities.
-
-
-No system is perfect and that can certainly be said for Gaia. It is possible to create Entities that exploit imperfections in Gaia and so gain access to areas that are otherwise hidden from the public view. 
-
-Hacking within Gaia is done within the rules of Gaia. You cannot hack Gaia itself. Therefore, Hacking is about exploiting the cracks and imperfections caused by the creation of the virtual world.
-
-The rules for Hacking can be found in Hacking on XXXXXXXX.
+- Delete security footage of you shooting that bad guy (for the common good).
+- Change all the holographic adverts for a company to a dancing banana, this would appear in the real world too.
+- Make a derelict colony look thriving by hacking the Gaia representation and filling it with fake entities.
 
 ### Undergaia
+Sculpted from the dead spaces caused by Gaia's imperfections, the Undergaia is a free spirited virtual anarchy. If you can find one of its billion frequently shifting secret doors then you might be able to access the variety of services hidden from view.
+
+Being in the Undergaia isn't illegal.
+
+Entities in disguise
+Volumes of space
+Not illegal to be there but much of its activity is illegal
+Collection of spaces across Gaia
+
+Starting point for most illegal entities heading out into Gaia.
+
+Information blindness/flooding to stop Star Enforcers
+
+Buy/sell 
+
 The Undergaia is the illegal side of Gaia. Hidden in the corners and cracks of Gaia are people and Entities that avoid the rest of society. The virtual world of Gaia is not perfect, nor complete and in the places where the designers have not yet filled will often exist Undergaia. The Undergaia is not a single place, it's a collection of places across the virtual galaxy. 
 
 The Undergaia began as secret meeting places for exchanging thoughts, rumour and information useful for those engaged in illegal activities. In modern times, it is so much more. The Isis belonging to criminals hide out in the Undergaia, using it as a safe place to start off their illegal Entities that often pass out into the rest of Gaia.

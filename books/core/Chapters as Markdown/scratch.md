@@ -261,10 +261,15 @@ The Nexus is the central location for all Imperial information and is used by al
 
 This is the primary function of its intelligence. An Imperial worker can ask questions of the Nexus and a reply in the correct context will be given. By having a question and answer session with the AI, new connections between data (that requires the abstraction of human thought to make) can be forged. In this way, the Nexus learns from the humans that use it.
 
-
-
 ### Information retrieval
 
 Not all information is available to everyone. Some parts of the Nexus have restricted access depending on the sensitivity of the information and who placed it in there. Details of Star Sci experiments, criminal records, Star Fleet battle orders and Imperium Law reviews are placed in their respective areas. Higher ranks tend to have better access although this is not accounted for across Star Industries.
 
 The public areas of the Nexus are well frequented by those looking for the latest scientific developments, news on galactic economic trends and those requesting help with any matter.
+
+### Hacking
+No system is perfect and that can certainly be said for Gaia. It is possible to create Entities that exploit imperfections in Gaia and so gain access to areas that are otherwise hidden from the public view. 
+
+Hacking within Gaia is done within the rules of Gaia. You cannot hack Gaia itself. Therefore, Hacking is about exploiting the cracks and imperfections caused by the creation of the virtual world.
+
+The rules for Hacking can be found in Hacking on XXXXXXXX.
