@@ -273,3 +273,18 @@ No system is perfect and that can certainly be said for Gaia. It is possible to 
 Hacking within Gaia is done within the rules of Gaia. You cannot hack Gaia itself. Therefore, Hacking is about exploiting the cracks and imperfections caused by the creation of the virtual world.
 
 The rules for Hacking can be found in Hacking on XXXXXXXX.
+
+## Undergaia
+
+The Undergaia is the illegal side of Gaia. Hidden in the corners and cracks of Gaia are people and Entities that avoid the rest of society. The virtual world of Gaia is not perfect, nor complete and in the places where the designers have not yet filled will often exist Undergaia. The Undergaia is not a single place, it's a collection of places across the virtual galaxy. 
+
+The Undergaia began as secret meeting places for exchanging thoughts, rumour and information useful for those engaged in illegal activities. In modern times, it is so much more. The Isis belonging to criminals hide out in the Undergaia, using it as a safe place to start off their illegal Entities that often pass out into the rest of Gaia.
+
+The Undergaia persists due to the huge market in stolen unique Entities and more simple Gaia objects. 
+
+One way in which the Undergaia managed to avoid being used by the Enforcers as an inroad into the criminal world is by flooding the Undergaia information centres with false information. Unless you know how to move through the enormous amount of misinformation to the real information (the Hacking Skill can be used with Research to perform this function) then it can be difficult to find accurate answers to your questions.
+
+### Accessing the Undergaia
+The Undergaia can be accessed by passing a Hacking Skill check. A Hacking Skill check is then required for each piece of information that the character needs. It is not possible to 'bookmark' locations in the Undergaia, you must hack to find a new entry point even if you have been there before.
+
+If the team does not have anyone with the Hacking Skill, then they must attempt to find someone who can access the Undergaia either by using contacts or by searching Gaia for people offering generic Gaia services, such as Information Brokers.

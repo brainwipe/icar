@@ -59,51 +59,38 @@ There are plenty of hacking opportunities without attacking the hardened intelli
 
 - Change the Gaia representation of your car into an ambulance, other traffic will give you right of way.
 - Convince a security systems that you are allowed into that secure room.
-Steal hidden documents.
+- Steal hidden documents.
 - Delete security footage of you shooting that bad guy (for the common good).
 - Change all the holographic adverts for a company to a dancing banana, this would appear in the real world too.
 - Make a derelict colony look thriving by hacking the Gaia representation and filling it with fake entities.
 
 ### Undergaia
-Sculpted from the dead spaces caused by Gaia's imperfections, the Undergaia is a free spirited virtual anarchy. If you can find one of its billion frequently shifting secret doors then you might be able to access the variety of services hidden from view.
+Sculpted from the dead spaces caused by Gaia's imperfections, the Undergaia is a free spirited virtual anarchy. If you can find one of its billion frequently shifting secret doors then you might be able to access the variety of services hidden from view. It is not one single volume but a billion spread across Gaia; new ones appear and disappear every second. Moving between them is easier than finding them in the first place as once you're in the Undergaia, you can see other fissures more easily (there's only a Hacking skill check to enter). If you do not have a hacker in your team then you will need to find an Information Broker (Streetwise skill check) who will put you in touch with one.
 
-Being in the Undergaia isn't illegal.
+> Access the Undergaia with a Hacking skill check.
 
-Entities in disguise
-Volumes of space
-Not illegal to be there but much of its activity is illegal
-Collection of spaces across Gaia
+The Undergaia is useful for:
 
-Starting point for most illegal entities heading out into Gaia.
+- Buying illegal entities, such as deamons for hacking or stolen security credentials.
+- Hiring real world assassins.
+- Hiring hackers to help on a mission.
+- Finding a buyer for stolen goods.
+- Buying information.
+- Running intelligent entities that then leave the Undergaia to do work in disguise.
 
-Information blindness/flooding to stop Star Enforcers
-
-Buy/sell 
-
-The Undergaia is the illegal side of Gaia. Hidden in the corners and cracks of Gaia are people and Entities that avoid the rest of society. The virtual world of Gaia is not perfect, nor complete and in the places where the designers have not yet filled will often exist Undergaia. The Undergaia is not a single place, it's a collection of places across the virtual galaxy. 
-
-The Undergaia began as secret meeting places for exchanging thoughts, rumour and information useful for those engaged in illegal activities. In modern times, it is so much more. The Isis belonging to criminals hide out in the Undergaia, using it as a safe place to start off their illegal Entities that often pass out into the rest of Gaia.
-
-The Undergaia persists due to the huge market in stolen unique Entities and more simple Gaia objects. 
-
-One way in which the Undergaia managed to avoid being used by the Enforcers as an inroad into the criminal world is by flooding the Undergaia information centres with false information. Unless you know how to move through the enormous amount of misinformation to the real information (the Hacking Skill can be used with Research to perform this function) then it can be difficult to find accurate answers to your questions.
-
-### Accessing the Undergaia
-The Undergaia can be accessed by passing a Hacking Skill check. A Hacking Skill check is then required for each piece of information that the character needs. It is not possible to 'bookmark' locations in the Undergaia, you must hack to find a new entry point even if you have been there before.
-
-If the team does not have anyone with the Hacking Skill, then they must attempt to find someone who can access the Undergaia either by using contacts or by searching Gaia for people offering generic Gaia services, such as Information Brokers.
+Being in the Undergaia isn't illegal; only the actions performed there are. The Undergaia is not an easy hunting ground for the Star Enforcers because of floods of mis-information. A common saying is that you can always find what you're looking for in the Undergaia but it won't necessarily be true.
 
 ### Enforcer Isis
-Where there is crime, there are Star Enforcers and Gaia is no exception. The Star Enforcers are forever looking for the same kinks in the Undergaia that people wishing to use it. The Entities that the Star Enforcer Isis use are very powerful and so it is advisable to remain well clear of Enforcer Isis.
+Where there is crime, there are Star Enforcers and Gaia is no exception. The Star Enforcers are forever looking for the same kinks in the Undergaia that people wishing to use it. The entities that the Star Enforcer Isis use are very powerful; remain well clear of them. They are still bound by the limits of Gaia, for example hacking spacecraft remotely is impractical.
 
-Enforcer Isis are not normally used for simply hacking into the Undergaia for information but instead used in conjunction with real world operations, providing data and support. 
+Enforcer Isis are used in conjunction with real world operations, providing data and support. 
 
-> Example: If the Star Enforcers are planning a raid, then the Enforcer Entities may be used to turn off the lights, drop fire doors or freeze the lifts to make escape more difficult. This is seen as a much better use of Enforcer time as hours can be spent hacking into the Undergaia and sifting through misinformation without any result.
+> Example: If the Star Enforcers are planning a raid, then the Enforcer entities would be used to turn off the lights, drop bulkhead doors or freeze the lifts to make escape more difficult. 
 
 ## Automatons
-Perhaps the least popular technology, Automatons are intelligent machines that live amongst the human race. An important distinction should be made between robots, Droids and Automatons at this point. A robot is an autonomous device that can unwittingly harm humans but has no intelligence or intent (like a toaster). Droids are a type of Artificially Intelligent robot that are designed to destroy; Droids can kill. 
+Perhaps the most controversial technology, Automatons are intelligent machines that live and work amongst the human race. There is an important distinction between robots, Droids and Automatons: a robot is an autonomous device with intelligence that can unwittingly harm humans (like a toaster), Droids are a type of artificially intelligent robot that are designed to destroy; Droids can kill. 
 
-An Automaton is an Artificially Intelligent (AI) robot that has been hard-coded with laws serve to protect the human race. Furthermore, modern Automatons are programmed using Gaia and are therefore  impervious to the reprogramming attempts of Droids.
+An Automaton is an artificially intelligent (AI) robot that has been hard-coded with laws serve to protect the human race. Furthermore, modern Automatons are programmed using Gaia and are therefore impervious to the reprogramming attempts of Droids.
 
 ### Classes
 Automatons can be broadly split into classes. The class can indicate the types of job that the Automaton was designed for. Quite often an automaton is used for a job that they were not designed for but manage to do the task just as well.
