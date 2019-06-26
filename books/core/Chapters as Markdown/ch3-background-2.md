@@ -96,53 +96,58 @@ Automaton intelligence, like all AI, is hardwired to protect the human race. Usi
 Artificial Intelligence Power is the Wit attribute for all machines including automatons. The scale is between 0 and 10. An AI power of 0 would be typical machines from the 21st Century and a Power of 10 would be near enough to humans to make it very difficult to tell the difference. AI power indicates the number of high level skills that the automaton have.
 
 #### 0. Unintelligent
-A machine that does not exhibit any intelligence and so does not need to conform to laws to protect mankind.  These are called generally called robots. These devices are partially autonomous but rely heavily on human input. An example would be a coffee machine or an atmospheric processor. They are created to do a set number of tasks - which may be mathematically complex but easy for a machine to do. All machines in the 20th Century are AI Power 0. Machines of AI Power 0 do not grow.
+A machine that does not exhibit any intelligence, follows a distinct set of actions. They are usually autonomous but require human input; either directly or through programming. Jobs include coffee machines, atmospheric processors and weapon clusters on spacecraft. All machines in the 20th Century are AI Power 0. Machines of AI Power 0 do not grow.
 
 #### 1. Simple machine
-Performs tasks as asked by a human. Can communicate using simple language, talk and perform simple tasks. The AI will treat language literally and can't understand humour, sarcasm or human emotions. Typical jobs would include couriers or hauler crew members. Automaton Hoppers are capped at AI Power 1.
+Performs tasks as described loosely by a human. Can talk and understand speech but will take instructions  literally and can't understand humour, sarcasm or human emotions. Typical jobs include space crate haulage (hoppers), engineering workshop assistants and FEMTS (see XXXXXX). Usually capped at AI Power 1.
 
 #### 2. Communicator
-A much better communicator, can perform complex tasks with less prompting and guidance. However, reasoning and human empathy leaves a lot to be desired. Typical jobs would be anywhere where communication with a human is important such as corporate receptionists. 
+Where communication of complex tasks is important, although without any deep empathic understanding of the human condition, the communicator is key. They cannot extrapolate outside the context for which they have been designed and make excellent corporate representatives as they never stray outside the corporate protocol. Convincingly human automatons with an AI Power of 2 are commonly found as corporate receptionists and front of house jobs.
 
 #### 3. Common Sense
-This is the most popular form of Automaton as it has a limited amount of worldly knowledge that would represent common sense. These Automatons make excellent personal assistants, or skilled workers in office buildings. Normally the skill set is too limited to work in spacecraft.
+This is the most popular form of Automaton as it has a limited amount of worldly knowledge that would represent common sense. These Automatons make excellent personal assistants, or skilled workers in corporations. Common sense allows them to deal with situations that are outside their original design. They are useful outside of the strict corporate world and are found as waiting staff, prostitutes, entertainers and security staff.
 
 #### 4. Skilled
-A more skilled form of Automaton, which can form a connection between common sense and known skills. The skilled Automaton can be found doing technical jobs such as spacecraft crew or a medical assistant.
+A skilled AI is able to more quickly adapt to complex situations as they have the skills to back up the common sense. Skilled AIs are usually found in automatons on spacecraft, where there can be a huge variety of things going wrong at once! They make excellent crew members (commonly medical assistants), however they do not posses the problem solving ability to take leadership.
 
 #### 5. Problem Solver
-A problem solver can use learnt knowledge to help identify problems and find solutions to them. Unfortunately, these solutions are rarely provided in a manner in which humans might appreciate and an Automaton with this ability might appear to be brusque or rude. The judgements are often devoid of any appreciation of human emotion. Regardless of the complexity of the personality grafted onto the AI, the lack of empathy can be jarring.
+A problem solver can use learnt knowledge and common sense to help identify problems and find solutions to them. Problem solvers are extremely useful but their personality can often appear brusque or rude and the solutions are offered in a matter-of-fact manner, without having the empathy required to understand the emotional impact of humans.
 
-Spacecraft and most vehicles are usually capped at Level 5. To go higher than AI Power 5 is called Ascension. See Ascension on page 57.
+Spacecraft and most vehicles are usually capped at Level 5. Growing above AI Power 5 is called Ascension. See Ascension XXXXXXX.
 
 #### 6. Empathic
-The ability to predict some human emotion and understand some of what a human is going through. Automatons with Empathy are high in demand in colonial matters as they tend to use a human-like method of solving problems - often slightly less optimal but with sensitivity to feelings. Empathic Automatons are able to take on tasks which are often left to humanity, such as Medicine or Surgery. Medics are normally Capped at Power 6.
+Empathic AIs are able to understand the emotions of humans. Automatons with AI Power of 6 are high in demand in colonial matters as they tend to find human-friendly solutions - often slightly less optimal but with compassion. Empathic automatons are able to take on tasks which are traditionally restricted to humans, such as medicine or surgery. Medic automatons are normally Capped at Power 6.
+
+Most AIs at this level are humanoid because to grow above level 5 requires an understanding of humanity most easily gained by sharing their space in the same way. It is possible to grow an AI past level 5 without a humanoid form but it requires a lot of special training (see Grow Your Own XXXXXXXXX).
 
 #### 7. Individual
-The Automaton begins forming a purpose of individuality. They are likely to remain with their owners, not only due to the laws but a desire to be part of something, rather than just an individual. Automatons with this level will start having individual ideas on music, art and philosophy and so will begin to gain an appreciation for them, even creating new works. 
+The AI begins forming a purpose of individuality and sense of humour. They are likely to remain with their owners, not only due to the local laws but a desire to be part of something, rather than just an individual. AIs with this level will start having individual ideas on music, art and philosophy and so will begin to gain an appreciation for them, even creating new works. 
 
-A mural created by an Automaton of this level would be unique, rather than a mural created by a lower level, which might look photorealistic but would definitely be the product of a programmed routine. It is at this point that many pro-automatons people believe Automatons should be free. The Automaton will also develop a sense of humour around this time.
+A mural created by an Automaton of this level would be unique. Unlike a mural created by a lower level, which might look photorealistic but would have no individuality. It is at this point that many technologist philosophy followers think the AI should be considered an independent entity. 
+
+AI Power 7 is a popular place to cap an intelligence as beyond this point, the automaton personality can become erratic. It is very rare for an AI to grow further than this without an automaton body.
 
 #### 8. Abstractive
-Abstraction is the ability to apply experience, learning and personality to something that has little form. A good example is suggesting what shape a cloud might be. This is a difficult thing for a machine to do (without randomly picking) and it makes the Automaton a much better problem solver. 
+Abstraction is the ability to apply experience, learning and personality to ideas rather than events or objects. This is a difficult thing for a machine to do (without randomly picking) and it makes the AI a different kind of problem solver as it can often draw connections to otherwise unrelated things.
 
-Automatons quite often become introverted at this level and are often capped before this level. The Automaton may appear erratic and although told to do a job, individuality and lateral thinking may mean the task will be performed in a strange way. There are few jobs that an Abstractive Automaton can really do except apply themselves as a family friend or (often frustrating) tutor for teenagers.
+AIs become introverted at this level and are often capped before now. The Automaton may appear erratic and although told to do a job, individuality and lateral thinking may mean the task will be performed in an unexpected manner. There are few jobs that an abstractive automaton can do reliably but make excellent family friends or (often frustrating) tutor for teenagers.
 
-#### 9. Cogniscent
-A Cogniscent Automaton is a very powerful one. The lateral thinking of the Abstractive Automaton but with an appreciation of self and self worth. A Cogniscent Automaton understands what it is to be alive and will want to have purpose in the world. They tend to become inspirational characters, making use of a wealth of knowledge through their interesting lives to offer solutions to problems. These are heavily sought after Automatons and often make advisers to Colonial Councillors. Not many Automatons get this far, as few owners want the Automaton to go through the Abstractive phase. It is believed that the Imperial Nexus is an AIP 9.
+#### 9. Cognisant
+A cognisant automaton is a very powerful one. The lateral thinking of the abstractive automaton but with an appreciation of self and self worth. A cognisant automaton understands what it is to be alive and will want to have purpose in the world. They tend to become inspirational characters, making use of a wealth of knowledge through their interesting lives to offer solutions to problems. These are heavily sought after automatons and often make advisers to colonial councillors. Not many automatons get this far, as few owners want the automaton to go through the abstractive phase. It is believed that the Imperial Nexus is an AIP 9.
 
 #### 10. Near human
-At this point, the Automaton is indistinguishable from a human and can be considered to have a Wit of 5. It would take Star Sci an extremely long time to discern whether the Automaton was human or not without scanning medically. Only very old Automatons ever make it this far. Tests for AI Power 10 are not reliable and the Automaton is likely to sit them incorrectly. It is uncertain whether an Automaton at AIP 10 will still obey the laws of robotics.
+At this point, the automaton is indistinguishable from a human and can be considered to have a Wit of 4. It would take Star Sci an extremely long time to discern whether the automaton was human or not without scanning medically. Only very old automatons ever make it this far. Tests for AI Power 10 are not reliable and the automaton is likely to sit them incorrectly. It is uncertain whether an automaton at AI Power 10 will still obey the laws of robotics.
 
 ### Growth
 Artificial Intelligences grow over time with experience. The more varied and intense the experiences, the quicker their intelligence grows. For example, in 20 years, a machine of AI Power 1 can reach 4 or 5 as a crew on a spacecraft.
+
+> Growing your own
 
 ### Ascension
 Ascension is the process of an Automaton growing from AI Power 5 (Skilled) to AI Power 6 (Empathic). Ascension is a big deal from the point of view of the Automaton as it is the first step away from machine towards the individual. The act of moving from Power 5 to 6 is called Ascension. See Ascension on page 57.
 
 ### Capping
 AI Power is usually given an upper limit (capped). You would not want your mining Automaton becoming interested in music and human emotion, so you might cap it at 4. Most Artificial Intelligences that human rely upon with their lives (such as spacecraft) are capped at level 5 to stop them from Ascending.
-
 
 ### Automaton Personalities
 As the Automaton is Artificially Intelligent, it changes over time. The more it experiences, the more it learns, the more its personality changes from the original template. The original personality template normally fits the task that the Automaton is designed for. 
