@@ -288,3 +288,33 @@ One way in which the Undergaia managed to avoid being used by the Enforcers as a
 The Undergaia can be accessed by passing a Hacking Skill check. A Hacking Skill check is then required for each piece of information that the character needs. It is not possible to 'bookmark' locations in the Undergaia, you must hack to find a new entry point even if you have been there before.
 
 If the team does not have anyone with the Hacking Skill, then they must attempt to find someone who can access the Undergaia either by using contacts or by searching Gaia for people offering generic Gaia services, such as Information Brokers.
+
+## Automatons
+Perhaps the most controversial technology, Automatons are intelligent machines that live and work amongst the human race. There is an important distinction between robots, Droids and Automatons: a robot is an autonomous device with intelligence that can unwittingly harm humans (like a toaster), Droids are a type of artificially intelligent robot that are designed to destroy; Droids can kill. 
+
+An Automaton is an artificially intelligent (AI) robot that has been hard-coded with laws serve to protect the human race. Furthermore, modern Automatons are programmed using Gaia and are therefore impervious to the reprogramming attempts of Droids.
+
+
+### Classes
+Automatons can be broadly split into classes. The class can indicate the types of job that the Automaton was designed for. Quite often an automaton is used for a job that they were not designed for but manage to do the task just as well.
+
+_Humanoid._ The most common of Automaton. Human in shape and appearance, they are often created with unique personalities. To the human eye and touch, a Humanoid Automaton is indistinguishable from another human.
+
+_Utility._ These Automatons are used in industry a great deal. Their form is normally an exaggerated humanoid and they quite often take the shape of Industrial Borgs. Utility Automatons are found on space docks and in mining operations.
+
+_Singular._ This Automaton is normally constructed for a single purpose and is not used for much else. A good example are Hoppers: Automatons used for the sole purpose of moving space crates around.
+
+### Automaton Jobs
+Automatons perform many of the menial tasks that humans could do but choose not to. Their form is often derived from this shape. For example, most Automatons working within human colonies are aesthetically indistinguishable from humans. They work in a human world and interact with humans and so are constructed by them. However, Automatons that work in mines or on construction sites have metal skins and are created for that purpose. Other jobs include:
+
+- Building cleaner
+- Construction worker
+- Corporate personal assistant
+- Corporate receptionist
+- Crate mover (called a Hopper)
+- Customer sales staff
+- Heavy lifter
+- Housekeeper
+- Miner
+- Nanny
+- Prostitute

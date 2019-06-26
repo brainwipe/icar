@@ -88,47 +88,12 @@ Enforcer Isis are used in conjunction with real world operations, providing data
 > Example: If the Star Enforcers are planning a raid, then the Enforcer entities would be used to turn off the lights, drop bulkhead doors or freeze the lifts to make escape more difficult. 
 
 ## Automatons
-Perhaps the most controversial technology, Automatons are intelligent machines that live and work amongst the human race. There is an important distinction between robots, Droids and Automatons: a robot is an autonomous device with intelligence that can unwittingly harm humans (like a toaster), Droids are a type of artificially intelligent robot that are designed to destroy; Droids can kill. 
+Automatons are intelligent machines that live and work amongst the human race. On colonies where automatons are welcome, they work alongside humans as cleaners, chefs, doctors, construction engineers, teachers, nannies, prostitutes, miners, factory workers and any job short of being a spacecraft captain. Their function usually dictates their form: from bioware indistinguishable from humans to shiny white spheres no larger than your hand.
 
-An Automaton is an artificially intelligent (AI) robot that has been hard-coded with laws serve to protect the human race. Furthermore, modern Automatons are programmed using Gaia and are therefore impervious to the reprogramming attempts of Droids.
-
-### Classes
-Automatons can be broadly split into classes. The class can indicate the types of job that the Automaton was designed for. Quite often an automaton is used for a job that they were not designed for but manage to do the task just as well.
-
-_Humanoid._ The most common of Automaton. Human in shape and appearance, they are often created with unique personalities. To the human eye and touch, a Humanoid Automaton is indistinguishable from another human.
-
-_Utility._ These Automatons are used in industry a great deal. Their form is normally an exaggerated humanoid and they quite often take the shape of Industrial Borgs. Utility Automatons are found on space docks and in mining operations.
-
-_Singular._ This Automaton is normally constructed for a single purpose and is not used for much else. A good example are Hoppers: Automatons used for the sole purpose of moving space crates around.
-
-### Automaton Jobs
-Automatons perform many of the menial tasks that humans could do but choose not to. Their form is often derived from this shape. For example, most Automatons working within human colonies are aesthetically indistinguishable from humans. They work in a human world and interact with humans and so are constructed by them. However, Automatons that work in mines or on construction sites have metal skins and are created for that purpose. Other jobs include:
-
-- Building cleaner
-- Construction worker
-- Corporate personal assistant
-- Corporate receptionist
-- Crate mover (called a Hopper)
-- Customer sales staff
-- Heavy lifter
-- Housekeeper
-- Miner
-- Nanny
-- Prostitute
+Automaton intelligence, like all AI, is hardwired to protect the human race. Using Asimov's three laws of robotics but wrapping it with a philosophy to allow it to cope the inevitable problems three simple laws have. Automatons have a Gaia based intelligence, making them impervious to Droids.
 
 ### Artificial Intelligence Power
-Artificial Intelligence Power is Wit for Automatons and all other machines. The scale of AI is between 0 and 10. An AI Power of 0 would be typical machines from the 21st Century and a Power of 10 would be near enough to humans to make it very difficult to tell the difference.
-
-AI Power also suggests the number of Skills that the Automaton can be expert at. This is not a hard-and-fast rule as older Automatons will have picked up more Skills than younger ones.
-
-### Growth
-Artificial Intelligences grow over time with experience. The more varied and intense the experiences, the quicker their intelligence grows. For example, in 20 years, a machine of AI Power 1 can reach 4 or 5 as a crew on a spacecraft.
-
-### Ascension
-Ascension is the process of an Automaton growing from AI Power 5 (Skilled) to AI Power 6 (Empathic). Ascension is a big deal from the point of view of the Automaton as it is the first step away from machine towards the individual. The act of moving from Power 5 to 6 is called Ascension. See Ascension on page 57.
-
-### Capping
-AI Power is usually given an upper limit (capped). You would not want your mining Automaton becoming interested in music and human emotion, so you might cap it at 4. Most Artificial Intelligences that human rely upon with their lives (such as spacecraft) are capped at level 5 to stop them from Ascending.
+Artificial Intelligence Power is the Wit attribute for all machines including automatons. The scale is between 0 and 10. An AI power of 0 would be typical machines from the 21st Century and a Power of 10 would be near enough to humans to make it very difficult to tell the difference. AI power indicates the number of high level skills that the automaton have.
 
 #### 0. Unintelligent
 A machine that does not exhibit any intelligence and so does not need to conform to laws to protect mankind.  These are called generally called robots. These devices are partially autonomous but rely heavily on human input. An example would be a coffee machine or an atmospheric processor. They are created to do a set number of tasks - which may be mathematically complex but easy for a machine to do. All machines in the 20th Century are AI Power 0. Machines of AI Power 0 do not grow.
@@ -168,6 +133,16 @@ A Cogniscent Automaton is a very powerful one. The lateral thinking of the Abstr
 
 #### 10. Near human
 At this point, the Automaton is indistinguishable from a human and can be considered to have a Wit of 5. It would take Star Sci an extremely long time to discern whether the Automaton was human or not without scanning medically. Only very old Automatons ever make it this far. Tests for AI Power 10 are not reliable and the Automaton is likely to sit them incorrectly. It is uncertain whether an Automaton at AIP 10 will still obey the laws of robotics.
+
+### Growth
+Artificial Intelligences grow over time with experience. The more varied and intense the experiences, the quicker their intelligence grows. For example, in 20 years, a machine of AI Power 1 can reach 4 or 5 as a crew on a spacecraft.
+
+### Ascension
+Ascension is the process of an Automaton growing from AI Power 5 (Skilled) to AI Power 6 (Empathic). Ascension is a big deal from the point of view of the Automaton as it is the first step away from machine towards the individual. The act of moving from Power 5 to 6 is called Ascension. See Ascension on page 57.
+
+### Capping
+AI Power is usually given an upper limit (capped). You would not want your mining Automaton becoming interested in music and human emotion, so you might cap it at 4. Most Artificial Intelligences that human rely upon with their lives (such as spacecraft) are capped at level 5 to stop them from Ascending.
+
 
 ### Automaton Personalities
 As the Automaton is Artificially Intelligent, it changes over time. The more it experiences, the more it learns, the more its personality changes from the original template. The original personality template normally fits the task that the Automaton is designed for. 
