@@ -268,7 +268,7 @@ Not all information is available to everyone. Some parts of the Nexus have restr
 The public areas of the Nexus are well frequented by those looking for the latest scientific developments, news on galactic economic trends and those requesting help with any matter.
 
 ### Hacking
-No system is perfect and that can certainly be said for Gaia. It is possible to create Entities that exploit imperfections in Gaia and so gain access to areas that are otherwise hidden from the public view. 
+ system is perfect and that can certainly be said for Gaia. It is possible to create Entities that exploit imperfections in Gaia and so gain access to areas that are otherwise hidden from the public view. 
 
 Hacking within Gaia is done within the rules of Gaia. You cannot hack Gaia itself. Therefore, Hacking is about exploiting the cracks and imperfections caused by the creation of the virtual world.
 
@@ -318,3 +318,11 @@ Automatons perform many of the menial tasks that humans could do but choose not 
 - Miner
 - Nanny
 - Prostitute
+
+### Ascension
+Ascension is the process of an Automaton growing from AI Power 5 (Skilled) to AI Power 6 (Empathic). Ascension is a big deal from the point of view of the Automaton as it is the first step away from machine towards the individual. The act of moving from Power 5 to 6 is called Ascension. See Ascension on page XXXXX.
+
+### Capping
+AI Power is usually given an upper limit (capped). You would not want your mining Automaton becoming interested in music and human emotion, so you might cap it at 4. Most artificial intelligences that humans rely upon with their lives (such as spacecraft) are capped at level 5 to stop them from Ascending.
+
+As the Automaton is Artificially Intelligent, it changes over time. The more it experiences, the more it learns, the more its personality changes from the original template. The original personality template normally fits the task that the Automaton is designed for. 

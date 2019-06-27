@@ -138,26 +138,20 @@ A cognisant automaton is a very powerful one. The lateral thinking of the abstra
 #### 10. Near human
 At this point, the automaton is indistinguishable from a human and can be considered to have a Wit of 4. It would take Star Sci an extremely long time to discern whether the automaton was human or not without scanning medically. Only very old automatons ever make it this far. Tests for AI Power 10 are not reliable and the automaton is likely to sit them incorrectly. It is uncertain whether an automaton at AI Power 10 will still obey the laws of robotics.
 
-### Growth
-Artificial Intelligences grow over time with experience. The more varied and intense the experiences, the quicker their intelligence grows. For example, in 20 years, a machine of AI Power 1 can reach 4 or 5 as a crew on a spacecraft.
-
-> Growing your own
-
-### Ascension
-Ascension is the process of an Automaton growing from AI Power 5 (Skilled) to AI Power 6 (Empathic). Ascension is a big deal from the point of view of the Automaton as it is the first step away from machine towards the individual. The act of moving from Power 5 to 6 is called Ascension. See Ascension on page 57.
-
-### Capping
-AI Power is usually given an upper limit (capped). You would not want your mining Automaton becoming interested in music and human emotion, so you might cap it at 4. Most Artificial Intelligences that human rely upon with their lives (such as spacecraft) are capped at level 5 to stop them from Ascending.
+### AI Power Growth
+Artificial intelligences grow over time with experience, the more varied and intense the experiences, the quicker it grows. For example, in 10 years, a machine of AI Power 1 can reach 4 or 5 as a crew on a spacecraft. The long timescales required means that growing an AI is usually outside the scope of a campaign but can make excellent backstory flavour.
 
 ### Automaton Personalities
-As the Automaton is Artificially Intelligent, it changes over time. The more it experiences, the more it learns, the more its personality changes from the original template. The original personality template normally fits the task that the Automaton is designed for. 
+An automaton's personality starts with a template that fits the task the automaton is designed for. An automaton that is designed for human relations is like to be bright and pleasant, whereas an automaton designed for the recreation of art might be a little more volatile and moody.
 
-> For example: An Auto that is designed for human relations is like to be bright and pleasant, whereas an Automation design for the recreation of art might be a little more volatile and moody.
+Every automaton with an AI Power of 2 or more will have a template personality but as it experiences, it learns and the personality warps from the original template gradually into something unique and yet familiar. The higher the AI power, the more likely that an AI personality will change a long way from its template. The change is not always beneficial to the automaton. A common example is in customer service roles, where automatons are decommissioned after 100 years because they take on the abusive personalities of the humans they deal with. 
 
-From the character template, the personality of the Automaton will grow. The change is slow over time and is very dependent on the environment within which the Automaton lives. A common example of this is Automatons in customer service roles, which are decommissioned after 100 years because they take on the abusive personalities of the humans they deal with. This is a side effect of capping an Automaton's intelligence.
+### Individuality, Independence and Intentionality
+Do the unique experience and growth of the AI mean that the automaton is a separate life form? That is a controversial question at the heart of humanity's philosophical divide between Technologist and Humanist.
 
-### Independence and Intentionality
-The personality of the Automaton actually leads to a few difficult questions about the independence of the Automaton as a separate life form. If the Automaton has unique experiences and a unique personality, Humanists argue that they are not just the result of some clever programming but an independent entity, worthy of self motivated intent. In other words, the Automaton works because it wishes to, not because it was programmed to - that it has intent. Proving this in machines is as complex as proving it in humans and is in the realm of Artificial Intelligence Philosophy.
+If the automaton has unique experiences and a unique personality, Technologists argue that they are not just the result of some clever programming but an independent entity, worthy of self motivated intent. In other words, the automaton works because it wishes to, not because it was programmed to - that it has intent. Proving this in machines is as complex as proving it in humans. 
+
+Humanists believe that automatons are simply following their original programming, no matter how complex and that for them to be considered their own life form, the would need to have a form of soul.
 
 ### Automatons in Society
 There is a great deal of distrust of any form of robotics within society. Before The Droid War, every household throughout the galaxy would have 2 or 3 automatons to clean, tend gardens and as companions. Industry was totally driven by Automatons and ran all levels of production, administration and sale. Automatons were an integral part of society, within which humans were only needed for their inspiration and vision.
