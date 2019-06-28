@@ -326,3 +326,16 @@ Ascension is the process of an Automaton growing from AI Power 5 (Skilled) to AI
 AI Power is usually given an upper limit (capped). You would not want your mining Automaton becoming interested in music and human emotion, so you might cap it at 4. Most artificial intelligences that humans rely upon with their lives (such as spacecraft) are capped at level 5 to stop them from Ascending.
 
 As the Automaton is Artificially Intelligent, it changes over time. The more it experiences, the more it learns, the more its personality changes from the original template. The original personality template normally fits the task that the Automaton is designed for. 
+
+### Automatons and the Droids
+There is a great deal of distrust of any form of robotics within society. Before The Droid War, every household throughout the galaxy had at least 2 automatons to clean, tend gardens and as companions. Industry was totally driven by automatons and ran all levels of production, administration and sale. Automatons were an integral part of society, within which humans were only needed for their inspiration and vision.
+
+Many doom sayers spoke out about the dangers of allowing the proliferation and reliance on machines and yet no-one could envision a machine that could kill.
+
+With the onset of the Droids, the automatons were reprogrammed within an instant and the human race was swamped by deadly machines. Most human casualties from the start of the war came from those automatons living within society, rather than those designed by Star Sci.
+
+The minds of automatons built since the Droid War are created using Gaia and so are immune to the Droids but the hard lesson learnt by many colonies falling under their robot servants still rings loudly.
+
+Before The Droid War, there were 2 Automatons for each human. Since the war, there is 1 Automaton for every 10. Where this balance is maintained, there is normally a general feeling of safety. However, on those systems where Automatons are required to keep the economy running (such as mining colonies), there is a distrust of them. Approximately 70% of the human race does not trust Automatons and might even ask them to leave the room. 30% of Systems have Automatons banned outright and 50% of public establishments ban Automatons too. These attributes are indicative of people's feelings towards them.
+
+Due to The Droid War, there are very few Automatons that were created before 91001 and most of those are transferred across to a Gaia based system.

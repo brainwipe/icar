@@ -147,24 +147,16 @@ An automaton's personality starts with a template that fits the task the automat
 Every automaton with an AI Power of 2 or more will have a template personality but as it experiences, it learns and the personality warps from the original template gradually into something unique and yet familiar. The higher the AI power, the more likely that an AI personality will change a long way from its template. The change is not always beneficial to the automaton. A common example is in customer service roles, where automatons are decommissioned after 100 years because they take on the abusive personalities of the humans they deal with. 
 
 ### Individuality, Independence and Intentionality
-Do the unique experience and growth of the AI mean that the automaton is a separate life form? That is a controversial question at the heart of humanity's philosophical divide between Technologist and Humanist.
+Do the unique experiences and growth of the AI mean that the automaton is a separate life form? That is a controversial question at the heart of humanity's philosophical divide between Technologist and Humanist.
 
-If the automaton has unique experiences and a unique personality, Technologists argue that they are not just the result of some clever programming but an independent entity, worthy of self motivated intent. In other words, the automaton works because it wishes to, not because it was programmed to - that it has intent. Proving this in machines is as complex as proving it in humans. 
+If the automaton has unique experiences and personality, Technologists argue that they are not just the result of some clever programming but an independent entity, worthy of being a sentient life form. In other words, the automaton works because it wishes to, not because it was programmed to - that it has intent. Proving this in machines is as complex as proving it in humans. 
 
 Humanists believe that automatons are simply following their original programming, no matter how complex and that for them to be considered their own life form, the would need to have a form of soul.
 
 ### Automatons in Society
-There is a great deal of distrust of any form of robotics within society. Before The Droid War, every household throughout the galaxy would have 2 or 3 automatons to clean, tend gardens and as companions. Industry was totally driven by Automatons and ran all levels of production, administration and sale. Automatons were an integral part of society, within which humans were only needed for their inspiration and vision.
+When the Droids reprogrammed every automaton at the start of the Droid War, trillions of machines murdered any human they could find. Every machine in every household, factory, office space, farm, everywhere. Simpler machines stopped working; unable to run the Droid virus, more complex ones accepted it immediately. More people were killed by domestic automatons than by any other type and one thousand years later, the scar is still prominent.
 
-Many doom sayers spoke out about the dangers of allowing the proliferation and reliance on machines and yet no-one could envision a machine that could kill.
 
-With the onset of the Droids, the automatons were reprogrammed within an instant and the human race was swamped by deadly machines. Most human casualties from the start of the war came from those automatons living within society, rather than those designed by Star Sci.
-
-The minds of new Automatons are created using Gaia and so are immune to the Droids but the hard lesson learnt by many colonies falling under their robot servants still rings loudly.
-
-Before The Droid War, there were 2 Automatons for each human. Since the war, there is 1 Automaton for every 10. Where this balance is maintained, there is normally a general feeling of safety. However, on those systems where Automatons are required to keep the economy running (such as mining colonies), there is a distrust of them. Approximately 70% of the human race does not trust Automatons and might even ask them to leave the room. 30% of Systems have Automatons banned outright and 50% of public establishments ban Automatons too. These attributes are indicative of people's feelings towards them.
-
-Due to The Droid War, there are very few Automatons that were created before 91001 and most of those are transferred across to a Gaia based system.
 
 ### Automatons and the Law
 An Automaton is a slave. Each Automaton must have a registered human owner that is responsible for its conduct. Corporations as entities are not allowed to own Automatons, there needs to be a human who accepts responsibility. Therefore, for many mining corporations, where Automatons are used extensively as mining machines, members of the board accept responsibility for them. If a human no longer has a need for an Automaton, it must be sold on or destroyed. The Imperium monitor the registration and ownership of Automatons very closely. If the owner of an Automaton should die and the owner has not agreed with anyone to take on responsibility, the Automaton is normally destroyed. This rarely happens to those with a high AI Power.
