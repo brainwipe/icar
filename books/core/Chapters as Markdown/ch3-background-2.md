@@ -156,13 +156,15 @@ Humanists believe that automatons are simply following their original programmin
 ### Automatons in Society
 When the Droids reprogrammed every automaton at the start of the Droid War, trillions of machines murdered any human they could find. Every machine in every household, factory, office space, farm, everywhere. Simpler machines stopped working; unable to run the Droid virus, more complex ones accepted it immediately. More people were killed by domestic automatons than by any other type and one thousand years later, the scar is still prominent.
 
+Although modern automatons are immune from the Droids and the number of automaton related deaths each year is insignificant, the majority of humanity are wary of automatons. On planets who favour humanist teachings automatons are given strict limits; sometimes AI is banned entirely, such places usually become agricultural worlds that mimic 18th Century Earth but with all the modern conveniences.
 
+On technologist worlds, automatons are treated appropriately to their AI power. They are free to roam
 
 ### Automatons and the Law
-An Automaton is a slave. Each Automaton must have a registered human owner that is responsible for its conduct. Corporations as entities are not allowed to own Automatons, there needs to be a human who accepts responsibility. Therefore, for many mining corporations, where Automatons are used extensively as mining machines, members of the board accept responsibility for them. If a human no longer has a need for an Automaton, it must be sold on or destroyed. The Imperium monitor the registration and ownership of Automatons very closely. If the owner of an Automaton should die and the owner has not agreed with anyone to take on responsibility, the Automaton is normally destroyed. This rarely happens to those with a high AI Power.
+Automatons are slaves. Each automaton must have a registered human owner that is responsible for its conduct. Corporations as entities are not allowed to own automatons, there needs to be a human who accepts responsibility. For example for mining corporations, where thousands of Automatons are used extensively as mining machines, members of the board accept responsibility for them. If a human no longer has a need for an automaton, it must be sold on or destroyed. The Imperium monitor the registration and ownership of automatons very closely. If the owner of an automaton should die and the owner has not agreed with anyone to take on responsibility, the automaton is normally destroyed. This rarely happens to those with a high AI Power.
 
-### Ascension(duplicate?)
-Ascension is when the intelligence of the Automaton grows beyond simple programming and the Automaton begins to take on facets that we would normally attribute to humans.
+### Ascension
+Ascension is when the intelligence of the automaton grows beyond simple programming and it begins to take on facets that we would normally attribute to humans.
 
 Ascension normally begins with the Automaton questioning things that have always been obvious. Their personality can suddenly change and they appear to exhibit moods. The best analog is with pubescent human teenagers. The Automaton must be cared for during this period as they will forge the personality that will define them in the future.
 
