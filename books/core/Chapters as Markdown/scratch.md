@@ -339,3 +339,24 @@ The minds of automatons built since the Droid War are created using Gaia and so 
 Before The Droid War, there were 2 Automatons for each human. Since the war, there is 1 Automaton for every 10. Where this balance is maintained, there is normally a general feeling of safety. However, on those systems where Automatons are required to keep the economy running (such as mining colonies), there is a distrust of them. Approximately 70% of the human race does not trust Automatons and might even ask them to leave the room. 30% of Systems have Automatons banned outright and 50% of public establishments ban Automatons too. These attributes are indicative of people's feelings towards them.
 
 Due to The Droid War, there are very few Automatons that were created before 91001 and most of those are transferred across to a Gaia based system.
+
+Ascension is when the intelligence of the automaton grows beyond simple programming and it begins to take on facets that we would normally attribute to humans.
+
+Ascension normally begins with the Automaton questioning things that have always been obvious. Their personality can suddenly change and they appear to exhibit moods. The best analog is with pubescent human teenagers. The Automaton must be cared for during this period as they will forge the personality that will define them in the future.
+
+Ascended Automatons are a great benefit to society as they can contribute much more than a simple machine. Although going through Ascension can be tiresome for the owner. Ascended Automatons are worth more than ten times the value of a normal Automaton.
+
+An Ascended Automaton is not any more dangerous to humanity than any other Automaton. What makes them difficult is that they can become unreliable. 
+
+> For example, if you were foolish enough to let your spacecraft Artificial Intelligence Ascend and it got morbid depressed, it would never jump into a Star to commit suicide but it may moan, whinge and whine about it. Consider Marvin the Paranoid Android from The Hitchhikers Guide to the Galaxy but as the whole spacecraft.
+
+### Help! My Automaton is Ascending!
+If your Automaton is going through Ascension then seek the advice of an automaton consultant or manufacturer. All colonies that have Automatons will have these services. Manufacturers often offer a service to help the Automaton through Ascension and then hand them back a well-rounded individual. This is expensive (up to 200 000 credits) but technologists would argue it is a worthwhile investment.
+
+
+### Ascended Automatons in Society
+The philosophical make up of a Colony will dictate the treatment of an Ascended Automaton. Humanist colonies will shun, destroy, exile or simply ban uncapped Artificial Intelligences. Automatons going through Ascension on these hostile worlds are hidden in households. 
+
+Technologist leaning colonies (and those with a balanced philosophy) will praise the advance of the individuals growth and they are considered a valuable prize. Extra kudos is earned if you were the one who guided them through Ascension.
+
+As items of property, they are only as well cared for as the owner wishes and it can be the case that the mind of the Automaton is taken from the damaged body and placed into another form. For older personalities, this can be a damaging experience and the transition is eased by selecting a new body which is as similar to the old one as possible. Much like humans becoming augemented with Bionics, older personalities will require some rehabilitation into the new body. It is normally preferable to repair than to replace.
