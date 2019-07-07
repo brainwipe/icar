@@ -360,3 +360,25 @@ The philosophical make up of a Colony will dictate the treatment of an Ascended 
 Technologist leaning colonies (and those with a balanced philosophy) will praise the advance of the individuals growth and they are considered a valuable prize. Extra kudos is earned if you were the one who guided them through Ascension.
 
 As items of property, they are only as well cared for as the owner wishes and it can be the case that the mind of the Automaton is taken from the damaged body and placed into another form. For older personalities, this can be a damaging experience and the transition is eased by selecting a new body which is as similar to the old one as possible. Much like humans becoming augemented with Bionics, older personalities will require some rehabilitation into the new body. It is normally preferable to repair than to replace.
+
+### Common Automaton Myths
+There are many myths surrounding Automatons, most of which are driven from the lack of understanding of the technology and people's desire to impose a mystical property to the Automatons to make them appear more lifelike.
+
+Automatons can Love. It is impossible to tell whether Automatons can actually feel love or whether the feeling of love is programmed in by humans. It's certain that an Automaton displays attachment to people and objects they share space and time with but this is driven from the personality template.
+
+The Imperium will one day set Automatons free. A common myth held by technophiles, wanting to see their Automaton friends given freedom and equal rites. It's a fantasy.
+
+Ascended Automatons can kill. Some argue that under some circumstances, Automatons can kill others. Due to the laws of robotics, Automatons will not harm humans and would see their own destruction first.
+
+## Bionics
+
+With bionic augmentation readily available (described later), the human race is more intent than ever to retain their humanity. Beauty can be engineered but it is natural beauty - so difficult to engineer that is prized above all else.
+
+As soon as man interfaced itself with a machine, the benefits of this became quickly clear. An extension of the physical self and the ability to extend life beyond the 140 years was too much of an important advance to ignore. This section only deals with rounded ideas of bionics, rather than details, which are covered in Bionics on XXXXXX.
+
+It is common practise for those who believe in the good work of technology to become augmented with bionic technology at the age of 80. This is a long time before death, but at this point the weakening human body will not have had any detrimental affects on the brain. A new, technological body can then be provided to keep the brain safe, extending the life span up to around 300 years, at which point senility takes a firm grip and the person loses grip on the world (the oldest sane human died at 323). For those who wish to move ahead in the heavy industries (freight and large technical creations), bionics offer the ability to be stronger, quicker, to fly, survive in space and much more.
+
+## Philosophy
+
+ that humans should not be tainted by technology. They also believe augmentation and spending too much time in Gaia diminishes the soul and damns the human race. Humanists believe in real, personal human contact and in the natural course of evolution.
+

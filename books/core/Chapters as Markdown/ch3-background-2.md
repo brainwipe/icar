@@ -156,9 +156,7 @@ Humanists believe that automatons are simply following their original programmin
 ### Automatons in Society
 When the Droids reprogrammed every automaton at the start of the Droid War, trillions of machines murdered any human they could find. Every machine in every household, factory, office space, farm, everywhere. Simpler machines stopped working; unable to run the Droid virus, more complex ones accepted it immediately. More people were killed by domestic automatons than by any other type and one thousand years later, the scar is still prominent.
 
-Although modern automatons are immune from the Droids and the number of automaton related deaths each year is insignificant, the majority of humanity are wary of automatons. On planets who favour humanist teachings automatons are given strict limits; sometimes AI is banned entirely, such places usually become agricultural worlds that mimic 18th Century Earth but with all the modern conveniences.
-
-On technologist worlds, automatons are treated appropriately to their AI power. They are free to roam
+Although modern automatons are immune from the Droids and the number of automaton related deaths each year is insignificant, the majority of humanity are wary of automatons. On planets who favour humanist teachings automatons are given strict limits; sometimes AI is banned entirely, such places usually become agricultural worlds that mimic 18th Century Earth but with all the modern conveniences. On technologist worlds, automatons are treated appropriately to their AI power. They are free to roam and take up important roles. 
 
 ### Automatons and the Law
 Automatons are slaves. Each automaton must have a registered human owner that is responsible for its conduct. Corporations as entities are not allowed to own automatons, there needs to be a human who accepts responsibility. For example for mining corporations, where thousands of Automatons are used extensively as mining machines, members of the board accept responsibility for them. If a human no longer has a need for an automaton, it must be sold on or destroyed. The Imperium monitor the registration and ownership of automatons very closely. If the owner of an automaton should die and the owner has not agreed with anyone to take on responsibility, the automaton is normally destroyed. This rarely happens to those with a high AI Power.
@@ -173,55 +171,43 @@ Even humanist philosophers would grudgingly agree that ascended automatons are a
 ### Swapping Bodies
 Damage to automatons is often unavoidable and although repair is preferable, the intelligence can be moved to a new body. Older (higher AI Power) artificial intelligence will be damaged in the move, although you can minimise that by selecting a body that's very similar to the original. Like humans receiving full body bionics, the artificial intelligence will need some rehabilitation.
 
-### Common Automaton Myths
-There are many myths surrounding Automatons, most of which are driven from the lack of understanding of the technology and people's desire to impose a mystical property to the Automatons to make them appear more lifelike.
-
-Automatons can Love. It is impossible to tell whether Automatons can actually feel love or whether the feeling of love is programmed in by humans. It's certain that an Automaton displays attachment to people and objects they share space and time with but this is driven from the personality template.
-
-The Imperium will one day set Automatons free. A common myth held by technophiles, wanting to see their Automaton friends given freedom and equal rites. It's a fantasy.
-
-Ascended Automatons can kill. Some argue that under some circumstances, Automatons can kill others. Due to the laws of robotics, Automatons will not harm humans and would see their own destruction first.
-
 ### Automatons in Game
-Automatons can be useful team members - an undemanding, skilled character that follow the team around, carrying ammunition and helping out with tasks that the team does not have skills for. Automatons beyond AI Power 4 should be treated as their own separate Characters. Below AI Power 4, Automatons  can be treated as mules and will follow the team silently.
+Automatons can be useful team members - an undemanding, skilled character that follows the team around, carrying ammunition and helping out with tasks that the team does not have skills for. Automatons below AI Power 4 are little more than carrying mules or tools but higher than that they have their own character, a personality set by the player whose character owns the automaton.
 
-If using an Automaton in game then the Automaton's personality should not be played by the same player as the character who owns the Automaton. This is to allow a back and forth between owner character and Automaton.
-
-The most useful task for an Automaton is as a medic. The training required is extensive and an Automaton's desire to help is ideal.
-
-### Examples
-Example Automatons can be found in the Equipment Index.
+> Automaton NPCs make great medics.
 
 ## The Human Race
-Without change, a species can stagnate and grow genetically lethargic. The human race continues to go through lulls where evolution slows down and booms when evolution accelerates to produce a finer race. Since Earth, humanity has converged. Before the last war on Earth, people were segregated because of skin tone or sub race of the human species. This folly was soon rectified on the Ariane 1001, when all races mixed together. Soon, the different races became indistinguishable, and the human race as a whole changed into a more generic race of tanned skinned people.
+Without change, a species stagnates and grows genetically lethargic. The human race evolves in lulls and booms and since Earth, it has converged. Before the last war on Earth, people were segregated because of skin tone, geographic location or race. This folly was soon rectified on the Ariane 1001, when all races mixed together to ensure survival. Within two generations races blended and disappeared, changed into a more generic race of tanned skinned people. 
 
-With bionic augmentation readily available (described later), the human race is more intent than ever to retain their humanity. Beauty can be engineered but it is natural beauty - so difficult to engineer that is prized above all else.
+Space travel, alien worlds and bionics has pushed humanity further from its roots. Natural beauty (without technological interference) is still prized but the soul is valued more highly than anything.
 
 ### A Human
 Here is a list of typical human male attributes for the 93rd Millennia. 
 
-- Height: 6'8'
-- Weight: 20st.
-- Life span: 130 Imperium years.
-- Age of manhood: 15.
-- Age of menopause: 105 (male), 95 (female)
+- Height: 6'8' (203cm).
+- Weight: 15st (100kg). 
+- Life span: 130 Imperium years (142 Earth).
+- End of puberty: 15.
+- Age of menopause: 105 (male), 95 (female).
 - Temperature range: -20 deg to 50 deg.
 - Time without food: 6 days without water, 20 with 1 litre of water a day.
 - Time without food or water: 4 days.
 - Time in vacuum: 2 minutes.
 - Time without air: 3 minutes.
-- Hair colours. Red, Auburn, Blonde, Brown.
+- Hair: Red, Auburn, Blonde, Brown, Black; straight, tightly curled, stiff, thick and thin.
 - Skin colour: Fair to Dark (dependent on exposure to UV light, not race).
 
 ### Mankind and the Machine
-As soon as man interfaced itself with a machine, the benefits of this became quickly clear. An extension of the physical self and the ability to extend life beyond the 140 years was too much of an important advance to ignore. This section only deals with rounded ideas of bionics, rather than details, which are covered in Bionics on XXXXXX.
+Regardless of humanist philosophical leanings, most humans accept bionic implants on some level. For correcting genetic abnormalities, replacing destroyed limbs, lengthening lifespan, cosmetic adjustment, interfacing with Gaia or increasing capabilities; bionics has become so common that their use is as common as 21 Century people wearing glasses.
 
-It is common practise for those who believe in the good work of technology to become augmented with bionic technology at the age of 80. This is a long time before death, but at this point the weakening human body will not have had any detrimental affects on the brain. A new, technological body can then be provided to keep the brain safe, extending the life span up to around 300 years, at which point senility takes a firm grip and the person loses grip on the world (the oldest sane human died at 323). For those who wish to move ahead in the heavy industries (freight and large technical creations), bionics offer the ability to be stronger, quicker, to fly, survive in space and much more.
+If a human is augmented by the age of 80, life can be extended to 300, at which point the biological brain finally breaks down and senility begins to take hold (oldest sane human died at 323). Bionics make you stronger, quicker, able to fly, survive in space, be bulletproof and repaired quicker than a human can heal.
 
 ## Philosophy
-The human race lost its mysticism long ago. Belief in Gods and higher beings is barely recognised, although a form of philosophy does split the population into two distinct camps.
+The human race lost its mysticism as its home burned. Belief in Gods and higher beings is fringe and unrecognisable. Instead, the human race formed two philosophies: humanist and technologist.
 
-On one side are the Humanists. These are people who believe that humans should not be tainted by technology. They also believe augmentation and spending too much time in Gaia diminishes the soul and damns the human race. Humanists believe in real, personal human contact and in the natural course of evolution.
+Humanists believe in natural human evolution and physical contact. Bionic augmentation and Gaia diminishes the soul, thinning the culture and creativity of humanity. They believe that physical effort brings satisfaction and too many luxuries makes you lazy. Humanists distrust automatons and although few colonies function without them, humanist leaning colonies have them well hidden away.
+
+Technologists believe that the key to unlocking human potential is through technology. They point at how space travel to a billion worlds has toughened humans and bionics allows humans to live longer and immeasurably improve people's lives. 
 
 The other side are Technologists. These are people hell bent on using technology to further the advance of mankind. Technologists tend to use any kind of technology to its greatest advantage and thrill at the sight of new advances. They tend not to care about the long-term effects of technology, as long as it is new.
 
