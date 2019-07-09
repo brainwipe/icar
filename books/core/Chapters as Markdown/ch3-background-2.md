@@ -219,27 +219,23 @@ Less than 100 years into the 81st Millennium, the human race reached an evolutio
 99.9% of the human population is Genus One, which is the direct descendant of homo sapiens. Genus Two are mutated zombies. Genus Three are a humanist evolutionary step, with psyonic powers. Genus Four are a technologist, with a close binding to machines.
 
 ### Genus Two
-Genus Two is a walking, rotting humanoid with a pro-active immune system that can leave the host to attack viruses outside of the body; recoding the genetic makeup of any compatible life forms. They have a low intelligence, live for around 20 years after infection and are driven by the need to feed on clean flesh. Genus Two can survive in harsh environments such as sparse oxygen, extreme heat or cold and are immune to disease and poison.
+Genus Two is a shmabling, rotting zombie humanoid with a pro-active immune system that can leave the host to attack viruses outside of the body; recoding the genetic makeup of any compatible life forms. They have a low intelligence, live for around 20 years after infection and are driven by the need to feed on clean flesh. Genus Two can survive in harsh environments such as sparse oxygen, extreme heat or cold and are immune to disease and poison.
 
-One in a million babies are born Genus Two, their mutation only appearing when the umbilical chord is cut. Within a second they infect the mother and anyone nearby, which is why every birth in Human Occupied Space is performed in an instant-incinerator equipped delivery suite with a single automaton midwife. On detection of a Genus Two, the room is flash incinerated.
+One in a million babies are born Genus Two, their mutation only appearing when the umbilical chord is cut. Within a second they infect the mother and anyone nearby, which is why every birth in Human Occupied Space is performed in an instant-incinerator equipped delivery suite with a single automaton midwife. On detection of a Genus Two, the room is flash incinerated leaving only an automaton with glowing red skin. In the most extreme Humanist colonies, midwives are still human and suffer the same straight-to-dust fate as the baby and mother.
 
 The genetic road to Genus Two began during the Aran war, where people were forced to survive on foods that were mildly poisonous. Over tens of thousands of years, the human race kept adapting in this way, improving the efficiency and potency of their immune system. It now only takes a small mutation at birth to turn that brutal immune system into a deadly one.
 
-### How Genus Two appear
-A Genus Two is either created from another Genus Two or can be given birth to. The mother is scanned during birth and if her physiology starts to change, she is quarantined and then usually killed with her child. Every child born in Human Occupied Space is born in an instant-incinerator equipped delivery suite and a single Automaton midwife performs the delivery. If the baby born is detected as Genus Two (which comes apparent after the umbilical chord is severed) then the contents of the room is flash-incinerated, leaving only an Automaton with glowing hot red skin.
-
 ### The Droids as the saviour from Genus Two
-The number of Genus Two after year 85000 was large enough for the Imperium to commission a deadly number of robots to deal with the problem, these are now known as the Droids. Genus Two can bring down whole colonies where the medics are not prepared but this only really happens outside of Human Occupied Space. 
-Droids treat Genus Two humans as a low threat but will seek to eradicate them.
+The number of colonies fallen to Genus Two after year 89000 was large enough for the Imperium to commission a deadly number of robots to deal with the problem, these are now known as the Droids. Genus Two can bring down whole colonies but this only happens in colonies that believe in nature over technology or when the birth is unexpectedly early. Droids treat Genus Two humans as a low threat but will seek to eradicate them.
 
 ### Genus Three
-Genus Three was discovered by Star Scientifica at some point in the year 90000. Very little is known about the Genus as yet and thus it is kept completely secret from the general public. No-one outside of Star Sci and the very highest people in the Imperium know of its existence. 
+Genus Three was discovered by Star Scientifica at some point in the year 90000. Very little is known about the Genus as yet and thus it is kept completely secret from the general public. No-one outside of Star Sci and the most senior positions in the Imperium know of its existence. 
 
-Only one in ten billion births (a few each day) turn out to have this genus and it can be very difficult to spot. Genus Three humans have extended mental powers (which scientists argue are latent in the human brain). This emerges with the onset of puberty and can be frightening to the person in the extreme. A person has a psychic pool that fills slowly with psychic energy. When a power is used for some mental feat, the pool drains a little. If the person goes through some sort of emotional upheaval, then the pool will fill a lot quicker.
+Only one in ten billion births (a few each day) turn out to have this Genus and there is no medical test for it. Genus Three humans have psyonic powers, which scientists believe are latent in the human brain. This emerges with the onset of puberty and can be frightening. A person has a psychic pool that fills slowly with psychic energy. When a power is used for some mental feat, the pool drains a little. If the person goes through emotional stress, then the pool will fill a lot quicker.
 
-Genus Threes are not dangerous to the rest of the human populace as Genus Twos are. It can be passed on to children (it's a recessive gene), but it is not contagious. A Genus three can have differing amounts of ability. This power may be controlled (player chooses to do something) or uncontrolled (GM chooses when and how the psychic power is used).
+Genus Threes are no more dangerous to humanity than anyone else. It can be passed on to children (it's a recessive gene), but it is not contagious. A Genus Three can have differing amounts of ability. This power may be controlled (player chooses to do something) or uncontrolled (GM chooses when and how the psychic power is used).
 
-Certain mental phenomena appear to group together. Thus there are power packages, as described below.
+Certain mental phenomena appear to group together:
 
 _Genus 3 Powers_
 
@@ -247,37 +243,35 @@ _Genus 3 Powers_
 |-----------|------------|---------------------------------------|
 | 1-3 | Feeling | Telekinesis (moving things), Hydrokinesis |(sensing and alteration of water), Pyrokinesis (manipulation of fire)
 | 4-6 | Seeing | Hypnosis (suggesting things to people), Telepathy (reading minds within visual contact), Precognition (sensing into the future), Psychometry (sensing information about an object, e.g. History). |
-| 7-9 | Inner Self | Healing (heals 4 HP per turn), Regrow Limb (5 turns), Meditation (Recover 1 Pool point per hour, rather than per day). Resist Fatigue (can go for 80 hours without detriment). |
-| 10 | Enokinesis | Manipulates energy patterns to alter reality in some way. The user may not entirely understand the effect of the alteration. Only one pattern may be altered. When this Skill becomes 90%, they may alter energy patterns through time as well. Can also see in the second and third media (can see cloaked ships and see the raw code of Gaia pass around them).|
+| 7-9 | Inner Self | Healing (heals 3 Hit Points per turn), Regrow Limb (5 turns), Meditation (Recover 1 Pool point per hour, rather than per day). Resist Fatigue (can go for 80 hours without detriment). |
+| 10 | Enokinesis | Manipulates energy patterns to alter reality in some way. The user may not entirely understand the effect of the alteration. Only one pattern may be altered. When this skill becomes 5, they may alter energy patterns through time as well. Can also see in the second and third media (can see cloaked ships and see the raw code of Gaia pass around them).|
 
 ### Using Genus 3 Psyonics
 If the player has rolled Genus 3 on Psychotheatrics, get them to roll a D10 again on the table above.
 
-The Character gets a Psychic pool of twice their Soul attribute. Every feat, regardless of its impressiveness drains one point. If the pool goes below Soul then the pool becomes the value of their Soul. 
+The character gets a psychic pool equal to their Soul attribute. Every feat, regardless of its impressiveness drains one point. If the pool runs out then the player can keep doing psyonics but it burns up their Soul instead. A character with a Soul of zero becomes insane and the player loses control. Soul can be rasied like any other attribute.
 
-> For example: Soul of 5 gives 10 points in Pool. If Character does 6 feats, leaving 4 points in pool, until it is replenished, the Soul of the Character is 4. Upon reaching 0, the Character dies (but this would be suicide).
+> For example: Soul of 3 gives 3 points in the psychic pool. The character does 3 psychic feats and depletes the pool. To save the life of another player character, the player decides to use one of their Soul points. The characters collapse together in safety and with tears rolling down their faces, the psychic character gains a psychic pool point.
 
-Replenishment is 1 point every 40 hours (with 10 hours of sleep) or 1 point for every emotional situation. The Character will not become stressed as the pool will take the stress energy of the emotion away.
+Replenishment is 1 point every day (40 hours, with 10 hours of sleep) or 1 point for every emotional situation. The character will not become stressed as the pool will take the stress energy of the emotion away.
 
-Each Power has a number of Skills. Write these on the character sheet with the other Skills. They are treated exactly the same way as Epoch 1 Skills and start at 3 x Soul attribute. 
-
-Difficulties can be added to the roll, but the player should feel that the power is limitless and thus should not have any difficulty.
+Each power has a number of skills. Write these on the character sheet with the other skills. They are treated exactly the same way as other skills, starting with a level of 0. When choosing an attribute to go with them, Soul is the default choice.
 
 Enokinesis is only recommended for experienced players.
 
 ### Genus Four
-This is a scientific probability. Every Star Scientifica genetic model that has been produced predicts that this Genus must exist. There have been no examples to test the theory on. In the same manner that Genus Two was triggered by a biological alteration, it is believed that augmented humans procreating have triggered Genus Four. Some believe it is the ultimate in the symbiosis of man and machine: a natural technological step forward. Others see it as the end of humanity.
+Every Star Scientifica genetic model that has been produced predicts that Genus Four must exist. Star Sci have never been able to find examples to test the theory on. In the same manner that Genus Two was triggered by changes in diet, Genus Four is believed to be the result of humans with bionic augmentations procreating. Some believe it is the ultimate in the symbiosis of man and machine: a natural technological step forward. Others see it as the end of humanity.
 
 ## Akarak Nation
-Away of life older than the Imperium, the Akarak Nation is a subculture within the broad umbrella of the Imperium. Based in the Akar cluster in Dorian, the Akarak is the name for a number of worlds that subscribe to the same philosophy. This philosophy is called Futurism and is a Philosophy based on the principle of 'the end justifies the means'.
+A way of life older than the Imperium, the Akarak Nation is a subculture within the broad umbrella of the Imperium. Based in the Akar cluster in Dorian, Akarak is the name for a number of worlds that subscribe to the same philosophy. This philosophy is called Futurism and is a philosophy based on the principle of 'the end justifies the means'.
 
 ### History
-Like many great civilisations, the Akarak Nation had a rocky beginning. Jebediah Akarak first settled the Akar cluster in 4002. Jebediah believed in toil, thought and the end justifying the means. Each of his colonies were set up such that people divided their time between work and furthering education (philosophical thought). Both activities were bound together with the concept that the colony and the human race must continue to survive, no matter what the cost.
+Like many great civilisations, the Akarak Nation had a rocky beginning. Jebediah Akarak first settled the Akar cluster in 4002, he believed in toil, thought and the end justifying the means. Each of his colonies were set up such that people divided their time between work and furthering education (philosophical thought). Both activities were bound together with the concept that the colony and the human race must continue to survive, no matter what the cost.
 
 This was a popular idea for those people who wanted to be colonists without the terrible hardship that most work-to-death colonies had. The first few colonies struggled through impossibly hard times as colonists split their time evenly between developing farmland and developing their state of mind.
 
 ### The Famine
-The philosophy took its first victims when a few harsh winters on the key planets lead to smaller, newer colonies dying out with millions dead. The councils that ran the dying colonies cut them lose and let the people starve to save other colonies. It was an early and vital test of Jebediah's philosophy and is chronicled as the point at which 
+The philosophy took its first victims when a few harsh winters on the key planets lead to smaller, newer colonies dying out with millions dead. The councils that ran the dying colonies stoically accepted their fate, letting their own people starve to save other colonies. It was an early and vital test of Jebediah's philosophy and is chronicled as the point at which the Akaraks became a single nation.
 
 It was more than 70 years after the death of Jebediah that the Akarak nation got back onto its feet again. The Akarak trade group, funded by all the systems in the cluster helped colonies with unpredictable food production survive and paved the way for a new batch of colonies. The few craft soon became a fleet and it was dubbed the Akarak Aid Fleet. This group of craft brought together the systems and in a show of solidarity, the fashion of the time was to augment one's name with the letters 'Ak' or 'Ax'. Smith would become Axsmith and inelegantly Jones would become Jonesak.
 
