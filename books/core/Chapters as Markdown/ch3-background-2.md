@@ -207,27 +207,23 @@ The human race lost its mysticism as its home burned. Belief in Gods and higher 
 
 Humanists believe in natural human evolution and physical contact. Bionic augmentation and Gaia diminishes the soul, thinning the culture and creativity of humanity. They believe that physical effort brings satisfaction and too many luxuries makes you lazy. Humanists distrust automatons and although few colonies function without them, humanist leaning colonies have them well hidden away.
 
-Technologists believe that the key to unlocking human potential is through technology. They point at how space travel to a billion worlds has toughened humans and bionics allows humans to live longer and immeasurably improve people's lives. 
+Technologists believe that the key to unlocking human potential is through technology. They point at how space travel to a billion worlds has toughened humans and how bionics extends and immeasurably improves lives. Technologists welcome automatons and zealots believe that an ascended automaton should be given the rights and privileges afforded to humans.
 
-The other side are Technologists. These are people hell bent on using technology to further the advance of mankind. Technologists tend to use any kind of technology to its greatest advantage and thrill at the sight of new advances. They tend not to care about the long-term effects of technology, as long as it is new.
-
-The majority of the population lean one way or another and it is dependent on the colony on which they grow up. Star Civilisation attempts to keep education unbiased but the biases of parents and friends mould a person's philosophy.
-
-The split in belief is approximately 50/50 and echoed in the Imperium, Corporations and criminal syndicates. The distrust of technology is spurned from the Droids. Before The Droid War, such differences were minor and rare. The dislike of pure humanity is fuelled by the mutant race of Genus Two (see next section).
+The majority of the population lean one way or another and it is dependent on the colony on which they grow up. Star Civilisation attempts to keep education unbiased but the biases of parents and friends mould a person's philosophy. The split in belief is approximately 60/40 in favour of Humanists and echoed in the Imperium, corporations and criminal syndicates. 
 
 ## Evolution
-Less than 100 years into the 81st Millennium, the human race reached an Evolutionary milestone. Not since the homo sapiens separated from the other hominid races was a change so profound. Humanity split into two groups. 
+Tens of thousands of years of gradual evolution, the human race reached a milestone so profound that such a split had not been seen since homo sapiens split from the hominid races. Less than 100 years into the 81st Millenium, a new species of human came into being: genus two.
 
-The first, called Genus One was the existing homo sapien genus. 99.9% of the human population is Genus One and these are what the player Characters are most likely to play. The second, called Genus Two, is a mutated and short-lived zombie-like version of a human. 
+Less than 100 years into the 81st Millennium, the human race reached an evolutionary milestone. Not since the homo sapiens separated from the other hominid races was a change so profound. Humanity split first into two groups: Genus One and Two, it's rumoured that Genus One separated split again into Genus Three and Four.
 
-In the past 2000 years (recent history) it is believed that Genus 1 has split again, creating Genus 3 and Genus 4. This section will deal with each of these Genuses.
+99.9% of the human population is Genus One, which is the direct descendant of homo sapiens. Genus Two are mutated zombies. Genus Three are a humanist evolutionary step, with psyonic powers. Genus Four are a technologist, with a close binding to machines.
 
 ### Genus Two
-It is believe that the Genus Two was triggered after the alteration of diet within the Aran war, where people were forced to survive on foods that were mildly poisonous. The human race adapted by creating a much tougher immune system. This tough immune system spreads like a virus.
+Genus Two is a walking, rotting humanoid with a pro-active immune system that can leave the host to attack viruses outside of the body; recoding the genetic makeup of any compatible life forms. They have a low intelligence, live for around 20 years after infection and are driven by the need to feed on clean flesh. Genus Two can survive in harsh environments such as sparse oxygen, extreme heat or cold and are immune to disease and poison.
 
-A Genus Two human has a life span of 20 years. The body begins to rot just after the onset of puberty. The immune system of the Genus Two is pro-active, leaving the host to attack viruses outside of the body - including Genus One (ordinary humans). There are biological differences, such as lower heart rate and the ability to breathe in non-oxygen atmospheres. Genus Two people have very little intelligence and find it difficult to communicate. However, it can be difficult to detect Genus Two when they are still children without a medical scan.
+One in a million babies are born Genus Two, their mutation only appearing when the umbilical chord is cut. Within a second they infect the mother and anyone nearby, which is why every birth in Human Occupied Space is performed in an instant-incinerator equipped delivery suite with a single automaton midwife. On detection of a Genus Two, the room is flash incinerated.
 
-If a Genus Two person comes into physical contact with a Genus One human then the immune system of the Genus Two will attack the Genus One, altering its genetic code to make it Genus Two. The upshot of this is that if the Genus One is older than 20, they will die. If not, then they will slowly become a Genus Two.
+The genetic road to Genus Two began during the Aran war, where people were forced to survive on foods that were mildly poisonous. Over tens of thousands of years, the human race kept adapting in this way, improving the efficiency and potency of their immune system. It now only takes a small mutation at birth to turn that brutal immune system into a deadly one.
 
 ### How Genus Two appear
 A Genus Two is either created from another Genus Two or can be given birth to. The mother is scanned during birth and if her physiology starts to change, she is quarantined and then usually killed with her child. Every child born in Human Occupied Space is born in an instant-incinerator equipped delivery suite and a single Automaton midwife performs the delivery. If the baby born is detected as Genus Two (which comes apparent after the umbilical chord is severed) then the contents of the room is flash-incinerated, leaving only an Automaton with glowing hot red skin.

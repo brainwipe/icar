@@ -379,6 +379,18 @@ As soon as man interfaced itself with a machine, the benefits of this became qui
 It is common practise for those who believe in the good work of technology to become augmented with bionic technology at the age of 80. This is a long time before death, but at this point the weakening human body will not have had any detrimental affects on the brain. A new, technological body can then be provided to keep the brain safe, extending the life span up to around 300 years, at which point senility takes a firm grip and the person loses grip on the world (the oldest sane human died at 323). For those who wish to move ahead in the heavy industries (freight and large technical creations), bionics offer the ability to be stronger, quicker, to fly, survive in space and much more.
 
 ## Philosophy
+that humans should not be tainted by technology. They also believe augmentation and spending too much time in Gaia diminishes the soul and damns the human race. Humanists believe in real, personal human contact and in the natural course of evolution.
 
- that humans should not be tainted by technology. They also believe augmentation and spending too much time in Gaia diminishes the soul and damns the human race. Humanists believe in real, personal human contact and in the natural course of evolution.
+The other side are Technologists. These are people hell bent on using technology to further the advance of mankind. Technologists tend to use any kind of technology to its greatest advantage and thrill at the sight of new advances. They tend not to care about the long-term effects of technology, as long as it is new.
 
+Genus One was the name given to the existing homo sapiens genus. 99.9% of the human population is Genus One and these are what the player Characters are most likely to play. The second, called Genus Two, is a mutated and short-lived zombie-like version of a human. 
+
+In the past 2000 years (recent history) it is believed that Genus 1 has split again, creating Genus 3 and Genus 4. This section will deal with each of these Genuses.
+
+## Genu
+
+It is believe that the Genus Two was triggered after the alteration of diet within the Aran war, where people were forced to survive on foods that were mildly poisonous. The human race adapted by creating a much tougher immune system. This tough immune system spreads like a virus.
+
+A Genus Two human has a life span of 20 years. The body begins to rot just after the onset of puberty. The immune system of the Genus Two is pro-active, leaving the host to attack viruses outside of the body - including Genus One (ordinary humans). There are biological differences, such as lower heart rate and the ability to breathe in non-oxygen atmospheres. Genus Two people have very little intelligence and find it difficult to communicate. However, it can be difficult to detect Genus Two when they are still children without a medical scan.
+
+If a Genus Two person comes into physical contact with a Genus One human then the immune system of the Genus Two will attack the Genus One, altering its genetic code to make it Genus Two. The upshot of this is that if the Genus One is older than 20, they will die. If not, then they will slowly become a Genus Two.
