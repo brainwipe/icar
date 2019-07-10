@@ -174,7 +174,7 @@ Lady Berrinda is as fierce as her reputation. A fiery Character who throws her p
 Lady Berrinda came to Emperor Morius's attention when she led a fleet of 25 hulk freighters through 12 clusters of Droid space to safety. Having saved millions of lives, Lady Berrinda was ready to head back when she was force by Imperial decree to become a Peer. Legend has it that she flew into a rage and threw a chair through a stained glass window. Morius appeased her by giving her clusters along the light jump Net edge of Remmar Sector (the Typhon side), making her a patron of the Fringe. Technologist philosophy.
 
 ### Lady Axa Erland
-Lady Erland is the Imperial Peer in charge of the Akarak Nation. Although appointed by the Empress, Lady Erland was drawn from the Akarakian Elders. Lady Erland is a typical Akarakian and strictly follows the three tenets of hard work, expansion of the mind and a pragmatic view that the end justifies the means. For more detail see Akarak Nation XXXX.
+Lady Erland is the Imperial Peer in charge of the Akarak Nation. Although appointed by the Empress, Lady Erland was drawn from the Akarakian Elders. Lady Erland is a typical Akarakian and strictly follows the three tenets of hard work, expansion of the mind and a pragmatic view that the end justifies the means. Lady Erland commands the largest of the trade fleets. For more detail see Akarak Nation XXXX.
 
 ### Imperial Peer Trade Navies
 The root of an Imperial Peer's power is a navy of freighters. These spacecraft are owned and operated by the Peer and serve colonies whose economies are too weak to support a regular trade links. As soon as a colony economy strengthens, the trade navy craft are moved on to assist other colonies.

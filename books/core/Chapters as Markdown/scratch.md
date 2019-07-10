@@ -387,7 +387,7 @@ Genus One was the name given to the existing homo sapiens genus. 99.9% of the hu
 
 In the past 2000 years (recent history) it is believed that Genus 1 has split again, creating Genus 3 and Genus 4. This section will deal with each of these Genuses.
 
-## Genu
+## Genus
 
 It is believe that the Genus Two was triggered after the alteration of diet within the Aran war, where people were forced to survive on foods that were mildly poisonous. The human race adapted by creating a much tougher immune system. This tough immune system spreads like a virus.
 
@@ -397,3 +397,31 @@ If a Genus Two person comes into physical contact with a Genus One human then th
 
 ### How Genus Two appear
 A Genus Two is either created from another Genus Two or can be given birth to. The mother is scanned during birth and if her physiology starts to change, she is quarantined and then usually killed with her child. Every child born in Human Occupied Space is born in an instant-incinerator equipped delivery suite and a single Automaton midwife performs the delivery. If the baby born is detected as Genus Two (which comes apparent after the umbilical chord is severed) then the contents of the room is flash-incinerated, leaving only an Automaton with glowing hot red skin.
+
+## Akarak Nation
+
+A way of life older than the Imperium, the Akarak Nation is a subculture within the broad umbrella of the Imperium. Based in the Akar cluster in Dorian, Akarak is the name for a number of worlds that subscribe to the same philosophy. This philosophy is called Futurism and is a philosophy based on the principle of 'the end justifies the means'.
+
+
+### History
+Like many great civilisations, the Akarak Nation had a rocky beginning. Jebediah Akarak first settled the Akar cluster in 4002, he believed in toil, thought and the end justifying the means. Each of his colonies were set up such that people divided their time between work and furthering education (philosophical thought). Both activities were bound together with the concept that the colony and the human race must continue to survive, no matter what the cost.
+
+This was a popular idea for those people who wanted to be colonists without the terrible hardship that most work-to-death colonies had. The first few colonies struggled through impossibly hard times as colonists split their time evenly between developing farmland and developing their state of mind.
+
+### The Famine
+The philosophy took its first victims when a few harsh winters on the key planets lead to smaller, newer colonies dying out with millions dead. The councils that ran the dying colonies stoically accepted their fate, letting their own people starve to save other colonies. It was an early and vital test of Jebediah's philosophy and is chronicled as the point at which the Akaraks became a single nation.
+
+It was 70 years after the death of Jebediah that the Akarak nation got back onto its feet again. The Akarak trade group, funded by all the systems in the cluster helped colonies with unpredictable food production survive and paved the way for a new batch of colonies. The few craft soon became a fleet and it was dubbed the Akarak Aid Fleet. This group of craft brought together the systems and in a show of solidarity, the fashion of the time was to augment one's name with the letters 'Ak' or 'Ax'. Smith would become Axsmith and inelegantly Jones would become Jonesak.
+
+### Growth and the Akarak Aid Fleet
+The calm, thoughtful and pragmatic triumvirate of the Akarak way of life lead to rapid colonial growth and a sense of purpose and belonging. Many colonies were willingly subsumed into the Akarak Nation, which offered safety, security and economic strength. Where most colonies of this time were losing contact with other systems, the Akarak Nation was a beacon of hope - even if you had to accept their blunt philosophy. 
+
+Technological advances sprung quickly from within the Akar Cluster as populations were forced by law to spend a balance on toil and thought. With the proliferation of information via the Akarak Aid Fleet, a problem on one planet would be shared with many and solutions found rapidly.
+
+During this time, the philosophies of the Akarak nation had evolved. It was apparent to the thinkers of the nation (of which there were many) that the survival of the human race was core to it existence. In 4287, Christopher Akulfer and a group of other thinkers set out on a pilgrimage, which produced the Akarakian Codex.
+
+### Akarak Nation and the First Empire
+When the first Empire was created at the turn of the century in 5500, the Akarak Nation remained very quiet. They were happy to share their scientific findings and worked hard to co-operate with the fledgling Empire - whose footing right from the start was one of bloody expansion and subjugation. Fortunately, the direction of rapid Expansion was not in the direction of the Akarak Nation and so they never came to blows with the first Empire.
+
+The Akarak Aid Fleet was the only large Trade Fleet to survive the Dark Ages that followed the fall of the first Empire. In these bleak times, the fleet changed its role to protect its own systems, rather than striking out to forge new colonies.
+On the creation of the Imperium, the Akarak Nation was invited to take up a major role in its administration - their systems had survived unmolested and so their technology advances had been built upon. The Nation respectfully declined but kept a watchful eye on its progress, 
