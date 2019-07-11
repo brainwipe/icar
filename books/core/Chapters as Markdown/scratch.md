@@ -289,7 +289,7 @@ The Undergaia can be accessed by passing a Hacking Skill check. A Hacking Skill 
 
 If the team does not have anyone with the Hacking Skill, then they must attempt to find someone who can access the Undergaia either by using contacts or by searching Gaia for people offering generic Gaia services, such as Information Brokers.
 
-## Automatons
+# Automatons
 Perhaps the most controversial technology, Automatons are intelligent machines that live and work amongst the human race. There is an important distinction between robots, Droids and Automatons: a robot is an autonomous device with intelligence that can unwittingly harm humans (like a toaster), Droids are a type of artificially intelligent robot that are designed to destroy; Droids can kill. 
 
 An Automaton is an artificially intelligent (AI) robot that has been hard-coded with laws serve to protect the human race. Furthermore, modern Automatons are programmed using Gaia and are therefore impervious to the reprogramming attempts of Droids.
@@ -370,7 +370,7 @@ The Imperium will one day set Automatons free. A common myth held by technophile
 
 Ascended Automatons can kill. Some argue that under some circumstances, Automatons can kill others. Due to the laws of robotics, Automatons will not harm humans and would see their own destruction first.
 
-## Bionics
+# Bionics
 
 With bionic augmentation readily available (described later), the human race is more intent than ever to retain their humanity. Beauty can be engineered but it is natural beauty - so difficult to engineer that is prized above all else.
 
@@ -387,7 +387,7 @@ Genus One was the name given to the existing homo sapiens genus. 99.9% of the hu
 
 In the past 2000 years (recent history) it is believed that Genus 1 has split again, creating Genus 3 and Genus 4. This section will deal with each of these Genuses.
 
-## Genus
+## Genus 2
 
 It is believe that the Genus Two was triggered after the alteration of diet within the Aran war, where people were forced to survive on foods that were mildly poisonous. The human race adapted by creating a much tougher immune system. This tough immune system spreads like a virus.
 
@@ -398,7 +398,7 @@ If a Genus Two person comes into physical contact with a Genus One human then th
 ### How Genus Two appear
 A Genus Two is either created from another Genus Two or can be given birth to. The mother is scanned during birth and if her physiology starts to change, she is quarantined and then usually killed with her child. Every child born in Human Occupied Space is born in an instant-incinerator equipped delivery suite and a single Automaton midwife performs the delivery. If the baby born is detected as Genus Two (which comes apparent after the umbilical chord is severed) then the contents of the room is flash-incinerated, leaving only an Automaton with glowing hot red skin.
 
-## Akarak Nation
+# Akarak Nation
 
 A way of life older than the Imperium, the Akarak Nation is a subculture within the broad umbrella of the Imperium. Based in the Akar cluster in Dorian, Akarak is the name for a number of worlds that subscribe to the same philosophy. This philosophy is called Futurism and is a philosophy based on the principle of 'the end justifies the means'.
 
@@ -432,3 +432,7 @@ On the creation of the Imperium, the Akarak Nation was invited to take up a majo
 The Akarakian Nation has been very much subsumed into the Imperium as a whole. Akarakian children are educated in the same way as every other child in Human Occupied Space (by Star Civilisation). However, it is parents and colonies that keep the pragmatic traditions alive.
 
 Compared to other clusters of similar size, the Akar Cluster is more populated, better educated, economically stronger and produces more technology. Other established Akarakian systems dotted around Imperium space often mirror these features in comparison with their neighbours.
+
+### Chapters
+
+The most important people within the Akarakian Nation are the Elders. These are revered men and women who have excelled themselves while following the philosophy and Codex. Their job is to supervise the running of the Chapter (or House), look after those in the Chapter, give resources to quests that deserve it and help teach new thinking or science. 

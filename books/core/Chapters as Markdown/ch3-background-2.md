@@ -276,24 +276,17 @@ Akarakians believe that thought and hard work are of equal importance; a balance
 ### History
 Jebediah Akarak first settled the Akar cluster in 4002, bringing his philosophy with him. Colonisation was tough as humanity hadn't adjusted to alien worlds. After 32 years and 8 worlds colonised, the Akar cluster was hit by a terrible famine, the first proper test of the Akarakian philosophy. Rather than stretch resources thinly and risk losing all of the colonies, 3 were chosen to fail. They evacuated the young, intelligent and strong; leave the rest to starve to death. The famine is the point where the Akarak philosophy formed a nation with a single purpose, people began inserting Ax and Ak into their names in a show of solidarity and belonging.
 
-In 4287, Akarakian zealot Christopher Akulfer lead a group of thinkers on a pilgrimage, the result being the Akarakian Codex, a series of hardened philosophical principals that extended Jebediah's work. The Codex defined the Houses and Chapters and 
+In 4287, Akarakian zealot Christopher Akulfer lead a group of thinkers on a pilgrimage, the result being the Akarakian Codex, a series of hardened philosophical principals that extended Jebediah's work. The Codex defined the Houses and Chapters; the role of Missionaries and Elders.
 
-A the population grew, the Akarakian didn't spread on worlds outside of the Akar cluster; choosing instead to build Akar into the powerhouse it is now. At the fall of the First Empire, the Akar cluster defended itself from the chaos that followed and during the Aran war, that lasted for 34,000 years, Akar remained neutral; even at great cost. When the Droids invaded Dorian in 91001, the Akarak nation began preparations to evacuate but managed to stand firm; fighting alongside the Imperium.
+A the population grew, the Akarakian didn't spread to worlds outside of the Akar cluster; choosing instead to exploit Akar's resources and keep travel distances short. At the fall of the First Empire, the Akar cluster defended itself from the chaos that followed and during the Aran war, that lasted for 34,000 years, Akar remained neutral; even at great cost. When the Droids invaded Dorian in 91001, the Akarak nation began preparations to evacuate but managed to stand firm; fighting alongside the Imperium.
 
 ### Houses of the Akarak
-Akarakians group themselves together in one of ten Houses.
+Akarakians group themselves together in one of ten *houses*, each house is split into thousands of *chapters*, each of which are lead by a faculty of esteemed Akarakian Elders. Each chapter will have its headquarters in a system but *most* houses can be found on every system.
 
-The Akarak Nation is part of the Imperium and so the Akar cluster has its own Imperial Peer, called Axa Erland (see Lady Axa Erland on page 32). Colonies are organised in the same way as any other and pay taxes to the Imperium in the same way.
+Houses are ceremonial whereas chapters are where decisions are made. There are tens of thousands of chapters, varying in public standing. 
+Membership to a chapter is either by birth or by invitation and moving between them is welcomed. Most Akarakians pay little attention to their chapter until met with a painful life event, when they are helped. A chapter can provide help in the form of financial, physical and favour. Elders are happy to use the resources if teaching new thinking or science is involved.
 
-This is where the similarity ends. The nation is organised into a number of Houses. Houses are based largely on location of their headquarters.
-
-An Akarakian House is then split into Chapters. A family line of Akarakians tends to belong to a single Chapter but there is some movement between them.
-
-The most important people within the Akarakian Nation are the Elders. These are revered men and women who have excelled themselves while following the philosophy and Codex. Their job is to supervise the running of the Chapter (or House), look after those in the Chapter, give resources to quests that deserve it and help teach new thinking or science. 
-
-Elders spend their days in forums: rooms that exist in parallel between Gaia and the real world. Members of the Chapter do not need to be in close proximity to speak with their Elder. Elders are normally selected from the people and are nearly always an obvious choice. In dispute, each Elder is given the choice to voice their concerns and then Elders from other Chapters are asked to decide.
-
-There are 10 main houses within the Akarak Nation. 98% of Akarakians come from one of these. There are other Houses that report to the Akarakian Peer but these are seen as less official.
+Elders spend their days in forums: rooms that co-exist in Gaia and the real world. Chapter members are encouraged to discuss with the Elders, ask for resources
 
 ### External Relationships
 The rest of the Human Occupied Space finds it difficult to deal with the Akarak Nation, people's perceptions differ depending on their home world and education. Those that know nothing of Akarak tend to see them as harmless monks. Those that know a little of the Akarakian history and tenets tend to view them with some wonder, like living myths. Those that understand the inner workings of the Nation will either treat them with great reverence or the up most distrust.
@@ -309,6 +302,8 @@ The Star Enforcers have difficulty on systems that are Akarakians because they o
 Where this is a problem is in the harsh manner in which Akarakians carry out their justice. For some minor crimes, Akarakians will be deemed unfit to be part of humanity and will simply disappear. Family and friends will not file a complaint and there are never any witnesses willing to testify - not through fear but through belief in the Akarakian way.
 
 ### The Codex
+- The Codex defined the Houses and Chapters; the role of Missionaries and Elders.
+
 Finished in 4307 the Codex is many things. It's the ultimate guide to Futurism. It's a blueprint for living a futurist life. It's a set of laws and it's a historical document. Although written over 88 thousand years ago, it is still relevant today as it always was. 
 
 The most important part of the Codex is the Principia Akarakia. This is a simple to follow rule when dealing with any given situation.
