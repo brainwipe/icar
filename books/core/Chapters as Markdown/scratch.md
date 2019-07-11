@@ -424,4 +424,11 @@ During this time, the philosophies of the Akarak nation had evolved. It was appa
 When the first Empire was created at the turn of the century in 5500, the Akarak Nation remained very quiet. They were happy to share their scientific findings and worked hard to co-operate with the fledgling Empire - whose footing right from the start was one of bloody expansion and subjugation. Fortunately, the direction of rapid Expansion was not in the direction of the Akarak Nation and so they never came to blows with the first Empire.
 
 The Akarak Aid Fleet was the only large Trade Fleet to survive the Dark Ages that followed the fall of the first Empire. In these bleak times, the fleet changed its role to protect its own systems, rather than striking out to forge new colonies.
+
 On the creation of the Imperium, the Akarak Nation was invited to take up a major role in its administration - their systems had survived unmolested and so their technology advances had been built upon. The Nation respectfully declined but kept a watchful eye on its progress, 
+
+
+### The Nation Today
+The Akarakian Nation has been very much subsumed into the Imperium as a whole. Akarakian children are educated in the same way as every other child in Human Occupied Space (by Star Civilisation). However, it is parents and colonies that keep the pragmatic traditions alive.
+
+Compared to other clusters of similar size, the Akar Cluster is more populated, better educated, economically stronger and produces more technology. Other established Akarakian systems dotted around Imperium space often mirror these features in comparison with their neighbours.

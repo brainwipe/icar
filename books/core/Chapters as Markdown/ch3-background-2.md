@@ -274,14 +274,15 @@ The Akarak Nation is a subculture built on a pragmatic philosophy of thought, to
 Akarakians believe that thought and hard work are of equal importance; a balance between mental and physical health. They believe both in the the human spirit and in the important role that technology has to play in human evolution; putting them directly between the humanist and technologist debate. They see themselves as educators, passing on the tenets of their philosophy and come across as calm and smug.
 
 ### History
-Jebediah Akarak first settled the Akar cluster in 4002, bringing his philosophy with him. Colonisation was tough as humanity hadn't adjusted to alien worlds. After 32 years and 8 worlds colonised, the Akar cluster was hit by a terrible famine, the first proper test of the Akarakian philosophy. Rather than stretch resources thinly and risk losing all of the colonies, 3 specific colonies were chosen to fail. The few trade craft evacuated the young, intelligent and strong; leave the rest to starve to death. The famine is the point where the Akarak philosophy formed a nation with a single purpose.
+Jebediah Akarak first settled the Akar cluster in 4002, bringing his philosophy with him. Colonisation was tough as humanity hadn't adjusted to alien worlds. After 32 years and 8 worlds colonised, the Akar cluster was hit by a terrible famine, the first proper test of the Akarakian philosophy. Rather than stretch resources thinly and risk losing all of the colonies, 3 were chosen to fail. They evacuated the young, intelligent and strong; leave the rest to starve to death. The famine is the point where the Akarak philosophy formed a nation with a single purpose, people began inserting Ax and Ak into their names in a show of solidarity and belonging.
 
-### The Nation Today
-The Akarakian Nation has been very much subsumed into the Imperium as a whole. Akarakian children are educated in the same way as every other child in Human Occupied Space (by Star Civilisation). However, it is parents and colonies that keep the pragmatic traditions alive.
+In 4287, Akarakian zealot Christopher Akulfer lead a group of thinkers on a pilgrimage, the result being the Akarakian Codex, a series of hardened philosophical principals that extended Jebediah's work. The Codex defined the Houses and Chapters and 
 
-Compared to other clusters of similar size, the Akar Cluster is more populated, better educated, economically stronger and produces more technology. Other established Akarakian systems dotted around Imperium space often mirror these features in comparison with their neighbours.
+A the population grew, the Akarakian didn't spread on worlds outside of the Akar cluster; choosing instead to build Akar into the powerhouse it is now. At the fall of the First Empire, the Akar cluster defended itself from the chaos that followed and during the Aran war, that lasted for 34,000 years, Akar remained neutral; even at great cost. When the Droids invaded Dorian in 91001, the Akarak nation began preparations to evacuate but managed to stand firm; fighting alongside the Imperium.
 
-### Structure of the Nation
+### Houses of the Akarak
+Akarakians group themselves together in one of ten Houses.
+
 The Akarak Nation is part of the Imperium and so the Akar cluster has its own Imperial Peer, called Axa Erland (see Lady Axa Erland on page 32). Colonies are organised in the same way as any other and pay taxes to the Imperium in the same way.
 
 This is where the similarity ends. The nation is organised into a number of Houses. Houses are based largely on location of their headquarters.
