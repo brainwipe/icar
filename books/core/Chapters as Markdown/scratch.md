@@ -436,3 +436,23 @@ Compared to other clusters of similar size, the Akar Cluster is more populated, 
 ### Chapters
 
 The most important people within the Akarakian Nation are the Elders. These are revered men and women who have excelled themselves while following the philosophy and Codex. Their job is to supervise the running of the Chapter (or House), look after those in the Chapter, give resources to quests that deserve it and help teach new thinking or science. 
+
+### External Relationships
+The rest of the Human Occupied Space finds it difficult to deal with the Akarak Nation, people's perceptions differ depending on their home world and education. Those that know nothing of Akarak tend to see them as harmless monks. Those that know a little of the Akarakian history and tenets tend to view them with some wonder, like living myths. Those that understand the inner workings of the Nation will either treat them with great reverence or the up most distrust.
+
+### Relationship with The Imperium
+The Akarakian Nation holds a very good relationship with the Imperium - certainly on the surface. The Akarak Nation provides a large number of highly trained warriors, diplomats, strategists and scientists. The Akarakian Nation publicly supports every decision that the Imperium makes and the upper classes are in regular contact with the Empress.
+
+Under the surface, it's difficult to know how the Akarak Nation views the Imperium. The Akarak Codex has very strict rules regarding the importance of the future of the human race and the Imperium often passes this up for economic or social concerns.
+
+### Akarakians and Star Enforcers
+The Star Enforcers have difficulty on systems that are Akarakians because they often do not have a view into the workings of the Houses and Chapters, which are private clubs. If an Akarakian believes that a problem (or a crime) can be dealt with by Elders then they will talk to the Star Enforcers, assured that it will be dealt with internally. Evidence is impossible to come by and the Nexus rarely makes a guilty judgement. Akarakian colonies appear to have low crime rates as a result.
+
+Where this is a problem is in the harsh manner in which Akarakians carry out their justice. For some minor crimes, Akarakians will be deemed unfit to be part of humanity and will simply disappear. Family and friends will not file a complaint and there are never any witnesses willing to testify - not through fear but through belief in the Akarakian way.
+
+### Codex
+Finished in 4307 the Codex is many things. It's the ultimate guide to Futurism. It's a blueprint for living a futurist life. It's a set of laws and it's a historical document. Although written over 88 thousand years ago, it is still relevant today as it always was. 
+
+The most important part of the Codex is the Principia Akarakia. This is a simple to follow rule when dealing with any given situation.
+
+Apart from a small hard core, the Akarakian Nation is said to follow the Codex with compassion. This means that although they believe in futurism and strive towards it, they do so in a humane manner. 

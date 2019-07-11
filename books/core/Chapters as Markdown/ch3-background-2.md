@@ -286,32 +286,25 @@ Akarakians group themselves together in one of ten *houses*, each house is split
 Houses are ceremonial whereas chapters are where decisions are made. There are tens of thousands of chapters, varying in public standing. 
 Membership to a chapter is either by birth or by invitation and moving between them is welcomed. Most Akarakians pay little attention to their chapter until met with a painful life event, when they are helped. A chapter can provide help in the form of financial, physical and favour. Elders are happy to use the resources if teaching new thinking or science is involved.
 
-Elders spend their days in forums: rooms that co-exist in Gaia and the real world. Chapter members are encouraged to discuss with the Elders, ask for resources
+Elders spend their days in forums: rooms that co-exist in Gaia and the real world. Chapter members are encouraged to meet with Elders, ask for help and advice.
 
-### External Relationships
-The rest of the Human Occupied Space finds it difficult to deal with the Akarak Nation, people's perceptions differ depending on their home world and education. Those that know nothing of Akarak tend to see them as harmless monks. Those that know a little of the Akarakian history and tenets tend to view them with some wonder, like living myths. Those that understand the inner workings of the Nation will either treat them with great reverence or the up most distrust.
+### Akarakians in Society
+The pragmatically insular ethos of the Akarakian Nation has the unfortunate side effect that the further from Akar a person lives, the more Akarakians a perceived as mythological monks. Personally, Akarakians come across as aloof, smug intellectuals who get involved in things that have nothing to do with them. Criminals avoid Akarakians as their sense of doing the right thing for humanity as a whole means that they are just as likely to help you with a criminal act as shop you in to the Star Enforcers.
 
-### Relationship with The Imperium
-The Akarakian Nation holds a very good relationship with the Imperium - certainly on the surface. The Akarak Nation provides a large number of highly trained warriors, diplomats, strategists and scientists. The Akarakian Nation publicly supports every decision that the Imperium makes and the upper classes are in regular contact with the Empress.
+Although the Akarak Nation is subsumed into the Imperium as a whole, Akarakians make it obvious that this will only continue while the Imperium is operating with the best interests of the people. At the first sign of corruption, all of the Akarakians working for the Imperium would leave, creating a huge hole in every Star Industry.
 
-Under the surface, it's difficult to know how the Akarak Nation views the Imperium. The Akarak Codex has very strict rules regarding the importance of the future of the human race and the Imperium often passes this up for economic or social concerns.
+Star Enforcers have the biggest issue with Akarakians as the Codex states that the rule of law is useful to keep the majority of humanity behaving but the laws do not apply to them. They only give evidence where there is broader benefit to humanity and commit crimes that are often impossible to prove. Akarakians deemed unfit to be part of humanity simply disappear.
 
-### Akarakians and Star Enforcers
-The Star Enforcers have difficulty on systems that are Akarakians because they often do not have a view into the workings of the Houses and Chapters, which are private clubs. If an Akarakian believes that a problem (or a crime) can be dealt with by Elders then they will talk to the Star Enforcers, assured that it will be dealt with internally. Evidence is impossible to come by and the Nexus rarely makes a guilty judgement. Akarakian colonies appear to have low crime rates as a result.
-
-Where this is a problem is in the harsh manner in which Akarakians carry out their justice. For some minor crimes, Akarakians will be deemed unfit to be part of humanity and will simply disappear. Family and friends will not file a complaint and there are never any witnesses willing to testify - not through fear but through belief in the Akarakian way.
+In the Akar cluster, there is a lower density of Enforcers as the Elders are judge and jury. The Star Enforcers main role in Akar is to spot criminals coming in from outside.
 
 ### The Codex
-- The Codex defined the Houses and Chapters; the role of Missionaries and Elders.
-
-Finished in 4307 the Codex is many things. It's the ultimate guide to Futurism. It's a blueprint for living a futurist life. It's a set of laws and it's a historical document. Although written over 88 thousand years ago, it is still relevant today as it always was. 
-
-The most important part of the Codex is the Principia Akarakia. This is a simple to follow rule when dealing with any given situation.
-
-Apart from a small hard core, the Akarakian Nation is said to follow the Codex with compassion. This means that although they believe in futurism and strive towards it, they do so in a humane manner. 
+The Codex is a set of philosophies and rules completed by the zealous Akarakian Missionary Christopher Akulfer in 4307. It outlines houses, chapters, elders, elections, missionaries, property ownership and labour rules. It is a uncompromising document, written in a time of chaos and hardship; the modern Akarak Nation applies its concepts with compassion and temperance.
 
 ### Missionaries
-Missionaries is the name given to the augmented warrior-monk-professors who act as diplomats, educators, negotiators and assassins. Missionaries method that the Akarak Nation uses to ensure that the best interests of the human race are looked after. Akarakian Missionaries usually travel alone and the purpose of their mission is known only to them and their Elder. Their missions range from ensuring a planet's food supply never runs dry, through to assassinating a particularly corrupt council official that the Star Enforcers cannot convict.
+Missionaries are bionic warrior-monk-professors who are the Akarakian diplomats, educators, negotiators and assassins. They usually travel alone (or with other non-Akarakians) and the purpose of their mission is a secret between their elder and them. Their missions range from vague intelligence gathering to assassinating a particularly corrupt council official. Missionaries where white and grey robes that hang from their custom-built full-body expeditionary level bionics. Missionaries carry a hard light sword but are just as dangerous without it.
+
+### Dark Akarak
+Those that believe the Codex is not open to interpretation are shunned from the Akarak Nation and they live in the darkness. The chapter Waters Blue has become synonymous with hard-line zealot Akarakians, having produced some of the most dangerous missionaries. Although not outlawed, the chapter is closely scrutinised. Dark Akarakians have zero tolerance or patience with anyone that is foolhardy, dull minded or corrupt; they prefer to kill first and ask forgiveness later.
 
 ## Corporations
 Corporations spread either across Human Occupied Space or are contained to a single city. They nearly always operate with a legal public face and an illegal side called a Black Mill. A price list for generic items can be found in the General Items Price List on page 161.
