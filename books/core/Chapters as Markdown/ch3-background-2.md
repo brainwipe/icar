@@ -307,7 +307,10 @@ Missionaries are bionic warrior-monk-professors who are the Akarakian diplomats,
 Those that believe the Codex is not open to interpretation are shunned from the Akarak Nation and they live in the darkness. The chapter Waters Blue has become synonymous with hard-line zealot Akarakians, having produced some of the most dangerous missionaries. Although not outlawed, the chapter is closely scrutinised. Dark Akarakians have zero tolerance or patience with anyone that is foolhardy, dull minded or corrupt; they prefer to kill first and ask forgiveness later.
 
 ## Corporations
-Corporations spread either across Human Occupied Space or are contained to a single city. They nearly always operate with a legal public face and an illegal side called a Black Mill. A price list for generic items can be found in the General Items Price List on page 161.
+Humans need something to strive for and in a future where very few need to work, corporations provide a shared goal; bringing meaning to many lives. Corporations can be as small as a cafe through to employing millions over countless systems. No corporation is perfect, they all perform some kind of illegal business on the side. In this section we'll outline only the huge interstellar ones.
+
+### Ariane
+Manufacturer of trustworthy spacecraft
 
 ### Ariane
 Ariane is the manufacturer of solid, trustworthy spacecraft with an inter-Sector presence. Their spacecraft are broad in range and known for their efficient, no-nonsense design.

@@ -456,3 +456,7 @@ Finished in 4307 the Codex is many things. It's the ultimate guide to Futurism. 
 The most important part of the Codex is the Principia Akarakia. This is a simple to follow rule when dealing with any given situation.
 
 Apart from a small hard core, the Akarakian Nation is said to follow the Codex with compassion. This means that although they believe in futurism and strive towards it, they do so in a humane manner. 
+
+# Corporations
+Corporations spread either across Human Occupied Space or are contained to a single city. They nearly always operate with a legal public face and an illegal side called a Black Mill. A price list for generic items can be found in the General Items Price List on page XXXXX.
+
