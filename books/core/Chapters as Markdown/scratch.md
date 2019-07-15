@@ -460,3 +460,101 @@ Apart from a small hard core, the Akarakian Nation is said to follow the Codex w
 # Corporations
 Corporations spread either across Human Occupied Space or are contained to a single city. They nearly always operate with a legal public face and an illegal side called a Black Mill. A price list for generic items can be found in the General Items Price List on page XXXXX.
 
+### Ariane
+Manufacturer of trustworthy spacecraft
+
+### Ariane
+Ariane is the manufacturer of solid, trustworthy spacecraft with an inter-Sector presence. Their spacecraft are broad in range and known for their efficient, no-nonsense design.
+
+Ariane are named after the Ariane 1001, the space station that saved the human race from extinction. They are the oldest company in the Galaxy, older than the Imperium itself. Some of the oldest spacecraft in the galaxy are Ariane freighters, being more than 30 thousand years old. If you buy second hand, make sure it's Ariane.
+
+Ariane also provide repair dock facilities on many Orbitals and Orbs around Human Occupied space.
+
+#### Ariane Black Mills
+Being such a large company means that many of Ariane's outlets have localised Black Mills. Black Mill shipyards can remove identifying marks from a stolen spacecraft, installing smuggling cargo holds and illegally boost the performance of systems.
+
+### Aubury
+Aubury Expeditionary Technology provides expeditionaries with a high quality of technology. Since 92000, Aubury has sold their wares through a network of Aubury dealers. 
+
+All Aubury equipment has a rarity of 70%, and to find a dealer requires a Hard Street Deal roll. In game, this means that Aubury equipment will either be bought when introduced to a dealer through a friendly NPC.
+
+#### Aubury Black Mills
+Aubury's illegal business interests are in illegal technology: Ion powered gadgets, cloak technology, planetary bombardment weapons and so on. Costs are astronomical but this may be the only place to gain illegal technology.
+
+
+### Burntek 
+Burntek are a weapons manufacturer that enjoy their work as much as the users of Burntek weapons enjoy their products. Burntek weapons dance on the fine line between brilliance and lunacy, offering a mix of solid favourites and sheer madness. 
+
+Burntek's public face is through a down-to-earth and forthright Marketing department who states clearly what their product is for: shredding things. Prices for Burntek weapons can be found in the Equipment Index.
+
+#### Burntek Black Mills
+Some of the more enterprising Burntek offices offer special 'upgrades', whose legality is questionable. For those with enough money, Burntek will offer just about any lethal device - custom made to the desired specifications.
+
+### Endotek
+Endotek fill the market for high specification spacecraft. Unlike Ariane, Endotek concentrate on the very best materials and designs, creating what they believe are works of art. Each craft is slightly different: built around a generic core but modified to suit the ideas of the 'artist' who finalises the design before build. No two Endotek spacecraft are the exactly same and are often referred to as having their own personality. 
+
+#### Endotek Black Mills
+When commissioning a new spacecraft construction, Endotek have been known to provide customisations not in line with the law. Illegal weapons (such as orbit to surface canons) and upgrades that evade Star Enforcer sensors can be found on Endotek craft.
+
+### Forester
+Forester are the largest and longest running Grav Car manufacturer. Approximately 70% of the Grav Cars driven are Forester based. Forester's brand is one of unexciting reliability and a starting point for a huge array of modification and upgrades. Few drive a factory standard Forester, most are slightly modified.
+
+Forester's most popular Grav Car is the Anchorage, which combines style, low cost, family practicality and reliability. 
+
+#### Forester Black Mills
+Forester Black Mills have become something of an institution that skirt on the edge of legality. All Forester repair shops offer a range of upgrades to their vehicles. However, some of these upgrades are illegal copies of gadgets installed on competitor's vehicles. 
+
+Forester Black Mills will also offer to repair damage (such as bullet holes) without asking any questions.
+
+
+### Byrnosphere
+Byrnosphere is an information broker corporation that collects and sells information. This information can be broad market analysis or as specific as celebrity gossip. The Byrnosphere is rarely wrong and will mark information as 'probable' if there is any doubt to its validity. Gaia researchers are mostly AI Entities (with an AI Power of 6) but for difficult searches or human interest items, a human researcher will be brought in.
+
+The Byrnosphere researchers are known for their tenacity for detail and accuracy of the data it collects. Their aim is not money or profit but the desire to find the answer to the question.
+
+It is difficult to estimate how much a piece of data will be, most searches begin at 200 credits and then for each minute spent searching, another 50 credits is charged. This can get very expensive quickly, so ensure you set a limit before placing a search.
+
+#### Byrnosphere Black Mills
+For trusted repeat customers, Byrnosphere researchers have been known to hack into private Gaia volumes and steal data. Black Mill operations are adept at sifting information in the Undergaia (which is also illegal) to ensure that data is of the highest quality. 
+
+Those Characters with Hacking can normally find a Byrnosphere researcher on the Undergaia.
+
+
+### Kanster
+Kanster is a construction company that has a long and deep running connection with the Imperium. Kanster is responsible for the rapid construction of millions of colonies across Human Occupied Space. Kanster build Mex cities, Crofts, Orbitals and Orbs using Automatons and a human supervising crew.
+
+Kanster perform very little repair of facilities - which is left to local firms to provide. Kanster is a nomadic company - their offices are based on huge hulking spacecraft that purchase raw materials locally and manufacture all the parts in situ. 
+
+When a Kanster flotilla arrive in a system to perform a build, there is a breakneck pace of work that leaves people speechless. With raw materials at hand, they can build a fully functioning Orbital that can house 100 million people in under 20 days.
+
+#### Kanster Black Mills
+Kanster are so tightly tied to the Imperium that they do not have a Black Mill. Furthermore, there is little demand for illegal space stations.
+
+### Moss
+Moss is a personal armour and shields manufacturer. Best known for their ubiquitous environment suits, Moss have a broad catalogue from Grav Bike racer impact suits to heavy powered armour. Moss came was born of the flames of the Aran War in 37978 as an armour manufacturer for the Arans. At the end of the war, Moss began making environment suits - using their military based powered armour knowledge to build better and cheaper suits.
+
+#### Moss Black Mills
+Unofficially, Moss will create any powered armour suit you might want and will attach all manner of illegal technology to it. Moss has close ties to the Technomage Syndicate and rumours are common about the capabilities of some of the higher end suits. Some even claim that Moss have created suits that can light jump - a technology only available to Star Fleet.
+
+### Napalm
+Napalm are comfortably the human race's favourite weapon manufacturer. Known for reliability at a reasonable price, Napalm have an enviable position at the top. Napalm build the Arms series of low power weapons and Astraripper chain guns (intended for large humans or those with bionics). 
+
+Napalm as a core company is surprisingly small, consisting of mostly research and development and marketing. The actual manufacturing of the weapons is out sourced to dedicated manufacturing companies.
+
+#### Napalm Black Mills
+Napalm's weapon smiths are and extremely creative and inventive group. Their Gaia based design offices are well known for being wacky homages to popular media, such as medieval Europe or galactic beauty spots. Some of the upgrade designs that leave the office are from the very edges of their fevered imaginations and they often break various laws. When the designs pop up on Undergaia, the only ways one can tell their origin is from the Napalm Black Mill is by the quality and tight fitting to existing Arms weapons.
+
+### Poraq
+Poraq make solid state generators, which are fitted in just about every device. Solid state generators are an old technology - that uses a fuel which is safe, clean and lasts for thousands of years. Poraq's generators meet the carefully craft Imperial laws that ensure that every generator is safe to use. With the onset of The Droid War, Poraq lost all of its competitors (who were based in Sectors that were taken by the Droids) and are now the de facto generator manufacturer. 
+
+### Void Rescue
+Void Rescue are a privately run emergency service that will come and rescue you if your spacecraft is stranded in space (or on planet surface). Void Rescue offer a number of packages that offer different levels of service. For a large extra fee, Void Rescue will also enter the Fringe or Droid Space to rescue you. Their spacecraft are always beautifully clean and are painted in bright yellow and black stripes (affectionately known as Void Bees).
+
+#### Black Mills
+Although clean and tidy in appearance, no Void Rescue crew is squeaky clean. For a price, they can be asked to turn a blind eye or not ask where the original crew of the spacecraft went!
+
+### Zaxcann
+Zaxcann are a premium weapon manufacturer, an offshoot of the Imperium's Star Scientifica. Since the outbreak of The Droid War, the Imperium have had a policy of arming the general public. The richer slices of society demand more high tech weapons and for those daring enough to cross the light jump net to face the Droids, weapons of considerable power. This is the gap that Zaxcann fits. Most Zaxcann weapons are intended for augmented humans.
+
+#### Zaxcann Black Mills
+Zaxcann's links with Star Scientifica are still strong and as such, a lot of secret technology filters into the public domain through Zaxcann. It's understood that designs for devastatingly powerful Ion weapons have appeared time to time.
