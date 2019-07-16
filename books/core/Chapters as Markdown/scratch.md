@@ -558,3 +558,9 @@ Zaxcann are a premium weapon manufacturer, an offshoot of the Imperium's Star Sc
 
 #### Zaxcann Black Mills
 Zaxcann's links with Star Scientifica are still strong and as such, a lot of secret technology filters into the public domain through Zaxcann. It's understood that designs for devastatingly powerful Ion weapons have appeared time to time.
+
+# Syndicates
+### Syndicate or Club?
+The difference between a syndicate (as given here) and a society is that a Syndicate breaks laws. The Imperium has labelled these organisations as illegal and being a member can lead to arrest on conspiracy charges. Some of these organisations begin as a Society and then radical elements of the Society use the structure of the Society to commit crime. If the Star Enforcers can arrest and remove these people before the entire Society becomes rogue then the Society is not classified as a Syndicate.
+
+There are two main ways for characters to get in touch with syndicates. The first and simplest way of contacting a Syndicate is using the Undergaia (see Undergaia on page 54). Information regarding the Syndicates can be found on the Undergaia but it's important to think laterally when doing so. Very little accurate information on Syndicates is actually stored on the Undergaia under the actual names of the Syndicates, so associated information is better to search for. 

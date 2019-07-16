@@ -310,13 +310,14 @@ Those that believe the Codex is not open to interpretation are shunned from the 
 Humans need something to strive for and in a future where very few need to work, corporations provide a shared goal; bringing meaning to many lives. Corporations can be as small as a cafe through to employing millions over countless systems. No corporation is perfect, they all perform some kind of illegal business on the side. In this section we'll outline only those that are most useful to the players.
 
 ### Black Mills
-Black Mills are the the illegal underpinning found in any corporation. How illegal a local branch of a corporation will go depends on their relationship with you and the strength of the security forces where they are based. It is easiest to think of it as a ladder of activity:
+Black Mills are the the illegal underpinning found in any corporation. Interstellar fraud and illegal activity is rare because the larger it gets, the more evidence available for the Nexus to make a conviction. Smaller offices, where there are individuals making the decision are common. How far they will go depends on their relationship with you and the strength of the security forces where they are based. It is easiest to think of it as a ladder of activity:
 
 - Perform work "no questions asked" and avoid reporting to the Star Enforcers.
 - Use the Undergaia to source illegal technology.
 - Sell stolen goods.
 - Help change the identity of larger stolen goods (such as spacecraft).
 - Fund and organise a local syndicate.
+- Hide criminals.
 - Fit illegal technology.
 - Steal goods from competitors.
 
@@ -334,36 +335,33 @@ Gaian colonial focussed on stories that are of interest within a cluster of clos
 ### Accuracy and reliability
 Gaian is famous for its accuracy and reliability. The journalists report at the very highest standards and editorial policy is extremely strict. Any bribery or corruption is soon rooted out at the full weight of the law is thrown at them. If Gaian reports on a story, you can be sure that it is as accurate as can be - even if it points out inadequacies in the Imperium or local government. Much of Gaian fact checking is performed by their own independent AI that, like the Nexus, will recommend that more evidence is required to meet editorial standards.
 
-Conspiracy theorists will believe that Gaian distorts the news to control humanity. This concept is easily (and regularly) disproven.
+Conspiracy theorists will believe that Gaian distorts the news to control humanity. This concept is easily (and regularly) disproven. Gaian would rather report that they don't know the details of a story than make something up.
 
 ### Gaian and Player Teams
-
+Gaian should be used as a benchmark source of truth for any event. Gaian will necessarily be behind current events but should be considered accurate. The players should also be careful when dealing with Gaian as it is near impossible to spin a story. If Gaian arrive, they will be reporting on what is actually going on. For most player teams, that means avoiding Gaian altogether.
 
 ## Syndicates
-Where there is a system, there is always a group of people out to make gain by exploiting it or fighting it. As the Imperium becomes better at fighting crime, crime gets better at avoiding capture. At this advanced state of Law Enforcement, petty criminals have become a thing of the past.
+Where there is a system, there are always people exploiting it for gain. As the Imperium becomes better at fighting crime, crime gets better at avoiding capture. Petty criminals are a thing of the past and syndicates have become very well adept at playing the game.
 
-The law cannot watch over all of the population all of the time and where criminals are discreet and intelligent, they can continue unmolested by the Star Enforcers. Most Syndicates fall on one side of the humanist, technologist philosophical divide. Many battles exist between these two groups purely on the basis of ideology.
+Where criminals are discreet and intelligent, they can avoid evidence being collected by the Nexus and remain unmolested by the Star Enforcers. Most Syndicates fall on one side of the humanist/technologist philosophical ideology, which causes considerable conflict.
 
-None of these Syndicates are public knowledge. Information on them can be dug out of Gaia for the more persistent researcher but the details are likely to be vague or often biased heavily depending on the philosophy of the writer.
-
-### Syndicate or Society?
-The difference between a Syndicate (as given here) and a Society is that a Syndicate breaks laws. The Imperium has labelled these organisations as illegal and being a member can lead to arrest on conspiracy charges. Some of these organisations begin as a Society and then radical elements of the Society use the structure of the Society to commit crime. If the Star Enforcers can arrest and remove these people before the entire Society becomes rogue then the Society is not classified as a Syndicate.
+None of these syndicates are public knowledge. Information on them can be dug out of Gaia for the more persistent researcher but the details are likely to be vague or often biased heavily depending on the philosophy of the writer.
 
 ### Contacting Syndicates
-There are two main ways for characters to get in touch with Syndicates. The first and simplest way of contacting a Syndicate is using the Undergaia (see Undergaia on page 54). Information regarding the Syndicates can be found on the Undergaia but it's important to think laterally when doing so. Very little accurate information on Syndicates is actually stored on the Undergaia under the actual names of the Syndicates, so associated information is better to search for. 
+Player characters can contact syndicates either through the Undergaia or through contacts. When using the Undergaia, it's important to think laterally when searching. A player should try to describe the syndicate without using any incriminating terminology.
 
-> Example: The Technomages (listed below) might be better discovered by looking for independent inventors and their slightly illegal inventions.
+> Example: The Technomages can be found by searching for independent inventors and their slightly illegal inventions.
 
-The second method is to use contacts. The contacts might not be part of the Syndicate but could start a chain of contacts that lead to a member of a Syndicate. A recommendation from a friend is a sure-fire way of being contact.
+Criminal contacts might not be part of the Syndicate but could start a chain of contacts that lead to a member of a syndicate. A recommendation from a friend is a sure-fire way of being contact.
 
-> Example: A friendly NPC works at a local weapon smith and although he can't upgrade your weapon with illegal addons, we might know someone who can.
+> Example: A friendly NPC works at a local weaponsmith and although he can't upgrade your weapon with illegal addons, we might know someone who can.
 
 ### Typical Criminal Activities
 Each Syndicate has its own flavour of crime in line with the belief of its members, however there are generally illegal activities most get involved in:
 
 - Protection rackets. Pay the gang a fee to avoid being beaten up.
 - Loan sharking. Lending money and charging interest is illegal.
-Selling stolen goods.
+- Selling stolen goods.
 - Hacking corporate networks for secrets to sell to competitors.
 - Smuggling people or items around the planet or off it.
 - Unlicensed bionic augmentation. Or augmenting people who don't want to be!
@@ -372,6 +370,7 @@ Selling stolen goods.
 
 ### The Technomages
 Philosophy: Technologist. Members: Over 10 billion. 
+
 The Technomages aim to support home technologists and to aid the spread of learning in technology. Although these aims sound honourable, some of the technology which is supported is considered illegal by the Imperium. Their illegal interests also reach into handling of stolen goods, harbouring known criminals (especially other Technomages) and supplying equipment to known felonious groups (such as The Machine). Although massively Intersector, the majority of the ruling Mages are based in the Turus Cluster, which is home to the Star Fleet. The size and proliferation of science of the colony makes it the perfect hiding place.
 
 What makes the Technomages unique is their standing with the Star Enforcers. Although they are a clandestine society, most of the Mages are good, law abiding, loyal citizens who have the Technomages as a source of job or hobby. The Star Enforcers mostly see them as a harmless organisation that would take a lot of effort to arrest without actually removing many criminals from the streets. 
