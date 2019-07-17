@@ -15,3 +15,11 @@ The Technomages have a number of ranks which is shown as black bands around a bl
 Where there are many different cells in an area, they are grouped together called a Clan. A Clan usually consists of Cells with very different interests. The Cells within a Technomage Clan share knowledge and look after each other.
 
 A Clan issues awards to their Mages in the form of decoration on their Mobius. Awards are gained when a Mage has excelled in their field by creating a piece of technology or research that furthers the knowledge of humanity. The promotions are shapes that signify different achievements in different Clans but are all celestial objects such as stars, planets, moons, nebulae, black holes etc. Promotion is awarded when the Technomage has an all round commitment by helping others and putting a lot into the Cell's community. 
+
+#### Rumours
+The Technomages have been around for an extremely long time, their origins somewhat vague. One rumour is that the Star Sci set up the Technomages to better monitor and control the general public toying with technology. Star Sci are notoriously difficult to contact and have technology far in advance of anything in the public domain. Whether they have their scientists embedded in the Technomages remains a mystery.
+Using the Technomages
+
+The Technomages are everywhere and in heavily populated places, there can be thousands. They are useful for identifying unknown bits of technology, sourcing rare pieces of kit and getting hold of experimental systems. Cells where the topic of study gives rise to dangerous illegal technology will be more difficult to contact. High concentrations of Technomages will offset that difficulty.
+
+The Technomages can be contacted through the usual channels of the Undergaia but it's also possible to meet them by attending local technology social gatherings, seminars and exhibitions. If you know to look for the blue bands, they can be found.
