@@ -343,9 +343,9 @@ Gaian should be used as a benchmark source of truth for any event. Gaian will ne
 ## Syndicates
 Where there is a system, there are always people exploiting it for gain. As the Imperium becomes better at fighting crime, crime gets better at avoiding capture. Petty criminals are a thing of the past and syndicates have become very well adept at playing the game.
 
-Where criminals are discreet and intelligent, they can avoid evidence being collected by the Nexus and remain unmolested by the Star Enforcers. Most Syndicates fall on one side of the humanist/technologist philosophical ideology, which causes considerable conflict.
+Where criminals are discreet and intelligent, they can avoid evidence being collected by the Nexus and remain unmolested by the Star Enforcers. Less dangerous syndicate members can help the Star Enforcers in exchange for clemency. Most Syndicates fall on one side of the humanist/technologist philosophical ideology, which causes considerable conflict.
 
-None of these syndicates are public knowledge. Information on them can be dug out of Gaia for the more persistent researcher but the details are likely to be vague or often biased heavily depending on the philosophy of the writer.
+None of these syndicates are public knowledge. Information on them can be dug out of Gaia for the more persistent researcher but the details are likely to be vague or often biased heavily depending on the philosophy of the writer. 
 
 ### Contacting Syndicates
 Player characters can contact syndicates either through the Undergaia or through contacts. When using the Undergaia, it's important to think laterally when searching. A player should try to describe the syndicate without using any incriminating terminology.
