@@ -564,3 +564,10 @@ Zaxcann's links with Star Scientifica are still strong and as such, a lot of sec
 The difference between a syndicate (as given here) and a society is that a Syndicate breaks laws. The Imperium has labelled these organisations as illegal and being a member can lead to arrest on conspiracy charges. Some of these organisations begin as a Society and then radical elements of the Society use the structure of the Society to commit crime. If the Star Enforcers can arrest and remove these people before the entire Society becomes rogue then the Society is not classified as a Syndicate.
 
 There are two main ways for characters to get in touch with syndicates. The first and simplest way of contacting a Syndicate is using the Undergaia (see Undergaia on page 54). Information regarding the Syndicates can be found on the Undergaia but it's important to think laterally when doing so. Very little accurate information on Syndicates is actually stored on the Undergaia under the actual names of the Syndicates, so associated information is better to search for. 
+
+### Crossed Arm
+Philosophy: Technologist. Members: Over 100 000. 
+The Crossed Arm are the militant wing of the Technomages. They independent of the Technomages who have many connections with the Technomages. The Crossed Arm serve to keep the Technomages safe, protecting them from Humanity Syndicates but without Technomage mandate. They believe that the advancement of humankind is worth fighting for.
+
+Unlike the Technomages, the Crossed Arm are hunted by the Star Enforcers as a matter of course. The Technomages do not have a good relationship with the Crossed Arm as many Mages feel that their methods are over the top and not appropriate for the essentially peaceful organisation. It's often the case that Technomages have denied knowledge of the Crossed Arm or even given information to the Star Enforcers, with a risk of incriminating themselves.
+

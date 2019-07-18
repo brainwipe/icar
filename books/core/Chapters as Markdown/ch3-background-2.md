@@ -377,11 +377,8 @@ Technomages are organised hierarchically, their leadership being based in Turus 
 
 Technomages are common, easy to find through Undergaia and at local tech meetups. They're good for custom technology, upgrades to spacecraft, weapons, vehicles, bionics, etc. The blue Mobius is a common giveaway. Their payment is often cheap but there is a possibility that you will be shopped into the Star Enforcers. On occasion, Technomages will come looking for help, they aren't a rich syndicate but they can offer cool technology in return. Being a Technomage can add flavour and sub-quest opportunities to a player character.
 
-### Crossed Arm
-Philosophy: Technologist. Members: Over 100 000. 
-The Crossed Arm are the militant wing of the Technomages. They independent of the Technomages who have many connections with the Technomages. The Crossed Arm serve to keep the Technomages safe, protecting them from Humanity Syndicates but without Technomage mandate. They believe that the advancement of humankind is worth fighting for.
-
-Unlike the Technomages, the Crossed Arm are hunted by the Star Enforcers as a matter of course. The Technomages do not have a good relationship with the Crossed Arm as many Mages feel that their methods are over the top and not appropriate for the essentially peaceful organisation. It's often the case that Technomages have denied knowledge of the Crossed Arm or even given information to the Star Enforcers, with a risk of incriminating themselves.
+#### Crossed Arm
+Sworn to protect Technomages, the Crossed Arm are the militant wing of the Technomages. At best, they keep the Technomages safe without them ever knowing; at worst they interfere with Technomage work and bring unwanted Star Enforcer attention. They are violent, dangerous and extremely well equipped. Like the Technomages, the Crossed Arm identify themselves with a Mobius but it is red, and often well hidden!
 
 #### Organisation
 The Crossed Arm is organised into Cells with little or no hierarchy above the Cell. A Cell tends to be created from an offshoot of another cell or from disgruntled Technomages who wish to perform their own justice.
