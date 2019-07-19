@@ -22,6 +22,8 @@ With that in mind, I thought it might be fun to demonstrate _how_ I'm going abou
 ## 1. Existing Text
 It begins life as **724 words**. It's quite repetitive and over-eggs how law abiding they are. This is how it appears in Version 4 (the current version).
 
+![A section of the text below with pieces crossed out in gold](./images/2019-07-example-edit-technomages.jpg)
+
 ### The Technomages
 Philosophy: Technologist. Members: Over 10 billion. 
 
