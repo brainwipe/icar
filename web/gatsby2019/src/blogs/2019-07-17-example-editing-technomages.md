@@ -19,10 +19,12 @@ I'm heavily editing the text of Icar for version 5 and by doing so, I'm trying t
 
 With that in mind, I thought it might be fun to demonstrate _how_ I'm going about editing it by using a syndicate description - in this case the venerable Technomage Syndicate as an example.
 
+![A section of the text below with pieces crossed out in gold](./images/2019-07-example-edit-technomages.jpg)
+
 ## 1. Existing Text
 It begins life as **724 words**. It's quite repetitive and over-eggs how law abiding they are. This is how it appears in Version 4 (the current version).
 
-![A section of the text below with pieces crossed out in gold](./images/2019-07-example-edit-technomages.jpg)
+<div style="padding-left:12px; border-left:4px solid #ddd; margin:0 8px;">
 
 ### The Technomages
 Philosophy: Technologist. Members: Over 10 billion. 
@@ -50,6 +52,8 @@ The Technomages are everywhere and in heavily populated places, there can be tho
 
 The Technomages can be contacted through the usual channels of the Undergaia but it's also possible to meet them by attending local technology social gatherings, seminars and exhibitions. If you know to look for the blue bands, they can be found.
 
+</div>
+
 ## 2. Bullet Point
 The first step is to read through it and compile a list of bullet point items. Some of the features in this list are not specific to the Technomages (such as the SEC leaving the nice ones alone) so they can be moved out to another section. Although I compiled the list to match the order in the text above, I then reordered it to group similar statements together. I've also added items that help make the section useful to GMs and players.
 
@@ -73,12 +77,16 @@ The first step is to read through it and compile a list of bullet point items. S
 ## 3. Reconstitute Text
 With the core facts written down, they can be reconstituted into new text. From **724 words** down to **269 words** and with more useful content.
 
+<div style="padding-left:12px; border-left:4px solid #ddd; margin:0 8px;">
+
 ### Reconstituted Technomages
 The Technomages are a syndicate spread across Human Occupied Space with 10 million members. Their aim is to spread knowledge and love of technological innovation. They are secret from the general public and the Star Enforcers regard them as mostly harmless, stepping in only when the inventions become a danger to society. The more dangerous the field of invention, the more careful and underground the Technomages will be. Rumour has it that Star Sci created and secretly funds the Technomages as a way to control dangerous homebrew technology and recruit new scientists.
 
 Technomages are organised hierarchically, their leadership being based in Turus cluster, Sayshell (home of Star Fleet). They are grouped together geographically into clans and each clan is split in cells of 50 people. A Technomage has a numbered rank and receives awards for helping other technomages, long service, innovation or helping out the general public with technology. Each Technomage wears around the wrist a blue strip of digital cloth called a Mobius, which shows membership and standing. Black bands wrapped across one end represent rank and celestial objects represent awards and achievements.
 
 Technomages are common, easy to find through Undergaia and at local tech meetups. They're good for custom technology, upgrades to spacecraft, weapons, vehicles, bionics, etc. The blue Mobius is a common giveaway. Their payment is often cheap but there is a possibility that you will be shopped into the Star Enforcers. On occasion, Technomages will come looking for help, they aren't a rich syndicate but they can offer cool technology in return. Being a Technomage can add flavour and sub-quest opportunities to a player character.
+
+</div>
 
 ## 4. Later: The Final Edit
 When I come to perform a final read through of the whole book, I will no-doubt make changes - reducing the text a little more. That's for later, though. It is important to keep moving through.

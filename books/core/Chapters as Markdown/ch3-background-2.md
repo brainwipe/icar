@@ -380,9 +380,6 @@ Technomages are common, easy to find through Undergaia and at local tech meetups
 #### Crossed Arm
 Sworn to protect Technomages, the Crossed Arm are the militant wing of the Technomages. At best, they keep the Technomages safe without them ever knowing; at worst they interfere with Technomage work and bring unwanted Star Enforcer attention. They are violent, dangerous and extremely well equipped. Like the Technomages, the Crossed Arm identify themselves with a Mobius but it is red, and often well hidden!
 
-#### Organisation
-The Crossed Arm is organised into Cells with little or no hierarchy above the Cell. A Cell tends to be created from an offshoot of another cell or from disgruntled Technomages who wish to perform their own justice.
-
 ### The Chrome
 The Chrome believe that the next evolutionary step is not through natural selection but by the augmentation of the human body. They believe that to truly release the human mind to its full potential, it must be removed from the constraints of the human body and placed in a more capable frame. The Chrome argue that the human senses are not as evolved as the human mind and that it's wasteful to not provide the brain with all the sensory input that technology can provide. This hard-line belief in bionics is often in reaction to the general populace's mistrust persecution of those with bionics. The Chrome began by protecting those who had no choice but to turn to bionics, for example, those born with genetic defect. 
 

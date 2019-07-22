@@ -571,3 +571,5 @@ The Crossed Arm are the militant wing of the Technomages. They independent of th
 
 Unlike the Technomages, the Crossed Arm are hunted by the Star Enforcers as a matter of course. The Technomages do not have a good relationship with the Crossed Arm as many Mages feel that their methods are over the top and not appropriate for the essentially peaceful organisation. It's often the case that Technomages have denied knowledge of the Crossed Arm or even given information to the Star Enforcers, with a risk of incriminating themselves.
 
+#### Organisation
+The Crossed Arm is organised into Cells with little or no hierarchy above the Cell. A Cell tends to be created from an offshoot of another cell or from disgruntled Technomages who wish to perform their own justice.
