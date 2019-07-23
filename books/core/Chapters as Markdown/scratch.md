@@ -573,3 +573,39 @@ Unlike the Technomages, the Crossed Arm are hunted by the Star Enforcers as a ma
 
 #### Organisation
 The Crossed Arm is organised into Cells with little or no hierarchy above the Cell. A Cell tends to be created from an offshoot of another cell or from disgruntled Technomages who wish to perform their own justice.
+## Chrome
+
+The Chrome believe that the next evolutionary step is not through natural selection but by the augmentation of the human body. They believe that to truly release the human mind to its full potential, it must be removed from the constraints of the human body and placed in a more capable frame. The Chrome argue that the human senses are not as evolved as the human mind and that it's wasteful to not provide the brain with all the sensory input that technology can provide. This hard-line belief in bionics is often in reaction to the general populace's mistrust persecution of those with bionics. The Chrome began by protecting those who had no choice but to turn to bionics, for example, those born with genetic defect. 
+
+The majority of the Syndicate still operates by these philosophical principles but there is a hard core that takes the idea a step further. In extreme cases, people who have taken the choice to die (rather than accept bionic replacement body parts) are abducted and augmented against their will. In some cases, this is in the best interest for the individual,  such as if they had been paralysed from an early age and cannot communicate with the outside world. In those cases, it is up to the family to decide whether to augment. The Chrome would abduct to fit a Neural Rayengine Link (Rink) so that the paralysed individual can communicate with the outside world using Gaia.
+
+The Chrome also fight for the rights of Borgs who are discriminated against on colonies where there is a large humanist element. A semi-legal offshoot of The Chrome is known as the 'Pro-Longevity' group, who argue for extending human life. The syndicate is funded by typical criminal operations, mostly theft and extortion.
+
+#### Organisation
+The Chrome are a disparate group who communicate and organise through the Undergraia. There is no form of overall hierarchy but there are wealthy individuals who fund and provide resources in each Sector of Human Occupied Space. It is believed that these people are responsible for the direction and the motivation of the The Chrome operatives who perform the functions of the Syndicate. The main investors of The Chrome are very difficult to track down (else the Star Enforcers would have arrested them under the Organised Crime laws).
+
+#### Using The Chrome
+The Chrome are often used to throw trouble into difficult situations. The player team might have a contact that goes missing and turns up a Borg three weeks later. The Chrome can also be used if a player Character wishes to get bionics without having to pay. The Chrome are not difficult to get in touch with using the Undergaia but it should be noted that it's more a case of them getting in touch with you than the other way around. 
+If existing Borgs need upgrading or repair, the Chrome can come in very handy as well, where the Star Civilisation medical centres might ask why the Borg was damaged or needs upgrading, the Chrome-friendly medics would ask very little. Asking anything of the Chrome will put the requester in their back pocket and may be asked to do some unsavoury tasks in the future.
+
+#### Allies
+- The Machine
+- The Crossed Arm
+- Akarakian Exiles
+
+## Sun Children
+
+The Sun Children believe that humanity should be at the centre of the concerns of a human race. Their chief drivers are life, compassion, love, nature, music and other romantic visions. As a philosophy, it is vague and harmless but it is in its application that it becomes an illegal problem. The Sun Children's ideal goal would be to return to Earth and live in harmony with the environment without the need of technology.
+
+Externally, the Sun Children look like an organisation that should be open and without threat from the Imperium. Their philosophies are liberal and not violent. The closest approximation to the Sun Children are the prehistoric hippies of ancient Earth.
+
+The Sun Children are not tolerant of the rest of society and their more active groups seek to bring down any technologist organisation (either Syndicate or Corporate). Small time operations include graffiti on the walls of an Automaton Factory and in the extreme, the destruction of an Orbital.
+The Star Enforcers see the Sun Children as something of an annoyance - forming demonstrations, causing traffic jams and disrupting the creation of Mex cities but they do not pose much of a threat as violence is not in line with their core beliefs.
+
+#### Organisation
+The Sun Children are organised locally over Gaia. Most of the information about the Sun Children does not need to be obtained through the Undergaia because the Philosophies are not a troubling concern of the Imperium. The organisation of rallies, demonstrations and other peaceful, non-criminal acts are legal and can be easily accessed. There is no overall leader and companies based on Humanist leaning planets or that operate in a Humanist market (such as the natural food industry) openly give donations to good causes.
+
+The illegal part of the Sun Children do their organisation on the Undergaia. The criminal elements are local group, intrusion from outsiders is treated with the upmost suspicion. Some of the illegal acts are funded by legitimate individuals or companies that wish to make money from the disruption caused to business. As the members of the Sun Children tend to be idealistic in their cause, they enjoy having their belief supported by someone appearing to share their passion - even if that person's true intentions are far from Humanistic.
+
+#### Using the Sun Children
+The Sun Children aren't difficult to find but the more useful, active part are. They can be operated on indirectly by publicising a 'technological injustice' or harm to the environment. If there are a number of pro active and illegal Sun Children cells on planet then they will soon make use of the public information.
