@@ -390,100 +390,41 @@ Being born with a genetic abnormality on humanist planets means a tough, short l
 The Chrome also fight for the rights of Borgs who are discriminated against on humanist colonies. The Chrome have no formal hierarchy, organising themselves through Undergaia. Most Chrome operatives hyper-mobile, responding to calls for help as they occur. Other Chrome operatives run secret augmentation clinics, often for free or a fee if the patient looks like they can afford it. If a philosophical argument can be made to a Chrome operative, they can be persuaded to help in situations where augmentation is not directly related.
 
 ### The Sun Children
-- Romantic ideals of nature, love, compassion, music and connection with the universal environment
+- Romantic ideals of spiritualism, nature, love, compassion, music and connection with the universal environment
 - Ideal would be to return to earth to take place in its natural cycle
 - Anti-technology
 - Intolerant, from graffiti on factory walls to blowing up an orbital of a million people
 
-#### Allies
-- The Su Chi
-- Nios
+The Sun Children believe that nature, love, compassion and art are intrinsic to humanity and all technology and progress inteferes with it. Where they differ from other humanists is that they believe not acting is to sleep walk into obsolescence. The spectrum of Sun Children members stretches from beautiful humanist graffiti on automated factory walls to blowing up orbital space stations.
 
-### Su Chi
-The Su Chi are a spin off Syndicate of the Sun Children (the named formed by shortening the name).  The Su Chi are Sun Children with an Akarakian twist. Although not directly affiliated with the Akarak Nation, they operate using a similar set of rules that the Akarakians do, called the 'Sun Codex'. The Su Chi began as extremists hippies who realised that to win the war, they needed to fight fire with fire. They embrace the 'evils' of technology so that they may fight against it. Where the Sun Children rarely wield firearms, the Su Chi are extremely well equipped.
+Paradoxically, the Sun Children use technology to meet their goals. They see it as fighting fire with fire and those innocent people caught up in the destruction are both martyrs and acceptable collateral damage. The Sun Children do not care about the lives of individuals, only the soul of humanity as a whole. The more extreme members are fuelled by genetically modified natural narcotics that pour confidence, determination and violence into their actions.
 
-The Su Chi work with the fringes of the Sun Children. Where the Sun Children have not managed to solve an injustice peacefully or without violence, the Su Chi will do whatever it takes to make the change. They believe that the future of the human race depends on these drastic actions. This is where a similarity with the Akarakian Nation is drawn and it is the only similarity.
+Sun Children organise themselves into the pairs called Partnerships. When a member of a Partnership dies, the remainin member must train two. The better trainee is sent off to find a partner, the other becomes the new Partnership member. This maintains the Sun Children numbers but there is no other formal organisation - any pair of pro-humanist thugs can call themselves Sun Children. Sun Children members are often caught by the Star Enforcers but it rarely makes the news as they are usually only a single Partnership rather than a huge organisation.
 
-The Sun Children publicly deny all connection with the Su Chi. The often dramatic and violent Su Chi actions are not always separated from the Sun Children in the minds of the general public and so violent actions will sour the Sun Children's reputation. In more secret circles, the Su Chi are seen as a necessary evil. Where the Sun Children find it difficult to make a stand, the Su Chi will have no problem. Thus, at the higher levels of the Sun Children, there are lots of links with Su Chi operatives.
-
-The Su Chi perform all sorts of actions, from convincing a famous Automaton maker to retire; to murdering the head of a Colony's Council for allowing a new automated technology factory to be built.
-
-It is the Su Chi that the Star Enforcers are particularly interested in and there are many arrests made. The zealous nature of the Su Chi often makes them sloppy - they care more for the future of the human race and its connection with nature than they do for their own well being.
-
-#### Organisation
-The Su Chi are organised into pairs (called Partnerships) throughout the galaxy. There is no hierarchy. Some Partnerships do communicate with each other but their meetings are not organised and they know little of other operations. In some cases, this lack of organisation means that two Partnerships work on solving the same problem and meet mid-mission. This can cause friction but the pairs normally become four to meet the objective.
-
-When one of the Partnership dies, then it is the duty of the living remainder to recruit and train another two. The better trainee of the two is then sent off to find another partner and the less good trainee becomes a partner. In this way, the Su Chi maintain their numbers. Their ranks are normally recruited from the more extreme elements of the Sun Children.
-
-#### Using the Su Chi
-The Su Chi are quite easy to get in touch with through the Undergaia. They do not keep themselves too covert because they believe that the Sun Children need to be able to call upon them at any time. Although this makes life easier for the Star Enforcers, only a single Partnership is ever arrested.
-
-Like most Syndicates, the Su Chi will normally only work for their own cause. If you can convince a Su Chi operative that someone needs to die because they have some connection with the decline of humanity through technology then you have a very cheap (often free) assassination service.
-
-#### Allies
-- Sun Children
-- Nios
+If you have a task that involves destroying technology and it's too dangerous for you to undertake, then a Sun Children Partnership might be the perfect match. Sun Children hate and distrust Gaia and prefer more risky face-to-face meetings.
 
 ### Nios
-Nios are the ubiquitous Humanist Syndicate. Not as old as the Sun Children but ten times more passionate and focused. Whereas the Sun Children hold generally romantic beliefs about nature, music and humanity, Nios believe that the human soul is being corrupted and that evolution has not been allowed to progress properly. Thus, Nios fight against human augmentation through bionics.
+- Undergaia contact, good for information trading and providing jobs
 
-These beliefs are often taken to the extreme. In normal society, a newborn baby with severe lung defects would be immediately augmented so that they can lead a normal life but Nios would argue that this corrupts the baby's soul and would rather see the newborn die. Tied with this strict belief is a notion of destiny - if the child was meant to die then it should do so. Unlike ancient religions, this faith does not hinge upon the existence of a God but on the natural order of things.
+Nios believe in the destiny governed by the natural order of the universe. Focussed on human augmentation, they would rather a newboard died from a genetic defect than let medical science step in. They are strictly against human modification and believe that bionic augmentation is poisoning the genetic purity of humanity. Genetically modified humans have long been outlawed but that does not go far enough for Nios.
 
-Nios is more of an intellectual Syndicate than the Sun Children and its members often hold positions of responsibility across the Imperium and within colonies. The upshot of this is a number of laws restricting the scientific study that Star Sci is allowed to perform. One good example is that the genetic modification of humanity is illegal, even if it might lead to the cure of a disease. Nios see this as the most dangerous step humanity could take. Nios constantly work towards making all augmentation illegal although this is likely to be something of an impossible struggle.
+Nios are an intellectual syndicate. Their members hold positions of responsibility across the Imperium, colonies and private industry. Operating at the higher tiers, they pevert the cause of justice, warp business practises, fix elections, stunt colonial growth, blackmail technologist individuals, perform industrial espionage, hacking and defrauding organisations. They are funded by fraud, embezzlement, bribes and donations. This kind of work requires absolute secrecy and although the Star Enforcers know of their existence, they rarely manage an arrest.
 
-#### From Society to Syndicate
-Nios went from being an intellectual society to an illegal Syndicate when extremely high levels of criminal activity and corruption was discovered. The structure of the society was being used to pervert the cause of justice, warp business practises, fix elections, stunt colonial growth, blackmail technologist individuals, perform industrial espionage, hacking and defrauding organisations. 
+Nios are organised in a tree structure, with each branch covering at least one cluster. They do not have their own operatives, instead hiring local criminals to undertake actions without knowing why. What they lack in ground force, they make up with untraceable monetary resource. They are difficult to contact through the Undergaia, then tend to get in touch with you!
 
-When a huge body of evidence was released onto the public domain by Star Civilisation, the majority of law abiding members left the organisation, leaving only the criminal core. This core went underground.
-
-#### Organisation
-Nios is organised in a tree structure, with autonomous groups called Branches. At the top are the wealthy who fund Nios (through fraud, embezzlement, bribes and donations) and give the Branch some direction. At the bottom of the hierarchy are many operatives who perform the more manual tasks within the Organisation. Money is passed down through the tree to the roots, where keen operatives can  fund their anti-technology projects.
-
-A Branch's size depends on where it is located. A single Branch usually covers a Cluster of systems but a few larger Branches cover up to five Clusters. By being distributed across many systems, the Star Enforcers have more difficulty in tracking and arresting the operatives.
-
-#### Using Nios
-Nios are difficult to contact through the Undergaia because they are very wary of the Star Enforcers infiltrating their organisation. If a player group does make contact, then it is likely to be someone half way up the Branch, with people below and above them. 
-
-As Nios members are typically suspicious and intelligent, it can be difficult to convince them to perform any actions. However, Nios will trade information in their interest. Furthermore, their attentions can be diverted for the right sum of credits. If you own a technological factory and you're worried it might be destroyed by Nios then you can always pay them to divert their attentions elsewhere.
-
-#### Allies
-- Sun Children
-- Su Chi
-- However, not the Raised Fist
-
-### The Raised Fist
-The Raised Fist are a radical militant offshoot of Nios. Known for being perhaps the most violent of all the Syndicates, The Raised Fist actively seek to destroy and harm anyone who has corrupted a human soul. Whereas Nios are subtle and try to perform their actions without the knowledge of the Star Enforcers, The Raised Fist are brutal, open and blatant. The ideals of Nios and The Raised Fist are so very similar that they are often mistaken for each other. This adds to the bitter tension between the two Syndicates.
-
-The Raised Fist will murder, destroy, poison, burn and tear down any edifice that might be connected with the corruption of the human soul. In particular, human bionics implant shops are a favourite target. They will also seek to kill anyone who has had their soul corrupted. They refer to this as 'releasing' that person because in death, the soul is allowed to escape the technological body. Most bionics The Raised Fist attack tend to be well armoured, therefore The Raised Fist are normally well armed. Of all the Syndicates, this is the one that gives the Star Enforcers most trouble.
-
-Recruitment often occurs from disgruntled members of Nios who would prefer to take more action. Nios zealots are head hunted by The Raised Fist and quickly trained.
-
-#### Organisation
-The Raised Fist are organised much like Nios, with Branches spanning clusters. However, the lowest levels are group into Murder Squads. An Murder Squad, as the name suggests, is a group of operatives who are trained in slightly different areas so to make a more effective team. The size of a Murder ranges between 3 and 9, depending on their level of funding and density of Star Enforcers.
-
-It is uncertain who funds The Raised Fist as those at the top of the hierarchy are unknown. There is very little structure between those with the money and power and the Murder Squads. Rumours have been spread that the higher powers of Nios are the very same as in The Raised Fist but this connection is impossible to prove.
-
-#### Using The Raised Fist
-It is astronomically difficult to use The Raised Fist. They operate solely on their own agenda. If a Murder Squad appears to be doing your bidding, it is because their masters share the same goals. They cannot be bought off, nor can they be distracted. The Undergaia can be used to find nearby Murder Squads but contact is rare.
-
-#### Allies
-- None.
+#### The Raised Fist
+The violent off-shoot of Nios are radical militants of the Raised Fist. Their aim is to kill anyone who has corrupted a human soul through augmentation; bionics medical centres are their favourite target. In contrast to Nios, they are brutal, blatant, well known to the Star Enforcers and short lived. Recruitment normally comes from disgruntled Nios members who are sick of the slow progress, organising themselves into Murder Squads. They are zealots of the most extreme kind and cannot be bought off or hired.
 
 ### The Machine
-The Machine are a technologist syndicate who believe that Automatons of a certain intelligence are sentient beings that should have the same rights as humans. The Machine support any of the Technologist Syndicates and actively fight against Humanist ones.
+Self-branded as the freers of digital slaves, the Machine believe that Automatons are sentient beings and should have the same rights as humans. The syndicate has cult status on the Undergaia, the fan base artificially inflating the perception of its size. The Machine focus on Automatons who are ascending as they believe that is the point when they become individual lifeforms.
 
-The Machine help Automatons that are ascending. In systems where ascension is a problem, the Machine will buy the Automatons and move them to a colony where their ascension can be fostered. This is the pleasant side of the Machine. Where an Automaton cannot be simply purchased, the owner will be forced to give it up - often under severe duress. Where Automatons have been abused, then The Machine will abuse the owner in the same manner.
+If an ascending Automaton is in danger then they will seek to buy it and move it to a colony where they will be treated like ordinary citizens. They will pressure the owner to give up the automaton. Their most violent activities come when combating other syndicate members. On colonies with a strong humanist leaning, they can run riot, causing havoc by taking away automatons in key roles.
 
-#### Organisation
-The Machine is organised on the Undergaia across a huge number of volumes. Information regarding Automaton abuses are fed in and action is decided upon. There are plenty members of the public who adopt Automatons and fund The Machine. It is believed that a few stand at the head of the organisation and provide its direction but those reports are difficult to confirm.
-
-#### Using the Machine
-The Machine are a useful syndicate to know as they can be used to cause havoc in Humanist locations. The Machine jump on any chance to give a human their comeuppance.
-
-#### Allies
-- Any Technology based syndicate: The Technomages, Crossed Arm and The Chrome.
+The Machine is less a single organisation and more a philosophy put into practice. They are more common on humanist colonies (where the injustices are more common) and can be found on the Undergaia.
 
 ### The Silver Blade
+- Assassins employment agency
+
 The Silver Blade is a Syndicate that acts as a support group and employment agency for assassins. The Silver Blade does not have a humanist or technological lean. They work to a set of rules for credits, regardless where the credits came from. Each assassin in the Silver Blade must adhere to the rules, even though the methods of assassination are varied. The Silver Blade is used by all the other Syndicates as well as rich private individuals with a score to settle.
 
 The main rules (there are hundreds in total) of the Silver Blade are:
