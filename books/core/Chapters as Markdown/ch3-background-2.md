@@ -423,91 +423,37 @@ If an ascending Automaton is in danger then they will seek to buy it and move it
 The Machine is less a single organisation and more a philosophy put into practice. They are more common on humanist colonies (where the injustices are more common) and can be found on the Undergaia.
 
 ### The Silver Blade
-- Assassins employment agency
+The Silver Blade is an assassins employment agency. They are without philosophical leaning but have a strict set of rules for hiring and murdering.
 
-The Silver Blade is a Syndicate that acts as a support group and employment agency for assassins. The Silver Blade does not have a humanist or technological lean. They work to a set of rules for credits, regardless where the credits came from. Each assassin in the Silver Blade must adhere to the rules, even though the methods of assassination are varied. The Silver Blade is used by all the other Syndicates as well as rich private individuals with a score to settle.
-
-The main rules (there are hundreds in total) of the Silver Blade are:
+The core rules (there are hundreds in total) of the Silver Blade are:
 
 1. Half the payment is to be provided before, half after.
 2. Discretion at all times.
 3. Never admit to being a member of the Silver Blade.
-4. If the task cannot be performed in the given time, then the money must be returned in full.
-These rules have kept the integrity of the Silver Blade over many centuries.
+4. If the task cannot be performed in the given time, then the money must be returned
 
-#### Organisation
-The Silver Blade is a flat organisation, there is no hierarchy. A series of intelligent, free-roaming Gaia entities perform the function of connecting clients with a suitable assassins. Each assassin pays a monthly fee to be a member and this pays for the creation of new Gaia entities when the Star Enforcers kill existing ones. Assassins wishing to join the Silver Blade must perform a series of jobs at a much reduced pay. Once joined, the Silver Blade member will be recognised on Gaia as a member and can be contacted for work.
-
-#### Using the Silver Blade
-The Silver Blade can be tricky to contact on the Undergaia (Taxing difficulty) and a new contact is required for each job that is needed. However, the Silver Blade are remarkably reliable and operate throughout Imperium Space. All this quality comes at a price. The more difficult the target, the more you pay. For an average member of the public, the price is approximately 8 000 and for a colony councillor, the price is nearer 100 000.
-
-#### Allies
-- Everyone and no-one.
+Assassins work alone and are employed by all kinds of criminals, syndicates and the rich. Organised by thousands of free roaming entities that connect clients to available assassins. Each assassin pays a monthly fee. They are hard to find on the Undergaia and costs vary depending on how important the target is: 8000 for a member of the public, 100,000 for a colony councillor.
 
 ### Tortrac Heds
-The Tortrac Heds (or simply Heds) are a 'general troubleshooting' Syndicate. Their services include finding, stealing, killing, repairing, defending, hacking, partying, intimidating or doing any odd-job that you need. Their most distinguishing feature is that they are not reliable. Akin to the anarchistic Punks of the ancient 20th Century, the Heds are hell-bent on hedonism and bucking the 'system' (which is not always the Imperium). If you were to ask the Heds to retrieve an Akarakian sword, for example, they might well collect it before returning it to you, blade first.
+The Tortrac Heds are an anarchistic, unpredictable, hedonistic troubleshooting syndicate. With childlike energy, illegal bionics and narcotics they raise havoc, solve problems in their own style and disappear. Their services include finding, stealing, killing, repairing, defending, hacking, partying and intimidating. 
 
-Part of the Heds' charm is their drug fuelled energy.  When the Heds work for someone, they really go to work for them, with an energy and gusto you'd expect from children. However, much like children, they lose interest if the job takes an extended period of time so it is best to use the Heds for short and fun missions with plenty of room for error.
+A Heds gang is extremely competitive with other Heds gangs when it comes to notoriety and flambouyantly fulfilling their jobs before dissolving into the background. However, this competition disappears when they have a common enemy of corporations, Gaia News or clients that don't pay.
 
-Although outrageous and flamboyant, they are also very good at resisting arrest. They can reign chaos onto a system and leave very little hard evidence that is was them. They operate fast and effectively, and rarely return to the same colony twice.
+A typical Heds gang has a limited attention span, so use them for short, fun missions with an open scope. They operate from stolen spacecraft in gangs between 10 and 50, lead by a Governor. 
 
-#### Organisation
-The Heds group themselves into Gangs of between 10 and 50 Heds. A Gang nearly always operates from a spacecraft (if they lose it, they normally steal a new one). There is no organising body, Gangs will call themselves Heds as a way of demonstrating their mode of operation. Each Gang has a Governor who is Captain of the ship and arranges the work. It is through common interest and the Undergaia that these disparate groups are connected together as a single Syndicate. 
-
-Each Gang is extremely competitive and they like to show off the tasks they perform, how close they got to the Star Enforcers without being arrested and how much money they earn. Throughout the Undergaia, there are unofficial lists of the best Gangs. The Gangs will support each other against a common enemy: one of the other Syndicates, the Imperium or a client who doesn't pay.
-
-#### Using the Tortrac Heds
-The Heds can appear elusive (they certainly are to the Star Enforcers) but they can be found on the Undergaia with a trained eye. Each Gang leaves Undergaia graffiti on the walls of Undergaia forums suggesting ways to contact them along with some marketing message regarding their unorthodox methods.
-
-Contact is made through the Governor. They always ask for payment in full up front as they often have to disappear quickly into the void of space afterwards. The Heds are best used for actions that are not precise and incisive. The Heds often take payment in something other than cash.
-
-#### Allies
-- The Heds are rarely used by the other Syndicates.
+A Heds gang leaves digital graffiti on the walls in the real world as well as in Gaia as a way of letting people know how to contact the gang once they have gone dark for a while. They are available for aroud 50,000 but they will accept barter goods as payment and will always try and add their own profit on top.
 
 ## Recreation
-One quarter of people's lives is spent in recreational pursuits. There is a huge number of different hobbies that people engage in from supporting a Planetball team to building gliders to glide above thermal vents. This section details a few of the more conventional ways of spending spare time.
+10 hours of every 40 hour day is spent in recreational pursuits, from supporting your local Planetball team to soaring over thermal vents on goassmer wings. Most popular of all is real world physical socialising (aka In Fizz) at bars or private clubs owned by humans and run by Automatons where people dance, chat, listen to music crafted live along with holographic shows and take recreational drink and drugs. The automaton personalities set the tone of the bar, such as respectful, rude or too cool to talk.
 
-### Physical Socialising
-Still the most popular of all past times is having fun with friends. Physical Socialising (or 'In Fizz') is where people meet in the real world to listen to music, dance, chat, drink alcohol and take legal drugs. Each established Mex colony boasts a huge number of bars and clubs. Each bar and club is often run by Automatons, who can work around the 40 hour cycle. The Automaton personalities are chosen to fit the atmosphere the owner of the club or bar desires. This can range from rude through to submissive. 
+Where In Fizz is grounded in reality, Gaia socialising takes on the fantasy of people's Gaia avatar - their Isis. A digital masquerade ball of scale, colour and beauty is deep and broad as the imagination. Friends scattered across ten thousand light years can enjoy each other short of exchanging bodily fluids. Cross over bars blend physical and Gaia avatars, without bionics it can be impossible to tell the difference between someone in fizz and someone represented over Gaia.
 
-Food and drink is ordered using Gaia menus that appear as colourful floating Hard Light holograms. It is served by either an Automaton or a simple hovering, self-propelling tray. In exclusive and expensive places, humans serve the food and drink.
-Live music is rare in these clubs and bars, normally the musicians are on a far away system. They appear amongst the crowd as a hard-light projection, even though their physical body is light years away in a holoroom.
-
-A large, flat area of the club or bar is normally reserved for dancing. In this area, people wriggle, step and gesticulate in time with the music while holographic shapes swim and burst around them. Those who take dancing more seriously have their own holographic shapes that move and shimmer in line with the dance moves of the owner. In this way, the owner controls the shapes and can create their own show.
-
-In Fizz is preferable by most because it is possible to find and meet a sexual partner. This is partly possible in Gaia but procreation and the exchange of bodily fluids is not possible.
-
-### Gaia Socialising
-The next best form of socialising is within Gaia. This is almost identical to In Fizz socialising except that it is the Gaia Isis that actual does the contacting. Isis are idealised avatars of the people they represent, so Gaia tends to be filled with a disproportionately large number of attractive and well groomed people. Gaia Socialising is ideal for those who wish to meet people without physically leaving their home. People on spacecraft thousands of light years from any world can still keep in touch with people from their home planet.
-
-More high tech Gaia rooms have an in-built Bioreorganiser that can make any food stuff (given the right entity to make it). Anyone using a high tech room like this can order food from their preferred restaurant and it will be made locally, wherever they are. 
-
-### The Crossover
-There is a crossover between In Fizz and In Gaia socialising. These are bars that are large Gaia holorooms (most are anyway) that allow Gaia Isis to mix with real people. These Crossover bars and clubs are popular to some but to many they are confusing because it is not obvious whether the person you are talking to is real or sitting on a spacecraft far away human occupied space. The only way for the real person to tell is to try and get the other person to leave the confines of the bar or club. If they are using Gaia, then they cannot leave.
-
-### Gaia Alternaties
-A Gaia Alternatity is an alternate world that persists somewhere in Gaia. Think of it as a virtual world game where people can play Characters in a different world. These worlds are very popular amongst those who wish to escape from their lives. Gaia Alternaties are often set in fantastic worlds or historical times.
-
-### Gaia Interactives
-A Gaia Interactive is a partially interactive story where the viewer can sit and watch the story as the creator intended or have an input into the events of the story to change its direction. Cheap Interactives are easy to come by but the number of choices available are few. More complex interactives have intelligent Gaia entities that respond more believably to events.
+Gaia also contains alternate worlds, roleplaying games themselves with staggering complexity and depth, often set in historical times and locations. Earth, unsurprisingly is a favourite. Gaia interactives are passive experiences, where the viewer experiences a story laid out for them by a director and their team.
 
 ### Planetball
-Planetball is a team sport that involves scoring goals by placing a ball through a hoop. The hoops are mounted on vehicles and both teams start on opposite sides of a planetoid.  A single Planetball game is normally played over a number of days and in that time, it can be possible to score 10 goals. 
+Planetball is soccer played on a global scale. Up to four teams battle over 4 days to put a 30cm ball through a flying hoop goal. The goals never stop and fly hundreds of feet above the ground and are chased by state of the art bionic players in vehicles. When players get close - either through interception or when defending a goal hoop then - high speed aerial hand-to-hand combat (no-weapons) cinches whether a goal is scored. A new ball is put into play somewhere else on the planet and the game continues until either time is up or one team surrenders.
 
-Each team is equipped with a number of vehicles that the players can use to transport themselves and the ball. When players from opposing teams meet, there is normally a large amount of exciting inter-vehicle combat. The only weapon that is allowed in Planetball is the Ballgun, a device that can be used to propel the ball up to 1km. The ball itself is only 30cm across and made from a polyceramic material. It also has a Grav engine inside to allow it to propel itself depending on the spin and thrust the throwing player gives it. 
-
-The Goal is usually mounted on the back of a Hauler and it is within that Hauler that the co-ordination of the team is performed.
-
-Planetball teams have huge followings across Human Occupied Space and there are thousands of leagues, each containing hundreds of teams. In the top league are corporate and Imperial-sponsored teams with each of the Imperial Star Industries having a team (Star Fleet, Star Enforcers, Star Scientifica and Star Civilisation).
-
-Although physically quite violent, in that players often get mangled in a high-speed accident, it is enjoyed by all ages - especially the top league where deaths are rare because the players are augmented.
-
-There is big business in betting on Planetball leagues and merchandising.
+Planetball teams have huge followings, thousands of leagues and more than a million teams. The pinacle of the sport is backed by the Imperial Peers, has all-pervading merchandising and is talked about by people on every colony. At the other end of the sport, the bionics are less specialised, vehicles less reliable and fatalities common.
 
 ### Rail Fighting
-Rail Fighting is a blood sport whose rules vary depending on legality and location. Most colonies do not permit Rail Fighting but others actively encourage it, offering people a Gaia seat - for a fee (100 credits). Rail Fighting's roots is in boxing where two people are set against each other in a ring. In Rail Fighting, combatants fight in a circular room (normally with transparent walls). Around the edge is a rail 1.5 metres up from the floor. The combatants fight until one of them is unconscious or one hits the rail (either intentionally or not). 
-
-From this basic set of rules, the deviations modify the format. Each modification has been given a name so that potential viewers know what to expect.
-
-#### Full Blood
-Notably played in the Tef Cluster in Dorian, the Full Blood version is a deadly version of the game. Each combatant is fitted with a health monitor that can sense death. Rather than unconsciousness, it is death that ends the fight. Weapons are often given to one or both of the combatants and the Rail around the edge cannot be used within the first 5 minutes of the game. This is the version that has given the sport its notoriety.
+Largely outlawed by local laws, Rail Fighting is a blood sport where people fight in a circular room with a rail 1.5m from the floor. The winner is the one to remain conscious and not touch the rail. Matches with fully bionic combatants can last an hour but the majority of fighters are mostly human. The trappings of gambling, match fixing, interstella fame and fraud are common. In the Tef Cluster (Dorian Sector), Full Blood rail fighting is played. The rail is switched off the first 5 minutes of the fight, hand weapons are commonly added to the room and death is common.

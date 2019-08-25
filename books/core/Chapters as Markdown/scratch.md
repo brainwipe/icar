@@ -609,3 +609,36 @@ The illegal part of the Sun Children do their organisation on the Undergaia. The
 
 #### Using the Sun Children
 The Sun Children aren't difficult to find but the more useful, active part are. They can be operated on indirectly by publicising a 'technological injustice' or harm to the environment. If there are a number of pro active and illegal Sun Children cells on planet then they will soon make use of the public information.
+
+## Recreation
+### Physical Socialising
+Still the most popular of all past times is having fun with friends. Physical Socialising (or 'In Fizz') is where people meet in the real world to listen to music, dance, chat, drink alcohol and take legal drugs. Each established Mex colony boasts a huge number of bars and clubs. Each bar and club is often run by Automatons, who can work around the 40 hour cycle. The Automaton personalities are chosen to fit the atmosphere the owner of the club or bar desires. This can range from rude through to submissive. 
+
+Food and drink is ordered using Gaia menus that appear as colourful floating Hard Light holograms. It is served by either an Automaton or a simple hovering, self-propelling tray. In exclusive and expensive places, humans serve the food and drink.
+Live music is rare in these clubs and bars, normally the musicians are on a far away system. They appear amongst the crowd as a hard-light projection, even though their physical body is light years away in a holoroom.
+
+A large, flat area of the club or bar is normally reserved for dancing. In this area, people wriggle, step and gesticulate in time with the music while holographic shapes swim and burst around them. Those who take dancing more seriously have their own holographic shapes that move and shimmer in line with the dance moves of the owner. In this way, the owner controls the shapes and can create their own show.
+
+In Fizz is preferable by most because it is possible to find and meet a sexual partner. This is partly possible in Gaia but procreation and the exchange of bodily fluids is not possible.
+
+### Gaia Socialising
+The next best form of socialising is within Gaia. This is almost identical to In Fizz socialising except that it is the Gaia Isis that actual does the contacting. Isis are idealised avatars of the people they represent, so Gaia tends to be filled with a disproportionately large number of attractive and well groomed people. Gaia Socialising is ideal for those who wish to meet people without physically leaving their home. People on spacecraft thousands of light years from any world can still keep in touch with people from their home planet.
+
+More high tech Gaia rooms have an in-built Bioreorganiser that can make any food stuff (given the right entity to make it). Anyone using a high tech room like this can order food from their preferred restaurant and it will be made locally, wherever they are. 
+
+### The Crossover
+There is a crossover between In Fizz and In Gaia socialising. These are bars that are large Gaia holorooms (most are anyway) that allow Gaia Isis to mix with real people. These Crossover bars and clubs are popular to some but to many they are confusing because it is not obvious whether the person you are talking to is real or sitting on a spacecraft far away human occupied space. The only way for the real person to tell is to try and get the other person to leave the confines of the bar or club. If they are using Gaia, then they cannot leave.
+
+### Planetball
+
+Planetball is a team sport that involves scoring goals by placing a ball through a hoop. The hoops are mounted on vehicles and both teams start on opposite sides of a planetoid.  A single Planetball game is normally played over a number of days and in that time, it can be possible to score 10 goals. 
+
+Each team is equipped with a number of vehicles that the players can use to transport themselves and the ball. When players from opposing teams meet, there is normally a large amount of exciting inter-vehicle combat. The only weapon that is allowed in Planetball is the Ballgun, a device that can be used to propel the ball up to 1km. The ball itself is only 30cm across and made from a polyceramic material. It also has a Grav engine inside to allow it to propel itself depending on the spin and thrust the throwing player gives it. 
+
+The Goal is usually mounted on the back of a Hauler and it is within that Hauler that the co-ordination of the team is performed.
+
+Planetball teams have huge followings across Human Occupied Space and there are thousands of leagues, each containing hundreds of teams. In the top league are corporate and Imperial-sponsored teams with each of the Imperial Star Industries having a team (Star Fleet, Star Enforcers, Star Scientifica and Star Civilisation).
+
+Although physically quite violent, in that players often get mangled in a high-speed accident, it is enjoyed by all ages - especially the top league where deaths are rare because the players are augmented.
+
+There is big business in betting on Planetball leagues and merchandising.
